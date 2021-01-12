@@ -1,2 +1,2 @@
-# protocol-Info
+# protocol-info
 Information about protocols
