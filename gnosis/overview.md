@@ -1,4 +1,4 @@
-About GnosisDAO
+About
 ====================================
 
 **GnosisDAO is the prediction market-driven collective. The mission of GnosisDAO is to successfully steward the Gnosis ecosystem through futarchy: governance by prediction markets.**
