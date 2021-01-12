@@ -102,8 +102,6 @@ export const protocolBranding = {
   pooltogether: {
     "--background-primary-nav": "#001529",
     "--color-text-nav": "#e7e8eb",
-    "--background-switcher": "#001529",
-    "--background-switcher-hover": "#004180",
     "--background-switcher-active": "#000000",
   },
 };
