@@ -1,78 +1,99 @@
----
-title: Overview
-tags: smart-contracts, documentation
----
+About
+====================================
 
-# Code
+**Uniswap is a decentralized exchange protocol that enables trading between any Ethereum tokens. Liquidity providers can deposit asset pairs to earn trading fees, in exchange for bearing risk of losses from large price movements.**
 
-[`governance`](https://github.com/Uniswap/governance)
+Introduction
+------------------
 
-# Documentation
+While the protocol has relatively few risk parameters or other admin controls requiring intervention, UNI holders are empowered to control the Uniswap treasury (including the remaining 45% of UNI supply allocated to the community) as well as activate the 0.05% protocol swap fee to begin earning revenue.
 
-For reference material on the Uniswap Governance system please see [Governance Reference](https://uniswap.org/docs/v2/governance/governance-reference).
+The majority of informal discussion takes place in Uniswap's Discord chat, with more formal proposals being aired in the Discourse forum. Both venues currently have relatively high participation and usage (likely a result of the recent airdrop raising awareness, and the ability of voters/participants to influence forthcoming incentive/distribution programs).
 
-# UNI Address
+Governance Process
+------------------
 
-`Uni` is deployed at `0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984` on the Ethereum [mainnet](https://etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984), and the [Ropsten](https://ropsten.etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984), [Rinkeby](https://rinkeby.etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984), [Görli](https://goerli.etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984), and [Kovan](https://kovan.etherscan.io/address/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984) testnets. It was built from commit [ab22c08](https://github.com/Uniswap/governance/commit/ab22c084bacb2636a1aebf9759890063eb6e4946).
+Uniswap uses Compound governance architecture for proposals and voting, with some minor modifications. Uniswap's token supply is 1 billion UNI versus Compound's 10 million COMP supply, so while the relevant proposal and quorum thresholds are equal in percentage terms at 1% and 4% of total voting power, the number of UNI tokens required to pass a proposal is higher. Additionally, while Compound uses a ~2.5 day voting period, Uniswap allows voting over a 7 day period.
 
-## ABI
+### Phase 1: Temperature Check (Discourse/Snapshot)
 
-```typescript
-import Uni from '@uniswap/governance/build/Uni.json'
-```
+The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo.
 
-[https://unpkg.com/@uniswap/governance@1.0.2/build/Uni.json](https://unpkg.com/@uniswap/governance@1.0.2/build/Uni.json)
+To create a Temperature Check:
 
-# Timelock
+1.  Ask a general, non-biased question to the community on [gov.uniswap.org](http://gov.uniswap.org/) about a potential change (example: "Should Uniswap governance add liquidity mining for XYZ token?"). Forum posts should be labeled as follows: "Temperature Check - [Your Title Here]". The forum post should include a link to the associated Snapshot poll.
 
-`Timelock` is deployed at `0x1a9C8182C09F50C8318d769245beA52c32BE35BC` on the Ethereum [mainnet](https://etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC), and the [Ropsten](https://ropsten.etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC), [Rinkeby](https://rinkeby.etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC), [Görli](https://goerli.etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC), and [Kovan](https://kovan.etherscan.io/address/0x1a9C8182C09F50C8318d769245beA52c32BE35BC) testnets. It was built from commit [ab22c08](https://github.com/Uniswap/governance/commit/ab22c084bacb2636a1aebf9759890063eb6e4946).
+2.  Voters use Snapshot to indicate their interest in bringing it forward to the next stage. Snapshot poll lengths should be set to 3 days.
 
-## ABI
+That's it! You've just started the process of gaining support for a proposal. At the end of the 3 days, a majority vote with a 25k UNI yes-vote threshold wins.
 
-```typescript
-import Timelock from '@uniswap/governance/build/Timelock.json'
-```
+If the Temperature check does not suggest a change from the status quo, the topic will be closed on the governance site. If the Temperature Check does suggest a change, proceed to Stage 2: Consensus Check.
 
-[https://unpkg.com/@uniswap/governance@1.0.2/build/Timelock.json](https://unpkg.com/@uniswap/governance@1.0.2/build/Timelock.json)
+### Phase 2: Consensus Check (Discourse/Snapshot)
 
-# GovernorAlpha
+The purpose of the Consensus Check is to establish formal discussion around a potential proposal.
 
-`GovernorAlpha` is deployed at `0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F` on the Ethereum [mainnet](https://etherscan.io/address/0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F), and the [Ropsten](https://ropsten.etherscan.io/address/0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F), [Rinkeby](https://rinkeby.etherscan.io/address/0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F), [Görli](https://goerli.etherscan.io/address/0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F), and [Kovan](https://kovan.etherscan.io/address/0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F) testnets. It was built from commit [ab22c08](https://github.com/Uniswap/governance/commit/ab22c084bacb2636a1aebf9759890063eb6e4946).
+To create a Consensus Check:
 
-## ABI
+1.  Use feedback from the Temperature Check post and create a new Snapshot poll which covers the options which have gained support. This poll can either be binary or multiple choice but should include the option "Make no change" or its equivalent. Set the poll duration to 5 days.
 
-```typescript
-import GovernorAlpha from '@uniswap/governance/build/GovernorAlpha.json'
-```
+2.  Create a new topic in the Proposal Discussion category on [gov.uniswap.org](http://gov.uniswap.org/) titled "Consensus Check --- [Your Title Here]". This will alert the community that this topic has already passed Temperature Check. Any topics beginning with Consensus Check that have not passed Temperature Check should be immediately be removed by community moderators. Make sure that the discussion thread links to the new Snapshot poll and the Temperature Check thread.
 
-[https://unpkg.com/@uniswap/governance@1.0.2/build/GovernorAlpha.json](https://unpkg.com/@uniswap/governance@1.0.2/build/GovernorAlpha.json)
+3.  Reach out to your network to build support for the proposal. Discuss the proposal and solicit delegates to vote on it. Be willing to respond to questions on the Consensus Check topic. Share your view point, although try to remain as impartial as possible.
 
-# Miscellaneous Addresses
+At the end of 5 days, whichever option has the majority of votes wins, and can be included in a governance proposal for Stage 3. A 50k UNI yes-vote quorum is required for the Consensus Check to pass.
 
-**The following addresses only exist on the Ethereum mainnet.**
+If the option "Make no change" wins, the Consensus Check topic should be closed by community moderators.
 
-The UNI merkle distributor address is `0x090D4613473dEE047c3f2706764f49E0821D256e`.
+### Phase 3: Governance Proposal (Governance Portal)
 
-The staking rewards factory address is `0x3032Ab3Fa8C01d786D29dAdE018d7f2017918e12`.
+Phase 3 is the final step of the governance process. The proposal should be based on the winning outcome from the Consensus Check and can consist of one or multiple actions, up to a maximum of 10 actions per proposal.
 
-The four staking rewards addresses are:
+To create a Governance Proposal:
 
-```js
-0x6c3e4cb2e96b01f4b866965a91ed4437839a121a
-0x7fba4b8dc5e7616e59622806932dbea72537a56b
-0xa1484c3aa22a66c62b77e0ae78e15258bd0cb711
-0xca35e32e7926b96a9988f61d510e038108d8068e
-```
+1.  Write the code for your proposal, which can be voted on through any Governance Portal. More resources can be found [here](https://compound.finance/docs/governance#propose). All proposed code should be audited by a professional auditor. This auditing process could be paid or reimbursed by the community treasury.
 
-The four year-long vesting contract addresses are:
+2.  Ensure at least 10 million UNI is delegated to your address in order to submit a proposal, or find a delegate who has enough delegated UNI to meet the proposal threshold to propose on your behalf.
 
-```js
-0x4750c43867ef5f89869132eccf19b9b6c4286e1a
-0xe3953d9d317b834592ab58ab2c7a6ad22b54075d
-0x4b4e140d1f131fdad6fb59c13af796fd194e4135
-0x3d30b1ab88d487b0f3061f40de76845bec3f1e94
-```
+3.  Create a topic in the Proposal Discussion category on [gov.uniswap.org](http://gov.uniswap.org/) titled "Governance Proposal [Proposal Number] --- [Your Title Here]" and link to any relevant Snapshot polls/discussion threads as well as the code audit report. Proposal numbers should be in a "UP###" format. For example, the first Uniswap Proposal should be titled UP001, the second UP002, and so on. Topics that begin with "Governance Proposal" that have not successfully passed the Temperature Check and Consensus Check stages should be removed by community moderators.
 
-The `feeToSetterVester` address is `0x18e433c7Bf8A2E1d0197CE5d8f9AFAda1A771360`.
+4.  Call the propose() function of the Governor Alpha to deploy your proposal.
 
-The `feeTo` address is `0xDAF819c2437a82f9e01f6586207ebF961a7f0970`.
+Once the propose() function has been called, a seven day voting period is started. Ongoing discussion can take place in the [gov.uniswap.org](http://gov.uniswap.org/) forum. If the proposal passes successfully, a two day timelock will follow before the proposed code is executed.
+
+### Soft Governance:
+
+The process described above lays out a structure for those wishing to host a formal vote on a particular issue.
+
+However, governance systems also require a degree of "meta governance" discussions that inform the direction of and the implementation processes behind policy, but which don't qualify as policy themselves.
+
+The community may discuss new ideas and strategies for governance --- including changes to the process outlined above --- in the "Governance-Meta" category. On-chain voting is not necessary to make updates to off-chain processes.
+
+Glossary
+--------------------
+
+-   *UNI*: An ERC-20 token that designates the weight of a user's voting rights. The more UNI a user has in their wallet, the more weight their delegation or vote on a proposal holds.
+
+-   *Delegation*: UNI holders cannot vote or create proposals until they delegate their voting rights to an address. Delegation can be given to one address at a time, including the holder's own address. Note that delegation does not lock tokens; it simply adds votes to the chosen delegation address.
+
+-   *Proposal*: A proposal is code that is executed by the governance contract through timelock. It can replace the governance contract, transfer tokens from the community treasury, or perform an almost infinite range of other on-chain actions. In order to create a proposal, an address must have at least 1% (10M UNI) of all UNI delegated to their address. Proposals are stored in the "proposals" mapping of the Governor smart contract. All proposals are subject to a 7-day voting period. If the proposer does not maintain their vote weight balance throughout the voting period, the proposal may be canceled by anyone.
+
+-   *Quorum*: In order for a vote to pass, at least 4% of all UNI (40M) must vote in the affirmative. The purpose of this quorum is to ensure that the only measures that pass have adequate voter participation.
+
+-   *Voting*: Users can vote for or against single proposals once they have voting rights delegated to their address. Votes can be cast while a proposal is in the "Active" state. Votes can be submitted immediately using "castVote" or submitted later with "castVoteBySig" (For more info on castVoteBySig and offline signatures, see EIP-712). If the majority of votes (and a 4% quorum of UNI) vote for a proposal, the proposal may be queued in the Timelock.
+
+-   *Voting Period*: Once a proposal has been put forward, Uniswap community members will have a seven day period (the Voting Period) to cast their votes.
+
+-   *Timelock*: All governance actions are delayed for a minimum of 2 days by the timelock contract before they can be executed.
+
+Additional Resources
+--------------------
+
+* [Discord](https://discord.com/channels/597638925346930701/597638926152499206)
+Discourse forum: https://gov.uniswap.org/
+Voting app: https://app.uniswap.org/#/vote
+Github: https://github.com/Uniswap
+Uniswap governance docs: https://uniswap.org/docs/v2/governance/overview
+Compound governance docs: https://compound.finance/docs/governance
+Twitter: https://twitter.com/UniswapProtocol
+UNI token info (Coingecko): https://www.coingecko.com/en/coins/uniswap
