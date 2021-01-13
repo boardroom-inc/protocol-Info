@@ -1,10 +1,4 @@
-About
-====================================
-
 **Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum. These synthetic assets are collateralized by the Synthetix Network Token (SNX) which when locked in the contract enables the issuance of synthetic assets (Synths). This pooled collateral model enables users to perform conversions between Synths directly with the smart contract, avoiding the need for counterparties.**
-
-Introduction
-------------------
 
 There are two major components of the governance system:
 
