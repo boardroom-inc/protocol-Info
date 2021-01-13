@@ -1,6 +1,4 @@
-[![CDCCl Nov 25](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/optimized/1X/a9128e1980f0a2bb6fe28e2eb8926074052ae4ee_2_690x388.jpeg)
-
-](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/original/1X/a9128e1980f0a2bb6fe28e2eb8926074052ae4ee.jpeg "CDCCl Nov 25")
+[![CDCCl Nov 25](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/optimized/1X/a9128e1980f0a2bb6fe28e2eb8926074052ae4ee_2_690x388.jpeg)](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/original/1X/a9128e1980f0a2bb6fe28e2eb8926074052ae4ee.jpeg "CDCCl Nov 25")
 
 # Agenda
 
