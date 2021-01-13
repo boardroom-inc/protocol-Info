@@ -96,6 +96,13 @@ export const protocols = {
     suffix: "LEND",
     folder: "aave",
   },
+  balancer: {
+    name: "Balancer",
+    path: "balancer",
+    description: "(balancer description here)",
+    suffix: "BAL",
+    folder: "balancer",
+  },
 };
 
 export const protocolBranding = {
