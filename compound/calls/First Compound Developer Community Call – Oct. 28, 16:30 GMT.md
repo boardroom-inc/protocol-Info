@@ -1,8 +1,4 @@
-[![https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_199fb58c-404d-4831-9486-36fd8ef1fb53_1600x900 (1)](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/optimized/1X/a1fa3985b774c1259e4854671c12a1e9e574871e_2_690x388.jpeg)
-
-https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_199fb58c-404d-4831-9486-36fd8ef1fb53_1600x900 (1)1456×819 272 KB
-
-](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/original/1X/a1fa3985b774c1259e4854671c12a1e9e574871e.jpeg "https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_199fb58c-404d-4831-9486-36fd8ef1fb53_1600x900 (1)")
+[![https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_199fb58c-404d-4831-9486-36fd8ef1fb53_1600x900 (1)](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/optimized/1X/a1fa3985b774c1259e4854671c12a1e9e574871e_2_690x388.jpeg)](https://aws1.discourse-cdn.com/standard17/uploads/compoundcommunity/original/1X/a1fa3985b774c1259e4854671c12a1e9e574871e.jpeg "https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_199fb58c-404d-4831-9486-36fd8ef1fb53_1600x900 (1)")
 
 * * * * *
 
