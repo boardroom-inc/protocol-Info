@@ -103,6 +103,13 @@ export const protocols = {
     suffix: "BAL",
     folder: "balancer",
   },
+  yamv2: {
+    name: "Yam",
+    path: "yamv2",
+    description: "(yamv2 description here)",
+    suffix: "YAM",
+    folder: "yamv2",
+  },
 };
 
 export const protocolBranding = {
