@@ -1,6 +1,3 @@
-Introduction
-------------------
-
 **GnosisDAO is the prediction market-driven collective. The mission of GnosisDAO is to successfully steward the Gnosis ecosystem through futarchy: governance by prediction markets.**
 
 GnosisDAO is a living entity that will evolve over time. This post provides an overview of the current GnosisDAO governance process.

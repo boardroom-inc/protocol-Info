@@ -1,6 +1,3 @@
-Introduction
-------------------
-
 **Uniswap is a decentralized exchange protocol that enables trading between any Ethereum tokens. Liquidity providers can deposit asset pairs to earn trading fees, in exchange for bearing risk of losses from large price movements.**
 
 While the protocol has relatively few risk parameters or other admin controls requiring intervention, UNI holders are empowered to control the Uniswap treasury (including the remaining 45% of UNI supply allocated to the community) as well as activate the 0.05% protocol swap fee to begin earning revenue.
@@ -66,6 +63,18 @@ However, governance systems also require a degree of "meta governance" discussio
 
 The community may discuss new ideas and strategies for governance --- including changes to the process outlined above --- in the "Governance-Meta" category. On-chain voting is not necessary to make updates to off-chain processes.
 
+Additional Resources
+--------------------
+
+* [Discord](https://discord.com/channels/597638925346930701/597638926152499206)
+* [Discourse Forum](https://gov.uniswap.org/)
+* [Voting App](https://app.uniswap.org/#/vote)
+* [Github](https://github.com/Uniswap)
+* [Uniswap Governance Docs](https://uniswap.org/docs/v2/governance/overview)
+* [Compound Governance Docs](https://compound.finance/docs/governance)
+* [Twitter](https://twitter.com/UniswapProtocol)
+* [UNI Token Info](https://www.coingecko.com/en/coins/uniswap)
+
 Glossary
 --------------------
 
@@ -82,15 +91,3 @@ Glossary
 -   *Voting Period*: Once a proposal has been put forward, Uniswap community members will have a seven day period (the Voting Period) to cast their votes.
 
 -   *Timelock*: All governance actions are delayed for a minimum of 2 days by the timelock contract before they can be executed.
-
-Additional Resources
---------------------
-
-* [Discord](https://discord.com/channels/597638925346930701/597638926152499206)
-Discourse forum: https://gov.uniswap.org/
-Voting app: https://app.uniswap.org/#/vote
-Github: https://github.com/Uniswap
-Uniswap governance docs: https://uniswap.org/docs/v2/governance/overview
-Compound governance docs: https://compound.finance/docs/governance
-Twitter: https://twitter.com/UniswapProtocol
-UNI token info (Coingecko): https://www.coingecko.com/en/coins/uniswap
