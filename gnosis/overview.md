@@ -1,7 +1,7 @@
-**GnosisDAO is the prediction market-driven collective. The mission of GnosisDAO is to successfully steward the Gnosis ecosystem through futarchy: governance by prediction markets.**
-
 Introduction
 ------------------
+
+**GnosisDAO is the prediction market-driven collective. The mission of GnosisDAO is to successfully steward the Gnosis ecosystem through futarchy: governance by prediction markets.**
 
 GnosisDAO is a living entity that will evolve over time. This post provides an overview of the current GnosisDAO governance process.
 
@@ -20,14 +20,14 @@ The GnosisDAO governance process is primarily conducted using the [GnosisDAO ca
 
 Now let's dive deeper into each phase.
 
-### Phase 1: Ideation
+#### Phase 1: Ideation
 
 This phase facilitates an initial, informal discussion on Gnosis Forum regarding potential proposals to GnosisDAO. You can initiate a proposal in Phase 1 by posting your idea in the [GnosisDAO category](https://forum.gnosis.io/c/dao) with the `phase-1` tag. This phase allows proposals to gather community insight for refinement before opening a formal poll.
 
 **Duration:** Open-ended\
 **Passing Requirement:** For proposals to successfully pass from Phase 1 to Phase 2, there is no formal requirement. However, if a Phase 1 proposal discussion fails to garner momentum from the community, it is unlikely to become a successful proposal.
 
-### Phase 2: Specification
+#### Phase 2: Specification
 
 This phase requires proposals to be posted in the [GnosisDAO category](https://forum.gnosis.io/c/dao) using the [Gnosis Improvement Proposal (GIP)](https://forum.gnosis.io/t/gip-0-template/734) template. You can create a Gnosis Improvement Proposal (GIP) easily by adding the GIP subcategory, after which your draft post will automatically be populated by a GIP template for you to fill in. You can move a proposal to Phase 2 by posting the GIP-# with the `phase-2` tag.
 
@@ -36,7 +36,7 @@ The GIP template requires all proposals speak to applicable fields, such as a Si
 **Duration:** 5 days\
 **Passing Requirement:** For proposals to successfully pass from Phase 2 to Phase 3, there must be one outcome with a relative majority of votes on the forum poll. If the relative majority of votes on the forum poll indicates the result `Make no changes,` the proposal will not pass to Phase 3.
 
-### Phase 3: Consensus
+#### Phase 3: Consensus
 
 This phase opens proposals to two signalling methods for token holders. You can move a proposal to Phase 3 by editing the GIP post from the previous phase to reflect the forum poll result that received a relative majority of votes and by updating the proposal's tag to `phase-3`. This serves to refine the proposal for the final phase.
 

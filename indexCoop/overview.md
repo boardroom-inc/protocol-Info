@@ -1,12 +1,9 @@
-About
-====================================
+Introduction
+------------------
 
 **Index Coop is an index provider and decentralized asset management protocol. Its primary product, the Defi Pulse Index (DPI), comprises a broadly diversified pool of governance tokens which is rebalanced monthly based on market capitalization.**
 
 DPI rebalancing is handled via [Set Protocol](https://www.setprotocol.com/)'s auction mechanisms, eliminating risk of "divergence loss" that can exist with certain other rebalancing strategies. The Index Coop treasury receives a 0.95% annualized management fee from assets held in DPI, which can potentially accrue value to INDEX holders or support further development. INDEX holders also control voting rights of the governance tokens held within the DPI, positioning the protocol as a key participant in the wider decentralized governance ecosystem.
-
-Introduction
-------------------
 
 Formal proposals and longer term governance discussions happen primarily within the Index discourse forum, while most day to day community activity happens in the discord chat.
 

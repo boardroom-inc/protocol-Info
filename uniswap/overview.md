@@ -1,10 +1,7 @@
-About
-====================================
-
-**Uniswap is a decentralized exchange protocol that enables trading between any Ethereum tokens. Liquidity providers can deposit asset pairs to earn trading fees, in exchange for bearing risk of losses from large price movements.**
-
 Introduction
 ------------------
+
+**Uniswap is a decentralized exchange protocol that enables trading between any Ethereum tokens. Liquidity providers can deposit asset pairs to earn trading fees, in exchange for bearing risk of losses from large price movements.**
 
 While the protocol has relatively few risk parameters or other admin controls requiring intervention, UNI holders are empowered to control the Uniswap treasury (including the remaining 45% of UNI supply allocated to the community) as well as activate the 0.05% protocol swap fee to begin earning revenue.
 
