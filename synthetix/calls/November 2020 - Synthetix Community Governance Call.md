@@ -1,6 +1,4 @@
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yu0tlvDqfSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+[![Synthetix Community Governance Call Recording](http://img.youtube.com/vi/yu0tlvDqfSU/0.jpg)](http://www.youtube.com/watch?v=yu0tlvDqfSU "November 2020 Synthetix Community Governance Call")
 
 ![Join us on November 19/20 for the next Synthetix community governance call!](https://blog.synthetix.io/content/images/2020/11/Community-governance-call---November.png)
 
