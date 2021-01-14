@@ -1,17 +1,23 @@
-## This repo contains basic information, branding colors and call notes of protocols which will be served to display on http://app.boardroom.info/
+# Boardroom Project Information Repo
 
-### **Repo structure**.
-1. `index.ts`: Contains basic info, branding colors of protocols
-2. Folders for each protocol contains.
-    1. `overview.md`: Contains an overview of the protocol which will be displayed in boardroom protocol overview page below stats of the protocol.
+_This public repo contains project information which will be served to display on the [Boardroom Governance Portal](http://app.boardroom.info/)_
+
+## **Structure**
+1. The `index.ts` file contains basic project metadata, as well as branding colors
+2. Folders for each project contain the following:
+    1. As file named `overview.md` that contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics:.
     Ex: <img src="https://media.discordapp.net/attachments/799260574759649331/799288420215816222/Overview.png?width=800&height=402" alt="Drawing" style="width: 200px;"/> 
-	2. `logo.png`: Used for showing protocol logo in various places of the app including protocol switcher.
+	2. The `logo.png` logo file is displayed in various places accross the app, including protocol switcher:.
+	
       Ex: ![logo](https://cdn.discordapp.com/attachments/799260574759649331/799289349137104896/Untitled10.png)
-    3. `header.png`: Used for displaying logo at the top of sidebar when in the respective protocol pages
+      
+    3. The `header.png` logo file is displayed at the top of sidebar when that project is selected in the navigation
+    
       Ex: ![Header Logo](https://media.discordapp.net/attachments/799260574759649331/799290084255334458/Untitled_2.png)
-    4. `calls` folder: Used for displaying call notes in the calls page of the app.
+      
+    4. The `calls` folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab:.
       Ex: The following folder structure in the calls folder is displayed as
-
+      
 <table><tr>
 <td> <img src="https://media.discordapp.net/attachments/799260574759649331/799275039400263700/Untitled.png" alt="Drawing" style="width: 250px;"/> </td>
 <td> <img src="https://media.discordapp.net/attachments/799260574759649331/799274293636366336/Untitled.png?width=1708&height=1136" alt="Drawing" style="width: 250px;"/> </td>
