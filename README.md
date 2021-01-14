@@ -1,6 +1,24 @@
-# Boardroom Project Information Repo
+<br />
+<p align="center">
+  <a href="http://app.boardroom.info/">
+    <img src="https://i.ibb.co/tBt9dLq/transparentblacktextsmall.png" alt="Logo" width="500" height="100">
+  </a>
 
-_This public repo contains project information which will be served to display on the [Boardroom Governance Portal](http://app.boardroom.info/)_
+  <h3 align="center">Boardroom Project Information Repo</h3>
+
+  <p align="center">
+    This public repo contains project information which will be served to display on the Boardroom Governance Portal
+    <br />
+    <a href="http://app.boardroom.info/"><strong>Browse the Portal »</strong></a>
+    <br />
+    <br />
+    <a href="http://boardroom.info/">Landing</a>
+    ·
+    <a href="https://discord.com/invite/tgrTFg9">Discord</a>
+    ·
+    <a href="https://discord.com/invite/tgrTFg9">Get In Touch</a>
+  </p>
+</p>
 
 ## **Structure**
 1. The `index.ts` file contains basic project metadata, as well as branding colors
