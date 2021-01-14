@@ -8,7 +8,7 @@
 	2. `logo.png`: Used for showing protocol logo in various places of the app including protocol switcher.
       Ex: ![logo](https://cdn.discordapp.com/attachments/799260574759649331/799289349137104896/Untitled10.png)
     3. `header.png`: Used for displaying logo at the top of sidebar when in the respective protocol pages
-      Ex: ![Header Logo](https://media.discordapp.net/attachments/799260574759649331/799274014442389534/Untitled_2.png)
+      Ex: ![Header Logo](https://media.discordapp.net/attachments/799260574759649331/799290084255334458/Untitled_2.png)
     4. `calls` folder: Used for displaying call notes in the calls page of the app.
       Ex: The following folder structure in the calls folder is displayed as
 
