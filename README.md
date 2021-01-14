@@ -1,8 +1,10 @@
-Repo structure.
+## This repo contains basic information, branding colors and call notes of protocols which will be served to display on http://app.boardroom.info/
+
+### Repo structure.
 1. `index.ts`: Contains basic info, branding colors of protocols
 2. Folders for each protocol contains.
     1. `overview.md`: Contains an overview of the protocol which will be displayed in boardroom protocol overview page below stats of the protocol.
-    Ex: <img src="https://media.discordapp.net/attachments/799260574759649331/799260647002865694/Overview.png" alt="Drawing" style="width: 300px;"/> 
+    Ex: <img src="https://media.discordapp.net/attachments/799260574759649331/799288420215816222/Overview.png?width=800&height=402" alt="Drawing" style="width: 200px;"/> 
 	2. `logo.png`: Used for showing protocol logo in various places of the app including protocol switcher.
       Ex: ![logo](https://media.discordapp.net/attachments/799260574759649331/799260665893486682/Untitled.png?width=435&height=1136)
     3. `header.png`: Used for displaying logo at the top of sidebar when in the respective protocol pages
@@ -17,8 +19,8 @@ Repo structure.
 
 
 
-# How to edit Information or Branding of protocol
-1. Edit protocol information
+### How to edit Information or Branding of protocol
+#### 1.Edit protocol information
 Basic information of the protocol is saved in protocols object of index.ts file
 
 ```
@@ -33,7 +35,7 @@ Basic information of the protocol is saved in protocols object of index.ts file
 
 Edit the corresponding value in the object and raise a new PR for changes.
 
-2. Edit or add branding changes
+#### 2. Edit or add branding changes
  1. Add the unique protocol key in the object `protocolBranding` of index.ts if it does not exist. 
 ```
 unique_protocol_key: {
@@ -47,7 +49,7 @@ unique_protocol_key: {
 
 We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z to visualize branding changes. Change the corresponding color variable in index.js file to have a sense of how the protocol pages will look after the updates
 
-# How to add new meeting notes
+### How to add new meeting notes
 Raise a new PR by following the steps below.
 
 1. Create a new file in the calls folder of the protocol. Filename will be used for displaying in the list of calls page.
@@ -56,7 +58,7 @@ Raise a new PR by following the steps below.
 
 
 
-# How to add a new protocol
+#### How to add a new protocol
 Raise a new PR by following the steps below.
 
 1. Add a new object to index.ts in the format of
