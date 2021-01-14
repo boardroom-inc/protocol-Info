@@ -1,7 +1,5 @@
 [![Synthetix Community Governance Call Recording](http://img.youtube.com/vi/yu0tlvDqfSU/0.jpg)](http://www.youtube.com/watch?v=yu0tlvDqfSU "November 2020 Synthetix Community Governance Call")
 
-![Join us on November 19/20 for the next Synthetix community governance call!](https://blog.synthetix.io/content/images/2020/11/Community-governance-call---November.png)
-
 # Agenda
 
 The twelfth Synthetix community governance call is scheduled for November 19/20 (timezone dependant), and we'd love for you to join us as there's plenty to cover.

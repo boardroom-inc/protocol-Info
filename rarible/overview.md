@@ -1,6 +1,3 @@
-Introduction
-------------------
-
 **Rarible is the first community-owned NFT marketplace**
 
 The ultimate goal of Rarible is to evolve into a fully Decentralized Autonomous Organization (DAO), where all governance and decision rights belong to the platform users. Need a new feature? Have a vision how to make the platform better? Think someone is toxic and should be moderated? Or some members deserve an art or community grant? On Rarible, you have a voice, and your voice is heard.
