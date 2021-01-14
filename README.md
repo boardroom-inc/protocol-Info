@@ -1,6 +1,6 @@
 ## This repo contains basic information, branding colors and call notes of protocols which will be served to display on http://app.boardroom.info/
 
-### Repo structure.
+### **Repo structure**.
 1. `index.ts`: Contains basic info, branding colors of protocols
 2. Folders for each protocol contains.
     1. `overview.md`: Contains an overview of the protocol which will be displayed in boardroom protocol overview page below stats of the protocol.
@@ -17,7 +17,7 @@
 <td> <img src="https://media.discordapp.net/attachments/799260574759649331/799274293636366336/Untitled.png?width=1708&height=1136" alt="Drawing" style="width: 250px;"/> </td>
 </tr></table>
 
-
+---
 
 ### How to edit Information or Branding of protocol
 #### 1.Edit protocol information
@@ -49,6 +49,8 @@ unique_protocol_key: {
 
 We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z to visualize branding changes. Change the corresponding color variable in index.js file to have a sense of how the protocol pages will look after the updates
 
+---
+
 ### How to add new meeting notes
 Raise a new PR by following the steps below.
 
@@ -56,6 +58,7 @@ Raise a new PR by following the steps below.
 2. Add a summary of the call in the file. Contents of the file will be displayed in the respective note page.
 3. Raise a PR with the changes
 
+---
 
 
 #### How to add a new protocol
