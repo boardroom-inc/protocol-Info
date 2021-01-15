@@ -91,6 +91,31 @@ Raise a new PR by following the steps below:
 2. Add the call agenda and relevant meeting notes in the markdown file. The contents of the file will be displayed in the respective page.
 3. Raise a PR with the changes.
 
+### New Events
+
+1. Add one or more new events to the `events.json` file of the protocol using the following format:
+
+- **title**: The title of the event - this will be shown in the month and day view.
+- **url**: A URL to link to when an event is clicked.
+- **date**: The date of the event
+
+```json
+[
+  {
+    "title": "This is an example event.",
+    "url": "https://example.com",
+    "date": "2021-01-08"
+  },
+  {
+    "title": "This is another example event.",
+    "url": "https://example.com",
+    "date": "2021-01-10"
+  }
+]
+```
+
+2. Raise a PR with the changes.
+
 ### New Project
 Please keep in mind that the Boardroom team will need to add your project before it displays on the portal. Raise a new PR by following the steps below:
 
