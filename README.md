@@ -97,19 +97,19 @@ Raise a new PR by following the steps below:
 
 - **title**: The title of the event - this will be shown in the month and day view.
 - **url**: A URL to link to when an event is clicked.
-- **date**: The date of the event
+- **date**: The UTC date of the event in ISO 8601 format
 
 ```json
 [
   {
     "title": "This is an example event.",
     "url": "https://example.com",
-    "date": "2021-01-08"
+    "date": "2021-01-08T00:00:00.000Z"
   },
   {
     "title": "This is another example event.",
     "url": "https://example.com",
-    "date": "2021-01-10"
+    "date": "2021-01-10T00:00:00.000Z"
   }
 ]
 ```
