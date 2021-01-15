@@ -48,16 +48,11 @@
 ## **Structure**
 1. The `index.ts` file contains basic project metadata, as well as branding colors
 2. Folders for each project contain the following:
-    1. A file named `overview.md` that contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics.
-
-    2. The `logo.png` logo file is displayed in various places accross the app, including protocol switcher.
-	      
-    3. The `header.png` logo file is displayed at the top of sidebar when that project is selected in the navigation.
-          
-    4. The `calls` folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab.
+    1. `overview.md` contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics.
+    2. `logo.png` is a logo file displayed in various places accross the app, including protocol switcher.
+    3. `header.png` is a logo file is displayed at the top of sidebar when that project is selected in the navigation.
+    4. `calls` is a folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab.
       
----
-
 ## **Editing Content**
 ### Protocol Information
 Basic information of the protocol is saved in protocols object of index.ts file
@@ -96,8 +91,6 @@ Raise a new PR by following the steps below.
 1. Create a new file in the calls folder of the protocol. Filename will be used for displaying in the list of calls page.
 2. Add a summary of the call in the file. Contents of the file will be displayed in the respective note page.
 3. Raise a PR with the changes
-
----
 
 ### New Project
 Raise a new PR by following the steps below.
