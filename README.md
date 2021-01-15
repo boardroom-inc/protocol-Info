@@ -1,6 +1,7 @@
 [![Discord][discord-shield]][discord-url]
 [![Twitter][twitter-shield]][twitter-url]
 
+
 <br />
 <p align="center">
   <a href="http://app.boardroom.info/">
@@ -47,23 +48,18 @@
 ## **Structure**
 1. The `index.ts` file contains basic project metadata, as well as branding colors
 2. Folders for each project contain the following:
-    1. As file named `overview.md` that contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics.
+    1. A file named `overview.md` that contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics.
 
-    2. The `logo.png` logo file is displayed in various places accross the app, including protocol switcher:.
+    2. The `logo.png` logo file is displayed in various places accross the app, including protocol switcher.
 	      
-    3. The `header.png` logo file is displayed at the top of sidebar when that project is selected in the navigation
+    3. The `header.png` logo file is displayed at the top of sidebar when that project is selected in the navigation.
           
-    4. The `calls` folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab:.
+    4. The `calls` folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab.
       
-<table><tr>
-<td> <img src="https://media.discordapp.net/attachments/799260574759649331/799275039400263700/Untitled.png" alt="Drawing" style="width: 250px;"/> </td>
-<td> <img src="https://media.discordapp.net/attachments/799260574759649331/799274293636366336/Untitled.png?width=1708&height=1136" alt="Drawing" style="width: 250px;"/> </td>
-</tr></table>
-
 ---
 
 ## **Editing Content**
-#### Protocol Information
+### Protocol Information
 Basic information of the protocol is saved in protocols object of index.ts file
 
 ```
@@ -78,7 +74,7 @@ Basic information of the protocol is saved in protocols object of index.ts file
 
 Edit the corresponding value in the object and raise a new PR for changes.
 
-#### Protocol Branding
+### Protocol Branding
  1. Add the unique protocol key in the object `protocolBranding` of index.ts if it does not exist. 
 ```
 unique_protocol_key: {
@@ -92,9 +88,7 @@ unique_protocol_key: {
 
 We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z to visualize branding changes. Change the corresponding color variable in index.js file to have a sense of how the protocol pages will look after the updates
 
----
-
-## **Editing Content**
+## **Adding Content**
 
 ### New Calls
 Raise a new PR by following the steps below.
