@@ -1,3 +1,6 @@
+[![Discord][discord-shield]][discord-url]
+[![Twitter][twitter-shield]][twitter-url]
+
 <br />
 <p align="center">
   <a href="http://app.boardroom.info/">
@@ -104,3 +107,10 @@ Raise a new PR by following the steps below.
 3. Add logo with the file name `logo.png` in the folder with an aspect ratio of 1:1. This is used for displaying in Protocol switcher and various other places in the app.
 4. Add an image `header.png` which is displayed at the top sidebar. Ideal dimensions are 400 × 150 (W× H)
 5. Add a folder with the name `calls` which will be used for containing meeting notes files.
+
+
+
+[discord-shield]: https://img.shields.io/badge/Discord-Join-blueviolet?style=for-the-badge&logo=discord&logoColor=white
+[discord-url]: https://discord.com/invite/tgrTFg9
+[twitter-shield]: https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: https://twitter.com/boardroom_info
