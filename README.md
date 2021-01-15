@@ -28,16 +28,17 @@
   <ol>
     <li><a href="#structure">Repo Structure</a></li>
     <li>
-      <a href="#adding-content">Editing Content</a>
+      Global Protocol Changes
       <ul>
         <li><a href="#protocol-information">Protocol Information</a></li>
         <li><a href="#protocol-branding">Protocol Branding</a></li>
       </ul>
     </li>
     <li>
-      <a href="#adding-content">Adding Content</a>
+      Adding Content
       <ul>
-        <li><a href="#new-calls">Adding Call Information</a></li>
+        <li><a href="#new-content-folders">New Content Folders</a></li>
+        <li><a href="#new-calendar-events">Adding Calendar Events</a></li>
         <li><a href="#new-project">Adding a New Project</a></li>
       </ul>
     </li>
@@ -52,7 +53,8 @@
     3. `header.png` is a logo file is displayed at the top of sidebar when that project is selected in the navigation.
     4. `calls` is a folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab.
       
-## **Editing Content**
+## **Global Protocol Changes**
+
 ### Protocol Information
 Basic information of the protocol is saved in protocols object of index.ts file
 
@@ -85,14 +87,14 @@ We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z 
 
 ## **Adding Content**
 
-### New Calls
-Raise a new PR by following the steps below:
+### New Content Folders
+New content folders will dynamically display a new item under the 'Resources' tab. Raise a new PR by following the steps below:
 
 1. Create a new file in the calls folder of the protocol. _The Filename will be the title displayed in the 'Calls' tab list._
 2. Add the call agenda and relevant meeting notes in the markdown file. The contents of the file will be displayed in the respective page.
 3. Raise a PR with the changes.
 
-### New Events
+### New Calendar Events
 
 1. Add one or more new events to the `events.json` file of the protocol using the following format:
 
