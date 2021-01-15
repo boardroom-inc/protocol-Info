@@ -1,7 +1,6 @@
 [![Discord][discord-shield]][discord-url]
 [![Twitter][twitter-shield]][twitter-url]
 
-
 <br />
 <p align="center">
   <a href="http://app.boardroom.info/">
@@ -48,7 +47,7 @@
 ## **Structure**
 1. The `index.ts` file contains basic project metadata, as well as branding colors
 2. Folders for each project contain the following:
-    1. `overview.md` contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics.
+    1. `overview.md` contains a project's governance overview. _This content is displayed in each project's 'Overview' tab, below its statistics._
     2. `logo.png` is a logo file displayed in various places accross the app, including protocol switcher.
     3. `header.png` is a logo file is displayed at the top of sidebar when that project is selected in the navigation.
     4. `calls` is a folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab.
@@ -86,14 +85,14 @@ We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z 
 ## **Adding Content**
 
 ### New Calls
-Raise a new PR by following the steps below.
+Raise a new PR by following the steps below:
 
-1. Create a new file in the calls folder of the protocol. Filename will be used for displaying in the list of calls page.
-2. Add a summary of the call in the file. Contents of the file will be displayed in the respective note page.
-3. Raise a PR with the changes
+1. Create a new file in the calls folder of the protocol. _The Filename will be the title displayed in the 'Calls' tab list._
+2. Add the call agenda and relevant meeting notes in the markdown file. The contents of the file will be displayed in the respective page.
+3. Raise a PR with the changes.
 
 ### New Project
-Raise a new PR by following the steps below.
+Please keep in mind that the Boardroom team will need to add your project before it displays on the portal. Raise a new PR by following the steps below:
 
 1. Add a new object to index.ts in the format of
 
@@ -107,14 +106,18 @@ Raise a new PR by following the steps below.
   },
 ```
 
-2. Create a folder with the same name as mentioned above in the root folder of the repo
-3. Add logo with the file name `logo.png` in the folder with an aspect ratio of 1:1. This is used for displaying in Protocol switcher and various other places in the app.
-4. Add an image `header.png` which is displayed at the top sidebar. Ideal dimensions are 400 × 150 (W× H)
-5. Add a folder with the name `calls` which will be used for containing meeting notes files.
+2. Create a folder with the same name mentioned above in the root folder of the repo.
+3. Add logo with the file name `logo.png` in the folder with an aspect ratio of 1:1. This will display in the project switcher and various other places in the app.
+4. Add an image `header.png` which will display at the top sidebar. Ideal dimensions are 400 × 150 (W× H)
+5. Add a folder with the name `calls` which will contain meeting note files.
+6. Raise a PR with the changes.
 
+## Contact
 
+Please reach out in Discord with any questions! 
+* Boardroom Support Channel - [#❓support](https://discord.gg/CEZ8WfuK8s)
 
 [discord-shield]: https://img.shields.io/badge/Discord-Join-blueviolet?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.com/invite/tgrTFg9
+[discord-url]: https://discord.gg/CEZ8WfuK8s
 [twitter-shield]: https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]: https://twitter.com/boardroom_info
