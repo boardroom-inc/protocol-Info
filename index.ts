@@ -114,8 +114,8 @@ export const protocols = {
 
 export const protocolBranding = {
   pooltogether: {
-    "--background-primary-nav": "#001529",
+    "--background-primary-nav": "#290b5a",
     "--color-text-nav": "#e7e8eb",
-    "--background-switcher-active": "#000000",
+    "--background-switcher-active": "#341762",
   },
 };
