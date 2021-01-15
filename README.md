@@ -23,6 +23,27 @@
   </p>
 </p>
 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#structure">Repo Structure</a></li>
+    <li>
+      <a href="#adding-content">Editing Content</a>
+      <ul>
+        <li><a href="#protocol-information">Protocol Information</a></li>
+        <li><a href="#protocol-branding">Protocol Branding</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#adding-content">Adding Content</a>
+      <ul>
+        <li><a href="#new-calls">Adding Call Information</a></li>
+        <li><a href="#new-project">Adding a New Project</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 ## **Structure**
 1. The `index.ts` file contains basic project metadata, as well as branding colors
 2. Folders for each project contain the following:
@@ -46,8 +67,8 @@
 
 ---
 
-### How to edit Information or Branding of protocol
-#### 1.Edit protocol information
+## **Editing Content**
+#### Protocol Information
 Basic information of the protocol is saved in protocols object of index.ts file
 
 ```
@@ -62,7 +83,7 @@ Basic information of the protocol is saved in protocols object of index.ts file
 
 Edit the corresponding value in the object and raise a new PR for changes.
 
-#### 2. Edit or add branding changes
+#### Protocol Branding
  1. Add the unique protocol key in the object `protocolBranding` of index.ts if it does not exist. 
 ```
 unique_protocol_key: {
@@ -78,7 +99,9 @@ We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z 
 
 ---
 
-### How to add new meeting notes
+## **Editing Content**
+
+### New Calls
 Raise a new PR by following the steps below.
 
 1. Create a new file in the calls folder of the protocol. Filename will be used for displaying in the list of calls page.
@@ -87,8 +110,7 @@ Raise a new PR by following the steps below.
 
 ---
 
-
-#### How to add a new protocol
+### New Project
 Raise a new PR by following the steps below.
 
 1. Add a new object to index.ts in the format of
