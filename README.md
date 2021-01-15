@@ -47,18 +47,13 @@
 ## **Structure**
 1. The `index.ts` file contains basic project metadata, as well as branding colors
 2. Folders for each project contain the following:
-    1. As file named `overview.md` that contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics:.
-    Ex: <img src="https://media.discordapp.net/attachments/799260574759649331/799288420215816222/Overview.png?width=800&height=402" alt="Drawing" style="width: 200px;"/> 
-	2. The `logo.png` logo file is displayed in various places accross the app, including protocol switcher:.
-	
-      Ex: ![logo](https://cdn.discordapp.com/attachments/799260574759649331/799289349137104896/Untitled10.png)
-      
+    1. As file named `overview.md` that contains a project's governance overview. This content is displayed in each project's 'Overview' tab, below its statistics.
+
+    2. The `logo.png` logo file is displayed in various places accross the app, including protocol switcher:.
+	      
     3. The `header.png` logo file is displayed at the top of sidebar when that project is selected in the navigation
-    
-      Ex: ![Header Logo](https://media.discordapp.net/attachments/799260574759649331/799290084255334458/Untitled_2.png)
-      
+          
     4. The `calls` folder collects governance and community call agendas and meeting notes, displayed in each project's 'Calls' tab:.
-      Ex: The following folder structure in the calls folder is displayed as
       
 <table><tr>
 <td> <img src="https://media.discordapp.net/attachments/799260574759649331/799275039400263700/Untitled.png" alt="Drawing" style="width: 250px;"/> </td>
