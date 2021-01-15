@@ -90,6 +90,7 @@ Raise a new PR by following the steps below:
 1. Create a new file in the calls folder of the protocol. _The Filename will be the title displayed in the 'Calls' tab list._
 2. Add the call agenda and relevant meeting notes in the markdown file. The contents of the file will be displayed in the respective page.
 3. Raise a PR with the changes.
+4. These changes should be reflected on the Boardroom portal a few days after the changes have been merged.
 
 ### New Project
 Please keep in mind that the Boardroom team will need to add your project before it displays on the portal. Raise a new PR by following the steps below:
