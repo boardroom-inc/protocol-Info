@@ -118,4 +118,9 @@ export const protocolBranding = {
     "--color-text-nav": "#e7e8eb",
     "--background-switcher-active": "#341762",
   },
+  defidollar: {
+    "--background-primary-nav": "#212529",
+    "--color-text-nav": "#e7e8eb",
+    "--background-switcher-active": "#5553e8",
+  },
 };
