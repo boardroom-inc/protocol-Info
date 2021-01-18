@@ -65,7 +65,7 @@ export const protocols = {
     folder: "gnosis",
   },
   defidollar: {
-    name: "Defi Dollar",
+    name: "DefiDollar DAO",
     path: "defidollar",
     description:
       "DeFi Dollar is a stablecoin that uses the primitives of DeFi to stay close to the Dollar, protecting users from counterparty risk, holdings seizure risk, bank run risk, etc. DUSD offers investors an opportunity to index varying stablecoins in its single token. This invariably protects such users from any underlying risks that may be attached with such tokens.",
