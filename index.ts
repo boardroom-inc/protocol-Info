@@ -30,7 +30,7 @@ export const protocols = {
     description:
       "yEarn is an automated liquidity aggregator offering a number of yield farming opportunities. In order for a proposal to pass or fail, more than 20% of the total staked YFI tokens (Quorum) have to vote. The Majority threshold currently stands at 50%. \n Anyone can stake their YFI in to vote on proposals - once you vote, your YFI will lock for 3 days.",
     suffix: "YFI",
-    folder: "compound",
+    folder: "yearn",
   },
   powerpool: {
     name: "Powerpool",
