@@ -38,8 +38,9 @@
       Adding Content
       <ul>
         <li><a href="#new-content-folders">New Content Folders</a></li>
-        <li><a href="#new-calendar-events">Adding Calendar Events</a></li>
-        <li><a href="#new-project">Adding a New Project</a></li>
+        <li><a href="#new-content-folders">New Files</a></li>
+        <li><a href="#new-calendar-events">Calendar Events</a></li>
+        <li><a href="#new-project">New Project</a></li>
       </ul>
     </li>
   </ol>
@@ -90,8 +91,13 @@ We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z 
 ### New Content Folders
 New content folders will dynamically display a new item under the 'Resources' tab. Raise a new PR by following the steps below:
 
-1. Create a new file in the calls folder of the protocol. _The Filename will be the title displayed in the 'Calls' tab list._
-2. Add the call agenda and relevant meeting notes in the markdown file. The contents of the file will be displayed in the respective page.
+1. Create a new folder inside protocol folder. _The Folder name will be the sub nav item displayed under resources in sidebar._
+2. Add content inside the folder by adding new files.
+3. Raise a PR with the changes.
+
+### New Files
+1. Create a new file in the Dynamic folder of the protocol. _The Filename will be the title displayed in the 'Folder' tab list._
+2. Add Content in the markdown file. The contents of the file will be displayed in the respective page.
 3. Raise a PR with the changes.
 
 ### New Calendar Events
