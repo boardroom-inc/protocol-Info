@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+
+# Remove some common IDE working directories
+.idea
+.vscode
