@@ -19,7 +19,7 @@
     ·
     <a href="https://discord.com/invite/tgrTFg9">Discord</a>
     ·
-    <a href="https://discord.com/invite/tgrTFg9">Get In Touch</a>
+    <a href="https://www.boardroom.info/contact">Get In Touch</a>
   </p>
 </p>
 
