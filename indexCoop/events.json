@@ -1,12 +1,22 @@
 [
   {
-    "title": "This is an example event.",
-    "url": "https://example.com",
-    "date": "2021-02-08T00:00:00.000Z"
+    "title": "Weekly Planning Session",
+    "url": "https://discord.com/invite/RKZ4S3b",
+    "date": "2021-02-15T17:00:00.000Z"
   },
   {
-    "title": "This is another example event.",
-    "url": "https://example.com",
-    "date": "2021-02-10T00:00:00.000Z"
+    "title": "Org. Work Session",
+    "url": "https://discord.com/invite/RKZ4S3b",
+    "date": "2021-02-17T19:00:00.000Z"
+  },
+  {
+    "title": "Engineering Work Session",
+    "url": "https://discord.com/invite/RKZ4S3b",
+    "date": "2021-02-17T21:00:00.000Z"
+  },
+  {
+    "title": "Growth Work Session",
+    "url": "https://discord.com/invite/RKZ4S3b",
+    "date": "2021-02-18T21:20:00.000Z"
   }
 ]
