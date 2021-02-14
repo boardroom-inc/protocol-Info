@@ -40,6 +40,7 @@
         <li><a href="#new-content-folders">New Content Folders</a></li>
         <li><a href="#new-content-folders">New Files</a></li>
         <li><a href="#new-calendar-events">Calendar Events</a></li>
+        <li><a href="#new-weekly-updates">Weekly Updates</a></li>
         <li><a href="#new-project">New Project</a></li>
       </ul>
     </li>
@@ -87,6 +88,7 @@ unique_protocol_key: {
 We have a codesandbox instance https://codesandbox.io/s/boardroombranding-q3u9z to visualize branding changes. Change the corresponding color variable in index.js file to have a sense of how the protocol pages will look after the updates
 
 ## **Adding Content**
+Content files will be sorted by date. Add the date (dd-mm-yy) to the file name you are creating. This date will be hidden on the Boardroom portal but will sort the files by most recent.
 
 ### New Content Folders
 New content folders will dynamically display a new item under the 'Resources' tab. Raise a new PR by following the steps below:
@@ -124,6 +126,17 @@ New content folders will dynamically display a new item under the 'Resources' ta
 ```
 
 2. Raise a PR with the changes.
+
+### New Weekly Updates
+1. Create a new file in an new 'Updates' folder. _The Filename will be the title displayed in the 'Folder' tab list._ Remember to add the date to the filename (Update Title + dd-mm-yy)
+2. Add Content in the markdown file. The contents of the file will be displayed in the respective page.
+3. Weekly updates should be categorized by "Live Votes", "Recent Votes", and "Discussions".
+4. For each Proposal or Discussion, add a Markdown Table with the Title, Category, and Link:
+![](https://i.ibb.co/cQg49mh/categories.png)
+*Choose from the following categories: Parameter Change, Staffing, Treasury, Marketing, Strategy, Product, Development, Meta, Other
+5. Add a short (100 words max) description under the table.
+6. Repeat the steps for every proposal or discussion relevant to that week.
+7. Raise a PR with the changes.
 
 ### New Project
 Please keep in mind that the Boardroom team will need to add your project before it displays on the portal. Raise a new PR by following the steps below:
