@@ -77,7 +77,7 @@ export const protocols = {
     path: "index",
     description:
       "The Index Coop is an autonomous asset manager governed, maintained, and upgraded by INDEX token holders.",
-    suffix: "$INDEX",
+    suffix: "INDEX",
     folder: "indexCoop",
   },
   siren: {
