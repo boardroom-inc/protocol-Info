@@ -1,0 +1,31 @@
+### Governance Update
+
+#### Recent Votes
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| COMPOUND-38 Adjust BAT, ZRX collateral factors | Parameter Change | [View](https://compound.finance/governance/proposals/38) |
+
+We’re excited to propose changes to the Compound protocol that will improve capital efficiency for borrowers. We’ve run extensive stress tests of the protocol, the results of which we have shared here. These results identify BAT and ZRX as two of the lowest risk collateral assets, and we are increasing the collateralFactor for these two assets to allow users to better take advantage of these markets.  
+This proposal Failed on Feb. 14th 
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| COMPOUND-37 Return Accidentally Sent Funds | Meta | [View](https://app.boardroom.info/index/poll/QmYQk1KQNN7gcaDpvy7w6C9rEjVJSanWdRPfebRo1CMewa) |
+
+This proposal is a meta-governance proposal to vote on Compound's proposal #37 using DPI. The Compound proposal acts to establish a policy for returning accidentally sent funds accessible by Governance under the terms specified in the proposal.  
+The proposal Passed and was executed on Feb. 14th
+
+#### Discussions
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Should Compound Retroactively Airdrop Tokens to Early Users? | Marketing/Strategy | [Discuss](https://www.comp.xyz/t/should-compound-retroactively-airdrop-tokens-to-early-users/595) |
+
+Protocols like Compound need more than just liquidity to succeed. They need developers who work on things like protocol upgrades and on integrations with the outside world (i.e. wallets, exchanges, dapps, other protocols, etc); they also need a set of long-term power users who take an interest and step up to participate in protocol governance.  
+Proposal for community to opt through governance to redirect 5% the total COMP supply to the ~5,000 addresses that interacted with the Compound protocol before June 8, 2020.
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Improving Liquidation | Parameter Change | [Discuss](https://www.comp.xyz/t/improving-liquidation/1180) |
+
+The Comptroller contract stores a Liquidation Incentive parameter, which is currently 8%. This incentive is used to entice liquidators to perform liquidations. Lately, “predatory” liquidators have begun burning the liquidation incentive in gas fees, earning no profit for themselves, and transferring all profit to miners (MEV).
+To solve this issue, the liquidation incentive can be split between the liquidator (5%), and the protocol reserves (3%).
