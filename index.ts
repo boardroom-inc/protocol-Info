@@ -80,6 +80,13 @@ export const protocols = {
     suffix: "INDEX",
     folder: "indexCoop",
   },
+  rally: {
+    name: "Rally",
+    path: 'rally',
+    description: "Through blockchain technology, creators will be able to verifiably identify. their biggest fans and provide personalized rewards. Rally is for fans of all sizes.",
+    suffix: "RLY",
+    folder: 'rally'
+  },
   siren: {
     name: "Siren",
     path: "siren",
