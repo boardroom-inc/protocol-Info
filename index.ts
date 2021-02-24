@@ -83,7 +83,7 @@ export const protocols = {
   rally: {
     name: "Rally",
     path: 'rally',
-    description: "Through blockchain technology, creators will be able to verifiably identify. their biggest fans and provide personalized rewards. Rally is for fans of all sizes.",
+    description: "Rally’s is a decentralized network enabling creators to monetize and align themselves with their community.",
     suffix: "RLY",
     folder: 'rally'
   },
