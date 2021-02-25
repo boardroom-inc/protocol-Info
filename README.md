@@ -1,10 +1,17 @@
-[![Discord][discord-shield]][discord-url]
-[![Twitter][twitter-shield]][twitter-url]
+<p align="center">
+  <a href="https://discord.gg/CEZ8WfuK8s">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+  <a href="https://twitter.com/boardroom_info">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
 
 <br />
 <p align="center">
   <a href="http://app.boardroom.info/">
-    <img src="https://i.ibb.co/tBt9dLq/transparentblacktextsmall.png" alt="Logo" width="500" height="100">
+    <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom" width="450" />
   </a>
 
   <h3 align="center">Boardroom Project Information Repo</h3>
@@ -163,8 +170,3 @@ Please keep in mind that the Boardroom team will need to add your project before
 
 Please reach out in Discord with any questions! 
 * Boardroom Support Channel - [#❓support](https://discord.gg/CEZ8WfuK8s)
-
-[discord-shield]: https://img.shields.io/badge/Discord-Join-blueviolet?style=for-the-badge&logo=discord&logoColor=white
-[discord-url]: https://discord.gg/CEZ8WfuK8s
-[twitter-shield]: https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: https://twitter.com/boardroom_info
