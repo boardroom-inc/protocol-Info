@@ -117,6 +117,14 @@ export const protocols = {
     suffix: "YAM",
     folder: "yamv2",
   },
+  yup: {
+    name: "Yup",
+    path: "yup",
+    description: "YOUR OPINION MATTERS. CURATE THE WEB. EARN &INFLUENCE.",
+    suffix: "YUP",
+    folder: "yup",
+    snapshotSpaceName: "yup.eth"
+  }
 };
 
 export const protocolBranding = {
