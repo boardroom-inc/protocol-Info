@@ -77,8 +77,15 @@ export const protocols = {
     path: "index",
     description:
       "The Index Coop is an autonomous asset manager governed, maintained, and upgraded by INDEX token holders.",
-    suffix: "$INDEX",
+    suffix: "INDEX",
     folder: "indexCoop",
+  },
+  rally: {
+    name: "Rally",
+    path: 'rally',
+    description: "Rally’s is a decentralized network enabling creators to monetize and align themselves with their community.",
+    suffix: "RLY",
+    folder: 'rally'
   },
   siren: {
     name: "Siren",
