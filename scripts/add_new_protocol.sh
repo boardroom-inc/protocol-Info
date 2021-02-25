@@ -9,7 +9,7 @@ do
 		else
 			mkdir -p ./$arg
 			mkdir -p ./$arg/calls
-			touch ./$arg/event.json
+			touch ./$arg/events.json
 			touch ./$arg/overview.md
 			touch ./$arg/logo.png
 			touch ./$arg/header.png
