@@ -117,12 +117,12 @@ export const protocols = {
     suffix: "YAM",
     folder: "yamv2",
   },
-  yup: {
+  "yup.eth": {
     name: "Yup",
-    path: "yup",
-    description: "YOUR OPINION MATTERS. CURATE THE WEB. EARN &INFLUENCE.",
+    path: "yup.eth",
+    description: "Your opinion matters. Curate the web. Earn & influence.",
     suffix: "YUP",
-    folder: "yup",
+    folder: "yup.eth",
     snapshotSpaceName: "yup.eth"
   }
 };
