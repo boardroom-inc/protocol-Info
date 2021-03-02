@@ -56,13 +56,13 @@ export const protocols = {
     suffix: "PcDAI",
     folder: "pooltogether",
   },
-  gnosis: {
+  "gnosis.eth": {
     name: "Gnosis",
-    path: "gnosis",
+    path: "gnosis.eth",
     description:
       "Gnosis is an open-source, decentralized prediction market governed by the GnosisDAO.",
     suffix: "GNO",
-    folder: "gnosis",
+    folder: "gnosis.eth",
   },
   defidollar: {
     name: "DefiDollar DAO",
