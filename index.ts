@@ -122,9 +122,9 @@ export const protocols = {
     path: "yup.eth",
     description: "Your opinion matters. Curate the web. Earn & influence.",
     suffix: "YUP",
-    folder: "yup.eth",
-    snapshotSpaceName: "yup.eth"
-  }
+    folder: "yup",
+    snapshotSpaceName: "yup.eth",
+  },
 };
 
 export const protocolBranding = {
