@@ -18,7 +18,7 @@ export const protocols = {
   },
   synthetix: {
     name: "Synthetix",
-    path: "synthetix",
+    path: "synthetixproposal",
     description:
       "Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum.",
     suffix: "SNX",
