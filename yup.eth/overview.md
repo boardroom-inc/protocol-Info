@@ -1,12 +1,6 @@
-## Overview
-
----
-
 Yup is a protocol that rewards curators for tastemaking. By doing so, it creates a social consensus layer for the internet, accurately representing the agreed-upon social value of **anything**, from random Tweets to your history professor. It does this by interacting with the Yup Protocol, which is a decentralized semi-autonomous social consensus protocol that determines the rewards and social value of all content based on users' interactions with it. ( [Learn More](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/protocol.md) )
 
 ## Governance Process
-
----
 
 **💬  1. Share Request on Yup's [Forum](http://forum.yup.io)**
 
