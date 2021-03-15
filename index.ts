@@ -23,6 +23,7 @@ export const protocols = {
       "Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum.",
     suffix: "SC-NFT",
     folder: "synthetix",
+    safeAddress: "0x438679ECE13EDB95aDD18Ed02dDbf5e2418FF730",
   },
   yearn: {
     name: "Yearn",
