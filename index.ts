@@ -126,6 +126,14 @@ export const protocols = {
     folder: "yup",
     snapshotSpaceName: "yup.eth",
   },
+  "gov.dhedge.eth": {
+    name: "dHEDGE",
+    path: "gov.dhedge.eth",
+    description: "Invest like the best. Decentralized hedge funds on Ethereum",
+    suffix: "DHT",
+    folder: "dhedge",
+    snapshotSpaceName: "gov.dhedge.eth",
+  },
 };
 
 export const protocolBranding = {
