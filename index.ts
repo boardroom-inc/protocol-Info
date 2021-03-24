@@ -125,6 +125,7 @@ export const protocols = {
     suffix: "YUP",
     folder: "yup",
     snapshotSpaceName: "yup.eth",
+    safeAddress: "0xbd5224f66D5ce49a8Afefc14a76248D158D14c6F",
   },
 };
 
