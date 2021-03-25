@@ -127,6 +127,14 @@ export const protocols = {
     snapshotSpaceName: "yup.eth",
     safeAddress: "0xbd5224f66D5ce49a8Afefc14a76248D158D14c6F",
   },
+  "gov.dhedge.eth": {
+    name: "dHEDGE",
+    path: "gov.dhedge.eth",
+    description: "Invest like the best. Decentralized hedge funds on Ethereum",
+    suffix: "DHT",
+    folder: "dhedge",
+    snapshotSpaceName: "gov.dhedge.eth",
+  },
 };
 
 export const protocolBranding = {
