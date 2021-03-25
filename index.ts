@@ -130,7 +130,7 @@ export const protocols = {
   "gov.dhedge.eth": {
     name: "dHEDGE",
     path: "gov.dhedge.eth",
-    description: "Invest like the best. Decentralized hedge funds on Ethereum",
+    description: "Non-custodial, decentralized asset management for synthetic assets on Ethereum",
     suffix: "DHT",
     folder: "dhedge",
     snapshotSpaceName: "gov.dhedge.eth",
