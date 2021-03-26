@@ -61,7 +61,7 @@ export const protocols = {
     name: "Gnosis",
     path: "gnosis.eth",
     description:
-      "Gnosis is an open-source, decentralized prediction market governed by the GnosisDAO.",
+      "GnosisDAO uses Gnosis products to transparently guide decisions on development, support, and governance of its token ecosystem.",
     suffix: "GNO",
     folder: "gnosis.eth",
   },
