@@ -1,0 +1,25 @@
+{
+  "name": "DefiDollar DAO",
+  "description": "DUSD is a stablecoin controlled by a DAO using DeFi primitives to remain pegged to the Dollar.",
+  "path": "defidollar",
+  "folder": "defidollar",
+  "type": "snapshot",
+  "suffix": "DFD",
+  "coinGeckoPriceString": "defidollar-dao",
+  "tokenContractAddress": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+  "isEnabled": true,
+  "hasOnchain": false,
+  "isHybrid": false,
+  "hasDelegation": false,
+  "snapshotSpaceName": "defidolla.eth",
+  "invalidSnapshots": [
+    "QmZUUs11CVfwPapHMs53N1ZbmeAzu3bhkfZJFRyENS9kGf",
+    "QmQG2ppd3TwTGK87KAX7rgyWVEkKo31tXCKw9f6GFQrhHA",
+    "QmYRKXzmqLVSD9ao3Sba3EsJcAbD3spG58Cg5wznVrnMUM",
+    "QmehCJcrywhtgU93vFu1AoeVPSzzYf8jBUEED7mBx15U4R",
+    "QmYRKXzmqLVSD9ao3Sba3EsJcAbD3spG58Cg5wznVrnMUM"
+  ],
+  "branding": {},
+  "discourseForum": {},
+  "safeAddress": null
+}
