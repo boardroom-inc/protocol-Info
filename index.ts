@@ -67,7 +67,7 @@ export const protocols = {
   },
   defidollar: {
     name: "DefiDollar DAO",
-    path: "defidollar",
+    path: "defidolla.eth",
     description:
       "DUSD is a stablecoin controlled by a DAO using DeFi primitives to remain pegged to the Dollar.",
     suffix: "DFD",
