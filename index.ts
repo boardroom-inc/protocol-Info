@@ -135,6 +135,14 @@ export const protocols = {
     folder: "dhedge",
     snapshotSpaceName: "gov.dhedge.eth",
   },
+  "compoundgrants.eth": {
+    name: "Compound Grants Program",
+    path: "compoundgrants.eth",
+    description: "The Compound Grants Program is a 4/7 multisig controlled committee that will deploy a maximum of $1mm per quarter and run for two quarters.",
+    suffix: "CGP",
+    folder: "compoundgrants",
+    snapshotSpaceName: "compoundgrants.eth"
+  }
 };
 
 export const protocolBranding = {
