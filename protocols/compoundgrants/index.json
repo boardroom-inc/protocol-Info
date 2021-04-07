@@ -1,0 +1,18 @@
+{
+	"compoundgrants.eth": {
+    "name": "Compound Grants Program",
+    "path": "compoundgrants.eth",
+    "description": "The Compound Grants Program is a 4/7 multisig controlled committee that will deploy a maximum of $1mm per quarter and run for two quarters.",
+    "suffix": "COMP",
+    "folder": "compoundgrants",
+    "snapshotSpaceName": "compoundgrants.eth",
+    "hasDelegation": false,
+    "hasOnchain": false,
+    "isCompoundish": false,
+    "isHybrid": false,
+    "isCouncil": false,
+    "hasSnapshot": true,
+    "invalidSnapshots": [],
+    "coinGeckoPriceString": "compound-governance-token"
+  }
+}
