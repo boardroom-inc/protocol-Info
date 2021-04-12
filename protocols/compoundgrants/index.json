@@ -1,5 +1,5 @@
 {
-  "name": "Compound Grants Program",
+  "name": "Compound Grants",
   "description": "The Compound Grants Program is a 4/7 multisig controlled committee that will deploy a maximum of $1mm per quarter and run for two quarters.",
   "path": "compoundgrants.eth",
   "folder": "compoundgrants",
