@@ -1,0 +1,28 @@
+{
+  "name": "Rarible",
+  "description": "Rarible is the premiere NFT marketplace to mint, buy, and sell digital collectibles.",
+  "path": "rarible",
+  "folder": "rarible",
+  "type": "snapshot",
+  "suffix": "RARI",
+  "coinGeckoPriceString": "rarible",
+  "tokenContractAddress": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+  "isEnabled": true,
+  "hasOnchain": false,
+  "isHybrid": false,
+  "hasDelegation": false,
+  "snapshotSpaceName": "rarible",
+  "invalidSnapshots": [
+    "QmSgtwCz33ub4BXYZCfdZHAdWSNAPhaTZUU94VJzGYFCXi",
+    "QmNg7ZNi8xb7kBBMHPxvSHUYUcm28UeAkfkjAeRejG5LGy",
+    "QmaV43F4RRX2GYc42dwV7esTvVmp6Mb4pi5uZfKjgFxcn3",
+    "QmXUVjiANVc7cYdioyMvk4T9wandAFUfmdHAQov5Xhfra1",
+    "QmYjtVqeL7adETmmLqeefsasFRk4WZk4eZZjWJAgfsRxdz"
+  ],
+  "branding": {},
+  "discourseForum": {
+    "url": "https://gov.rarible.com",
+    "categoryId": "7"
+  },
+  "safeAddress": null
+}

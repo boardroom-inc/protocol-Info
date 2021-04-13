@@ -1,0 +1,20 @@
+{
+  "name": "Compound",
+  "description": "Compound is a decentralized money market protocol to borrow and lend assets.",
+  "path": "compound",
+  "folder": "compound",
+  "type": "compoundish",
+  "suffix": "COMP",
+  "coinGeckoPriceString": "compound-governance-token",
+  "tokenContractAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+  "governanceContractAddress": "0xc0da01a04c3f3e0be433606045bb7017a7323e38",
+  "isEnabled": true,
+  "hasOnchain": true,
+  "isHybrid": false,
+  "hasDelegation": true,
+  "snapshotSpaceName": "compound",
+  "invalidSnapshots": [],
+  "branding": {},
+  "discourseForum": {},
+  "safeAddress": null
+}

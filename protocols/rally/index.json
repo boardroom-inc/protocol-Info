@@ -1,0 +1,19 @@
+{
+  "name": "Rally",
+  "description": "Rally is a decentralized network enabling creators to monetize and align themselves with their community.",
+  "path": "rally",
+  "folder": "rally",
+  "type": "snapshot",
+  "suffix": "RLY",
+  "coinGeckoPriceString": "rally-2",
+  "tokenContractAddress": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+  "isEnabled": true,
+  "hasOnchain": false,
+  "isHybrid": false,
+  "hasDelegation": false,
+  "snapshotSpaceName": "rally",
+  "invalidSnapshots": [],
+  "branding": {},
+  "discourseForum": {},
+  "safeAddress": null
+}
