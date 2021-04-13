@@ -1,67 +1,29 @@
 **Uniswap is a decentralized exchange protocol that enables trading between any Ethereum tokens. Liquidity providers can deposit asset pairs to earn trading fees, in exchange for bearing risk of losses from large price movements.**
 
-While the protocol has relatively few risk parameters or other admin controls requiring intervention, UNI holders are empowered to control the Uniswap treasury (including the remaining 45% of UNI supply allocated to the community) as well as activate the 0.05% protocol swap fee to begin earning revenue.
+Uniswap protocol is goverened and upgraded by UNI token holders, using three distinct components; the UNI token, governance module, and Timelock. Together, these contracts allow the community to propose, vote, and implement changes to the uniswap protocol.
 
-The majority of informal discussion takes place in Uniswap's Discord chat, with more formal proposals being aired in the Discourse forum. Both venues currently have relatively high participation and usage (likely a result of the recent airdrop raising awareness, and the ability of voters/participants to influence forthcoming incentive/distribution programs).
+Any addresses with more than 10M UNI delegated to it may propose governance actions, which contain finished, executable code. When a proposal is created, the community can cast their votes during a 3 day voting period. If a majority, and at least 4M votes are cast for the proposal, it is queued in the Timelock, and may be executed in a minimum of 2 days.
 
 Governance Process
 ------------------
 
 Uniswap uses Compound governance architecture for proposals and voting, with some minor modifications. Uniswap's token supply is 1 billion UNI versus Compound's 10 million COMP supply, so while the relevant proposal and quorum thresholds are equal in percentage terms at 1% and 4% of total voting power, the number of UNI tokens required to pass a proposal is higher. Additionally, while Compound uses a ~2.5 day voting period, Uniswap allows voting over a 7 day period.
 
-### Phase 1: Temperature Check (Discourse/Snapshot)
+#### Phase 1: Temperature Check
 
-The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo.
+The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo. Voters use Snapshot to indicate their interest in bringing it forward to the next stage, linked from a governance forum post.
 
-To create a Temperature Check:
+#### Phase 2: Consensus Check
 
-1.  Ask a general, non-biased question to the community on [gov.uniswap.org](http://gov.uniswap.org/) about a potential change (example: "Should Uniswap governance add liquidity mining for XYZ token?"). Forum posts should be labeled as follows: "Temperature Check - [Your Title Here]". The forum post should include a link to the associated Snapshot poll.
+The purpose of the Consensus Check is to establish formal discussion around a potential proposal. This is done through a follow up Snapshot proposal - a 50k UNI yes-vote quorum is required for the Consensus Check to pass.
 
-2.  Voters use Snapshot to indicate their interest in bringing it forward to the next stage. Snapshot poll lengths should be set to 3 days.
-
-That's it! You've just started the process of gaining support for a proposal. At the end of the 3 days, a majority vote with a 25k UNI yes-vote threshold wins.
-
-If the Temperature check does not suggest a change from the status quo, the topic will be closed on the governance site. If the Temperature Check does suggest a change, proceed to Stage 2: Consensus Check.
-
-### Phase 2: Consensus Check (Discourse/Snapshot)
-
-The purpose of the Consensus Check is to establish formal discussion around a potential proposal.
-
-To create a Consensus Check:
-
-1.  Use feedback from the Temperature Check post and create a new Snapshot poll which covers the options which have gained support. This poll can either be binary or multiple choice but should include the option "Make no change" or its equivalent. Set the poll duration to 5 days.
-
-2.  Create a new topic in the Proposal Discussion category on [gov.uniswap.org](http://gov.uniswap.org/) titled "Consensus Check --- [Your Title Here]". This will alert the community that this topic has already passed Temperature Check. Any topics beginning with Consensus Check that have not passed Temperature Check should be immediately be removed by community moderators. Make sure that the discussion thread links to the new Snapshot poll and the Temperature Check thread.
-
-3.  Reach out to your network to build support for the proposal. Discuss the proposal and solicit delegates to vote on it. Be willing to respond to questions on the Consensus Check topic. Share your view point, although try to remain as impartial as possible.
-
-At the end of 5 days, whichever option has the majority of votes wins, and can be included in a governance proposal for Stage 3. A 50k UNI yes-vote quorum is required for the Consensus Check to pass.
-
-If the option "Make no change" wins, the Consensus Check topic should be closed by community moderators.
-
-### Phase 3: Governance Proposal (Governance Portal)
+#### Phase 3: Governance Proposal
 
 Phase 3 is the final step of the governance process. The proposal should be based on the winning outcome from the Consensus Check and can consist of one or multiple actions, up to a maximum of 10 actions per proposal.
 
-To create a Governance Proposal:
+#### Soft Governance:
 
-1.  Write the code for your proposal, which can be voted on through any Governance Portal. More resources can be found [here](https://compound.finance/docs/governance#propose). All proposed code should be audited by a professional auditor. This auditing process could be paid or reimbursed by the community treasury.
-
-2.  Ensure at least 10 million UNI is delegated to your address in order to submit a proposal, or find a delegate who has enough delegated UNI to meet the proposal threshold to propose on your behalf.
-
-3.  Create a topic in the Proposal Discussion category on [gov.uniswap.org](http://gov.uniswap.org/) titled "Governance Proposal [Proposal Number] --- [Your Title Here]" and link to any relevant Snapshot polls/discussion threads as well as the code audit report. Proposal numbers should be in a "UP###" format. For example, the first Uniswap Proposal should be titled UP001, the second UP002, and so on. Topics that begin with "Governance Proposal" that have not successfully passed the Temperature Check and Consensus Check stages should be removed by community moderators.
-
-4.  Call the propose() function of the Governor Alpha to deploy your proposal.
-
-Once the propose() function has been called, a seven day voting period is started. Ongoing discussion can take place in the [gov.uniswap.org](http://gov.uniswap.org/) forum. If the proposal passes successfully, a two day timelock will follow before the proposed code is executed.
-
-### Soft Governance:
-
-The process described above lays out a structure for those wishing to host a formal vote on a particular issue.
-
-However, governance systems also require a degree of "meta governance" discussions that inform the direction of and the implementation processes behind policy, but which don't qualify as policy themselves.
-
-The community may discuss new ideas and strategies for governance --- including changes to the process outlined above --- in the "Governance-Meta" category. On-chain voting is not necessary to make updates to off-chain processes.
+The process described above lays out a structure for those wishing to host a formal vote on a particular issue. However, governance systems also require a degree of "meta governance" discussions that inform the direction of and the implementation processes behind policy, but which don't qualify as policy themselves. The community may discuss new ideas and strategies for governance in the "Governance-Meta" category of the forum. On-chain voting is not necessary to make updates to off-chain processes.
 
 Additional Resources
 --------------------
