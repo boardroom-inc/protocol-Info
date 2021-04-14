@@ -19,6 +19,7 @@
   },
   "scripts": {
     "build": "ts-node ./scripts/build.ts",
+    "prepare": "yarn build",
     "validate": "yarn build && ts-node ./scripts/validate.ts"
   }
 }
