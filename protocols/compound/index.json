@@ -7,7 +7,7 @@
   "suffix": "COMP",
   "coinGeckoPriceString": "compound-governance-token",
   "tokenContractAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-  "governanceContractAddress": "0xc0da01a04c3f3e0be433606045bb7017a7323e38",
+  "governanceContractAddress": "0xc0da02939e1441f497fd74f78ce7decb17b66529",
   "isEnabled": true,
   "hasOnchain": true,
   "isHybrid": false,
