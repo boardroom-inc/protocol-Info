@@ -1,4 +1,5 @@
 {
+  "cname": "compound",
   "name": "Compound",
   "description": "Compound is a decentralized money market protocol to borrow and lend assets.",
   "path": "compound",
