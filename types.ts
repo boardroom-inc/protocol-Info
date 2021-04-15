@@ -1,7 +1,7 @@
 import * as t from "io-ts";
 
 export const ProtocolIo = t.type({
-  id: t.string,
+  cname: t.string,
   name: t.string,
   description: t.string,
   path: t.string,
