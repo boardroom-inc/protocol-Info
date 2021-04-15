@@ -1,4 +1,5 @@
 {
+  "id": "uniswap",
   "name": "Uniswap",
   "description": "Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.",
   "path": "uniswap",
