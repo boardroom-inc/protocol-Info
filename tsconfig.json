@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
-    "outDir": "dist",
+    "outDir": ".",
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -10,5 +10,7 @@
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
     "resolveJsonModule": true
-  }
+  },
+  "include": ["./dist"],
+  "exclude": ["./node_modules"]
 }

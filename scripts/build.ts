@@ -8,9 +8,12 @@ const protocolInfo = protocols.map((protocol) =>
 );
 
 mkdirp.sync("./dist");
-fs.copyFileSync("./index.d.ts", "./dist/index.d.ts");
 fs.copyFileSync("./types.ts", "./dist/types.ts");
 fs.writeFileSync(
   "./dist/index.ts",
-  `export default [${protocolInfo.toString()}];`
+  `
+  import { Protocol } from "../types";
+
+  export default [${protocolInfo.toString()}] as Protocol[];
+  `
 );

@@ -1,5 +1,4 @@
-import { Protocol } from "./types";
-
-declare module "boardroomInfo" {
-  export = Protocol;
+declare module "@boardroom/protocol-info" {
+  function protocolInfo(): void;
+  export = protocolInfo;
 }
