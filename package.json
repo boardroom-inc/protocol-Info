@@ -4,6 +4,10 @@
   "description": "Project information which will be served to display on the Boardroom Governance Portal.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "files":  [
+    "dist/index.js",
+    "dist/index.d.ts"
+  ],
   "repository": "https://github.com/boardroom-inc/protocol-Info.git",
   "author": "sudheer <sudheer.105@gmail.com>",
   "license": "MIT",
