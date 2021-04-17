@@ -22,3 +22,17 @@ This one speaks for itself: bug fixes and minor protocol updates will be covered
 
 #### Other Improvements
 It’s difficult to know ahead of time all of the grant applications that will come through. Just because an application does not fit neatly into one of the above buckets doesn’t mean it’s not valuable to the Compound ecosystem. So long as an application benefits Compound directly, we will consider it for a grant. Applications for miscellaneous improvements to Compound fall into this bucket. Because the scope of this bucket is broad, we consider it to be low priority compared to the narrowly scoped buckets above.
+
+### ❓ How do I apply for a grant?
+#### Rapid Grants
+Fill out [this](https://compoundgrants.org/Apply-here-b5249135633645a0bf902d0517b377fc) application. The application will only be shared with members of the grants committee.
+
+#### Community Grants
+Post your application in the [grants category](https://www.comp.xyz/c/grants/10) of Compound's forum.
+
+### Which application is right for me?
+If you're applying for a rapid grant (<$125k), we recommend going through the [private application](https://compoundgrants.org/Apply-here-b5249135633645a0bf902d0517b377fc) process. It's a faster process, so you'll get an answer more quickly
+
+If you're applying for a community grant ($125k+), we recommend going through the public application process by posting your application in the [grants category](https://www.comp.xyz/c/grants/10) of Compound's forum. 
+
+Still not sure? Email us at support@compoundgrants.org and we'll help you figure out the process that's right for you.
