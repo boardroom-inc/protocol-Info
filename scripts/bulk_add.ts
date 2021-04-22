@@ -1,4 +1,5 @@
 import axios from "axios";
+import fs from "fs";
 
 const SNAPSHOT_API = "https://hub.snapshot.page/api/";
 
@@ -54,6 +55,14 @@ function extractTokenAddress(space: Space): string | null {
   }
 }
 
+async function extractTokenAbi(tokenAddress: string) {
+  const data = await axios.get(
+    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=${process.env.ETHERSCAN_API_TOKEN}`,
+  );
+
+  console.log(data);
+}
+
 async function run() {
   const allMainnetSpaces = await fetchMainnetSpaces();
 
@@ -63,10 +72,13 @@ async function run() {
 
   // console.log(Object.keys(withMembers).length);
 
+  fs.writeFileSync("./allprotocols.json", JSON.stringify(withMembers));
+
   for (let i = 0; i < Object.keys(withMembers).length; i++) {
     const key = Object.keys(withMembers)[i];
 
     const tokenAddress = extractTokenAddress(withMembers[key]);
+    const tokenAbi = extractTokenAbi(tokenAddress);
 
     console.log(tokenAddress);
   }
