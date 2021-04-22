@@ -44,16 +44,32 @@ async function fetchMainnetSpaces() {
   return filtered;
 }
 
+function extractTokenAddress(space: Space): string | null {
+  const strategyWithAddress = space.strategies.find((strategy) => strategy.name === "erc20-balance-of");
+
+  if (strategyWithAddress) {
+    return strategyWithAddress.params.address;
+  } else {
+    return null;
+  }
+}
+
 async function run() {
   const allMainnetSpaces = await fetchMainnetSpaces();
 
-  console.log(Object.keys(allMainnetSpaces).length);
+  // console.log(Object.keys(allMainnetSpaces).length);
 
   const withMembers = filterObject(allMainnetSpaces, (space: Space) => space.members && space.members.length > 4);
 
-  console.log(Object.keys(withMembers).length);
+  // console.log(Object.keys(withMembers).length);
 
-  console.log(withMembers);
+  for (let i = 0; i < Object.keys(withMembers).length; i++) {
+    const key = Object.keys(withMembers)[i];
+
+    const tokenAddress = extractTokenAddress(withMembers[key]);
+
+    console.log(tokenAddress);
+  }
 }
 
 run();
