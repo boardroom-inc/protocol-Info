@@ -8,6 +8,7 @@ interface Space {
   filters: any;
   name: string;
   network: string; // '1', '56', etc
+  members?: [];
   symbol: string;
   domain: string;
   about: string;
@@ -19,7 +20,7 @@ function filterObject(obj: any, predicate: Function) {
   let result: Record<string, any> = {};
 
   for (let key in obj) {
-    if (obj.hasOwnProperty(key) && !predicate(obj[key])) {
+    if (obj.hasOwnProperty(key) && predicate(obj[key])) {
       result[key] = obj[key];
     }
   }
@@ -38,13 +39,21 @@ async function fetchAllSpaces(): Promise<Record<string, Space>> {
 async function fetchMainnetSpaces() {
   const allSpaces = await fetchAllSpaces();
 
-  const filtered = filterObject(allSpaces, (space: Space) => space.network !== "1");
+  const filtered = filterObject(allSpaces, (space: Space) => space.network === "1");
 
   return filtered;
 }
 
-fetchMainnetSpaces();
+async function run() {
+  const allMainnetSpaces = await fetchMainnetSpaces();
 
-// async function run() {
+  console.log(Object.keys(allMainnetSpaces).length);
 
-// }
+  const withMembers = filterObject(allMainnetSpaces, (space: Space) => space.members && space.members.length > 4);
+
+  console.log(Object.keys(withMembers).length);
+
+  console.log(withMembers);
+}
+
+run();
