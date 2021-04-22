@@ -7,21 +7,42 @@ do
     then
         echo "Pass in the name of the protocol whose info you want to add. e.g: ./add_new_protocol.sh rarible"
 		else
-			mkdir -p ./$arg
+			mkdir -p ./protocols/$arg
 			
-			mkdir -p ./$arg/resources
-			mkdir -p ./$arg/resources/calls
-			mkdir -p ./$arg/resources/Gov Weekly
+			mkdir -p ./protocols/$arg/resources
+			mkdir -p ./protocols/$arg/resources/calls
+			mkdir -p ./protocols/$arg/resources/Gov Weekly
 			
-			mkdir -p ./$arg/contracts
-			touch ./$arg/contracts/governance.json
-			touch ./$arg/contracts/token.json
+			mkdir -p ./protocols/$arg/contracts
+			touch ./protocols/$arg/contracts/governance.json
+			touch ./protocols/$arg/contracts/token.json
 
-			touch ./$arg/index.json
-			touch ./$arg/events.json
-			touch ./$arg/overview.md
-			touch ./$arg/logo.png
-			touch ./$arg/header.png
+			touch ./protocols/$arg/index.json
+			touch ./protocols/$arg/events.json
+			touch ./protocols/$arg/overview.md
+			touch ./protocols/$arg/logo.png
+			touch ./protocols/$arg/header.png
+
+			echo `{ 
+				"cname": $arg,
+				"name": $arg,
+				"description": "",
+				"path": $arg,
+				"previousPaths": [],
+				"folder": $arg,
+				"type": "snapshot",
+				"suffix": "",
+				"coinGeckoPriceString": "",
+				"tokenContractAddress": "",
+				"isEnabled": false,
+				"hasOnchain": false,
+				"isHybrid": false,
+				"hasDelegation": false,
+				"snapshotSpaceName": "",
+				"invalidSnapshots": [],
+				"branding": {},
+				"discourseForum": {},
+				"safeAddress": null }` >> ./protocols/$arg/index.json
 		fi
 done
 
