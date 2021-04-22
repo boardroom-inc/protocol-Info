@@ -23,26 +23,27 @@ do
 			touch ./protocols/$arg/logo.png
 			touch ./protocols/$arg/header.png
 
-			echo `{ 
-				"cname": $arg,
-				"name": $arg,
-				"description": "",
-				"path": $arg,
-				"previousPaths": [],
-				"folder": $arg,
-				"type": "snapshot",
-				"suffix": "",
-				"coinGeckoPriceString": "",
-				"tokenContractAddress": "",
-				"isEnabled": false,
-				"hasOnchain": false,
-				"isHybrid": false,
-				"hasDelegation": false,
-				"snapshotSpaceName": "",
-				"invalidSnapshots": [],
-				"branding": {},
-				"discourseForum": {},
-				"safeAddress": null }` >> ./protocols/$arg/index.json
+echo '{ 
+	"cname": "",
+	"name": "",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}' >> ./protocols/$arg/index.json
 		fi
 done
 

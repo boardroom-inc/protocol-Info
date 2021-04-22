@@ -1,2 +1,21 @@
-
-
+{ 
+	"cname": "",
+	"name": "",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}
