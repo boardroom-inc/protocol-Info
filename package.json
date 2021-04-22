@@ -25,8 +25,12 @@
     "typescript": "^4.1.3"
   },
   "scripts": {
+    "bulkAdd": "ts-node ./scripts/bulk_add.ts",
     "build": "ts-node ./scripts/build.ts && tsc -d",
     "prepare": "yarn build",
     "validate": "yarn build && ts-node ./scripts/validate.ts"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
   }
 }
