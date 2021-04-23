@@ -104,6 +104,8 @@ async function run() {
   for (let i = 0; i < Object.keys(notDed).length; i++) {
     const key = Object.keys(notDed)[i];
 
+    console.log("Writing: ", key);
+
     const tokenAddress = extractTokenAddress(notDed[key]);
 
     exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress}`, (error, stdout, stderr) => {
