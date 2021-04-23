@@ -10,7 +10,6 @@
   "tokenContractAddress": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
   "isEnabled": true,
   "hasOnchain": false,
-  "isHybrid": false,
   "hasDelegation": false,
   "snapshotSpaceName": "index",
   "invalidSnapshots": [

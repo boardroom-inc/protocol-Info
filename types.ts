@@ -14,7 +14,6 @@ export const ProtocolIo = t.type({
   governanceContractAddress: t.union([t.string, t.undefined]),
   isEnabled: t.boolean,
   hasOnchain: t.boolean,
-  isHybrid: t.boolean,
   hasDelegation: t.boolean,
   snapshotSpaceName: t.union([t.string, t.undefined]),
   invalidSnapshots: t.union([t.array(t.string), t.undefined]),

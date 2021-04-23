@@ -10,7 +10,6 @@
   "tokenContractAddress": "0x0000000000000000000000000000000000000000",
   "isEnabled": true,
   "hasOnchain": false,
-  "isHybrid": false,
   "hasDelegation": false,
   "snapshotSpaceName": "example.eth",
   "invalidSnapshots": [],

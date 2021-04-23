@@ -10,7 +10,6 @@
   "tokenContractAddress": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
   "isEnabled": true,
   "hasOnchain": false,
-  "isHybrid": false,
   "hasDelegation": false,
   "snapshotSpaceName": "yup.eth",
   "invalidSnapshots": [],
