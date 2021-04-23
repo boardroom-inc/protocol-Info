@@ -24,12 +24,12 @@ do
 			touch ./protocols/$arg/header.png
 
 echo '{ 
-	"cname": "",
-	"name": "",
+	"cname": "'"$arg"'",
+	"name": "'"$arg"'",
 	"description": "",
 	"path": "",
 	"previousPaths": [],
-	"folder": "",
+	"folder": "'"$arg"'",
 	"type": "snapshot",
 	"suffix": "",
 	"coinGeckoPriceString": "",

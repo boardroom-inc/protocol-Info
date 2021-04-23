@@ -1,3 +1,4 @@
+import { exec } from "child_process";
 import axios from "axios";
 import fs from "fs";
 
@@ -55,12 +56,16 @@ function extractTokenAddress(space: Space): string | null {
   }
 }
 
-async function extractTokenAbi(tokenAddress: string) {
-  const data = await axios.get(
+async function extractTokenAbi(tokenAddress: string | null) {
+  if (!tokenAddress) {
+    return;
+  }
+
+  const res = await axios.get(
     `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=${process.env.ETHERSCAN_API_TOKEN}`,
   );
 
-  console.log(data);
+  return res.data.result;
 }
 
 async function run() {
@@ -74,13 +79,26 @@ async function run() {
 
   fs.writeFileSync("./allprotocols.json", JSON.stringify(withMembers));
 
-  for (let i = 0; i < Object.keys(withMembers).length; i++) {
+  // for (let i = 0; i < Object.keys(withMembers).length; i++) {
+  for (let i = 0; i < 2; i++) {
     const key = Object.keys(withMembers)[i];
 
     const tokenAddress = extractTokenAddress(withMembers[key]);
-    const tokenAbi = extractTokenAbi(tokenAddress);
 
-    console.log(tokenAddress);
+    const myShellScript = exec(`sh ./scripts/add_new_protocol.sh ${key}`, (error, stdout, stderr) => {
+      console.log(stdout);
+      console.log(stderr);
+
+      if (error !== null) {
+        console.log(`exec error: ${error}`);
+      }
+    });
+
+    console.log(myShellScript);
+
+    const tokenAbi = await extractTokenAbi(tokenAddress);
+
+    fs.writeFileSync(`./protocols/${key}/contracts/token.json`, JSON.stringify(tokenAbi));
   }
 }
 
