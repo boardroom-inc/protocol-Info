@@ -120,7 +120,7 @@ async function run() {
       fs.writeFileSync(`./protocols/${key}/contracts/token.json`, tokenAbi);
     }
 
-    await delay(500); // workaround for Etherscan api request limit
+    await delay(1000); // workaround for Etherscan api request limit
   }
 }
 
