@@ -89,6 +89,9 @@ async function extractTokenAbi(tokenAddress: string | null) {
   return res.data.result;
 }
 
+// workaround for Etherscan api request limit
+const delay = (ms: number) => new Promise((res) => setTimeout(res, ms));
+
 async function run() {
   const allMainnetSpaces = await fetchMainnetSpaces();
 
@@ -114,6 +117,8 @@ async function run() {
 
       fs.writeFileSync(`./protocols/${key}/contracts/token.json`, tokenAbi);
     }
+
+    await delay(500); // workaround for Etherscan api request limit
   }
 }
 
