@@ -1,39 +1,38 @@
 #!/bin/bash
 # A bash script to add protocol info directory skeleton
 
-for arg in "$@"
-do
-    if [ "$arg" == "--help" ] || [ "$arg" == "-h" ]
-    then
-        echo "Pass in the name of the protocol whose info you want to add. e.g: ./add_new_protocol.sh rarible"
-		else
-			mkdir -p ./protocols/$arg
-			
-			mkdir -p ./protocols/$arg/resources
-			mkdir -p ./protocols/$arg/resources/calls
-			mkdir -p ./protocols/$arg/resources/Gov Weekly
-			
-			mkdir -p ./protocols/$arg/contracts
-			touch ./protocols/$arg/contracts/governance.json
-			touch ./protocols/$arg/contracts/token.json
+if [ "$arg" == "--help" ] || [ "$arg" == "-h" ]
+then
+		echo "Pass in the name of the protocol whose info you want to add. e.g: ./add_new_protocol.sh rarible"
+else
+	mkdir -p ./protocols/$1
+	
+	mkdir -p ./protocols/$1/resources
+	mkdir -p ./protocols/$1/resources
+	mkdir -p ./protocols/$1/resources/calls
+	mkdir -p ./protocols/$1/resources/Gov Weekly
+	
+	mkdir -p ./protocols/$1/contracts
+	touch ./protocols/$1/contracts/governance.json
+	touch ./protocols/$1/contracts/token.json
 
-			touch ./protocols/$arg/index.json
-			touch ./protocols/$arg/events.json
-			touch ./protocols/$arg/overview.md
-			touch ./protocols/$arg/logo.png
-			touch ./protocols/$arg/header.png
+	touch ./protocols/$1/index.json
+	touch ./protocols/$1/events.json
+	touch ./protocols/$1/overview.md
+	touch ./protocols/$1/logo.png
+	touch ./protocols/$1/header.png
 
-echo '{ 
-	"cname": "'"$arg"'",
-	"name": "'"$arg"'",
+printf '{ 
+	"cname": "'"$1"'",
+	"name": "'"$1"'",
 	"description": "",
 	"path": "",
 	"previousPaths": [],
-	"folder": "'"$arg"'",
+	"folder": "'"$1"'",
 	"type": "snapshot",
 	"suffix": "",
 	"coinGeckoPriceString": "",
-	"tokenContractAddress": "",
+	"tokenContractAddress": "'"$2"'",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"isHybrid": false,
@@ -43,8 +42,7 @@ echo '{
 	"branding": {},
 	"discourseForum": {},
 	"safeAddress": null 
-}' >> ./protocols/$arg/index.json
+}' >| ./protocols/$1/index.json
 		fi
-done
 
 echo "Arg 1: $1"

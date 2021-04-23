@@ -1,0 +1,21 @@
+{ 
+	"cname": "seen",
+	"name": "seen",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "seen",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

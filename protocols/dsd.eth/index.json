@@ -1,0 +1,21 @@
+{ 
+	"cname": "dsd.eth",
+	"name": "dsd.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "dsd.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x6bf977ed1a09214e6209f4ea5f525261f1a2690a",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

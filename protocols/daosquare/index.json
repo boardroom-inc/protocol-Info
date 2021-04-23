@@ -1,0 +1,21 @@
+{ 
+	"cname": "daosquare",
+	"name": "daosquare",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "daosquare",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

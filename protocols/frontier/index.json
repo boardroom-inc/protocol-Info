@@ -1,0 +1,21 @@
+{ 
+	"cname": "frontier",
+	"name": "frontier",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "frontier",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

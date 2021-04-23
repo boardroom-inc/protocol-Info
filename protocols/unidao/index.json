@@ -1,0 +1,21 @@
+{ 
+	"cname": "unidao",
+	"name": "unidao",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "unidao",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xC1d204fC521F9e125a55dd8b2152d7344766cC21",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

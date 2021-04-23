@@ -1,0 +1,21 @@
+{ 
+	"cname": "cuni",
+	"name": "cuni",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "cuni",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

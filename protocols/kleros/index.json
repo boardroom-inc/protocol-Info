@@ -1,0 +1,21 @@
+{ 
+	"cname": "kleros",
+	"name": "kleros",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "kleros",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

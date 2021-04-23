@@ -1,0 +1,21 @@
+{ 
+	"cname": "esd.eth",
+	"name": "esd.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "esd.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

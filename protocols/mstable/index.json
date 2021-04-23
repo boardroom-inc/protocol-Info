@@ -1,0 +1,21 @@
+{ 
+	"cname": "mstable",
+	"name": "mstable",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "mstable",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

@@ -1,0 +1,21 @@
+{ 
+	"cname": "curve",
+	"name": "curve",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "curve",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

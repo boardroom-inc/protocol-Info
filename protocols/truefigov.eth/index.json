@@ -1,0 +1,21 @@
+{ 
+	"cname": "truefigov.eth",
+	"name": "truefigov.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "truefigov.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x23696914Ca9737466D8553a2d619948f548Ee424",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

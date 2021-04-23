@@ -1,0 +1,21 @@
+{ 
+	"cname": "bote",
+	"name": "bote",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "bote",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xb8eEe26B8305582fc3Fd9e950bE5E3d50c4765d8",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

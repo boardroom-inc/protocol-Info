@@ -15,8 +15,26 @@ interface Space {
   domain: string;
   about: string;
   twitter: string;
+  private?: boolean;
   github: string;
 }
+
+const deadOrInvalidSpaces = [
+  "FinNexus",
+  "ForTube(Ethereum)",
+  "GoldMining Token",
+  "Percent",
+  "QIAN(ETH)",
+  "ROPETHEVOTE",
+  "yearn.finance (archive)",
+  "KAIJU",
+  "OMG",
+  "Evolution Land",
+  "Yam Finance Signal",
+  "BIOPset House of Representatives",
+  "BeetsDAO",
+  "Scoobi-doge",
+];
 
 function filterObject(obj: any, predicate: Function) {
   let result: Record<string, any> = {};
@@ -41,17 +59,20 @@ async function fetchAllSpaces(): Promise<Record<string, Space>> {
 async function fetchMainnetSpaces() {
   const allSpaces = await fetchAllSpaces();
 
-  const filtered = filterObject(allSpaces, (space: Space) => space.network === "1");
+  const filtered = filterObject(allSpaces, (space: Space) => space.network === "1" && !space.private);
 
   return filtered;
 }
 
 function extractTokenAddress(space: Space): string | null {
-  const strategyWithAddress = space.strategies.find((strategy) => strategy.name === "erc20-balance-of");
+  const strategyWithAddress = space.strategies.find(
+    (strategy) => strategy.name === "erc20-balance-of" || strategy.name === "ctoken",
+  );
 
   if (strategyWithAddress) {
     return strategyWithAddress.params.address;
   } else {
+    console.log(space);
     return null;
   }
 }
@@ -71,34 +92,28 @@ async function extractTokenAbi(tokenAddress: string | null) {
 async function run() {
   const allMainnetSpaces = await fetchMainnetSpaces();
 
-  // console.log(Object.keys(allMainnetSpaces).length);
-
   const withMembers = filterObject(allMainnetSpaces, (space: Space) => space.members && space.members.length > 4);
 
-  // console.log(Object.keys(withMembers).length);
+  const notDed = filterObject(withMembers, (space: Space) => !deadOrInvalidSpaces.includes(space.name));
 
   fs.writeFileSync("./allprotocols.json", JSON.stringify(withMembers));
 
-  // for (let i = 0; i < Object.keys(withMembers).length; i++) {
-  for (let i = 0; i < 2; i++) {
-    const key = Object.keys(withMembers)[i];
+  for (let i = 0; i < Object.keys(notDed).length; i++) {
+    const key = Object.keys(notDed)[i];
 
-    const tokenAddress = extractTokenAddress(withMembers[key]);
+    const tokenAddress = extractTokenAddress(notDed[key]);
 
-    const myShellScript = exec(`sh ./scripts/add_new_protocol.sh ${key}`, (error, stdout, stderr) => {
-      console.log(stdout);
-      console.log(stderr);
-
+    exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress}`, (error, stdout, stderr) => {
       if (error !== null) {
         console.log(`exec error: ${error}`);
       }
     });
 
-    console.log(myShellScript);
+    if (tokenAddress) {
+      const tokenAbi = await extractTokenAbi(tokenAddress);
 
-    const tokenAbi = await extractTokenAbi(tokenAddress);
-
-    fs.writeFileSync(`./protocols/${key}/contracts/token.json`, JSON.stringify(tokenAbi));
+      fs.writeFileSync(`./protocols/${key}/contracts/token.json`, tokenAbi);
+    }
   }
 }
 

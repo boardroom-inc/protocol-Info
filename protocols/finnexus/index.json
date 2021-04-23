@@ -1,0 +1,21 @@
+{ 
+	"cname": "finnexus",
+	"name": "finnexus",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "finnexus",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

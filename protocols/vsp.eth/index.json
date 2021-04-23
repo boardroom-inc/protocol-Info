@@ -1,0 +1,21 @@
+{ 
+	"cname": "vsp.eth",
+	"name": "vsp.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "vsp.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xbA4cFE5741b357FA371b506e5db0774aBFeCf8Fc",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

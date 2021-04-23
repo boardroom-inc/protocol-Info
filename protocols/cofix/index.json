@@ -1,0 +1,21 @@
+{ 
+	"cname": "cofix",
+	"name": "cofix",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "cofix",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

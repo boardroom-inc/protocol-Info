@@ -1,0 +1,21 @@
+{ 
+	"cname": "council.graphprotocol.eth",
+	"name": "council.graphprotocol.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "council.graphprotocol.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

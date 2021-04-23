@@ -1,0 +1,21 @@
+{ 
+	"cname": "GamyFi.eth",
+	"name": "GamyFi.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "GamyFi.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

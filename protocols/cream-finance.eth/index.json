@@ -1,0 +1,21 @@
+{ 
+	"cname": "cream-finance.eth",
+	"name": "cream-finance.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "cream-finance.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}
