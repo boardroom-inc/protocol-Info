@@ -1,0 +1,26 @@
+{ 
+	"cname": "poh.eth",
+	"name": "poh.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "poh.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x1dAD862095d40d43c2109370121cf087632874dB",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

@@ -11,6 +11,11 @@
 	"tokenContractAddress": "null",
 	"isEnabled": false,
 	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "",

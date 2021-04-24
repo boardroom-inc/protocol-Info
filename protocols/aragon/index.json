@@ -1,0 +1,26 @@
+{ 
+	"cname": "aragon",
+	"name": "aragon",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "aragon",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

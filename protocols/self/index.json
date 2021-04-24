@@ -1,0 +1,26 @@
+{ 
+	"cname": "self",
+	"name": "self",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "self",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x67ab11058ef23d0a19178f61a050d3c38f81ae21",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

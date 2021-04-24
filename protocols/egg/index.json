@@ -11,6 +11,11 @@
 	"tokenContractAddress": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
 	"isEnabled": false,
 	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "",

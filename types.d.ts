@@ -8,6 +8,11 @@ export declare const ProtocolIo: t.TypeC<{
     folder: t.StringC;
     type: t.UnionC<[t.LiteralC<"snapshot">, t.LiteralC<"compoundish">]>;
     suffix: t.StringC;
+    claim: t.TypeC<{
+        isClaimed: t.BooleanC;
+        claimer: t.StringC;
+        signature: t.StringC;
+    }>;
     coinGeckoPriceString: t.StringC;
     tokenContractAddress: t.StringC;
     governanceContractAddress: t.UnionC<[t.StringC, t.UndefinedC]>;

@@ -1,0 +1,26 @@
+{ 
+	"cname": "pickle",
+	"name": "pickle",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "pickle",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

@@ -1,0 +1,26 @@
+{ 
+	"cname": "snapshot.floatprotocol.eth",
+	"name": "snapshot.floatprotocol.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "snapshot.floatprotocol.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x24a6a37576377f63f194caa5f518a60f45b42921",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

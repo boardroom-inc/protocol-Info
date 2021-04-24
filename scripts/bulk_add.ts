@@ -2,6 +2,8 @@ import { exec } from "child_process";
 import axios from "axios";
 import fs from "fs";
 
+import manualProtocols from "../allprotocols.json";
+
 const SNAPSHOT_API = "https://hub.snapshot.page/api/";
 
 interface Space {
@@ -31,10 +33,24 @@ const deadOrInvalidSpaces = [
   "OMG",
   "Evolution Land",
   "Yam Finance Signal",
+  "Yam Finance",
   "BIOPset House of Representatives",
   "BeetsDAO",
   "Scoobi-doge",
+  "GamyFi Governance",
+  "Proof Of Humanity",
+  "Strudel Finance",
+  "BOTE LABS",
+  "Aave",
+  "CoFiX",
+  "Shadowpakt",
+  "SouthChain Digital Asset Network",
+  "Gentlemen's Bank",
+  "AngelDAO",
+  "Index",
 ];
+
+const handSelectedSpaces = ["Ampleforth", "dHEDGE DAO"];
 
 function filterObject(obj: any, predicate: Function) {
   let result: Record<string, any> = {};
@@ -72,7 +88,6 @@ function extractTokenAddress(space: Space): string | null {
   if (strategyWithAddress) {
     return strategyWithAddress.params.address;
   } else {
-    console.log(space);
     return null;
   }
 }
@@ -83,7 +98,7 @@ async function extractTokenAbi(tokenAddress: string | null) {
   }
 
   const res = await axios.get(
-    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=${process.env.ETHERSCAN_API_TOKEN}`,
+    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=HBGSFRNGZIM43M3HKP377PF9M59Z4MM514`,
   );
 
   return res.data.result;
@@ -92,21 +107,13 @@ async function extractTokenAbi(tokenAddress: string | null) {
 // workaround for Etherscan api request limit
 const delay = (ms: number) => new Promise((res) => setTimeout(res, ms));
 
-async function run() {
-  const allMainnetSpaces = await fetchMainnetSpaces();
-
-  const withMembers = filterObject(allMainnetSpaces, (space: Space) => space.members && space.members.length > 4);
-
-  const notDed = filterObject(withMembers, (space: Space) => !deadOrInvalidSpaces.includes(space.name));
-
-  fs.writeFileSync("./allprotocols.json", JSON.stringify(withMembers));
-
-  for (let i = 0; i < Object.keys(notDed).length; i++) {
-    const key = Object.keys(notDed)[i];
+async function createSkeletons(spaces: Record<string, any>) {
+  for (let i = 0; i < Object.keys(spaces).length; i++) {
+    const key = Object.keys(spaces)[i];
 
     console.log("Writing: ", key);
 
-    const tokenAddress = extractTokenAddress(notDed[key]);
+    const tokenAddress = extractTokenAddress(spaces[key]);
 
     exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress}`, (error, stdout, stderr) => {
       if (error !== null) {
@@ -124,4 +131,25 @@ async function run() {
   }
 }
 
-run();
+async function run(argv: any) {
+  const args = argv.slice(2);
+
+  if (args[0] === "full") {
+    const allMainnetSpaces = await fetchMainnetSpaces();
+
+    const withMembers = filterObject(
+      allMainnetSpaces,
+      (space: Space) => handSelectedSpaces.includes(space.name) || (space.members && space.members.length > 3),
+    );
+
+    const notDed = filterObject(withMembers, (space: Space) => !deadOrInvalidSpaces.includes(space.name));
+
+    fs.writeFileSync("./allprotocols.json", JSON.stringify(notDed));
+
+    createSkeletons(notDed);
+  } else if (args[0] === "semi") {
+    createSkeletons(manualProtocols);
+  }
+}
+
+run(process.argv);

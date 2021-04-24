@@ -1,0 +1,26 @@
+{ 
+	"cname": "tokenlon.eth",
+	"name": "tokenlon.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "tokenlon.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}

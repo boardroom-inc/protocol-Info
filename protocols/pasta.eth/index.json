@@ -1,0 +1,26 @@
+{ 
+	"cname": "pasta.eth",
+	"name": "pasta.eth",
+	"description": "",
+	"path": "",
+	"previousPaths": [],
+	"folder": "pasta.eth",
+	"type": "snapshot",
+	"suffix": "",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "",
+	"invalidSnapshots": [],
+	"branding": {},
+	"discourseForum": {},
+	"safeAddress": null 
+}
