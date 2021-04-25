@@ -98,7 +98,7 @@ async function extractTokenAbi(tokenAddress: string | null) {
   }
 
   const res = await axios.get(
-    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=HBGSFRNGZIM43M3HKP377PF9M59Z4MM514`,
+    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=${process.env.ETHERSCAN_API_KEY}`,
   );
 
   return res.data.result;
