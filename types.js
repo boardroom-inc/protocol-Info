@@ -30,11 +30,14 @@ exports.ProtocolIo = t.type({
     folder: t.string,
     type: t.union([t.literal("snapshot"), t.literal("compoundish")]),
     suffix: t.string,
-    claim: t.type({
-        isClaimed: t.boolean,
-        claimer: t.string,
-        signature: t.string,
-    }),
+    claim: t.union([
+        t.partial({
+            isClaimed: t.boolean,
+            claimer: t.string,
+            signature: t.string,
+        }),
+        t.undefined,
+    ]),
     coinGeckoPriceString: t.string,
     tokenContractAddress: t.string,
     governanceContractAddress: t.union([t.string, t.undefined]),

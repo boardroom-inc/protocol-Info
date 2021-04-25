@@ -14,7 +14,7 @@
 	"claim": {
 		"isClaimed": false,
 		"claimer": "",
-		"signature": "",
+		"signature": ""
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
