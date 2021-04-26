@@ -1,8 +1,11 @@
-import { exec } from "child_process";
 import axios from "axios";
+import { exec } from "child_process";
+import dotenv from "dotenv";
 import fs from "fs";
 
 import manualProtocols from "../allprotocols.json";
+
+dotenv.config();
 
 const SNAPSHOT_API = "https://hub.snapshot.page/api/";
 
@@ -98,10 +101,10 @@ async function extractTokenAbi(tokenAddress: string | null) {
   }
 
   const res = await axios.get(
-    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=${process.env.ETHERSCAN_API_KEY}`,
+    `https://api.etherscan.io/api?module=contract&action=getabi&address=${tokenAddress}&apikey=${process.env.ETHERSCAN_API_TOKEN}`,
   );
 
-  return res.data.result;
+  return JSON.parse(res.data.result);
 }
 
 // workaround for Etherscan api request limit
@@ -124,7 +127,7 @@ async function createSkeletons(spaces: Record<string, any>) {
     if (tokenAddress) {
       const tokenAbi = await extractTokenAbi(tokenAddress);
 
-      fs.writeFileSync(`./protocols/${key}/contracts/token.json`, tokenAbi);
+      fs.writeFileSync(`./protocols/${key}/contracts/token.json`, JSON.stringify(tokenAbi));
     }
 
     await delay(1000); // workaround for Etherscan api request limit

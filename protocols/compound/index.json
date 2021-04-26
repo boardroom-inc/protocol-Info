@@ -17,5 +17,10 @@
   "invalidSnapshots": [],
   "branding": {},
   "discourseForum": {},
-  "safeAddress": null
+  "safeAddress": null,
+  "claim": {
+    "isClaimed": true,
+    "claimer": "",
+    "signature": ""
+  }
 }

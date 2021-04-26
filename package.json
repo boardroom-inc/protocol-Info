@@ -31,6 +31,7 @@
     "validate": "yarn build && ts-node ./scripts/validate.ts"
   },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
   }
 }
