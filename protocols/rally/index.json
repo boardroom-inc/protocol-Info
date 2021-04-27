@@ -9,7 +9,7 @@
 	"suffix": "RLY",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
-	"isEnabled": true,
+	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
 		"isClaimed": false,
