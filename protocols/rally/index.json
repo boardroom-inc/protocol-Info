@@ -12,7 +12,7 @@
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
-		"isClaimed": false,
+		"isClaimed": true,
 		"claimer": "",
 		"signature": ""
 	},
