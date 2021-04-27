@@ -1,12 +1,12 @@
 { 
 	"cname": "yaxis",
-	"name": "yaxis",
+	"name": "yAxis",
 	"description": "",
-	"path": "",
+	"path": "yaxis",
 	"previousPaths": [],
 	"folder": "yaxis",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "YAX",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x162c07f7076b5287cf1d599972c480c51ae00743",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "yaxis",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

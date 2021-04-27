@@ -24,13 +24,13 @@ else
 
 printf '{ 
 	"cname": "'"$1"'",
-	"name": "'"$1"'",
+	"name": "'"$4"'",
 	"description": "",
-	"path": "",
+	"path": "'"$1"'",
 	"previousPaths": [],
 	"folder": "'"$1"'",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "'"$3"'",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "'"$2"'",
 	"isEnabled": false,
@@ -42,10 +42,16 @@ printf '{
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "'"$1"'",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }' >| ./protocols/$1/index.json
 		fi

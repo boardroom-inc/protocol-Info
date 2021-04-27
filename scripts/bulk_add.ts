@@ -38,6 +38,8 @@ const deadOrInvalidSpaces = [
   "Yam Finance Signal",
   "Yam Finance",
   "BIOPset House of Representatives",
+  "BIOPset",
+  "Mars",
   "BeetsDAO",
   "Scoobi-doge",
   "GamyFi Governance",
@@ -53,7 +55,7 @@ const deadOrInvalidSpaces = [
   "Index",
 ];
 
-const handSelectedSpaces = ["Ampleforth", "dHEDGE DAO"];
+const handSelectedSpaces = ["Ampleforth", "BadgerDAO", "dHEDGE DAO"];
 
 function filterObject(obj: any, predicate: Function) {
   let result: Record<string, any> = {};
@@ -117,8 +119,10 @@ async function createSkeletons(spaces: Record<string, any>) {
     console.log("Writing: ", key);
 
     const tokenAddress = extractTokenAddress(spaces[key]);
+    const suffix = spaces[key].symbol;
+    const name = spaces[key].name;
 
-    exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress}`, (error, stdout, stderr) => {
+    exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress} ${suffix} ${name}`, (error, stdout, stderr) => {
       if (error !== null) {
         console.log(`exec error: ${error}`);
       }

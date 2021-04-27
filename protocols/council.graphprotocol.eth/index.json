@@ -1,12 +1,12 @@
 { 
 	"cname": "council.graphprotocol.eth",
-	"name": "council.graphprotocol.eth",
+	"name": "The",
 	"description": "",
-	"path": "",
+	"path": "council.graphprotocol.eth",
 	"previousPaths": [],
 	"folder": "council.graphprotocol.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "GC",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "council.graphprotocol.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

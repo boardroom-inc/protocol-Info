@@ -1,12 +1,12 @@
 { 
 	"cname": "rallygov.eth",
-	"name": "rallygov.eth",
+	"name": "Rally",
 	"description": "",
-	"path": "",
+	"path": "rallygov.eth",
 	"previousPaths": [],
 	"folder": "rallygov.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "RLY",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "rallygov.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

@@ -1,12 +1,12 @@
 { 
 	"cname": "graphprotocol.eth",
-	"name": "graphprotocol.eth",
+	"name": "The",
 	"description": "",
-	"path": "",
+	"path": "graphprotocol.eth",
 	"previousPaths": [],
 	"folder": "graphprotocol.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "GRT",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "graphprotocol.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

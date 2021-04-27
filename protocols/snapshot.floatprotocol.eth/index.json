@@ -1,12 +1,12 @@
 { 
 	"cname": "snapshot.floatprotocol.eth",
-	"name": "snapshot.floatprotocol.eth",
+	"name": "Float",
 	"description": "",
-	"path": "",
+	"path": "snapshot.floatprotocol.eth",
 	"previousPaths": [],
 	"folder": "snapshot.floatprotocol.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "BANK",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x24a6a37576377f63f194caa5f518a60f45b42921",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "snapshot.floatprotocol.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

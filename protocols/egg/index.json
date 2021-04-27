@@ -1,12 +1,12 @@
 { 
 	"cname": "egg",
-	"name": "egg",
+	"name": "Eggy.Finance",
 	"description": "",
-	"path": "",
+	"path": "egg",
 	"previousPaths": [],
 	"folder": "egg",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "EGG",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x2b7018Fca0eccfBc738828e1E8f1C7038EBBCaa8",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "egg",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

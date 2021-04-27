@@ -1,12 +1,12 @@
 { 
 	"cname": "premia.eth",
-	"name": "premia.eth",
+	"name": "Premia",
 	"description": "",
-	"path": "",
+	"path": "premia.eth",
 	"previousPaths": [],
 	"folder": "premia.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "PREMIA",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x9135b5344D95c068Bde787De6BE9ded722b11762",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "premia.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

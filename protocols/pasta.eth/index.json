@@ -1,12 +1,12 @@
 { 
 	"cname": "pasta.eth",
-	"name": "pasta.eth",
+	"name": "PastaDAO",
 	"description": "",
-	"path": "",
+	"path": "pasta.eth",
 	"previousPaths": [],
 	"folder": "pasta.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "PASTA",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "pasta.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

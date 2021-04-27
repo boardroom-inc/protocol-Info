@@ -1,12 +1,12 @@
 { 
 	"cname": "cream-finance.eth",
-	"name": "cream-finance.eth",
+	"name": "Cream",
 	"description": "",
-	"path": "",
+	"path": "cream-finance.eth",
 	"previousPaths": [],
 	"folder": "cream-finance.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "CREAM",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "cream-finance.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

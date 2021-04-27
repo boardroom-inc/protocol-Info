@@ -1,0 +1,32 @@
+{ 
+	"cname": "ybaby.eth",
+	"name": "yearn",
+	"description": "",
+	"path": "ybaby.eth",
+	"previousPaths": [],
+	"folder": "ybaby.eth",
+	"type": "snapshot",
+	"suffix": "YFI",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "ybaby.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

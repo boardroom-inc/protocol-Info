@@ -1,12 +1,12 @@
 { 
 	"cname": "dsd.eth",
-	"name": "dsd.eth",
+	"name": "Dynamic",
 	"description": "",
-	"path": "",
+	"path": "dsd.eth",
 	"previousPaths": [],
 	"folder": "dsd.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "DSD",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x6bf977ed1a09214e6209f4ea5f525261f1a2690a",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "dsd.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

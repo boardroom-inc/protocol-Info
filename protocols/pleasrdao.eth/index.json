@@ -1,12 +1,12 @@
 { 
 	"cname": "pleasrdao.eth",
-	"name": "pleasrdao.eth",
+	"name": "PleasrDAO",
 	"description": "",
-	"path": "",
+	"path": "pleasrdao.eth",
 	"previousPaths": [],
 	"folder": "pleasrdao.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "✨",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xba962a81f78837751be8a177378d582f337084e6",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "pleasrdao.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

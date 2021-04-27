@@ -1,12 +1,12 @@
 { 
 	"cname": "unidao",
-	"name": "unidao",
+	"name": "UniDAO",
 	"description": "",
-	"path": "",
+	"path": "unidao",
 	"previousPaths": [],
 	"folder": "unidao",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "MRR",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xC1d204fC521F9e125a55dd8b2152d7344766cC21",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "unidao",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

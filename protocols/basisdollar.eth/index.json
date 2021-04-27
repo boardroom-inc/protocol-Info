@@ -1,12 +1,12 @@
 { 
 	"cname": "basisdollar.eth",
-	"name": "basisdollar.eth",
+	"name": "VP",
 	"description": "",
-	"path": "",
+	"path": "basisdollar.eth",
 	"previousPaths": [],
 	"folder": "basisdollar.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "BSDS",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x86af7b477F87C6b20B1D27496e7355230EB49724",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "basisdollar.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

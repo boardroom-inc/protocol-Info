@@ -1,26 +1,32 @@
 { 
 	"cname": "rally",
-	"name": "rally",
+	"name": "Rally",
 	"description": "",
-	"path": "",
+	"path": "rally",
 	"previousPaths": [],
 	"folder": "rally",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "RLY",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
-		"isClaimed": true,
+		"isClaimed": false,
 		"claimer": "",
 		"signature": ""
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "rally",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

@@ -1,12 +1,12 @@
 { 
 	"cname": "alchemixstakers.eth",
-	"name": "alchemixstakers.eth",
+	"name": "Alchemix",
 	"description": "",
-	"path": "",
+	"path": "alchemixstakers.eth",
 	"previousPaths": [],
 	"folder": "alchemixstakers.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "ALCX",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "alchemixstakers.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

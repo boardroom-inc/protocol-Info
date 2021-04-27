@@ -1,12 +1,12 @@
 { 
 	"cname": "truefigov.eth",
-	"name": "truefigov.eth",
+	"name": "TrueFi",
 	"description": "",
-	"path": "",
+	"path": "truefigov.eth",
 	"previousPaths": [],
 	"folder": "truefigov.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "TRU",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x23696914Ca9737466D8553a2d619948f548Ee424",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "truefigov.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

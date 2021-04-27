@@ -1,12 +1,12 @@
 { 
 	"cname": "marsproject.eth",
-	"name": "marsproject.eth",
+	"name": "Mars",
 	"description": "",
-	"path": "",
+	"path": "marsproject.eth",
 	"previousPaths": [],
 	"folder": "marsproject.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "MARS",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "marsproject.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

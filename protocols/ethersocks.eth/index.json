@@ -1,12 +1,12 @@
 { 
 	"cname": "ethersocks.eth",
-	"name": "ethersocks.eth",
+	"name": "Ethersocks",
 	"description": "",
-	"path": "",
+	"path": "ethersocks.eth",
 	"previousPaths": [],
 	"folder": "ethersocks.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "SOX",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x300a902513815028e97fc79e92082ce6a98d3b74",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "ethersocks.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

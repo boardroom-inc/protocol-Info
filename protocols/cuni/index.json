@@ -1,12 +1,12 @@
 { 
 	"cname": "cuni",
-	"name": "cuni",
+	"name": "Compound",
 	"description": "",
-	"path": "",
+	"path": "cuni",
 	"previousPaths": [],
 	"folder": "cuni",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "cUNI",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x35A18000230DA775CAc24873d00Ff85BccdeD550",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "cuni",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

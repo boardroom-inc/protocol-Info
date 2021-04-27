@@ -1,12 +1,12 @@
 { 
 	"cname": "rari",
-	"name": "rari",
+	"name": "Rari",
 	"description": "",
-	"path": "",
+	"path": "rari",
 	"previousPaths": [],
 	"folder": "rari",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "RGT",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xD291E7a03283640FDc51b121aC401383A46cC623",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "rari",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

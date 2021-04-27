@@ -1,12 +1,12 @@
 { 
 	"cname": "vsp.eth",
-	"name": "vsp.eth",
+	"name": "Vesper",
 	"description": "",
-	"path": "",
+	"path": "vsp.eth",
 	"previousPaths": [],
 	"folder": "vsp.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "VVSP",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xbA4cFE5741b357FA371b506e5db0774aBFeCf8Fc",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "vsp.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

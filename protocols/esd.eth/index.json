@@ -1,12 +1,12 @@
 { 
 	"cname": "esd.eth",
-	"name": "esd.eth",
+	"name": "Empty",
 	"description": "",
-	"path": "",
+	"path": "esd.eth",
 	"previousPaths": [],
 	"folder": "esd.eth",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "ESD",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "null",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "esd.eth",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }

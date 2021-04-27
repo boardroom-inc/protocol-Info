@@ -1,12 +1,12 @@
 { 
 	"cname": "kleros",
-	"name": "kleros",
+	"name": "Kleros",
 	"description": "",
-	"path": "",
+	"path": "kleros",
 	"previousPaths": [],
 	"folder": "kleros",
 	"type": "snapshot",
-	"suffix": "",
+	"suffix": "PNK",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
 	"isEnabled": false,
@@ -18,9 +18,15 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "",
+	"snapshotSpaceName": "kleros",
 	"invalidSnapshots": [],
-	"branding": {},
-	"discourseForum": {},
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
 	"safeAddress": null 
 }
