@@ -1,6 +1,6 @@
 { 
 	"cname": "self",
-	"name": "Self",
+	"name": "SelfToken",
 	"description": "",
 	"path": "self",
 	"previousPaths": [],

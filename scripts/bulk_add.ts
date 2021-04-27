@@ -25,6 +25,7 @@ interface Space {
 }
 
 const deadOrInvalidSpaces = [
+  "Aave",
   "FinNexus",
   "ForTube(Ethereum)",
   "GoldMining Token",
@@ -39,7 +40,8 @@ const deadOrInvalidSpaces = [
   "Yam Finance",
   "BIOPset House of Representatives",
   "BIOPset",
-  "Mars",
+  "BIOPsetHouse",
+  "MarsFinance",
   "BeetsDAO",
   "Scoobi-doge",
   "GamyFi Governance",
@@ -53,6 +55,7 @@ const deadOrInvalidSpaces = [
   "Gentlemen's Bank",
   "AngelDAO",
   "Index",
+  "Compound Uniswap",
 ];
 
 const handSelectedSpaces = ["Ampleforth", "BadgerDAO", "dHEDGE DAO"];

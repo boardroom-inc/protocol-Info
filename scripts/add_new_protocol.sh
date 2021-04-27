@@ -24,7 +24,7 @@ else
 
 printf '{ 
 	"cname": "'"$1"'",
-	"name": "'"$4"'",
+	"name": "'"$4"' '"$5"'",
 	"description": "",
 	"path": "'"$1"'",
 	"previousPaths": [],
