@@ -7,7 +7,7 @@
 	"folder": "pasta",
 	"type": "snapshot",
 	"suffix": "PASTA",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "spaghetti",
 	"tokenContractAddress": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e",
 	"isEnabled": false,
 	"hasOnchain": false,

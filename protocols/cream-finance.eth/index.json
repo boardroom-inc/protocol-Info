@@ -7,8 +7,8 @@
 	"folder": "cream-finance.eth",
 	"type": "snapshot",
 	"suffix": "CREAM",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "null",
+	"coinGeckoPriceString": "cream",
+	"tokenContractAddress": "0x2ba592f78db6436527729929aaf6c908497cb200",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {

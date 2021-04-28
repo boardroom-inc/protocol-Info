@@ -7,8 +7,8 @@
 	"folder": "esd.eth",
 	"type": "snapshot",
 	"suffix": "ESD",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "null",
+	"coinGeckoPriceString": "empty-set-dollar",
+	"tokenContractAddress": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
