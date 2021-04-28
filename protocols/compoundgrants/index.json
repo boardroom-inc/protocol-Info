@@ -13,12 +13,12 @@
   "hasOnchain": false,
   "isHybrid": false,
   "isCouncil": false,
-  "isEnabled": true,
+  "isEnabled": false,
   "invalidSnapshots": [],
   "branding": {},
   "discourseForum": {},
   "claim": {
-    "isClaimed": true,
+    "isClaimed": false,
     "claimer": "",
     "signature": ""
   },
