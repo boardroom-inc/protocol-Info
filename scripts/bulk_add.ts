@@ -26,7 +26,12 @@ interface Space {
 
 const deadOrInvalidSpaces = [
   "Aave",
+  "Alchemix",
+  "UniDAO",
+  "yAxis",
   "FinNexus",
+  "Eggy.Finance",
+  "Self Token",
   "ForTube(Ethereum)",
   "GoldMining Token",
   "Percent",
