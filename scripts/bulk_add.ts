@@ -125,19 +125,27 @@ async function createSkeletons(spaces: Record<string, any>) {
     const suffix = spaces[key].symbol;
     const name = spaces[key].name;
 
-    exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress} ${suffix} ${name}`, (error, stdout, stderr) => {
-      if (error !== null) {
-        console.log(`exec error: ${error}`);
+    const file = fs.readFileSync(`./protocols/${key}/index.json`);
+
+    const fileAsJson: any = JSON.parse(file.toString());
+
+    if (!fileAsJson.claim?.isClaimed) {
+      exec(`sh ./scripts/add_new_protocol.sh ${key} ${tokenAddress} ${suffix} ${name}`, (error, stdout, stderr) => {
+        if (error !== null) {
+          console.log(`exec error: ${error}`);
+        }
+      });
+
+      if (tokenAddress) {
+        const tokenAbi = await extractTokenAbi(tokenAddress);
+
+        fs.writeFileSync(`./protocols/${key}/contracts/token.json`, JSON.stringify(tokenAbi));
       }
-    });
 
-    if (tokenAddress) {
-      const tokenAbi = await extractTokenAbi(tokenAddress);
-
-      fs.writeFileSync(`./protocols/${key}/contracts/token.json`, JSON.stringify(tokenAbi));
+      await delay(1000); // workaround for Etherscan api request limit
+    } else {
+      console.log("Already claimed!");
     }
-
-    await delay(1000); // workaround for Etherscan api request limit
   }
 }
 
