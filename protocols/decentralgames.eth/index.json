@@ -1,0 +1,32 @@
+{ 
+	"cname": "decentralgames",
+	"name": "",
+	"description": "",
+	"path": "decentralgames.eth",
+	"previousPaths": [],
+	"folder": "decentralgames.eth",
+	"type": "snapshot",
+	"suffix": "decentral.games",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "decentralgames.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

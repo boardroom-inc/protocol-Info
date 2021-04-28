@@ -1,0 +1,32 @@
+{ 
+	"cname": "dsd",
+	"name": "DynamicSetDollar",
+	"description": "",
+	"path": "dsd.eth",
+	"previousPaths": [],
+	"folder": "dsd.eth",
+	"type": "snapshot",
+	"suffix": "DSD",
+	"coinGeckoPriceString": "dynamic-set-dollar",
+	"tokenContractAddress": "0x6bf977ed1a09214e6209f4ea5f525261f1a2690a",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "dsd.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

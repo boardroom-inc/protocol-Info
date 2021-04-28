@@ -1,0 +1,32 @@
+{ 
+	"cname": "eublas",
+	"name": "EuropeanBlockchainAssociation",
+	"description": "",
+	"path": "eublas.xyz",
+	"previousPaths": [],
+	"folder": "eublas.xyz",
+	"type": "snapshot",
+	"suffix": "EBA_Votes",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "eublas.xyz",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

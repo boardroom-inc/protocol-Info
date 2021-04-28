@@ -10,6 +10,11 @@
   "coinGeckoPriceString": "rally-2",
   "tokenContractAddress": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
   "isEnabled": true,
+	"claim": {
+    "isClaimed": true,
+    "claimer": "",
+    "signature": ""
+  },
   "hasOnchain": false,
   "isHybrid": false,
   "hasDelegation": false,

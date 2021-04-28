@@ -1,0 +1,32 @@
+{ 
+	"cname": "idlefinance",
+	"name": "Idle",
+	"description": "",
+	"path": "idlefinance.eth",
+	"previousPaths": [],
+	"folder": "idlefinance.eth",
+	"type": "snapshot",
+	"suffix": "IDLE",
+	"coinGeckoPriceString": "idle",
+	"tokenContractAddress": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "idlefinance.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

@@ -1,0 +1,32 @@
+{ 
+	"cname": "keep2r",
+	"name": "Keep2r",
+	"description": "",
+	"path": "keep2r.eth",
+	"previousPaths": [],
+	"folder": "keep2r.eth",
+	"type": "snapshot",
+	"suffix": "KP2R",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x9BdE098Be22658d057C3F1F185e3Fd4653E2fbD1",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "keep2r.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

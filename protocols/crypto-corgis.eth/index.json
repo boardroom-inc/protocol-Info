@@ -1,0 +1,32 @@
+{ 
+	"cname": "cryptocorgis",
+	"name": "CryptoCorgis",
+	"description": "",
+	"path": "crypto-corgis.eth",
+	"previousPaths": [],
+	"folder": "crypto-corgis.eth",
+	"type": "snapshot",
+	"suffix": "CORGI",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "null",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "crypto-corgis.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

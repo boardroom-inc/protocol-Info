@@ -1,0 +1,32 @@
+{ 
+	"cname": "seen",
+	"name": "seen.haus",
+	"description": "",
+	"path": "seen",
+	"previousPaths": [],
+	"folder": "seen",
+	"type": "snapshot",
+	"suffix": "SEEN",
+	"coinGeckoPriceString": "seen",
+	"tokenContractAddress": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "seen",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

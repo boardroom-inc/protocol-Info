@@ -1,0 +1,32 @@
+{ 
+	"cname": "thegraphcouncil",
+	"name": "TheGraphCouncil",
+	"description": "",
+	"path": "council.graphprotocol.eth",
+	"previousPaths": [],
+	"folder": "council.graphprotocol.eth",
+	"type": "snapshot",
+	"suffix": "GC",
+	"coinGeckoPriceString": "the-graph",
+	"tokenContractAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "council.graphprotocol.eth",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

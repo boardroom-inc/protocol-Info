@@ -18,6 +18,11 @@
     "QmaGQ3K3PkjUakoyR127dbym8ESsruXg4dyeKKQxxRdPgA",
     "QmcERezRFobLTWGqYw47t9NZtWVsiW791rVeqHvPTBs8gW"
   ],
+  "claim": {
+    "isClaimed": true,
+    "claimer": "",
+    "signature": ""
+  },
   "branding": {},
   "discourseForum": {},
   "safeAddress": null

@@ -20,6 +20,11 @@
     "QmXUVjiANVc7cYdioyMvk4T9wandAFUfmdHAQov5Xhfra1",
     "QmYjtVqeL7adETmmLqeefsasFRk4WZk4eZZjWJAgfsRxdz"
   ],
+  "claim": {
+    "isClaimed": true,
+    "claimer": "",
+    "signature": ""
+  },
   "branding": {},
   "discourseForum": {
     "url": "https://gov.rarible.com",
