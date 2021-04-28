@@ -1,10 +1,10 @@
 { 
-	"cname": "snapshot.floatprotocol.eth",
+	"cname": "floatprotocol",
 	"name": "FloatProtocol",
 	"description": "",
 	"path": "snapshot.floatprotocol.eth",
 	"previousPaths": [],
-	"folder": "snapshot.floatprotocol.eth",
+	"folder": "floatprotocol",
 	"type": "snapshot",
 	"suffix": "BANK",
 	"coinGeckoPriceString": "",
