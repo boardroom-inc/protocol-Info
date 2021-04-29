@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.1...v2.2.2) (2021-04-29)
+
+
+### Bug Fixes
+
+* remove some unuseable spaces ([df9041c](https://github.com/boardroom-inc/protocol-Info/commit/df9041c37bfa1652845199583e6c0591308c65cd))
+
 ### [2.2.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.0...v2.2.1) (2021-04-29)
 
 
