@@ -1,2 +1,4 @@
-declare const _default: any[];
-export default _default;
+declare module "@boardroom/protocol-info" {
+  function protocolInfo(): void;
+  export = protocolInfo;
+}
