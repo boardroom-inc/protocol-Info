@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.0...v2.2.1) (2021-04-29)
+
+
+### Bug Fixes
+
+* buildscript ([6774566](https://github.com/boardroom-inc/protocol-Info/commit/6774566a44422edeeb048e1731751cfea1d4ffae))
+* ignore index.js ([774ea27](https://github.com/boardroom-inc/protocol-Info/commit/774ea271c973f75b96f9df3a9e69a73643dce7ba))
+* index.d.ts ([58ca716](https://github.com/boardroom-inc/protocol-Info/commit/58ca716572fadcdcae88131dde0739a1081f29e2))
+
 ## [2.2.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.1.9...v2.2.0) (2021-04-28)
 
 
