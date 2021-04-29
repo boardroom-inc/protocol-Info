@@ -13,9 +13,6 @@ fs.writeFileSync(
   "./dist/index.ts",
   `
   import { Protocol } from "../types";
-  export {
-    Protocol
-  }
 
   export default [${protocolInfo.toString()}] as Protocol[];
   `,
