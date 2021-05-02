@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.3](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.2...v2.2.3) (2021-05-02)
+
+
+### Bug Fixes
+
+* curve snaphsot is barren ([fa0f256](https://github.com/boardroom-inc/protocol-Info/commit/fa0f256d366518e4de6beb6b81a3863238edd51f))
+* decentral games ([02c1fad](https://github.com/boardroom-inc/protocol-Info/commit/02c1fad4e889a7174377c0f5c88032874457ff35))
+* remove eublas, add missing token info ([34bb5e5](https://github.com/boardroom-inc/protocol-Info/commit/34bb5e5a316192dea0e66ea4ba2abf9fd95b9d6e))
+* update readme ([479335c](https://github.com/boardroom-inc/protocol-Info/commit/479335cfb7db11fd15bee6268c92db9e34778d41))
+
 ### [2.2.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.1...v2.2.2) (2021-04-29)
 
 
