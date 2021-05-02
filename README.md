@@ -66,6 +66,11 @@ From [hub-ui](https://github.com/boardroom-inc/hub-ui) (or any other repo), use 
 $ yarn link @boardroom/protocol-info
 ```
 
+Quick Add New Protocol:
+```sh
+$ ./scripts/add_new_protocol $protocolName $tokenContractAddress (optional) $suffix (optional) $displayName (optional)
+```
+
 Run validation:
 
 ```sh
