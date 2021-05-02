@@ -8,7 +8,7 @@
 	"type": "snapshot",
 	"suffix": "CORGI",
 	"coinGeckoPriceString": "",
-	"tokenContractAddress": "null",
+	"tokenContractAddress": "0x151220cf596c3ac80736a7ef7036c6f1b30aaf48",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {

@@ -8,7 +8,7 @@
 	"type": "snapshot",
 	"suffix": "PcDAI",
 	"coinGeckoPriceString": "",
-	"tokenContractAddress": "null",
+	"tokenContractAddress": "0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
