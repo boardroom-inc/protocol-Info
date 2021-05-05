@@ -13,7 +13,6 @@ else
 	mkdir -p ./protocols/$1/resources/Gov Weekly
 	
 	mkdir -p ./protocols/$1/contracts
-	touch ./protocols/$1/contracts/governance.json
 	touch ./protocols/$1/contracts/token.json
 
 	touch ./protocols/$1/index.json
