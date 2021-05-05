@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.6](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.5...v2.2.6) (2021-05-05)
+
+
+### Bug Fixes
+
+* add bankless ([b5fe438](https://github.com/boardroom-inc/protocol-Info/commit/b5fe438babd024d3a020ac00296440eeefc57536))
+* coingecko ([ad3ea99](https://github.com/boardroom-inc/protocol-Info/commit/ad3ea99cf2c85580b52666a9ff99115a8879619c))
+* reove all empty govnernae.jsons ([9310144](https://github.com/boardroom-inc/protocol-Info/commit/9310144878ce87f6d052b8363d309f6716ab4452))
+
 ### [2.2.5](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.4...v2.2.5) (2021-05-03)
 
 ### [2.2.4](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.3...v2.2.4) (2021-05-02)
