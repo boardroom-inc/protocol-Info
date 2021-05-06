@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.7](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.6...v2.2.7) (2021-05-06)
+
+
+### Bug Fixes
+
+* claim compoundgrants ([f5aafd0](https://github.com/boardroom-inc/protocol-Info/commit/f5aafd07871d0dc406b8e6ebff958d43050f4985))
+
 ### [2.2.6](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.5...v2.2.6) (2021-05-05)
 
 
