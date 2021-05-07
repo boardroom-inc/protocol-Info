@@ -1,7 +1,7 @@
 { 
 	"cname": "dhedge",
-	"name": "dHEDGEDAO",
-	"description": "",
+	"name": "dHEDGE DAO",
+	"description": "dHEDGE DAO Governance",
 	"path": "gov.dhedge.eth",
 	"previousPaths": [],
 	"folder": "gov.dhedge.eth",
@@ -9,12 +9,12 @@
 	"suffix": "vDHT",
 	"coinGeckoPriceString": "dhedge-dao",
 	"tokenContractAddress": "0xEe1B6b93733eE8BA77f558F8a87480349bD81F7f",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
+		"isClaimed": true,
+		"claimer": "0x4f9dfef24e6c5109a7869981f3ffdd865c8546a5",
+		"signature": "0x0654a48e0b60475cf5c73ca616ce8a2e003283c8219282c34ce0357f72c69c3f299461740503e0a6054f7c01825687e7e654dbe34ab0f2a16ea42336904660b91c"
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
