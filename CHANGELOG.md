@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.10](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.9...v2.2.10) (2021-05-11)
+
+
+### Bug Fixes
+
+* logo ([45b8532](https://github.com/boardroom-inc/protocol-Info/commit/45b8532ac25ba2c1d3031b2290fb2a48b86598ef))
+
 ### [2.2.9](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.8...v2.2.9) (2021-05-10)
 
 
