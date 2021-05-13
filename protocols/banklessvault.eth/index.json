@@ -12,9 +12,9 @@
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
+		"isClaimed": true,
+		"claimer": "0x35ea12472d6fb21a9db24b397aa2775d332c14b7",
+		"signature": "0xa48bce149c7a2a3c8ff38c78dd2aa9b622138be3b221496425a3d8f92dbc75281a585b2251604cac26f7aed494e7c12ae2085263caa31aa10284192a4114177f00"
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
@@ -28,5 +28,5 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": "0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51" 
 }
