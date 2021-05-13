@@ -25,8 +25,8 @@
 		"accentColor": ""
 	},
 	"discourseForum": {
-		"url": "",
-		"categoryId": ""
+		"url": "https://forum.bankless.community/",
+		"categoryId": "7"
 	},
 	"safeAddress": "0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51" 
 }
