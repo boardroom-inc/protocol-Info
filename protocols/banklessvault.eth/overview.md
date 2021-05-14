@@ -1,7 +1,7 @@
 Bankless DAO is a decentralized community to coordinate and propagate bankless media, culture, and education. It’s goal is to drive adoption and awareness of truely bankless money systems like Ethereum, DeFi, and Bitcoin.
 It achieves this goal through the collective participation of its community.
 
-<img src="https://miro.medium.com/max/1456/0*gOhIjbCHxQiMSgsT.png" alt="Bankless DAO" width="500"/>
+![](https://i.ibb.co/gjRGVtx/0-g-Oh-Ijb-CHx-Qi-MSgs-T.png)
 
 The Bankless DAO will act as a coordination mechanism for a collection of participating media nodes. Participants can range from individuals acting on their own behalf, or larger entities with employees and resources. Bankless DAO will coordinate them all in order to achieve its mission.
 A new governance token called BANK will facilitate this coordination.
