@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.14](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.13...v2.2.14) (2021-05-14)
+
+
+### Bug Fixes
+
+* use markdown image format in bankless overview ([#156](https://github.com/boardroom-inc/protocol-Info/issues/156)) ([51e9869](https://github.com/boardroom-inc/protocol-Info/commit/51e9869e64a51ee031f7d1e63340dfe5ffaabaa6))
+
 ### [2.2.13](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.12...v2.2.13) (2021-05-14)
 
 ### [2.2.12](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.11...v2.2.12) (2021-05-13)
