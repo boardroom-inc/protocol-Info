@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.16](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.15...v2.2.16) (2021-05-27)
+
+
+### Bug Fixes
+
+* add empty array to contract ABIs ([#168](https://github.com/boardroom-inc/protocol-Info/issues/168)) ([e2eb8c1](https://github.com/boardroom-inc/protocol-Info/commit/e2eb8c1b5328884ff0dd4c443fb605d74e20e1e2))
+
 ### [2.2.15](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.12...v2.2.15) (2021-05-17)
 
 
