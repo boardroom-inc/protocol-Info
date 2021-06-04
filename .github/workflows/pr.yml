@@ -1,6 +1,5 @@
 name: validate protocol info
-on:
-  pull_request
+on: pull_request
 
 jobs:
   validate-protocol-info:
@@ -14,3 +13,6 @@ jobs:
 
       - name: Validate
         run: yarn validate
+
+      - name: Aggregate Events
+        run: yarn aggregateEvents
