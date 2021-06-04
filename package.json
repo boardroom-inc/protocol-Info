@@ -28,6 +28,7 @@
     "bulkAdd": "ts-node ./scripts/bulk_add.ts",
     "build": "ts-node ./scripts/build.ts && tsc -d",
     "prepare": "yarn build",
+    "aggregateEvents": "ts-node ./scripts/aggregate_events.ts",
     "validate": "yarn build && ts-node ./scripts/validate.ts"
   },
   "dependencies": {
