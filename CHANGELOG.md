@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.17...v2.3.0) (2021-06-04)
+
+
+### Features
+
+* script and github action to aggregate all events into one place" ([fad9f53](https://github.com/boardroom-inc/protocol-Info/commit/fad9f537785178c56f4d33764d2c541991635f90))
+
+
+### Bug Fixes
+
+* yarn script command ([dedc592](https://github.com/boardroom-inc/protocol-Info/commit/dedc5925b98c818642b3e82f10ba5339b7b0f0be))
+
 ### [2.2.17](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.16...v2.2.17) (2021-05-28)
 
 ### [2.2.16](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.15...v2.2.16) (2021-05-27)
