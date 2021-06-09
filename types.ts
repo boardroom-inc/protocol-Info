@@ -41,6 +41,7 @@ export const ProtocolIo = t.type({
     t.undefined,
   ]),
   safeAddress: t.union([t.string, t.null]),
+  treasuryAddresses: t.union([t.array(t.string), t.undefined]),
 });
 
 export type Protocol = t.TypeOf<typeof ProtocolIo>;

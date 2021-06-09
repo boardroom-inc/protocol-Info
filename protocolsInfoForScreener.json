@@ -1,0 +1,50 @@
+{
+    "aave": {
+        "name": "Aave",
+        "treasuryAddresses": ["0x25F2226B597E8F9514B3F68F00f494cF4f286491", "0x464C71f6c2F760DdA6093dCB91C24c39e5d6e18c"] 
+    },
+    "Sushi": {
+        "name": "SushiSwap",
+        "treasuryAddresses": ["0xe94b5eec1fa96ceecbd33ef5baa8d00e4493f4f3"]
+    },
+    "TornadoCash": {
+        "name": "TornadoCash",
+        "treasuryAddresses": ["0x5efda50f22d34F262c29268506C5Fa42cB56A1Ce", "0x179f48C78f57A3A78f0608cC9197B8972921d1D2"]
+    },
+    "Alchemix": {
+        "name": "Alchemix",
+        "treasuryAddresses": ["0x8392f6669292fa56123f71949b52d883ae57e225"]
+    },
+    "Balancer": {
+        "name": "Balancer",
+        "treasuryAddresses": ["0xb618F903ad1d00d6F7b92f5b0954DcdC056fC533", "0xce88686553686DA562CE7Cea497CE749DA109f9F"]
+    },
+    "API3": {
+        "name": "API3",
+        "treasuryAddresses": ["0xe7aF7c5982e073aC6525a34821fe1B3e8E432099"]
+    },
+    "BadgerDao": {
+        "name": "BadgerDao",
+        "treasuryAddresses": ["0x4441776e6a5d61fa024a5117bfc26b953ad1f425"]
+    },
+     "BarnBridge": {
+        "name": "BarnBridge",
+        "treasuryAddresses": ["0x4cAE362D7F227e3d306f70ce4878E245563F3069"]
+    },
+    "Nexus Mutual": {
+        "name": "Nexus Mutual",
+        "treasuryAddresses": ["0x586b9b2F8010b284A0197f392156f1A7Eb5e86e9"]
+    },
+    "Yearn": {
+        "name": "Yearn",
+        "treasuryAddresses": ["0x586b9b2F8010b284A0197f392156f1A7Eb5e86e9"]
+    },
+    "Yam": {
+        "name": "Yam",
+        "treasuryAddresses": ["0x97990B693835da58A281636296D2Bf02787DEa17", "0xd67c05523d8ec1c60760fd017ef006b9f6e496d0", "0x205cc7463267861002b27021c7108bc230603d0f", "0xd67c05523d8ec1c60760fd017ef006b9f6e496d0"]
+    },
+    "Linkswap": {
+        "name": "Linkswap",
+        "treasuryAddresses": ["0xE69A81b96FBF5Cb6CAe95d2cE5323Eff2bA0EAE4"]
+    }
+}

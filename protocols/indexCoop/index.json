@@ -26,5 +26,6 @@
     "url": "https://gov.indexcoop.com",
     "categoryId": "5"
   },
-  "safeAddress": null
+  "safeAddress": null,
+  "treasuryAddresses": ["0x9467cfADC9DE245010dF95Ec6a585A506A8ad5FC"]
 }
