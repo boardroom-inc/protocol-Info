@@ -44,4 +44,11 @@ export const ProtocolIo = t.type({
   treasuryAddresses: t.union([t.array(t.string), t.undefined]),
 });
 
+export const ProtocolForScreeenerIo = t.type({
+  name: t.string,
+  treasuryAddresses: t.array(t.string),
+});
+
+export type ProtocolForScreeener = t.TypeOf<typeof ProtocolForScreeenerIo>;
+
 export type Protocol = t.TypeOf<typeof ProtocolIo>;
