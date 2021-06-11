@@ -46,6 +46,7 @@ export const ProtocolIo = t.type({
 
 export const ProtocolForScreeenerIo = t.type({
   name: t.string,
+  cname: t.string,
   treasuryAddresses: t.array(t.string),
 });
 
