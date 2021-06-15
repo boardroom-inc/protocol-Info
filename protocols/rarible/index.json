@@ -12,7 +12,7 @@
   "hasOnchain": false,
   "isHybrid": false,
   "hasDelegation": false,
-  "snapshotSpaceName": "rarible",
+  "snapshotSpaceName": "rarible.eth",
   "invalidSnapshots": [
     "QmSgtwCz33ub4BXYZCfdZHAdWSNAPhaTZUU94VJzGYFCXi",
     "QmNg7ZNi8xb7kBBMHPxvSHUYUcm28UeAkfkjAeRejG5LGy",
