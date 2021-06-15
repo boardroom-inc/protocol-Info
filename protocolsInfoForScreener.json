@@ -58,5 +58,25 @@
         "name": "Linkswap",
         "cname": "linkswap",
         "treasuryAddresses": ["0xE69A81b96FBF5Cb6CAe95d2cE5323Eff2bA0EAE4"]
+    },
+    "curve": {
+        "name": "Curve",
+        "cname": "curve",
+        "treasuryAddresses": ["0xe3997288987E6297Ad550A69B31439504F513267", "0xc420C9d507D0E038BD76383AaADCAd576ed0073c"]
+    },
+    "mStable": {
+        "name": "mStable",
+        "cname": "mStable",
+        "treasuryAddresses": ["0x3dd46846eed8D147841AE162C8425c08BD8E1b41"]
+    },
+    "0x": {
+        "name": "0x",
+        "cname": "0x",
+        "treasuryAddresses": ["0x0bB1810061C2f5b2088054eE184E6C79e1591101"]
+    },
+    "mantraDao": {
+        "name": "Mantra DAO",
+        "cname": "mantraDao",
+        "treasuryAddresses": ["0xc8899da25423ac52aa711b97ae04c8888fa1e1d7"]
     }
 }
