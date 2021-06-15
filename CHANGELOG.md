@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.3.0...v2.3.1) (2021-06-15)
+
+
+### Bug Fixes
+
+* rarible space name ([#183](https://github.com/boardroom-inc/protocol-Info/issues/183)) ([8f19a27](https://github.com/boardroom-inc/protocol-Info/commit/8f19a27d9d563a35306b103df014d2faaee75e64))
+
 ## [2.3.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.2.17...v2.3.0) (2021-06-04)
 
 
