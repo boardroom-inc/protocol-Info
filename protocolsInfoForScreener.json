@@ -69,14 +69,9 @@
         "cname": "mStable",
         "treasuryAddresses": ["0x3dd46846eed8D147841AE162C8425c08BD8E1b41"]
     },
-    "0x": {
-        "name": "0x",
-        "cname": "0x",
-        "treasuryAddresses": ["0x0bB1810061C2f5b2088054eE184E6C79e1591101"]
-    },
-    "mantraDao": {
-        "name": "Mantra DAO",
-        "cname": "mantraDao",
-        "treasuryAddresses": ["0xc8899da25423ac52aa711b97ae04c8888fa1e1d7"]
+    "pooltogether": {
+        "name": "PoolTogether",
+        "cname": "pooltogether",
+        "treasuryAddresses": ["0x42cd8312d2bce04277dd5161832460e95b24262e", "0x21950e281bde1714ffd1062ed17c56d4d8de2359"]
     }
 }
