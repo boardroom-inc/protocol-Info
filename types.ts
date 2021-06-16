@@ -7,7 +7,7 @@ export const ProtocolIo = t.type({
   path: t.string,
   previousPaths: t.union([t.array(t.string), t.undefined]),
   folder: t.string,
-  type: t.union([t.literal("snapshot"), t.literal("compoundish")]),
+  type: t.union([t.literal("snapshot"), t.literal("compoundish"), t.literal("others")]),
   suffix: t.string,
   claim: t.union([
     t.partial({
