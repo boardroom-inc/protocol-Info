@@ -1,14 +1,14 @@
 { 
-	"cname": "badgerdao",
-	"name": "BadgerDAO",
+	"cname": "aave",
+	"name": "Aave",
 	"description": "",
-	"path": "badgerdao.eth",
+	"path": "aave",
 	"previousPaths": [],
-	"folder": "badgerdao.eth",
-	"type": "snapshot",
-	"suffix": "BADGER",
-	"coinGeckoPriceString": "badger-dao",
-	"tokenContractAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+	"folder": "aave",
+	"type": "others",
+	"suffix": "AAVE",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
@@ -18,7 +18,7 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "badgerdao.eth",
+	"snapshotSpaceName": "aave",
 	"invalidSnapshots": [],
 	"branding": {
 		"primaryColor": "",
@@ -29,5 +29,5 @@
 		"categoryId": ""
 	},
 	"safeAddress": null,
-	"treasuryAddresses": ["0x4441776e6a5d61fa024a5117bfc26b953ad1f425"] 
+	"treasuryAddresses": ["0x25F2226B597E8F9514B3F68F00f494cF4f286491"] 
 }

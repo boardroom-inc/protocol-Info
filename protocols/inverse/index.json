@@ -1,0 +1,32 @@
+{ 
+	"cname": "inverse",
+	"name": "Inverse Finance",
+	"description": "",
+	"path": "inverse",
+	"previousPaths": [],
+	"folder": "inverse",
+	"type": "compoundish",
+	"suffix": "INV",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "inverse",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}

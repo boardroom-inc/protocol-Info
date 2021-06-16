@@ -30,5 +30,6 @@
   ],
   "branding": {},
   "discourseForum": {},
-  "safeAddress": null
+  "safeAddress": null,
+  "treasuryAddresses": ["0x1a9c8182c09f50c8318d769245bea52c32be35bc", "0x4750c43867ef5f89869132eccf19b9b6c4286e1a"]
 }

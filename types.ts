@@ -7,7 +7,7 @@ export const ProtocolIo = t.type({
   path: t.string,
   previousPaths: t.union([t.array(t.string), t.undefined]),
   folder: t.string,
-  type: t.union([t.literal("snapshot"), t.literal("compoundish")]),
+  type: t.union([t.literal("snapshot"), t.literal("compoundish"), t.literal("others")]),
   suffix: t.string,
   claim: t.union([
     t.partial({
@@ -41,6 +41,15 @@ export const ProtocolIo = t.type({
     t.undefined,
   ]),
   safeAddress: t.union([t.string, t.null]),
+  treasuryAddresses: t.union([t.array(t.string), t.undefined]),
 });
+
+export const ProtocolForScreeenerIo = t.type({
+  name: t.string,
+  cname: t.string,
+  treasuryAddresses: t.array(t.string),
+});
+
+export type ProtocolForScreeener = t.TypeOf<typeof ProtocolForScreeenerIo>;
 
 export type Protocol = t.TypeOf<typeof ProtocolIo>;

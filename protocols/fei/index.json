@@ -1,0 +1,32 @@
+{ 
+	"cname": "fei",
+	"name": "Fei Money",
+	"description": "",
+	"path": "fei",
+	"previousPaths": [],
+	"folder": "fei",
+	"type": "compoundish",
+	"suffix": "FEI",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+	"isEnabled": false,
+	"hasOnchain": false,
+	"claim": {
+		"isClaimed": false,
+		"claimer": "",
+		"signature": ""
+	},
+	"isHybrid": false,
+	"hasDelegation": false,
+	"snapshotSpaceName": "fei",
+	"invalidSnapshots": [],
+	"branding": {
+		"primaryColor": "",
+		"accentColor": ""
+	},
+	"discourseForum": {
+		"url": "",
+		"categoryId": ""
+	},
+	"safeAddress": null 
+}
