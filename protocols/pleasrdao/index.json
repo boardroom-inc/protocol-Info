@@ -1,32 +1,32 @@
-{ 
-	"cname": "pleasrdao",
-	"name": "PleasrDAO",
-	"description": "",
-	"path": "pleasrdao.eth",
-	"previousPaths": [],
-	"folder": "pleasrdao",
-	"type": "snapshot",
-	"suffix": "✨",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "0xba962a81f78837751be8a177378d582f337084e6",
-	"isEnabled": false,
-	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "pleasrdao.eth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+{
+  "cname": "pleasrdao",
+  "name": "PleasrDAO✨",
+  "description": "a cartel of $PEEPS that aim to plz",
+  "path": "pleasrdao.eth",
+  "previousPaths": [],
+  "folder": "pleasrdao",
+  "type": "snapshot",
+  "suffix": "PEEPS",
+  "coinGeckoPriceString": "",
+  "tokenContractAddress": "0xba962a81f78837751be8a177378d582f337084e6",
+  "isEnabled": true,
+  "hasOnchain": false,
+  "claim": {
+    "isClaimed": true,
+    "claimer": "0x72ba1965320ab5352fd6d68235cc3c5306a6ffa2",
+    "signature": "0x66ab314113123d52624adb51f41c81a8a516c584c0887d8c5b9a59c027125dd2778cc2e8abef28906c6e1e72855470b079335cdff6cf784d35cb9d6131ca56771b"
+  },
+  "isHybrid": false,
+  "hasDelegation": false,
+  "snapshotSpaceName": "pleasrdao.eth",
+  "invalidSnapshots": [],
+  "branding": {
+    "primaryColor": "",
+    "accentColor": ""
+  },
+  "discourseForum": {
+    "url": "",
+    "categoryId": ""
+  },
+  "safeAddress": null
 }
