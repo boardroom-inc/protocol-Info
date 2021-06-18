@@ -1,14 +1,14 @@
 { 
-	"cname": "balancer",
-	"name": "Balancer",
+	"cname": "API3",
+	"name": "API3",
 	"description": "",
-	"path": "balancer",
+	"path": "API3",
 	"previousPaths": [],
-	"folder": "balancer",
+	"folder": "API3",
 	"type": "snapshot",
-	"suffix": "BAL",
-	"coinGeckoPriceString": "balancer",
-	"tokenContractAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+	"suffix": "API3",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
@@ -18,7 +18,7 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "balancer",
+	"snapshotSpaceName": "API3",
 	"invalidSnapshots": [],
 	"branding": {
 		"primaryColor": "",
@@ -29,5 +29,5 @@
 		"categoryId": ""
 	},
 	"safeAddress": null,
-	"treasuryAddresses": ["0xb618F903ad1d00d6F7b92f5b0954DcdC056fC533", "0xce88686553686DA562CE7Cea497CE749DA109f9F"]
+	"treasuryAddresses": ["0xe7aF7c5982e073aC6525a34821fe1B3e8E432099"]
 }

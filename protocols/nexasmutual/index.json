@@ -1,14 +1,14 @@
 { 
-	"cname": "balancer",
-	"name": "Balancer",
+	"cname": "nexasmutual",
+	"name": "Nexas Mutual",
 	"description": "",
-	"path": "balancer",
+	"path": "nexasmutual",
 	"previousPaths": [],
-	"folder": "balancer",
+	"folder": "nexasmutual",
 	"type": "snapshot",
-	"suffix": "BAL",
-	"coinGeckoPriceString": "balancer",
-	"tokenContractAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+	"suffix": "NXM",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
@@ -18,7 +18,7 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "balancer",
+	"snapshotSpaceName": "nexasmutual",
 	"invalidSnapshots": [],
 	"branding": {
 		"primaryColor": "",
@@ -29,5 +29,5 @@
 		"categoryId": ""
 	},
 	"safeAddress": null,
-	"treasuryAddresses": ["0xb618F903ad1d00d6F7b92f5b0954DcdC056fC533", "0xce88686553686DA562CE7Cea497CE749DA109f9F"]
+	"treasuryAddresses": ["0x586b9b2F8010b284A0197f392156f1A7Eb5e86e9"]
 }

@@ -1,14 +1,14 @@
 { 
-	"cname": "mstable",
-	"name": "mStable",
+	"cname": "linkswap",
+	"name": "Linkswap",
 	"description": "",
-	"path": "mstable",
+	"path": "linkswap",
 	"previousPaths": [],
-	"folder": "mstable",
+	"folder": "linkswap",
 	"type": "snapshot",
-	"suffix": "vMTA",
-	"coinGeckoPriceString": "meta",
-	"tokenContractAddress": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
+	"suffix": "YFL",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
@@ -18,7 +18,7 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "mstable",
+	"snapshotSpaceName": "linkswap",
 	"invalidSnapshots": [],
 	"branding": {
 		"primaryColor": "",
@@ -28,6 +28,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null,
-	"treasuryAddresses": ["0x3dd46846eed8D147841AE162C8425c08BD8E1b41"]
+	"safeAddress": null, 
+	"treasuryAddresses": ["0xE69A81b96FBF5Cb6CAe95d2cE5323Eff2bA0EAE4"]
 }

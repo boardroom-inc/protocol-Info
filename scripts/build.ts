@@ -1,6 +1,5 @@
 import fs from "fs";
 import mkdirp from "mkdirp";
-import protocolsInfo from "../protocolsInfoForScreener.json";
 
 const protocols = fs.readdirSync("./protocols");
 
@@ -13,10 +12,8 @@ fs.copyFileSync("./types.ts", "./dist/types.ts");
 fs.writeFileSync(
   "./dist/index.ts",
   `
-  import { Protocol, ProtocolForScreeener } from "../types";
+  import { Protocol } from "../types";
 
   export default [${protocolInfo.toString()}] as Protocol[];
-  const protocolsInfoForScreener: Record<string, ProtocolForScreeener> = ${JSON.stringify(protocolsInfo)};
-  export {protocolsInfoForScreener};
   `,
 );

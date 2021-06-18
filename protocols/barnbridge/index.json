@@ -1,14 +1,14 @@
 { 
-	"cname": "balancer",
-	"name": "Balancer",
+	"cname": "barnbridge",
+	"name": "BarnBridge",
 	"description": "",
-	"path": "balancer",
+	"path": "barnbridge",
 	"previousPaths": [],
-	"folder": "balancer",
+	"folder": "barnbridge",
 	"type": "snapshot",
-	"suffix": "BAL",
-	"coinGeckoPriceString": "balancer",
-	"tokenContractAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
+	"suffix": "BOND",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
@@ -18,7 +18,7 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "balancer",
+	"snapshotSpaceName": "barnbridge",
 	"invalidSnapshots": [],
 	"branding": {
 		"primaryColor": "",
@@ -29,5 +29,5 @@
 		"categoryId": ""
 	},
 	"safeAddress": null,
-	"treasuryAddresses": ["0xb618F903ad1d00d6F7b92f5b0954DcdC056fC533", "0xce88686553686DA562CE7Cea497CE749DA109f9F"]
+	"treasuryAddresses": ["0x4cAE362D7F227e3d306f70ce4878E245563F3069"]
 }

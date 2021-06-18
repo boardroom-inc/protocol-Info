@@ -1,14 +1,14 @@
 { 
-	"cname": "mstable",
-	"name": "mStable",
+	"cname": "yearn",
+	"name": "Yearn",
 	"description": "",
-	"path": "mstable",
+	"path": "yearn",
 	"previousPaths": [],
-	"folder": "mstable",
+	"folder": "yearn",
 	"type": "snapshot",
-	"suffix": "vMTA",
-	"coinGeckoPriceString": "meta",
-	"tokenContractAddress": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
+	"suffix": "YFI",
+	"coinGeckoPriceString": "",
+	"tokenContractAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
 	"isEnabled": false,
 	"hasOnchain": false,
 	"claim": {
@@ -18,7 +18,7 @@
 	},
 	"isHybrid": false,
 	"hasDelegation": false,
-	"snapshotSpaceName": "mstable",
+	"snapshotSpaceName": "yearn",
 	"invalidSnapshots": [],
 	"branding": {
 		"primaryColor": "",
@@ -28,6 +28,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null,
-	"treasuryAddresses": ["0x3dd46846eed8D147841AE162C8425c08BD8E1b41"]
+	"safeAddress": null, 
+	"treasuryAddresses": ["0xfeb4acf3df3cdea7399794d0869ef76a6efaff52"]
 }
