@@ -30,5 +30,6 @@
     "url": "https://gov.rarible.com",
     "categoryId": "7"
   },
-  "safeAddress": null
+  "safeAddress": null,
+  "enableTreasuryNav": true
 }

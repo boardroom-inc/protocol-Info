@@ -27,5 +27,6 @@
     "isClaimed": true,
     "claimer": "",
     "signature": ""
-  }
+  },
+  "enableTreasuryNav": true
 }

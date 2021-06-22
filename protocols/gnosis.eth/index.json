@@ -25,5 +25,6 @@
   },
   "branding": {},
   "discourseForum": {},
-  "safeAddress": null
+  "safeAddress": null,
+  "enableTreasuryNav": true
 }
