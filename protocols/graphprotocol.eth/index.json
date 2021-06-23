@@ -9,13 +9,8 @@
 	"suffix": "GRT",
 	"coinGeckoPriceString": "the-graph",
 	"tokenContractAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "graphprotocol.eth",

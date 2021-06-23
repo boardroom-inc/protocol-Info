@@ -34,11 +34,6 @@ printf '{
 	"tokenContractAddress": "'"$2"'",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "'"$1"'",

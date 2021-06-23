@@ -9,13 +9,8 @@
 	"suffix": "PNK",
 	"coinGeckoPriceString": "kleros",
 	"tokenContractAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "kleros",

@@ -9,13 +9,8 @@
 	"suffix": "RICE",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "daosquare",

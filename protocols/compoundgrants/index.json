@@ -17,10 +17,5 @@
   "invalidSnapshots": [],
   "branding": {},
   "discourseForum": {},
-  "claim": {
-    "isClaimed": true,
-    "claimer": "0x991d540e7ecfa15dbe3f52d0f758010dbec85f6d",
-    "signature": "0x50c0b52d98b52b5756652d67e42a56f5722493d6acbc3f801b947b033cfdaacf42b62d250021419cd2891089b1572986c2fcca0597c69b29cc48780927f182d31b"
-  },
   "safeAddress": "0xF1D8c2eED95D5fC2EaDe4E6Bb15a5969453E89a9"
 }

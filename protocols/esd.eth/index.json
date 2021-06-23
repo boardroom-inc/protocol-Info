@@ -9,13 +9,8 @@
 	"suffix": "ESD",
 	"coinGeckoPriceString": "empty-set-dollar",
 	"tokenContractAddress": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "esd.eth",

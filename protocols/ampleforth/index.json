@@ -9,13 +9,8 @@
 	"suffix": "AMPL",
 	"coinGeckoPriceString": "ampleforth",
 	"tokenContractAddress": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "ampleforth",

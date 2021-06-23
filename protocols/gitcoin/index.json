@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "gitcoin",
