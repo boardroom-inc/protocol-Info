@@ -9,7 +9,7 @@
 	"suffix": "GTC",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
 	"hasDelegation": false,

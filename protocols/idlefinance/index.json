@@ -9,7 +9,7 @@
 	"suffix": "IDLE",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
 	"hasDelegation": false,

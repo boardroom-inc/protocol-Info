@@ -9,7 +9,7 @@
 	"suffix": "",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3RAD",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
 	"hasDelegation": false,

@@ -9,7 +9,7 @@
 	"suffix": "NDX",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
 	"hasDelegation": false,
