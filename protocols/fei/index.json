@@ -7,7 +7,7 @@
 	"folder": "fei",
 	"type": "compoundish",
 	"suffix": "FEI",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "fei-protocol",
 	"tokenContractAddress": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
 	"isEnabled": false,
 	"hasOnchain": false,
@@ -28,5 +28,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+    "disableTreasuryNav": true
 }

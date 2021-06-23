@@ -28,5 +28,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+	"disableTreasuryNav": true
 }
