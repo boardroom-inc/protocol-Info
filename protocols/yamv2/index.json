@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "yamv2",

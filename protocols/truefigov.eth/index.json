@@ -9,13 +9,8 @@
 	"suffix": "TRU",
 	"coinGeckoPriceString": "truefi",
 	"tokenContractAddress": "0x23696914Ca9737466D8553a2d619948f548Ee424",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "truefigov.eth",

@@ -9,13 +9,8 @@
 	"suffix": "RGT",
 	"coinGeckoPriceString": "rari-governance-token",
 	"tokenContractAddress": "0xD291E7a03283640FDc51b121aC401383A46cC623",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "rari",

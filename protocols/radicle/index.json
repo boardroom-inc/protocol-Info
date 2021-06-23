@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3RAD",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "radicle",
@@ -28,5 +23,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+	"disableTreasuryNav": true
 }

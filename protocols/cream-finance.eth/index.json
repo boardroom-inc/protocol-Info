@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0x2ba592f78db6436527729929aaf6c908497cb200",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "cream-finance.eth",

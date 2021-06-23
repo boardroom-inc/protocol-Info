@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "inverse",
@@ -28,5 +23,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+    "disableTreasuryNav": true
 }

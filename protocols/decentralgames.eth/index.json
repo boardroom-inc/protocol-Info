@@ -9,13 +9,8 @@
 	"suffix": "decentral.games",
 	"coinGeckoPriceString": "decentral-games",
 	"tokenContractAddress": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "decentralgames.eth",

@@ -9,13 +9,8 @@
 	"suffix": "BADGER",
 	"coinGeckoPriceString": "badger-dao",
 	"tokenContractAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "badgerdao.eth",

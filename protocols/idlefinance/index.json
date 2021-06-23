@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "idlefinance",
@@ -28,5 +23,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+	"disableTreasuryNav": true
 }

@@ -9,13 +9,8 @@
 	"suffix": "SEEN",
 	"coinGeckoPriceString": "seen",
 	"tokenContractAddress": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "seen",

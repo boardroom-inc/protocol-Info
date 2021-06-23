@@ -34,11 +34,6 @@ printf '{
 	"tokenContractAddress": "'"$2"'",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "'"$1"'",
@@ -51,7 +46,8 @@ printf '{
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+	"disableTreasuryNav": false
 }' >| ./protocols/$1/index.json
 		fi
 

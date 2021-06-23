@@ -9,13 +9,8 @@
 	"suffix": "DSD",
 	"coinGeckoPriceString": "dynamic-set-dollar",
 	"tokenContractAddress": "0x6bf977ed1a09214e6209f4ea5f525261f1a2690a",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "dsd.eth",

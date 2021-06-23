@@ -12,11 +12,6 @@
   "hasOnchain": false,
   "isHybrid": false,
   "hasDelegation": false,
-  "claim": {
-    "isClaimed": true,
-    "claimer": "",
-    "signature": ""
-  },
   "snapshotSpaceName": "index-coop.eth",
   "invalidSnapshots": [
     "QmQ2s6DsA2jc7ops9BC2KzQwo4rYZLYavisLJvLihpTGvH"

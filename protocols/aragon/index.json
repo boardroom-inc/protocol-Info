@@ -9,13 +9,8 @@
 	"suffix": "ANT",
 	"coinGeckoPriceString": "aragon",
 	"tokenContractAddress": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "aragon",

@@ -14,11 +14,6 @@
   "isHybrid": true,
   "hasDelegation": true,
   "snapshotSpaceName": "uniswap",
-  "claim": {
-    "isClaimed": true,
-    "claimer": "",
-    "signature": ""
-  },
   "invalidSnapshots": [
     "QmNWZDogjnEMoi8hDFrK7MNmWeAeXnGJjmf5c8nTHfj9K7",
     "QmUPcp66S7CqhTFZeszUG7azrZzNNtGx2uqTvaWGqMfLCB",
@@ -31,5 +26,6 @@
   "branding": {},
   "discourseForum": {},
   "safeAddress": null,
-  "treasuryAddresses": ["0x1a9c8182c09f50c8318d769245bea52c32be35bc", "0x4750c43867ef5f89869132eccf19b9b6c4286e1a"]
+  "treasuryAddresses": ["0x1a9c8182c09f50c8318d769245bea52c32be35bc", "0x4750c43867ef5f89869132eccf19b9b6c4286e1a"],
+  "disableTreasuryNav": true
 }

@@ -7,15 +7,10 @@
 	"folder": "fei",
 	"type": "compoundish",
 	"suffix": "FEI",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "fei-protocol",
 	"tokenContractAddress": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "fei",
@@ -29,5 +24,6 @@
 		"categoryId": ""
 	},
 	"safeAddress": null,
-	"treasuryAddress": ["0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9"]
+	"treasuryAddress": ["0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9"],
+  "disableTreasuryNav": true
 }

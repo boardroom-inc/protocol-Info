@@ -22,10 +22,5 @@
   ],
   "branding": {},
   "discourseForum": {},
-  "safeAddress": null,
-  "claim": {
-    "isClaimed": true,
-    "claimer": "",
-    "signature": ""
-  }
+  "safeAddress": null
 }
