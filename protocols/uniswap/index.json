@@ -14,11 +14,6 @@
   "isHybrid": true,
   "hasDelegation": true,
   "snapshotSpaceName": "uniswap",
-  "claim": {
-    "isClaimed": true,
-    "claimer": "",
-    "signature": ""
-  },
   "invalidSnapshots": [
     "QmNWZDogjnEMoi8hDFrK7MNmWeAeXnGJjmf5c8nTHfj9K7",
     "QmUPcp66S7CqhTFZeszUG7azrZzNNtGx2uqTvaWGqMfLCB",

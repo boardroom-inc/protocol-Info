@@ -11,11 +11,6 @@
 	"tokenContractAddress": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
 	"isEnabled": false,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "pooltogether",

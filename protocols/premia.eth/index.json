@@ -9,13 +9,8 @@
 	"suffix": "PREMIA",
 	"coinGeckoPriceString": "premia",
 	"tokenContractAddress": "0x9135b5344D95c068Bde787De6BE9ded722b11762",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "premia.eth",

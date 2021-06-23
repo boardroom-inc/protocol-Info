@@ -9,13 +9,8 @@
 	"suffix": "PICKLE",
 	"coinGeckoPriceString": "pickle-finance",
 	"tokenContractAddress": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "pickle",

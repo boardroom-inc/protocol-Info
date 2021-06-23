@@ -9,13 +9,8 @@
 	"suffix": "PcDAI",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "dai-prize-pool",

@@ -9,13 +9,8 @@
 	"suffix": "LON",
 	"coinGeckoPriceString": "tokenlon",
 	"tokenContractAddress": "0x0000000000095413afc295d19edeb1ad7b71c952",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
 	"isHybrid": false,
 	"hasDelegation": false,
 	"snapshotSpaceName": "tokenlon.eth",
