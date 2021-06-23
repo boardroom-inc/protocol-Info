@@ -7,7 +7,7 @@
 	"folder": "gitcoin",
 	"type": "compoundish",
 	"suffix": "GTC",
-	"coinGeckoPriceString": "",
+	"coinGeckoPriceString": "gitcoin",
 	"tokenContractAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
 	"isEnabled": false,
 	"hasOnchain": false,
@@ -23,5 +23,6 @@
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+    "disableTreasuryNav": true
 }

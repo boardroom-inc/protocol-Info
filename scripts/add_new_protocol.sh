@@ -46,7 +46,8 @@ printf '{
 		"url": "",
 		"categoryId": ""
 	},
-	"safeAddress": null 
+	"safeAddress": null,
+	"disableTreasuryNav": false
 }' >| ./protocols/$1/index.json
 		fi
 
