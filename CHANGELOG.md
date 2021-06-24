@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.4.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.4.1...v2.4.2) (2021-06-24)
+
+
+### Bug Fixes
+
+* mstable info ([3057ac1](https://github.com/boardroom-inc/protocol-Info/commit/3057ac19a1e968edb7f016d366d4dbdfe6adb5bf))
+
 ## 2.4.0 (2021-06-23)
 
 
