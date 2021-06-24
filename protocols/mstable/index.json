@@ -1,7 +1,7 @@
 { 
 	"cname": "mstable",
 	"name": "mStable",
-	"description": "",
+	"description": "mStable is building decentralised stable-value asset infrastructure for DeFi.",
 	"path": "mstable",
 	"previousPaths": [],
 	"folder": "mstable",
