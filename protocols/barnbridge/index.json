@@ -1,0 +1,24 @@
+{
+  "cname": "barnbridge",
+  "name": "BarnBridge",
+  "description": "BarnBridge is a decentralised finance (DeFi) risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as inflation risk, market price risk, and cash-flow volatility risk.",
+  "path": "barnbridge",
+  "folder": "barnbridge",
+  "type": "compoundish",
+  "suffix": "BOND",
+  "coinGeckoPriceString": "barnbridge",
+  "tokenContractAddress": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+  "governanceContractAddress": "0x10e138877df69Ca44Fdc68655f86c88CDe142D7F", 
+  "isEnabled": true,
+  "hasOnchain": true,
+  "isHybrid": false,
+  "hasDelegation": true,
+  "snapshotSpaceName": "barnbridge.eth",
+  "invalidSnapshots": [],
+  "discourseForum": {
+    "url": "https://forum.barnbridge.com/",
+    "categoryId": "5"
+  },
+  "safeAddress": null,
+  "treasuryAddresses": ["0x4cae362d7f227e3d306f70ce4878e245563f3069"],
+}
