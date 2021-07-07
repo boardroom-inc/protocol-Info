@@ -8,7 +8,7 @@
 	"type": "others",
 	"suffix": "AAVE",
 	"coinGeckoPriceString": "",
-	"tokenContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+	"tokenContractAddress": "0xC13eac3B4F9EED480045113B7af00F7B5655Ece8",
 	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
