@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.4.2...v2.5.0) (2021-07-07)
+
+
+### Features
+
+* enable all api protocols ([#201](https://github.com/boardroom-inc/protocol-Info/issues/201)) ([91b5ebf](https://github.com/boardroom-inc/protocol-Info/commit/91b5ebf0205896b7469da1a52417c4498679655c))
+
+
+### Bug Fixes
+
+* radicle protocol info ([#212](https://github.com/boardroom-inc/protocol-Info/issues/212)) ([f9d9bbc](https://github.com/boardroom-inc/protocol-Info/commit/f9d9bbc7b73b39a644d8ad0f88d70856248063cf))
+* update aave token contract address ([#213](https://github.com/boardroom-inc/protocol-Info/issues/213)) ([aac43c6](https://github.com/boardroom-inc/protocol-Info/commit/aac43c634d09a34741366054cf3113893ea7f458))
+
 ### [2.4.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.4.1...v2.4.2) (2021-06-24)
 
 
