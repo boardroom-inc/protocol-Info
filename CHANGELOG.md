@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.0...v2.5.1) (2021-07-07)
+
+
+### Bug Fixes
+
+* update aave token abi ([#214](https://github.com/boardroom-inc/protocol-Info/issues/214)) ([fa2ea9b](https://github.com/boardroom-inc/protocol-Info/commit/fa2ea9bd701124a2b19647dd9ebf09159f1ab372))
+
 ## [2.5.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.4.2...v2.5.0) (2021-07-07)
 
 
