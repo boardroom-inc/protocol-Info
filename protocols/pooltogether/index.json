@@ -9,7 +9,7 @@
 	"suffix": "POOL",
 	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
-	"isEnabled": false,
+	"isEnabled": true,
 	"hasOnchain": false,
 	"isHybrid": false,
 	"hasDelegation": false,
