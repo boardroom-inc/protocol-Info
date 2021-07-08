@@ -1,0 +1,23 @@
+{
+  "cname": "instadapp",
+  "name": "Instadapp",
+  "description": "The open source middleware platform for decentralized finance applications",
+  "path": "instadapp",
+  "folder": "instadapp",
+  "type": "snapshot",
+  "suffix": "INST",
+  "coinGeckoPriceString": "instadapp",
+  "tokenContractAddress": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+  "governanceContractAddress": "0x0204cd037b2ec03605cfdfe482d8e257c765fa1b",
+  "isEnabled": true,
+  "hasOnchain": true,
+  "isHybrid": false,
+  "hasDelegation": true,
+  "snapshotSpaceName": "instadapp-gov.eth",
+  "invalidSnapshots": [],
+  "discourseForum": {
+    "url": "https://gov.instadapp.io"
+  },
+  "treasuryAddress": "0x28849D2b63fA8D361e5fc15cB8aBB13019884d09",
+  "safeAddress": null
+}
