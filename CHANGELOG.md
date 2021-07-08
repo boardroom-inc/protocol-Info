@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.5](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.4...v2.5.5) (2021-07-08)
+
+
+### Bug Fixes
+
+* update aave and instadapp token addresses ([#220](https://github.com/boardroom-inc/protocol-Info/issues/220)) ([64b36d6](https://github.com/boardroom-inc/protocol-Info/commit/64b36d6baaeda7e707b32fa5cfe6eb6477c37d7a))
+
 ### [2.5.4](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.2...v2.5.4) (2021-07-08)
 
 
