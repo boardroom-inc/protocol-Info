@@ -5,7 +5,7 @@ AAVE (token) is used as the centre of gravity of Aave Protocol governance. AAVE 
 ### 🧭 Aave Governance
 Aave Governance V2 is an exciting new evolution of on-chain governance, allowing unique features, rapid protocol upgrades via short time lock executors, and governance upgrades via long time lock executors. This ensures the protocol can rapidly adjust to changing market conditions, as well as upgrade core parts of the protocol as time goes on.
 
-### 🧭 Governance Power
+### 📈 Governance Power
 AAVE and/or stkAAVE token holders receive governance powers proportionally to the sum of their balance.
 
 There are initially two powers associated with each governance token:
@@ -17,7 +17,7 @@ Any user can choose to delegate one or both of the governance powers associated 
 
 ![Aave Governance](https://gblobscdn.gitbook.com/assets%2F-MQDFFJx5ZZi37tall96%2F-MQHAdCnwu1zXYg4Qy8X%2F-MQHDnclMYFjRPSM11Hz%2Fgov2.png?alt=media&token=68eeaa29-22c8-496f-8a3d-d379aeab53bc)
 
-### 🔭 Governance Proposals
+### 📄 Governance Proposals
 The steps for a successful governance proposal are:
 
 1.  Creating an [Aave Request for Comments (ARC)](/governance/arcs) and receiving community input.
