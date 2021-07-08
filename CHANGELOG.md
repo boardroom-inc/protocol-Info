@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.4](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.2...v2.5.4) (2021-07-08)
+
+
+### Bug Fixes
+
+* disable aave and instadapp treasury nav ([#219](https://github.com/boardroom-inc/protocol-Info/issues/219)) ([8200883](https://github.com/boardroom-inc/protocol-Info/commit/8200883ce10f2ffd9a20b1be2287abe66b75a53e))
+* update instadapp ([#218](https://github.com/boardroom-inc/protocol-Info/issues/218)) ([6920d2a](https://github.com/boardroom-inc/protocol-Info/commit/6920d2ae0fce6af822dbb26ea570469d4b253e4e))
+
 ### [2.5.3](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.2...v2.5.3) (2021-07-08)
 
 
