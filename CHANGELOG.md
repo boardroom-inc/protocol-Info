@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.3](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.2...v2.5.3) (2021-07-08)
+
+
+### Bug Fixes
+
+* update instadapp ([#218](https://github.com/boardroom-inc/protocol-Info/issues/218)) ([6920d2a](https://github.com/boardroom-inc/protocol-Info/commit/6920d2ae0fce6af822dbb26ea570469d4b253e4e))
+
 ### [2.5.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.1...v2.5.2) (2021-07-08)
 
 ### [2.5.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.0...v2.5.1) (2021-07-07)
