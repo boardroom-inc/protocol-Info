@@ -7,7 +7,7 @@
   "type": "compoundish",
   "suffix": "INST",
   "coinGeckoPriceString": "instadapp",
-  "tokenContractAddress": "0x31de2088f38ed7f8a4231de03973814eda1f8773",
+  "tokenContractAddress": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
   "governanceContractAddress": "0x0204Cd037B2ec03605CFdFe482D8e257C765fA1B",
   "isEnabled": true,
   "hasOnchain": false,
