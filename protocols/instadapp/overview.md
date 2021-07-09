@@ -17,7 +17,7 @@ The INST token contract utilized the COMP token contract as a base contract. The
 
 ### Additional Resources
 
-* [Gorvernacnce Forum](https://gov.indexcoop.com/)
+* [Governance Forum](https://gov.indexcoop.com/)
 * [Discord](https://discord.gg/YVCh7XqAsf)
 * [Website](https://instadapp.io/)
 * [Github](https://github.com/InstaDApp)
