@@ -8,8 +8,8 @@
   "suffix": "BOND",
   "coinGeckoPriceString": "barnbridge",
   "tokenContractAddress": "0x0391d2021f89dc339f60fff84546ea23e337750f",
-  "governanceContractAddress": "0x10e138877df69Ca44Fdc68655f86c88CDe142D7F", 
-  "isEnabled": true,
+  "governanceContractAddress": "0x10e138877df69Ca44Fdc68655f86c88CDe142D7F",
+  "isEnabled": false,
   "hasOnchain": true,
   "isHybrid": false,
   "hasDelegation": true,
@@ -20,5 +20,5 @@
     "categoryId": "5"
   },
   "safeAddress": null,
-  "treasuryAddresses": ["0x4cae362d7f227e3d306f70ce4878e245563f3069"],
+  "treasuryAddresses": ["0x4cae362d7f227e3d306f70ce4878e245563f3069"]
 }
