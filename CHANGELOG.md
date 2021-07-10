@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.6](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.5...v2.5.6) (2021-07-10)
+
+
+### Bug Fixes
+
+* instadapp overview typo ([71cfe67](https://github.com/boardroom-inc/protocol-Info/commit/71cfe67bad3d69189496b1ca302bfb622ee6590c))
+* update fei gov token contract address ([#227](https://github.com/boardroom-inc/protocol-Info/issues/227)) ([917a528](https://github.com/boardroom-inc/protocol-Info/commit/917a528aab5fc2b4c56658197078cf67d11e91a9))
+
 ### [2.5.5](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.4...v2.5.5) (2021-07-08)
 
 
