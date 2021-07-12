@@ -1,27 +1,8 @@
-{ 
+{
 	"cname": "ybaby",
-	"name": "Yearn",
 	"description": "",
 	"path": "ybaby.eth",
-	"previousPaths": [],
-	"folder": "ybaby.eth",
 	"type": "snapshot",
-	"suffix": "YFI",
-	"coinGeckoPriceString": "yearn-finance",
 	"tokenContractAddress": "0x5584e034094BBC734751fE48A701e9758e1dDA88",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "ybaby.eth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

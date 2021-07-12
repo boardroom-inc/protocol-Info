@@ -1,27 +1,8 @@
-{ 
+{
 	"cname": "daiprizepool",
-	"name": "DAI Prize Pool",
 	"description": "",
 	"path": "dai-prize-pool",
-	"previousPaths": [],
-	"folder": "dai-prize-pool",
 	"type": "snapshot",
-	"suffix": "PcDAI",
-	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0xEBfb47A7ad0FD6e57323C8A42B2E5A6a4F68fc1a",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "dai-prize-pool",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

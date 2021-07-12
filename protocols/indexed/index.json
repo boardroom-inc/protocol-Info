@@ -1,28 +1,9 @@
-{ 
+{
 	"cname": "indexed",
-	"name": "Indexed",
 	"description": "",
 	"path": "indexed",
-	"previousPaths": [],
-	"folder": "indexed",
 	"type": "compoundish",
-	"suffix": "NDX",
-	"coinGeckoPriceString": "",
 	"tokenContractAddress": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
 	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "indexed",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null,
 	"disableTreasuryNav": true
 }

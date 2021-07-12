@@ -1,27 +1,8 @@
-{ 
+{
 	"cname": "balancer",
-	"name": "Balancer",
 	"description": "",
 	"path": "balancer",
-	"previousPaths": [],
-	"folder": "balancer",
 	"type": "snapshot",
-	"suffix": "BAL",
-	"coinGeckoPriceString": "balancer",
 	"tokenContractAddress": "0xba100000625a3754423978a60c9317c58a424e3D",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "balancer",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

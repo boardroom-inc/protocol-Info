@@ -1,27 +1,8 @@
-{ 
+{
 	"cname": "mstable",
-	"name": "mStable",
 	"description": "mStable is building decentralised stable-value asset infrastructure for DeFi.",
 	"path": "mstable",
-	"previousPaths": [],
-	"folder": "mstable",
 	"type": "snapshot",
-	"suffix": "vMTA",
-	"coinGeckoPriceString": "meta",
 	"tokenContractAddress": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "mstable",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

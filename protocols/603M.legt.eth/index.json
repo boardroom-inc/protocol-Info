@@ -1,19 +1,8 @@
 {
   "cname": "603M.legt",
-  "name": "603 Miramar DAO",
   "description": "DAO for the property at 603 Miramar",
   "path": "example",
-  "folder": "__example",
   "type": "snapshot",
-  "suffix": "EXP",
-  "coinGeckoPriceString": "6",
   "tokenContractAddress": "0x056f85C0B7c4891CD7f94a8B31d97Aa2894B55a0",
-  "isEnabled": true,
-  "hasOnchain": false,
-  "isHybrid": false,
-  "hasDelegation": false,
-  "snapshotSpaceName": "603M.legt.eth",
-  "invalidSnapshots": [],
-  "discourseForum": {},
-  "safeAddress": "0x0000000000000000000000000000000000000000"
+  "isEnabled": true
 }
