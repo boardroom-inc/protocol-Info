@@ -1,27 +1,8 @@
-{ 
+{
 	"cname": "pickle",
-	"name": "PICKLE",
 	"description": "",
 	"path": "pickle",
-	"previousPaths": [],
-	"folder": "pickle",
 	"type": "snapshot",
-	"suffix": "PICKLE",
-	"coinGeckoPriceString": "pickle-finance",
 	"tokenContractAddress": "0x47b7b0983bf3b1d8d5b773006809edcb208af191",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "pickle",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

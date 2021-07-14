@@ -1,33 +1,13 @@
-{ 
+{
 	"cname": "aavegotchi",
-	"name": "Aavegotchi",
 	"description": "",
 	"path": "aavegotchi.eth",
-	"previousPaths": [],
-	"folder": "aavegotchi.eth",
 	"type": "snapshot",
-	"suffix": "GHST",
-	"coinGeckoPriceString": "aavegotchi",
 	"tokenContractAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
 	"isEnabled": false,
-	"hasOnchain": false,
-	"claim": {
-		"isClaimed": false,
-		"claimer": "",
-		"signature": ""
-	},
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "aavegotchi.eth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
 	"discourseForum": {
 		"url": "https://dao.aavegotchi.com",
 		"categoryId": "6"
 	},
-	"safeAddress": null,
 	"treasuryAddresses": ["0xffe6280ae4e864d9af836b562359fd828ece8020"]
 }

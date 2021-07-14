@@ -1,3 +1,0 @@
-#### dHEDGE Governance Process
-
-[Text]

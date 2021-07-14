@@ -9,7 +9,7 @@ for (const protocol of protocols) {
     validator(ProtocolIo).decodeSync(protocol);
   } catch (e) {
     errors.push({
-      protocol: protocol.name,
+      protocol: protocol.cname,
       message: e,
     });
   }
@@ -22,7 +22,7 @@ const errorMessage = errors.reduce(
     Error validating protocol: ${error.protocol}\n
     ${error.message}
   `,
-  ""
+  "",
 );
 
 if (errorMessage) {

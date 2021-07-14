@@ -1,28 +1,9 @@
-{ 
+{
 	"cname": "badgerdao",
-	"name": "BadgerDAO",
 	"description": "",
 	"path": "badgerdao.eth",
-	"previousPaths": [],
-	"folder": "badgerdao.eth",
 	"type": "snapshot",
-	"suffix": "BADGER",
-	"coinGeckoPriceString": "badger-dao",
 	"tokenContractAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
 	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "badgerdao.eth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null,
-	"treasuryAddresses": ["0x4441776e6a5d61fa024a5117bfc26b953ad1f425"] 
+	"treasuryAddresses": ["0x4441776e6a5d61fa024a5117bfc26b953ad1f425"]
 }

@@ -1,27 +1,8 @@
 {
   "cname": "pleasrdao",
-  "name": "PleasrDAO✨",
   "description": "a cartel of $PEEPS that aim to plz",
   "path": "pleasrdao.eth",
-  "previousPaths": [],
-  "folder": "pleasrdao",
   "type": "snapshot",
-  "suffix": "PEEPS",
-  "coinGeckoPriceString": "",
   "tokenContractAddress": "0xba962a81f78837751be8a177378d582f337084e6",
-  "isEnabled": true,
-  "hasOnchain": false,
-  "isHybrid": false,
-  "hasDelegation": false,
-  "snapshotSpaceName": "pleasrdao.eth",
-  "invalidSnapshots": [],
-  "branding": {
-    "primaryColor": "",
-    "accentColor": ""
-  },
-  "discourseForum": {
-    "url": "",
-    "categoryId": ""
-  },
-  "safeAddress": null
+  "isEnabled": true
 }

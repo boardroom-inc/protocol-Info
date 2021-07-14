@@ -18,36 +18,14 @@ else
 	touch ./protocols/$1/index.json
 	touch ./protocols/$1/events.json
 	touch ./protocols/$1/overview.md
-	touch ./protocols/$1/logo.png
-	touch ./protocols/$1/header.png
 
 printf '{ 
 	"cname": "'"$1"'",
-	"name": "'"$4"''"$5"''"$6"'",
 	"description": "",
 	"path": "'"$1"'",
-	"previousPaths": [],
-	"folder": "'"$1"'",
 	"type": "snapshot",
-	"suffix": "'"$3"'",
-	"coinGeckoPriceString": "",
 	"tokenContractAddress": "'"$2"'",
 	"isEnabled": false,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "'"$1"'",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null,
-	"disableTreasuryNav": false
 }' >| ./protocols/$1/index.json
 		fi
 

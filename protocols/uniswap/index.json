@@ -1,31 +1,10 @@
 {
   "cname": "uniswap",
-  "name": "Uniswap",
   "description": "Uniswap is a decentralized protocol for automated liquidity provision on Ethereum.",
   "path": "uniswap",
-  "folder": "uniswap",
   "type": "compoundish",
-  "suffix": "UNI",
-  "coinGeckoPriceString": "uniswap",
   "tokenContractAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-  "governanceContractAddress": "0x5e4be8Bc9637f0EAA1A755019e06A68ce081D58F",
   "isEnabled": true,
-  "hasOnchain": true,
-  "isHybrid": true,
-  "hasDelegation": true,
-  "snapshotSpaceName": "uniswap",
-  "invalidSnapshots": [
-    "QmNWZDogjnEMoi8hDFrK7MNmWeAeXnGJjmf5c8nTHfj9K7",
-    "QmUPcp66S7CqhTFZeszUG7azrZzNNtGx2uqTvaWGqMfLCB",
-    "QmeNU8EeLygjwkwBmPMVhY1fhohWFtzJx9ee8sePkhmrJz",
-    "QmXGfbsH7Qt19zzuDDmX1WxnehfEi9K9zNGsQAGuBgyXE3",
-    "QmTgW3QTYZhfW5Zu7j1Xewy8NQgh2Ga618BkPAPAfmzGcN",
-    "QmQJuW88TbKzMLtEhWC7HkSrUWdF5FVsdsLvhfAogkzyqn",
-    "QmU5sggJNTQmSQtxecdsAJxXn9fgSwYz1dXpSpDcgwAqqy"
-  ],
-  "branding": {},
-  "discourseForum": {},
-  "safeAddress": null,
   "treasuryAddresses": ["0x1a9c8182c09f50c8318d769245bea52c32be35bc", "0x4750c43867ef5f89869132eccf19b9b6c4286e1a"],
   "disableTreasuryNav": true
 }
