@@ -3,6 +3,5 @@
   "description": "A concise description of the protocol",
   "path": "example",
   "type": "snapshot",
-  "tokenContractAddress": "0x0000000000000000000000000000000000000000",
   "isEnabled": true
 }

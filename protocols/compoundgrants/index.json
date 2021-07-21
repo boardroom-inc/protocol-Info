@@ -3,7 +3,6 @@
   "description": "The Compound Grants Program is a 4/7 multisig controlled committee that will deploy a maximum of $1mm per quarter and run for two quarters.",
   "path": "compoundgrants.eth",
   "type": "snapshot",
-  "tokenContractAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
   "isEnabled": true,
   "safeAddress": "0xF1D8c2eED95D5fC2EaDe4E6Bb15a5969453E89a9"
 }

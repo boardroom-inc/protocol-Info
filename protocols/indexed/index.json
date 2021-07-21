@@ -3,7 +3,6 @@
 	"description": "",
 	"path": "indexed",
 	"type": "compoundish",
-	"tokenContractAddress": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
 	"isEnabled": true,
 	"disableTreasuryNav": true
 }

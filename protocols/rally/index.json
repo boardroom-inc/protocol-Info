@@ -4,6 +4,5 @@
   "path": "rallygov.eth",
   "previousPaths": ["rally"],
   "type": "snapshot",
-  "tokenContractAddress": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
   "isEnabled": true
 }

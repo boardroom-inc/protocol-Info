@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "basisdollar.eth",
 	"type": "snapshot",
-	"tokenContractAddress": "0x86af7b477F87C6b20B1D27496e7355230EB49724",
 	"isEnabled": true
 }

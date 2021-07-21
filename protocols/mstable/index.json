@@ -3,6 +3,5 @@
 	"description": "mStable is building decentralised stable-value asset infrastructure for DeFi.",
 	"path": "mstable",
 	"type": "snapshot",
-	"tokenContractAddress": "0xae8bc96da4f9a9613c323478be181fdb2aa0e1bf",
 	"isEnabled": true
 }

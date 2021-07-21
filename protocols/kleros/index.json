@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "kleros",
 	"type": "snapshot",
-	"tokenContractAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
 	"isEnabled": true
 }

@@ -3,7 +3,6 @@
 	"description": "",
 	"path": "aavegotchi.eth",
 	"type": "snapshot",
-	"tokenContractAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
 	"isEnabled": false,
 	"discourseForum": {
 		"url": "https://dao.aavegotchi.com",

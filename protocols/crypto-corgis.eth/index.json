@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "crypto-corgis.eth",
 	"type": "snapshot",
-	"tokenContractAddress": "0x151220cf596c3ac80736a7ef7036c6f1b30aaf48",
 	"isEnabled": false
 }

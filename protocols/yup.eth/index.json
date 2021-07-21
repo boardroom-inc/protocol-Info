@@ -3,7 +3,6 @@
   "description": "Your opinion matters. Curate the web. Earn & influence.",
   "path": "yup.eth",
   "type": "snapshot",
-  "tokenContractAddress": "0x69bBC3F8787d573F1BBDd0a5f40C7bA0Aee9BCC9",
   "isEnabled": true,
   "safeAddress": "0xbd5224f66D5ce49a8Afefc14a76248D158D14c6F"
 }

@@ -3,7 +3,6 @@
   "description": "Rarible is the premiere NFT marketplace to mint, buy, and sell digital collectibles.",
   "path": "rarible",
   "type": "snapshot",
-  "tokenContractAddress": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://gov.rarible.com",

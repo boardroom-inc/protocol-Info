@@ -3,7 +3,6 @@
   "description": "The Index Coop is an autonomous asset manager governed, maintained, and upgraded by INDEX token holders.",
   "path": "index",
   "type": "snapshot",
-  "tokenContractAddress": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://gov.indexcoop.com",

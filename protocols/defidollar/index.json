@@ -3,6 +3,5 @@
   "description": "DUSD is a stablecoin controlled by a DAO using DeFi primitives to remain pegged to the Dollar.",
   "path": "defidollar",
   "type": "snapshot",
-  "tokenContractAddress": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
   "isEnabled": true
 }

@@ -3,6 +3,5 @@
   "description": "a cartel of $PEEPS that aim to plz",
   "path": "pleasrdao.eth",
   "type": "snapshot",
-  "tokenContractAddress": "0xba962a81f78837751be8a177378d582f337084e6",
   "isEnabled": true
 }

@@ -7,7 +7,6 @@ export const ProtocolIo = t.type({
   previousPaths: t.union([t.array(t.string), t.undefined]),
   folder: t.string,
   type: t.union([t.literal("snapshot"), t.literal("compoundish"), t.literal("others")]),
-  tokenContractAddress: t.string,
   isEnabled: t.boolean,
   discourseForum: t.union([
     t.partial({

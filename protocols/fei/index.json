@@ -3,7 +3,6 @@
 	"description": "",
 	"path": "fei",
 	"type": "compoundish",
-	"tokenContractAddress": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
 	"isEnabled": true,
 	"treasuryAddresses": ["0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9"],
 	"disableTreasuryNav": true

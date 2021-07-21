@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "aragon",
 	"type": "snapshot",
-	"tokenContractAddress": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
 	"isEnabled": true
 }

@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "truefigov.eth",
 	"type": "snapshot",
-	"tokenContractAddress": "0x23696914Ca9737466D8553a2d619948f548Ee424",
 	"isEnabled": true
 }

@@ -3,7 +3,6 @@
   "description": "The open source middleware platform for decentralized finance applications",
   "path": "instadapp",
   "type": "compoundish",
-  "tokenContractAddress": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://gov.instadapp.io",

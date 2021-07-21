@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "ybaby.eth",
 	"type": "snapshot",
-	"tokenContractAddress": "0x5584e034094BBC734751fE48A701e9758e1dDA88",
 	"isEnabled": true
 }

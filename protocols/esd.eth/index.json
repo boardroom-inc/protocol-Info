@@ -3,6 +3,5 @@
 	"description": "",
 	"path": "esd.eth",
 	"type": "snapshot",
-	"tokenContractAddress": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
 	"isEnabled": true
 }
