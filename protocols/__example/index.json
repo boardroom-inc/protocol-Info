@@ -1,19 +1,7 @@
 {
   "cname": "example",
-  "name": "Example",
   "description": "A concise description of the protocol",
   "path": "example",
-  "folder": "__example",
   "type": "snapshot",
-  "suffix": "EXP",
-  "coinGeckoPriceString": "example",
-  "tokenContractAddress": "0x0000000000000000000000000000000000000000",
-  "isEnabled": true,
-  "hasOnchain": false,
-  "isHybrid": false,
-  "hasDelegation": false,
-  "snapshotSpaceName": "example.eth",
-  "invalidSnapshots": [],
-  "discourseForum": {},
-  "safeAddress": "0x0000000000000000000000000000000000000000"
+  "isEnabled": true
 }

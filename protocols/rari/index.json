@@ -1,27 +1,7 @@
-{ 
+{
 	"cname": "rari",
-	"name": "RariCapital",
 	"description": "",
 	"path": "rari",
-	"previousPaths": [],
-	"folder": "rari",
 	"type": "snapshot",
-	"suffix": "RGT",
-	"coinGeckoPriceString": "rari-governance-token",
-	"tokenContractAddress": "0xD291E7a03283640FDc51b121aC401383A46cC623",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "rari",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

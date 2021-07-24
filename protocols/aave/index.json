@@ -1,29 +1,9 @@
-{ 
+{
 	"cname": "aave",
-	"name": "Aave",
 	"description": "",
 	"path": "aave",
-	"previousPaths": [],
-	"folder": "aave",
 	"type": "others",
-	"suffix": "AAVE",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
 	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "aave",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null,
 	"treasuryAddresses": ["0x25F2226B597E8F9514B3F68F00f494cF4f286491"],
 	"disableTreasuryNav": true
 }

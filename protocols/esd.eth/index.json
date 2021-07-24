@@ -1,27 +1,7 @@
-{ 
+{
 	"cname": "esd",
-	"name": "EmptySetDollar",
 	"description": "",
 	"path": "esd.eth",
-	"previousPaths": [],
-	"folder": "esd.eth",
 	"type": "snapshot",
-	"suffix": "ESD",
-	"coinGeckoPriceString": "empty-set-dollar",
-	"tokenContractAddress": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "esd.eth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

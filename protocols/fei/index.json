@@ -1,29 +1,9 @@
-{ 
+{
 	"cname": "fei",
-	"name": "Fei Money",
 	"description": "",
 	"path": "fei",
-	"previousPaths": [],
-	"folder": "fei",
 	"type": "compoundish",
-	"suffix": "TRIBE",
-	"coinGeckoPriceString": "fei-protocol",
-	"tokenContractAddress": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
 	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "fei",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null,
 	"treasuryAddresses": ["0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9"],
 	"disableTreasuryNav": true
 }

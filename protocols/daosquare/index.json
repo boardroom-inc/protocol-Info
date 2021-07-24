@@ -1,27 +1,7 @@
-{ 
+{
 	"cname": "daosquare",
-	"name": "DAOSquare",
 	"description": "",
 	"path": "daosquare",
-	"previousPaths": [],
-	"folder": "daosquare",
 	"type": "snapshot",
-	"suffix": "RICE",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "0xEc0B6AFb3F9a609CEEd67e2CA551A4c573fd45F7",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "daosquare",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

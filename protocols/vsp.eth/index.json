@@ -1,27 +1,7 @@
-{ 
+{
 	"cname": "vsp",
-	"name": "Vesper Finance",
 	"description": "",
 	"path": "vsp.eth",
-	"previousPaths": [],
-	"folder": "vsp.eth",
 	"type": "snapshot",
-	"suffix": "VVSP",
-	"coinGeckoPriceString": "vesper-finance",
-	"tokenContractAddress": "0xbA4cFE5741b357FA371b506e5db0774aBFeCf8Fc",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "vsp.eth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

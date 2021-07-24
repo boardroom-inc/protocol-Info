@@ -1,24 +1,7 @@
 {
   "cname": "gnosis",
-  "name": "Gnosis",
   "description": "GnosisDAO uses Gnosis products to transparently guide decisions on development, support, and governance of its token ecosystem.",
   "path": "gnosis.eth",
-  "folder": "gnosis.eth",
   "type": "snapshot",
-  "suffix": "GNO",
-  "coinGeckoPriceString": "gnosis",
-  "tokenContractAddress": "0x6810e776880c02933d47db1b9fc05908e5386b96",
-  "isEnabled": true,
-  "hasOnchain": false,
-  "isHybrid": false,
-  "hasDelegation": false,
-  "snapshotSpaceName": "gnosis.eth",
-  "invalidSnapshots": [
-    "Qmey2pnp3wMctMBBiG4QgSdKejmgyXNAady5ZCZQKQKnKF",
-    "QmaGQ3K3PkjUakoyR127dbym8ESsruXg4dyeKKQxxRdPgA",
-    "QmcERezRFobLTWGqYw47t9NZtWVsiW791rVeqHvPTBs8gW"
-  ],
-  "branding": {},
-  "discourseForum": {},
-  "safeAddress": null
+  "isEnabled": true
 }

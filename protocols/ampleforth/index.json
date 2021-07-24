@@ -1,27 +1,7 @@
-{ 
+{
 	"cname": "ampleforth",
-	"name": "Ampleforth",
 	"description": "",
 	"path": "ampleforth",
-	"previousPaths": [],
-	"folder": "ampleforth",
 	"type": "snapshot",
-	"suffix": "AMPL",
-	"coinGeckoPriceString": "ampleforth",
-	"tokenContractAddress": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "ampleforth",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null 
+	"isEnabled": true
 }

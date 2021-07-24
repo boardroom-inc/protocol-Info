@@ -1,28 +1,8 @@
-{ 
+{
 	"cname": "radicle",
-	"name": "Radicle",
 	"description": "",
 	"path": "radicle",
-	"previousPaths": [],
-	"folder": "radicle",
 	"type": "compoundish",
-	"suffix": "RAD",
-	"coinGeckoPriceString": "",
-	"tokenContractAddress": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
 	"isEnabled": true,
-	"hasOnchain": false,
-	"isHybrid": false,
-	"hasDelegation": false,
-	"snapshotSpaceName": "radicle",
-	"invalidSnapshots": [],
-	"branding": {
-		"primaryColor": "",
-		"accentColor": ""
-	},
-	"discourseForum": {
-		"url": "",
-		"categoryId": ""
-	},
-	"safeAddress": null,
 	"disableTreasuryNav": true
 }
