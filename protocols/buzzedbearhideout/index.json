@@ -1,19 +1,9 @@
 {
   "cname": "buzzedbearhideout",
-  "name": "Buzzed Bear Hideout",
   "description": "DeFi meets NFTs. Interest BEARing NFT.",
   "path": "buzzed",
-  "folder": "buzzedbearhideout",
   "type": "snapshot",
-  "suffix": "BEAR",
-  "coinGeckoPriceString": "",
-  "tokenContractAddress": "0x4923017F3B7fAC4e096b46e401c0662F0B7E393f",
   "isEnabled": true,
-  "hasOnchain": false,
-  "isHybrid": false,
-  "hasDelegation": false,
-  "snapshotSpaceName": "buzzedbears.eth",
-  "invalidSnapshots": [],
   "discourseForum": {
     "url": "https://gov.buzzedbearhideout.com/",
     "categoryId": "5"
