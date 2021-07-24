@@ -3,7 +3,7 @@
 	"description": "",
 	"path": "aavegotchi.eth",
 	"type": "snapshot",
-	"isEnabled": false,
+	"isEnabled": true,
 	"discourseForum": {
 		"url": "https://dao.aavegotchi.com",
 		"categoryId": "6"
