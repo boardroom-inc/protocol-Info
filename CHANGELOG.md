@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.9](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.8...v2.5.9) (2021-07-24)
+
+
+### Bug Fixes
+
+* clean up protocol info ([#239](https://github.com/boardroom-inc/protocol-Info/issues/239)) ([15acbd2](https://github.com/boardroom-inc/protocol-Info/commit/15acbd2507fccfcfadc9d4b25b18e319fcaad324))
+
 ### [2.5.8](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.7...v2.5.8) (2021-07-24)
 
 
