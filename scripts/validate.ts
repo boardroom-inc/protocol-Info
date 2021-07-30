@@ -21,7 +21,7 @@ for (const event of protocolEvents) {
     validator(ProtocolEvents).decodeSync(event);
   } catch (e) {
     errors.push({
-      protocol: event.protocolCname,
+      protocol: event?.protocolCname || undefined,
       message: e,
     });
   }
