@@ -22,7 +22,7 @@ export const ProtocolIo = t.type({
 
 export const ProtocolEvents = t.type({
   title: t.union([t.string, t.undefined]),
-  date: t.union([t.string, t.undefined]),
+  date: t.union([t.string, t.number, t.undefined]),
   url: t.union([t.string, t.undefined]),
   type: t.union([t.string, t.undefined]),
   protocolCname: t.string,
