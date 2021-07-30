@@ -21,11 +21,11 @@ export const ProtocolIo = t.type({
 });
 
 export const ProtocolEvents = t.type({
-  title: t.string,
-  date: t.string,
-  url: t.string,
-  type: t.string,
-  protocol: ProtocolIo,
+  title: t.union([t.string, t.undefined]),
+  date: t.union([t.string, t.undefined]),
+  url: t.union([t.string, t.undefined]),
+  type: t.union([t.string, t.undefined]),
+  protocolCname: t.string,
 });
 
 export const ProtocolForScreeenerIo = t.type({

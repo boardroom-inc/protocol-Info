@@ -17,9 +17,14 @@ const events = protocols
     const fileEvents = fs.readFileSync(`./protocols/${protocol}/events.json`, "utf8");
 
     if (fileEvents) {
-      return JSON.parse(fileEvents);
+      return {
+        ...JSON.parse(fileEvents),
+        protocolCname: protocol,
+      };
     } else {
-      return {};
+      return {
+        protocolCname: protocol,
+      };
     }
   });
 

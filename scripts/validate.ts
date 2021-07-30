@@ -15,12 +15,13 @@ for (const protocol of protocolInfo) {
   }
 }
 
+// console.log("protocolEvents => ", protocolEvents);
 for (const event of protocolEvents) {
   try {
     validator(ProtocolEvents).decodeSync(event);
   } catch (e) {
     errors.push({
-      protocol: event.protocol?.cname,
+      protocol: event.protocolCname,
       message: e,
     });
   }
