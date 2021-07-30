@@ -35,9 +35,9 @@ fs.writeFileSync(
   `
   import { CalendarEvents, Protocol, ProtocolForScreeener } from "../types";
 
-  export const protocolInfo = ${JSON.stringify(protocolInfo)} as Protocol[];
-  export const protocolEvents = ${JSON.stringify(events)} as CalendarEvents[];
+  const protocolInfoList = ${JSON.stringify(protocolInfo)} as Protocol[];
+  const protocolEvents = ${JSON.stringify(events)} as CalendarEvents[];
   const protocolsInfoForScreener: Record<string, ProtocolForScreeener> = ${JSON.stringify(protocolsInfo)};
-  export {protocolsInfoForScreener};
+  export {protocolInfoList, protocolEvents, protocolsInfoForScreener};
   `,
 );

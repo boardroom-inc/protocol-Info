@@ -1,10 +1,10 @@
 import { validator } from "io-ts-validator";
 import { ProtocolEvents, ProtocolIo } from "../types";
-import { protocolEvents, protocolInfo } from "../dist";
+import { protocolEvents, protocolInfoList } from "../dist";
 
 const errors = [];
 
-for (const protocol of protocolInfo) {
+for (const protocol of protocolInfoList) {
   try {
     validator(ProtocolIo).decodeSync(protocol);
   } catch (e) {
