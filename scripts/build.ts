@@ -23,9 +23,9 @@ for (let i = 0; i < protocols.length; i++) {
   const cname = JSON.parse(protocolInfo).cname;
 
   if (protocolInfoEvents) {
-    const parsedProtocolInfoEvents = JSON.parse(protocolInfoEvents) as Record<string, CalendarEvent>;
+    const parsedProtocolInfoEvents = JSON.parse(protocolInfoEvents) as CalendarEvent[];
 
-    Object.values(parsedProtocolInfoEvents).map((event) => {
+    parsedProtocolInfoEvents.map((event) => {
       const formattedEvent = {
         ...event,
         date: moment(event.date).unix() * 1000,

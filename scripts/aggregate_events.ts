@@ -31,7 +31,7 @@ function aggregateEvents() {
 
         const cname = JSON.parse(info.toString()).cname;
 
-        Object.values(fileAsJson).map((event: any) => {
+        fileAsJson.map((event: any) => {
           event.protocol = cname;
 
           console.log(event);
