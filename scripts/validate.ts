@@ -16,14 +16,16 @@ for (const protocol of protocolInfoList) {
 }
 
 // console.log("protocolEvents => ", protocolEvents);
-for (const event of protocolEvents) {
-  try {
-    validator(ProtocolEvents).decodeSync(event);
-  } catch (e) {
-    errors.push({
-      protocol: event?.protocolCname || undefined,
-      message: e,
-    });
+for (const events of Object.values(protocolEvents)) {
+  for (const event of events) {
+    try {
+      validator(ProtocolEvents).decodeSync(event);
+    } catch (e) {
+      errors.push({
+        protocol: event?.protocolCname || undefined,
+        message: e,
+      });
+    }
   }
 }
 

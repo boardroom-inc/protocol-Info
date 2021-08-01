@@ -38,3 +38,6 @@ export type ProtocolForScreeener = t.TypeOf<typeof ProtocolForScreeenerIo>;
 
 export type Protocol = t.TypeOf<typeof ProtocolIo>;
 export type CalendarEvent = t.TypeOf<typeof ProtocolEvents>;
+export type CalendarEvents = Record<string, CalendarEvent[]>;
+
+export const dateKeyFormat = "YYYY-MM-DD";
