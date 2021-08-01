@@ -9,13 +9,7 @@
 
 import fs from "fs";
 import path from "path";
-
-interface Event {
-  title: string;
-  protocol: string;
-  url: string;
-  date: string;
-}
+import { CalendarEvent } from "../types";
 
 const directoryPath = path.join(__dirname, "../protocols");
 
@@ -23,7 +17,7 @@ function aggregateEvents() {
   // for each folder in ../src
   const files = fs.readdirSync(directoryPath);
 
-  let allEvents: Event[] = [];
+  let allEvents: Record<string, CalendarEvent> = {};
 
   files.forEach(function (filename) {
     // add a { protocol: cname } field for each entry
@@ -37,12 +31,12 @@ function aggregateEvents() {
 
         const cname = JSON.parse(info.toString()).cname;
 
-        fileAsJson.map((event: any) => {
+        Object.values(fileAsJson).map((event: any) => {
           event.protocol = cname;
 
           console.log(event);
 
-          allEvents.push(event);
+          allEvents[event.date] = event;
         });
       } catch (e) {
         console.log("no events");
