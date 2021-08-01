@@ -37,4 +37,4 @@ export const ProtocolForScreeenerIo = t.type({
 export type ProtocolForScreeener = t.TypeOf<typeof ProtocolForScreeenerIo>;
 
 export type Protocol = t.TypeOf<typeof ProtocolIo>;
-export type CalendarEvents = t.TypeOf<typeof ProtocolEvents>;
+export type CalendarEvent = t.TypeOf<typeof ProtocolEvents>;

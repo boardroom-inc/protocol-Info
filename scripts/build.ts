@@ -33,10 +33,10 @@ fs.copyFileSync("./types.ts", "./dist/types.ts");
 fs.writeFileSync(
   "./dist/index.ts",
   `
-  import { CalendarEvents, Protocol, ProtocolForScreeener } from "../types";
+  import { CalendarEvent, Protocol, ProtocolForScreeener } from "../types";
 
   const protocolInfoList = ${JSON.stringify(protocolInfo)} as Protocol[];
-  const protocolEvents = ${JSON.stringify(events)} as CalendarEvents[];
+  const protocolEvents = ${JSON.stringify(events)} as CalendarEvent[];
   const protocolsInfoForScreener: Record<string, ProtocolForScreeener> = ${JSON.stringify(protocolsInfo)};
   export {protocolInfoList, protocolEvents, protocolsInfoForScreener};
   `,
