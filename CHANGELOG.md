@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.10](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.9...v2.5.10) (2021-08-02)
+
+
+### Bug Fixes
+
+* cname and date formate ([dd134ae](https://github.com/boardroom-inc/protocol-Info/commit/dd134aeec4ecfda2f384a2db0d03ced8071a7b72))
+* dont need protocol field ([1a250a6](https://github.com/boardroom-inc/protocol-Info/commit/1a250a6233249c86e5f393907c96650a0e46ab68))
+* iso string and unix time both ok for date ([898841c](https://github.com/boardroom-inc/protocol-Info/commit/898841cf522a6e92d34332cfe83df46b38cbea83))
+* keep as array and transform on build step\ ([754cfea](https://github.com/boardroom-inc/protocol-Info/commit/754cfea66cef2faf1605c84479924f04f32f1c76))
+* named exports ([6086f3d](https://github.com/boardroom-inc/protocol-Info/commit/6086f3d1ed42612aa1c398db88dbe06b567a763b))
+* reduce how much transformation is requried ([1501b68](https://github.com/boardroom-inc/protocol-Info/commit/1501b6898b469050be5051db1b232ddb8ab9b16d))
+* udpate eents ([72168c1](https://github.com/boardroom-inc/protocol-Info/commit/72168c1c568a91251f81a879d8387c7c73a185a7))
+* validation script ([1e39a7e](https://github.com/boardroom-inc/protocol-Info/commit/1e39a7e0e46add08ff6506aab16f6fd0b9e24dd5))
+* validatoin enforce calnedar event interface ([db68df0](https://github.com/boardroom-inc/protocol-Info/commit/db68df03239204815c3f3cc4cd4975a4cd79c765))
+
 ### [2.5.9](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.8...v2.5.9) (2021-07-24)
 
 
