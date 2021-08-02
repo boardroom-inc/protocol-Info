@@ -1,10 +1,10 @@
 import { validator } from "io-ts-validator";
-import { ProtocolIo } from "../types";
-import protocols from "../dist";
+import { ProtocolEvents, ProtocolIo } from "../types";
+import { protocolEvents, protocolInfoList } from "../dist";
 
 const errors = [];
 
-for (const protocol of protocols) {
+for (const protocol of protocolInfoList) {
   try {
     validator(ProtocolIo).decodeSync(protocol);
   } catch (e) {
@@ -12,6 +12,20 @@ for (const protocol of protocols) {
       protocol: protocol.cname,
       message: e,
     });
+  }
+}
+
+// console.log("protocolEvents => ", protocolEvents);
+for (const events of Object.values(protocolEvents)) {
+  for (const event of events) {
+    try {
+      validator(ProtocolEvents).decodeSync(event);
+    } catch (e) {
+      errors.push({
+        protocol: event?.protocolCname || undefined,
+        message: e,
+      });
+    }
   }
 }
 

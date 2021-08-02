@@ -20,6 +20,14 @@ export const ProtocolIo = t.type({
   disableTreasuryNav: t.union([t.boolean, t.undefined]),
 });
 
+export const ProtocolEvents = t.type({
+  title: t.union([t.string, t.undefined]),
+  date: t.union([t.string, t.number, t.undefined]),
+  url: t.union([t.string, t.undefined]),
+  type: t.union([t.string, t.undefined]),
+  protocolCname: t.string,
+});
+
 export const ProtocolForScreeenerIo = t.type({
   name: t.string,
   cname: t.string,
@@ -29,3 +37,7 @@ export const ProtocolForScreeenerIo = t.type({
 export type ProtocolForScreeener = t.TypeOf<typeof ProtocolForScreeenerIo>;
 
 export type Protocol = t.TypeOf<typeof ProtocolIo>;
+export type CalendarEvent = t.TypeOf<typeof ProtocolEvents>;
+export type CalendarEvents = Record<string, CalendarEvent[]>;
+
+export const dateKeyFormat = "YYYY-MM-DD";
