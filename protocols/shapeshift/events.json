@@ -12,12 +12,6 @@
      "type": "call"
   },
   {
-    "title": "ICHI x ShapeShift: Cross-Community Call",
-    "url": "https://discord.gg/shapeshift",
-    "date": "2021-08-12T10:30:00-06:00",
-     "type": "call"
-  },
-   {
     "title": "Weekly Governance Call",
     "url": "https://discord.gg/shapeshift",
     "date": "2021-08-12T15:00:00-06:00",
@@ -45,6 +39,24 @@
     "title": "Weekly Governance Call",
     "url": "https://discord.gg/shapeshift",
     "date": "2021-08-26T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Weekly Governance Call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-02T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Akash x ShapeShift: Cross-Community Call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-07T16:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Weekly Governance Call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-09T15:00:00-06:00",
     "type": "call"
   }
 ]
