@@ -23,7 +23,7 @@ Want to get involved in governance? Join a workstream [here](https://gitcoin.co/
 
 The Gitcoin governance ecosystem is built around GTC, which leverages a COMP/UNI style governance that makes on-chain voting, snapshot voting and community led governance possible. At its base layer, GTC is a standard ERC20-style token with a 100mm supply. 50% of the token supply has been allocated to those who have provided value to the ecosystem in the past (community members, investors and the existing team), and 50% will be unlocked for the community to manage in the future.
 
-![](https://ibb.co/J516jYW)
+![](https://i.ibb.co/4PqvRbw/Screenshot-2021-08-20-113230.png)
 
 At launch, GitcoinDAO has an even split between past Gitcoin builders and participants, and future ones. The tokens reserved for future builders will be held in treasury, governed by community stewards and then ultimately the DAO.
 
