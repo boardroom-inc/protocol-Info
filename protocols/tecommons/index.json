@@ -4,5 +4,8 @@
   "path": "tecommons",
   "type": "snapshot",
   "isEnabled": true,
-  "discourseForum.url": "https://forum.tecommons.org/"
+  "discourseForum": {
+    "url": "https://forum.tecommons.org/"
+    "categoryId": "7"
+  }
 }
