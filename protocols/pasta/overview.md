@@ -24,3 +24,5 @@
 
     Co-marketing solution on the mainnet also enables collaboration with other existing DApps.
 
+[Website](https://www.futurepia.io/)
+[Information about Pasta Protocol](https://www.futurepia.io/info/futurepia#bpBox3)
