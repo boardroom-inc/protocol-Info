@@ -1,6 +1,9 @@
 # PASTA
 
+## PASTA is a technical standard used for all smart contracts on the Futurepia blockchain for token implementation.’ Futurepia launched PASTA during the inauguration of Dapp Ecosystem Launch ceremony on 18th June, 2019 in Seoul.
+
 ## PASTA (PIA Alliance Standard Token Agreement) is a technical protocol used for all smart contracts on the Futurepia blockchain (similar to Ethereum's ERC-20 created for token implementation).
+
 
 ## PASTA features the functions that enable users to use multiple DApps with only one single ID, send specific tokens to other places, exchange coins and tokens in a single wallet by using a node which is safer and more secure.
 
