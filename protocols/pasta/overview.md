@@ -6,14 +6,18 @@
 
 - Features
 1. Easy & Fast Development.
+
     It can be easily implemented by providing various API and packags. Additionally, DApp development and assistance is available upon request.
 
 2.Single Sign On(SSO).
+
     Thanks to SSO, Futurepia members can easily join new DApps within a blink of an eye, making mass adoption a reality.
 
 3.Wallet Compatibility.
+
     In the process of joining the Futurepia ecosystem, one can receive investment from Futurepia members and coin holders.
 
 4.DAPP Networking.
+
     Co-marketing solution on the mainnet also enables collaboration with other existing DApps.
 
