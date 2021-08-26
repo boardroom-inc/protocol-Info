@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.6.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.10...v2.6.0) (2021-08-26)
+
+
+### Features
+
+* add Clean City Guild project ([0b459e1](https://github.com/boardroom-inc/protocol-Info/commit/0b459e1c982768ecb848b00070ab498b66c3b690))
+* add idlefinance ([#258](https://github.com/boardroom-inc/protocol-Info/issues/258)) ([f90e06a](https://github.com/boardroom-inc/protocol-Info/commit/f90e06aed401af5f5ada341d3a6df8d90c5d5732))
+* add Sushi project and BadgerDAO events ([25e9423](https://github.com/boardroom-inc/protocol-Info/commit/25e94238982421607cf277bdfeaaeca3832595a2))
+* add Token Engineering Commons project ([3186a91](https://github.com/boardroom-inc/protocol-Info/commit/3186a912663a8d90246d7ec920ea0d237005a2f4))
+
+
+### Bug Fixes
+
+* project formatting issues ([cca8c82](https://github.com/boardroom-inc/protocol-Info/commit/cca8c824c820d5741d925e5763ad40387d131550))
+* update tecommons event format ([4917bd9](https://github.com/boardroom-inc/protocol-Info/commit/4917bd9b3028d9d30aa691b35f88cf3f74062da5))
+
 ### [2.5.10](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.9...v2.5.10) (2021-08-02)
 
 
