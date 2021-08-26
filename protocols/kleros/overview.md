@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://kleros.io/">
-    <img src="https://gblobscdn.gitbook.com/spaces%2F-LPbPWuMtwBOvW0iuxyw%2Favatar.png?alt=media" alt="Kleros" width=100 height=100 />
-  </a>
-</p>
-
-  <h1 align="center">Kleros</h1>
-
-
 ## What is Kleros?
 
 Kleros is a decentralized dispute resolution protocol for use on smart contract platforms, which has been implemented on Ethereum. It acts as a decentralized third party capable of providing decisions on the correct result when applying a set of rules to questions ranging from simple to highly complex.
