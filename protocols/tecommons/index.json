@@ -5,7 +5,7 @@
   "type": "snapshot",
   "isEnabled": true,
   "discourseForum": {
-    "url": "https://forum.tecommons.org/"
+    "url": "https://forum.tecommons.org",
     "categoryId": "7"
   }
 }

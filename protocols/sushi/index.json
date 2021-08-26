@@ -3,8 +3,9 @@
   "description": "Swap, earn, stack yields, lend, borrow, leverage all on one decentralized community driven platform.",
   "path": "sushi",
   "type": "snapshot",
-  "isEnabled": true, 
+  "isEnabled": true,
   "discourseForum": {
-    "url": "https://forum.sushi.com/"    
+    "url": "https://forum.sushi.com",
+    "categoryId": "8"
   }
 }
