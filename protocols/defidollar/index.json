@@ -2,6 +2,5 @@
   "cname": "defidollar",
   "description": "DUSD is a stablecoin controlled by a DAO using DeFi primitives to remain pegged to the Dollar.",
   "path": "defidollar",
-  "type": "snapshot",
   "isEnabled": true
 }

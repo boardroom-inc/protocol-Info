@@ -12,9 +12,6 @@ else
 	mkdir -p ./protocols/$1/resources/calls
 	mkdir -p ./protocols/$1/resources/Gov Weekly
 	
-	mkdir -p ./protocols/$1/contracts
-	touch ./protocols/$1/contracts/token.json
-
 	touch ./protocols/$1/index.json
 	touch ./protocols/$1/events.json
 	touch ./protocols/$1/overview.md
@@ -23,8 +20,6 @@ printf '{
 	"cname": "'"$1"'",
 	"description": "",
 	"path": "'"$1"'",
-	"type": "snapshot",
-	"tokenContractAddress": "'"$2"'",
 	"isEnabled": false,
 }' >| ./protocols/$1/index.json
 		fi

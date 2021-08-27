@@ -2,7 +2,6 @@
   "cname": "shapeshift",
   "description": "ShapeShift is a borderless, cross-chain crypto trading platform and portfolio manager for user self-sovereignty.",
   "path": "shapeshift",
-  "type": "snapshot",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://forum.shapeshift.com",

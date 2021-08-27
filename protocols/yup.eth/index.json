@@ -2,7 +2,6 @@
   "cname": "yup",
   "description": "Your opinion matters. Curate the web. Earn & influence.",
   "path": "yup.eth",
-  "type": "snapshot",
   "isEnabled": true,
   "safeAddress": "0xbd5224f66D5ce49a8Afefc14a76248D158D14c6F"
 }

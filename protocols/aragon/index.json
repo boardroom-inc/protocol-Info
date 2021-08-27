@@ -2,6 +2,5 @@
 	"cname": "aragon",
 	"description": "",
 	"path": "aragon",
-	"type": "snapshot",
 	"isEnabled": true
 }

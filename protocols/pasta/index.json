@@ -2,6 +2,5 @@
 	"cname": "pasta",
 	"description": "",
 	"path": "pasta.eth",
-	"type": "snapshot",
 	"isEnabled": true
 }

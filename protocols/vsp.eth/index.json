@@ -2,6 +2,5 @@
 	"cname": "vsp",
 	"description": "",
 	"path": "vsp.eth",
-	"type": "snapshot",
 	"isEnabled": true
 }

@@ -2,7 +2,6 @@
 	"cname": "aavegotchi",
 	"description": "",
 	"path": "aavegotchi.eth",
-	"type": "snapshot",
 	"isEnabled": true,
 	"discourseForum": {
 		"url": "https://dao.aavegotchi.com",
