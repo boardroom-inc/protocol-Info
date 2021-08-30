@@ -1,0 +1,2 @@
+# REToken DAO
+Real estate tokenization decentralized autonomous organization. In a world increasingly impacted by technology, real estate processes will also have to change. Tokenized real estate using blockchain technology makes it easy to have fractional ownership in properties you would not have been able to easily invest in before. Global investors can grow their portfolio of high-quality assets in a decentralized manner. The organization facilitates that process with a decentralized governance.

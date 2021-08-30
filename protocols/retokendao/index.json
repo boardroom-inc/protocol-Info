@@ -1,0 +1,13 @@
+{
+  "cname": "retokendao",
+  "description": "Create a real estate tokenization DAO",
+  "path": "example",
+  "type": "snapshot",
+  "isEnabled": false,
+  "discourseForum": {
+    "url": "",
+    "categoryId": ""
+  },
+  "safeAddress": ""
+}
+
