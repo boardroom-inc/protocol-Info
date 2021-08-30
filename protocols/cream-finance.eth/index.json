@@ -2,6 +2,5 @@
 	"cname": "creamfinance",
 	"description": "",
 	"path": "cream-finance.eth",
-	"type": "snapshot",
 	"isEnabled": false
 }

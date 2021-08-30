@@ -68,7 +68,7 @@ $ yarn link @boardroom/protocol-info
 
 Quick Add New Protocol:
 ```sh
-$ ./scripts/add_new_protocol $protocolName $tokenContractAddress (optional) $suffix (optional) $displayName (optional)
+$ ./scripts/add_new_protocol $protocolName
 ```
 
 Run validation:

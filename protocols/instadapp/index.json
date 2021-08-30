@@ -2,7 +2,6 @@
   "cname": "instadapp",
   "description": "The open source middleware platform for decentralized finance applications",
   "path": "instadapp",
-  "type": "compoundish",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://gov.instadapp.io",

@@ -2,7 +2,6 @@
 	"cname": "indexed",
 	"description": "",
 	"path": "indexed",
-	"type": "compoundish",
 	"isEnabled": true,
 	"disableTreasuryNav": true
 }

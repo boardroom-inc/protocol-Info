@@ -2,6 +2,5 @@
 	"cname": "thegraphcouncil",
 	"description": "",
 	"path": "council.graphprotocol.eth",
-	"type": "snapshot",
 	"isEnabled": true
 }

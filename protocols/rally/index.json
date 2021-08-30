@@ -3,6 +3,5 @@
   "description": "Rally is a decentralized network enabling creators to monetize and align themselves with their community.",
   "path": "rallygov.eth",
   "previousPaths": ["rally"],
-  "type": "snapshot",
   "isEnabled": true
 }

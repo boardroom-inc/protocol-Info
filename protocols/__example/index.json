@@ -2,6 +2,5 @@
   "cname": "example",
   "description": "A concise description of the protocol",
   "path": "example",
-  "type": "snapshot",
   "isEnabled": true
 }

@@ -2,7 +2,6 @@
 	"cname": "aave",
 	"description": "",
 	"path": "aave",
-	"type": "others",
 	"isEnabled": true,
 	"treasuryAddresses": ["0x25F2226B597E8F9514B3F68F00f494cF4f286491"],
 	"disableTreasuryNav": true

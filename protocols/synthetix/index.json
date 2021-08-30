@@ -2,7 +2,6 @@
   "cname": "synthetix",
   "description": "Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum.",
   "path": "snxgov.eth",
-  "type": "snapshot",
   "isEnabled": true,
   "safeAddress": "0x438679ECE13EDB95aDD18Ed02dDbf5e2418FF730",
   "treasuryAddresses": ["0xEb3107117FEAd7de89Cd14D463D340A2E6917769", "0x86626E1BbBd0ce95ED52e0C5E19f371a6640B591"]

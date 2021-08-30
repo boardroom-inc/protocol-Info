@@ -2,6 +2,5 @@
 	"cname": "api3",
 	"description": "",
 	"path": "api3",
-	"type": "compoundish",
 	"isEnabled": true
 }

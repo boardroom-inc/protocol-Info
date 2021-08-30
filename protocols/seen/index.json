@@ -2,6 +2,5 @@
 	"cname": "seen",
 	"description": "",
 	"path": "seen",
-	"type": "snapshot",
 	"isEnabled": true
 }

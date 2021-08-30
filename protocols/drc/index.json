@@ -2,7 +2,6 @@
   "cname": "drc",
   "description": "Digital Reserve Currency was designed to become a decentralized digital store of value with a limited supply and a zero inflation rate. 1 billion indivisible DRC Tokens. Simplicity is the ultimate sophistication.",
   "path": "drc",
-  "type": "snapshot",
   "isEnabled": true,
   "safeAddress": "0x356B82b7A235242F578883132a60b7D8017900AF",
   "treasuryAddresses": ["0x356B82b7A235242F578883132a60b7D8017900AF"]
