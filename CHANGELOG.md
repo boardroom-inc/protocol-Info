@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.0...v2.6.1) (2021-08-31)
+
+
+### Bug Fixes
+
+* update kleros description ([733d0df](https://github.com/boardroom-inc/protocol-Info/commit/733d0dfcb1cbaf1e39c18644989a3ade7b382c11))
+
 ## [2.6.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.10...v2.6.0) (2021-08-26)
 
 
