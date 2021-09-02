@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Radicle Community Call #1",
+    "url": "https://www.twitch.tv/radicle_world",
+    "date": "2021-06-24T14:00:00+0000",
+    "type": "call"
+  },
+  {
+    "title": "Radicle Community Call #2",
+    "url": "https://www.twitch.tv/radicle_world",
+    "date": "2021-07-28T14:00:00+0000",
+    "type": "call"
+  },  
+  {
+    "title": "Radicle Community Call #3",
+    "url": "https://www.twitch.tv/radicle_world",
+    "date": "2021-08-25T14:00:00+0000",
+    "type": "call"
+  },
+  {
+    "title": "Radicle Governance WG Monthly",
+    "url": "https://discord.com/invite/8eAahzbpCs",
+    "date": "2021-09-08T15:00:00+0000",
+    "type": "govWeekly"
+  }  
+]
