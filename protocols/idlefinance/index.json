@@ -2,7 +2,6 @@
 	"cname": "idlefinance",
 	"description": "Yield aggregator and rebalancing protocol with high security standards and a product suite aimed at portfolio risk diversification and yield enanchement",
 	"path": "idlefinance",
-	"type": "compoundish",
 	"isEnabled": true,
 	"discourseForum": {
 		"url": "https://gov.idle.finance",

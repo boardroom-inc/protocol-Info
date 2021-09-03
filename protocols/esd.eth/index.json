@@ -2,6 +2,5 @@
 	"cname": "esd",
 	"description": "",
 	"path": "esd.eth",
-	"type": "snapshot",
 	"isEnabled": true
 }

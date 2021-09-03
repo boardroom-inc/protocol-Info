@@ -2,6 +2,5 @@
   "cname": "gnosis",
   "description": "GnosisDAO uses Gnosis products to transparently guide decisions on development, support, and governance of its token ecosystem.",
   "path": "gnosis.eth",
-  "type": "snapshot",
   "isEnabled": true
 }

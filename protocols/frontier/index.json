@@ -2,6 +2,5 @@
 	"cname": "frontier",
 	"description": "",
 	"path": "frontier",
-	"type": "snapshot",
 	"isEnabled": true
 }

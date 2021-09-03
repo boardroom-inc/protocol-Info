@@ -2,7 +2,6 @@
 	"cname": "yamv2",
 	"description": "",
 	"path": "yamv2",
-	"type": "snapshot",
 	"isEnabled": false,
 	"treasuryAddresses": ["0x97990B693835da58A281636296D2Bf02787DEa17", "0xd67c05523d8ec1c60760fd017ef006b9f6e496d0", "0x205cc7463267861002b27021c7108bc230603d0f", "0xd67c05523d8ec1c60760fd017ef006b9f6e496d0"]
 }

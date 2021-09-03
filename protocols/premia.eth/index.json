@@ -2,6 +2,5 @@
 	"cname": "premia",
 	"description": "",
 	"path": "premia.eth",
-	"type": "snapshot",
 	"isEnabled": true
 }

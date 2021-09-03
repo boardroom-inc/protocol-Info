@@ -2,7 +2,6 @@
 	"cname": "radicle",
 	"description": "",
 	"path": "radicle",
-	"type": "compoundish",
 	"isEnabled": true,
 	"disableTreasuryNav": true
 }

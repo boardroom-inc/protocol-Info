@@ -2,8 +2,7 @@
   "cname": "token-engineering-commons",
   "description": "An open source and collectively governed project that aims to create a token economy that will accelerate the responsible & ethical creation of public goods within the TE community.",
   "path": "tecommons",
-  "type": "snapshot",
-  "isEnabled": true,
+  "isEnabled": false,
   "discourseForum": {
     "url": "https://forum.tecommons.org",
     "categoryId": "7"
