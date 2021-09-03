@@ -10,3 +10,7 @@ dist
 .vscode
 .env
 
+# Ignore emacs backup files
+*~
+*#
+.#*
