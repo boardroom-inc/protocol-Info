@@ -43,6 +43,7 @@ The terms and provisions of the operating agreement may be amended if 50% or mor
 Each member of The LAO must rely on the member's own tax and legal representatives as to the tax consequences of joining The LAO or making investments through The LAO.
 
 # Launch
+
 ## When will The LAO launch?
 The LAO already launched on April 28, 2020 at 12:00p (EST), but continues to accept contributions until all membership units are sold.
 
@@ -52,7 +53,7 @@ The LAO will accept projects prior to the launch date. You can begin the applica
 
 # Links 
 
-* Github: https://github.com/openlawteam/lao-docs
-* The LAO: https://www.thelao.io/
-* The LAO Docs: https://docs.thelao.io/
-* The LAO Apply: https://www.thelao.io/apply
+* Github🌐: https://github.com/openlawteam/lao-docs
+* The LAO💬: https://www.thelao.io/
+* The LAO Docs📜: https://docs.thelao.io/
+* The LAO Apply🗳️: https://www.thelao.io/apply
