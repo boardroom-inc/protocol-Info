@@ -4,13 +4,12 @@
 
 # Mission
 
-REtoken DAO seeks to bring liquidity to the traditionally illiquid real estate market through tokenization and community development.
-
 REtoken DAO aims to:
 1. Become recognized as “The Real Estate DAO”
 2. Create a recurring multilingual educational virtual summit that will be delivered for free
-3. Develop a 3-tiered Fractionalized Real Estate certificate program that provide CEUs (Continuing Education Unit); and
-4. Become the most prominent and globally recognized Real Estate Tokenization / Security Token brand.
+3. Develop a 3-tiered Fractionalized Real Estate certificate program that provide CEUs (Continuing Education Unit)
+4. Bring liquidity to the traditionally illiquid real estate market through tokenization and community development; and
+5. Become the most prominent and globally recognized Real Estate Tokenization / Security Token brand.
 
 # Founding Principles
 * Community Owned and Operated
