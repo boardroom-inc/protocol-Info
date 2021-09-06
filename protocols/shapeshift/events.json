@@ -100,5 +100,41 @@
     "url": "https://discord.gg/shapeshift",
     "date": "2021-09-09T10:00:00-06:00",
     "type": "call"
+  },
+  {
+    "title": "OlympusDAO x ShapeShift",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-21T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Boardroom x ShapeShift",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-28T10:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Weekly Engineering Workstream Kick-off",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-07T11:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Engineering Demo",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-15T10:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Operations Workstream Kickoff",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-07T10:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "AMA with Holcracy Expert Brian Robertson",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-16T10:00:00-06:00",
+    "type": "call"
   }
 ]
