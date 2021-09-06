@@ -3,6 +3,9 @@
 ![](https://trello.com/1/cards/611c8059f5626f324810f083/attachments/611c808a9c40fc1faa23e9be/download/REtoken_DAO_LLC_(1).png)
 
 # Mission
+
+REtoken DAO seeks to bring liquidity to the traditionally illiquid real estate market through tokenization and community development.
+
 REtoken DAO aims to:
 1. Become recognized as “The Real Estate DAO”
 2. Create a recurring multilingual educational virtual summit that will be delivered for free
