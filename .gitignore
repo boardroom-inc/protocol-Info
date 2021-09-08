@@ -9,8 +9,3 @@ dist
 .idea
 .vscode
 .env
-
-# Ignore emacs backup files
-*~
-*#
-.#*
