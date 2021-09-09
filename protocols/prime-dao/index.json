@@ -5,7 +5,7 @@
   "isEnabled": true,
   "discourseForum": {
     "url": "https://forum.prime.xyz/",
-    "categoryId": 12
+    "categoryId": "12"
   },
   "safeAddress": "0x567d220B0169836cBF351DF70A9c517096ec9De7"
 }
