@@ -2,5 +2,5 @@
     "cname": "Credmark",
     "description": "High integrity DeFi data and a risk modeling platform",
     "path": "credmark",
-    "isEnabled": false,
+    "isEnabled": false
 }
