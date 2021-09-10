@@ -2,11 +2,11 @@
   <a href="http://app.boardroom.info/compound">
     <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0c731c59-c243-4fba-96fe-35cac794f158-1583450111151.png" alt="compound" width="400" />
   </a>
-  <h1 align="center">Compound Weekly Update</h1>
+  <h1 align="center">Gitcoin Weekly Update</h1>
   <p align="center">
     September 9, 2021
   <br />
-  <a href="http://app.boardroom.info/compound"><strong>View in the Portal »</strong></a>
+  <a href="http://app.boardroom.info/gitcoin"><strong>View in the Portal »</strong></a>
   <br />
   </p>
 </p>
@@ -44,21 +44,6 @@ In Gitcoin DAO news, the first workstream budget for Gitcoin's DAO has been offi
 ## Forum Summary
 
 This week in forum’s includes more discussions about the DAO team that is currently being hired, grant disputes and policies for Gitcoin and how they’re going to be disputed among the community, and a pivot on the importance of mental health in the web3 space.
-
-### New Discussions
-
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Compound & Vesper: Compound Island | Development | [Discuss](https://www.comp.xyz/t/compound-vesper-compound-island/2239)
-
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Dynamic Risk Parameters | Development | [Discuss](https://www.comp.xyz/t/dynamic-risk-parameters/2223/2)
-
-
-FDD WG - Abstaining from receiving grants during GR11
-
-GR11 - Grants Disputes & Policy Conversation
 
 
 ### Ongoing Discussions
