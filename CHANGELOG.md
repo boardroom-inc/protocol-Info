@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.1...v2.7.2) (2021-09-13)
+
+
+### Bug Fixes
+
+* disable credmark events ([442cd63](https://github.com/boardroom-inc/protocol-Info/commit/442cd63dbe8dc3f067c86937375664ca1aa94209))
+
 ### [2.7.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.0...v2.7.1) (2021-09-09)
 
 ## [2.7.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.2...v2.7.0) (2021-09-09)
