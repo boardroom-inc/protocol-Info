@@ -36,3 +36,17 @@ The protocol also functions with zk-SNARK, which enables zero-knowledge proofs a
 User interface is hosted on **IPFS** (InterPlanetary File System) by the community, minimizing risks of data being deleted. Indeed, the interface will work as long as at least one user is hosting it.
 
 *Written by @[ayefda](https://torn.community/u/ayefda)*
+
+## Governance
+
+In order to participate in Tornado.Cash governance, users first need to lock tokens in the governance contract. If a user votes or creates a proposal, the tokens cannot be unlocked before the proposal execution period ends (8.25 days from proposal creation). The locked tokens can also be delegated to another address.
+
+To create a proposal, a user needs to have at least 1,000 TORN. All proposals must be smart contracts with verified code that are executed from the [governance contract](https://etherscan.io/address/0x5efda50f22d34F262c29268506C5Fa42cB56A1Ce) (using delegatecall). This way, it’s easy to audit and test any governance changes.
+
+## How to vote ?
+
+You first need to deposit (or lock) TORN tokens into the governance contract.
+Go to: https://app.tornado.cash/governance
+
+Before the vote, the next crucial step is to review the proposal.
+ Legitimate proposals should have a dedicated post on [Torn.community](https://torn.community/) under the category “Proposal”. The forum post will provide additional context and arguments on the proposal. Read the thread and make your own mind on the issue.
