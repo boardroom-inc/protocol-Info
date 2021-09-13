@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://app.boardroom.info/compound">
-    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0c731c59-c243-4fba-96fe-35cac794f158-1583450111151.png" alt="compound" width="400" />
+  <a href="http://app.boardroom.info/gitcoin">
+    <img src="https://s.gitcoin.co/static/v2/images/presskit/logotype.f06a89bd4582.svg" alt="compound" width="400" />
   </a>
   <h1 align="center">Gitcoin Weekly Update</h1>
   <p align="center">
