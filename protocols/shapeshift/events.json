@@ -148,5 +148,35 @@
     "url": "https://discord.gg/shapeshift",
     "date": "2021-09-15T15:00:00-06:00",
     "type": "call"
+  },
+  {
+    "title": "Engineering Product Weekly",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-20T11:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Engineering Product Weekly",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-27T11:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Engineering Product Weekly",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-04T11:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Engineering Demo",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-06T10:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "SushiSwap x ShapeShift AMA",
+    "url": "https://discord.com/invite/CD2YdZzb7Z",
+    "date": "2021-09-17T13:30:00-06:00",
+    "type": "call"
   }
 ]
