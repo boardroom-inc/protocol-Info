@@ -1,0 +1,10 @@
+{
+  "cname": "lexpunk",
+  "description": "We are a community of lawyers and devs dedicated to providing open source legal resources and support for the DeFi industry with specific sub-DAOs for discrete funded projects.",
+  "path": "lexpunk",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.lexpunk.army/",
+    "categoryId": ""
+  }
+}
