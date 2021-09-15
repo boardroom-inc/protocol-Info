@@ -11,10 +11,10 @@ To improve the organization's effectiveness, PrimeDAO operates in Prime Developm
 Prime Development Proposals (PDP) are proposals that are anticipated to have a medium to large impact on the future of PrimeDAO. PDPs can be compared to a Board resolution in a traditional organization, the biggest difference being that in PrimeDAO, everyone sits on the board. The PDP process and PrimeDAO's overall development are supported by the Prime Stewards, experienced and respected PrimeDAO members that have emerged as natural stewards of PrimeDAO.
 
 ## Additional Resources
-[Prime Forum](https://forum.prime.xyz/)
-[Discord](https://discord.gg/QR8mHskk)
-[Website](https://www.prime.xyz/)
-[Github](https://github.com/PrimeDAO)
-[Blog](https://medium.com/primedao)
-[Twitter](https://twitter.com/primedao_)
-[Token Info](https://etherscan.io/token/0xE59064a8185Ed1Fca1D17999621eFedfab4425c9)
+- [Prime Forum](https://forum.prime.xyz/)
+- [Discord](https://discord.gg/QR8mHskk)
+- [Website](https://www.prime.xyz/)
+- [Github](https://github.com/PrimeDAO)
+- [Blog](https://medium.com/primedao)
+- [Twitter](https://twitter.com/primedao_)
+- [Token Info](https://etherscan.io/token/0xE59064a8185Ed1Fca1D17999621eFedfab4425c9)
