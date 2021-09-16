@@ -1,0 +1,10 @@
+{
+  "cname": "sushi",
+  "description": "Swap, earn, stack yields, lend, borrow, leverage all on one decentralized community driven platform.",
+  "path": "sushi",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.sushi.com",
+    "categoryId": "8"
+  }
+}

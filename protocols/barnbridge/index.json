@@ -1,0 +1,11 @@
+{
+  "cname": "barnbridge",
+  "description": "BarnBridge is a decentralised finance (DeFi) risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as inflation risk, market price risk, and cash-flow volatility risk.",
+  "path": "barnbridge",
+  "isEnabled": false,
+  "discourseForum": {
+    "url": "https://forum.barnbridge.com/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0x4cae362d7f227e3d306f70ce4878e245563f3069"]
+}
