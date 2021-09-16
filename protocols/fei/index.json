@@ -1,8 +1,0 @@
-{
-	"cname": "fei",
-	"description": "",
-	"path": "fei",
-	"isEnabled": true,
-	"treasuryAddresses": ["0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9"],
-	"disableTreasuryNav": true
-}
