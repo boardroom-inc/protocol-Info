@@ -214,5 +214,35 @@
     "url": "https://discord.gg/shapeshift",
     "date": "2021-09-22T15:00:00-06:00",
     "type": "call"
+  },
+  {
+    "title": "ShapeShift DAO weekly Ops Sprint",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-27T10:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Marketing + Growth Public Call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-27T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Unification Proposal Community Call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-28T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Weekly Community Lunch AMA",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-29T12:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Engineering Office Hours",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-09-29T15:00:00-06:00",
+    "type": "call"
   }
 ]
