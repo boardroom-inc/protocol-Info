@@ -1,0 +1,11 @@
+{
+  "cname": "perpetualprotocol",
+  "description": "Perpetual Protocol is a decentralized perpetual contract protocol for every asset.",
+  "path": "perpetualprotocol",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.perp.fi",
+    "categoryId": "11"
+  },
+  "safeAddress": "0xc49f76a596d6200e4f08f8931d15b69dd1f8033e"
+}
