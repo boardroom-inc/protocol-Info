@@ -1,0 +1,11 @@
+{
+  "cname": "perpetualprotocolgrants",
+  "description": "The Perpetual Protocol grants progam's mission is to provide grants to projects, ideas, and events that benefit Perpetual Protocol and its ecosystem.",
+  "path": "perpetualprotocolgrants",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.perp.fi",
+    "categoryId": "5"
+  },
+  "safeAddress": "0xd374225abb84dca94e121f0b8a06b93e39ad7a99"
+}
