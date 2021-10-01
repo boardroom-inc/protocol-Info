@@ -74,14 +74,13 @@ Lastly the MMM (Merch, Memes and Marketing Workstream) published a Q4 budget pro
 | ------------- |:-------------:| :-----:|
 | Moonshot Collective Call | [Call](https://www.addevent.com/event/gA8182719)
 
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| FDD (Contributors) Weekly Contributor Feedback Session| Community |  [Call](https://www.addevent.com/event/Lq8216816)
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| FDD (Contributors) Weekly Contributor Feedback Session| [Call](https://www.addevent.com/event/Lq8216816)
-
-| Name          | Category      | Link   |
-| ------------- |:-------------:| :-----:|
-| Public Goods Discussion Group | [Call](https://www.addevent.com/event/PA8738644)
+| Public Goods Discussion Group | Community | [Call](https://www.addevent.com/event/PA8738644)
 
 
 ### Other Updates
