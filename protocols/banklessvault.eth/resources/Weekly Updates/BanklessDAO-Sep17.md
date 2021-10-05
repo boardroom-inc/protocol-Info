@@ -1,10 +1,11 @@
+
 <p align="center">
   <a href="http://app.boardroom.info/BanklessDAO">
     <img src="https://www.bankless.community/logo.svg" alt="BanklessDAO" width="400" />
   </a>
   <h1 align="center">BanklessDAO Weekly Update</h1>
   <p align="center">
-    September 5, 2021
+    September 17, 2021
   <br />
   <a href="http://app.boardroom.info/BanklessDAO"><strong>View in the Portal »</strong></a>
   <br />
@@ -12,8 +13,7 @@
 </p>
 
 ## Summary
-Approaching the end of Season 1, preparations are underway for Season 2, the specifics of which are being written and which will see some significant changes in the entire organization of the DAO.
-Meanwhile, numerous new proposals created by DAO members are being discussed and approved, as are some marketing campaigns with friendly projects, such as Index Coop, Gitcoin and Visor Finance.
+The proposal for Season 2 is now on Snapshots, as the comumunity prepares to nominate new signatories for the BanklessDAO multi-sig and the three members for vacant seats on the Grants Committee.
 
 ## Proposals
 
@@ -21,11 +21,8 @@ Give a quick rundown of live and recently closed proposals.
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Season 2 is coming | Governance | https://forum.bankless.community/t/onwards-to-season-2/1486/6 
-| Early proposal for Legal Identity | Legal | https://forum.bankless.community/t/early-proposal-for-legal-identity/1504 
-| BanklessDAO - Balancer campaign | Partnership | https://forum.bankless.community/t/banklessdao-balancer-campaign/1489 
-| Seed Club External Media Node| Partnership | https://forum.bankless.community/t/draft2-seed-club-external-media-node/1538 
-| Bankless Book Club| Community | https://forum.bankless.community/t/bankless-book-club/1498/10?u=merkl 
+| Transfer ownership of the treasury multisig wallet from the genesis team to the DAO. | Governance | https://snapshot.org/#/banklessvault.eth/proposal/Qmdthz7Anz7g2aJJAewNqm3gQnssP5NkS2StNKELvArQkk
+| Bankless DAO Season 2 | Governance | https://snapshot.org/#/banklessvault.eth/proposal/QmSTXHWP7bjaxT9aAuoFNkaCn5Ptx7GajEDDekoBccd5Uf
 
 ## Forum Summary
 Discussion Topic: Main discussion are mostly related to governance and community topics.
@@ -36,8 +33,14 @@ New discussions are threads that have started the week of the update.
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-
-| NFT Vault for Bankless DAO | Community | https://forum.bankless.community/t/discussion-topic-nft-vault-for-bankless-dao/1510
+| Brain Dumo #4 - When and How Do We Scale? | Governance | https://forum.bankless.community/t/brain-dump-4-when-and-how-do-we-scale/1675
+| Retro Rectification Donations | Governance | https://forum.bankless.community/t/retro-rectification-donations/1670
+| Submission for Grants Committee Application | Governance | https://forum.bankless.community/t/submission-for-gc-application/1662
+| Submission for multi-sig signer Applicants | Governance | https://forum.bankless.community/t/submission-for-multi-sig-signer-applicants/1661
+| Creation of the tokenomics Committee | Governance | https://forum.bankless.community/t/creation-of-the-tokenomics-committee-draft-1/1658
+| BanklessDAO Creative Council | Community | https://forum.bankless.community/t/bankless-dao-creative-council/1696
+| Season 1 POAP Design Contest Poll | Community | https://forum.bankless.community/t/season-1-poap-design-contest-poll/1609/1
+| Firts Quest - Onboarding New Members SEason 2 | Community | https://forum.bankless.community/t/request-for-comments-first-quest-onboarding-new-members-season-2/1656
 
 ### Ongoing Discussions
 
@@ -45,23 +48,24 @@ Ongoing discussions are threads that started before the week of the update but w
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Onwards to Season 2 | Governance | https://forum.bankless.community/t/onwards-to-season-2/1486
+| BanklessDAO Growth, Activation & Engagement | Community | https://forum.bankless.community/t/bankless-dao-growth-activation-engagement-discord-data/1405
 | BanklessDAO subDAOs and subTokens | Governance | https://forum.bankless.community/t/onwards-to-season-2/1486
-| DAO to business consultancy service | Community | https://forum.bankless.community/t/dao-to-business-consultancy-service/1409
+| Early proposal for Legal Identity | Governance | https://forum.bankless.community/t/early-proposal-for-legal-identity/1504
+| BanklessDAO Collaboration with Nifty Island | Community | https://forum.bankless.community/t/early-proposal-for-legal-identity/1504
 
 ## Other Updates
 
 This section of the Weekly Update is for adding anything else members of a DAO need to know. Scribes can format these however they like, but below are some suggestions on the type of things to include:
 
 Two of the most popular channels of the DAO are:
-- NFT Club, where the latest drops are discussed
-- Mental Health Support, where members have a safe space to talk
+- NFT Club
+- Top Signal
 
 The projects that have seen greater participation are:
-- Website, under development, to allow all the souls of BanklessDAO to be able to communicate
-- DEGEN Bot, created by BanklessDAO Devs to support many internal DAO functions
-- Bounty Board, also created by BanklessDAO Devs, to organize the posting of the requested processes
-- Nft platform, under study, to guarantee BanklessDAO its own dedicated platform
+- Daopunks x Metafactory
+- DEGEN Bot
+- Bankless Academy
+- Bankless loans
 
 <p align="center">
   <a href="http://app.boardroom.info/">

@@ -38,7 +38,13 @@
   {
     "title": "Radicle Community Call #4",
     "url": "https://www.twitch.tv/radicle_world",
-    "date": "2021-09-30T14:00:00+0000",
+    "date": "2021-09-29T14:00:00+0000",
     "type": "call"
-  } 
+  },
+  {
+    "title": "Radicle Governance WG Monthly",
+    "url": "https://discord.com/invite/8eAahzbpCs",
+    "date": "2021-10-13T15:00:00+0000",
+    "type": "govWeekly"
+  }
 ]
