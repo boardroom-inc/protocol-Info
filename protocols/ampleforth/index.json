@@ -1,6 +1,10 @@
 {
-	"cname": "ampleforth",
-	"description": "",
-	"path": "ampleforth",
-	"isEnabled": true
+  "cname": "ampleforth",
+  "description": "AMPL is the first rebasing currency of DeFi. It is an uncollateralized financial primitive with an elastic supply that adjusts each day according to demand in the marketplace. Like Bitcoin, AMPL is non-dilutive but it has a long-term unit of account that unlocks safe denomination in contracts, like debt.",
+  "path": "ampleforth",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://https://forum.ampleforth.org",
+    "categoryId": "6"
+  }
 }
