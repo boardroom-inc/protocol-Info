@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">Radicle Weekly Update</h1>
   <p align="center">
-    October 1, 2021
+    October 8, 2021
   <br />
   <a href="http://app.boardroom.info/radicle"><strong>View in the Portal »</strong></a>
   <br />
