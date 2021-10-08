@@ -19,7 +19,7 @@ A thread on Stewards Voting Power was created by Kevin Owocki to to track how vo
 
 Memepalooza2 was hosted by the workstream last Friday in the Discord. Over 50 people joined and created over 100 memes on the topic for public goods, the open internet and the values of GitcoinDAO. They also had a live DJ playing tunes and they tested out coordination tools from Moonshot collective; tip.party 1 and Quadratic Diplomacy.
 
-Fred recently gave a presentation and shared details on the Steward Report Cards project during a demo event hosted by Moonshot Collective. A video recording of the presentation will be uploaded to Moonshot Collectives Youtube page. <a href="https://www.youtube.com/watch?v=67a9Q2TQrEE">here</a>.
+Fred recently gave a presentation and shared details on the Steward Report Cards project during a demo event hosted by Moonshot Collective. A video recording of the presentation will be uploaded to Moonshot Collectives Youtube page.
 
 
 ## Recent Votes (On-Chain)
