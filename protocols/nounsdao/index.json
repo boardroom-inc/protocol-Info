@@ -1,0 +1,12 @@
+{
+  "cname": "nounsdao",
+  "description": "32x32 pixel generative art project",
+  "path": "nounsdao",
+  "isEnabled": true,
+  "type": "compoundish",
+  "discourseForum": {
+    "url": "https://discourse.nouns.wtf/",
+    "categoryId": "5"
+  },
+  "safeAddress": "0x0BC3807Ec262cB779b38D65b38158acC3bfedE10"
+}
