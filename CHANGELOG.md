@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.8.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.2...v2.8.0) (2021-10-08)
+
+
+### Features
+
+* add Ampleforth protocol info ([650e579](https://github.com/boardroom-inc/protocol-Info/commit/650e579ce26b46445e79711d78084ad9a6bfce77))
+* add lexpunk project ([c268a0f](https://github.com/boardroom-inc/protocol-Info/commit/c268a0fad33288d7b4da23f18e3e837bd911de34))
+* add Tornado Cash project ([6b5164a](https://github.com/boardroom-inc/protocol-Info/commit/6b5164a4b8bc28e9aca24562a07d8d54fb624f50))
+
 ### [2.7.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.1...v2.7.2) (2021-09-13)
 
 
