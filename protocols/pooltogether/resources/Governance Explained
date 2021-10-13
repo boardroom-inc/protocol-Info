@@ -1,0 +1,87 @@
+<p align="center">
+  <a href="http://app.boardroom.info/pooltogether">
+    <img src="https://gblobscdn.gitbook.com/spaces%2F-M58QPye9-PujrSjSWqv%2Favatar-1622495362917.png?alt=media" alt="[PoolTogether]" width="100" height="100" />
+  </a>
+  <h1 align="center">Pool Together Governance Process</h1>
+
+<a href="http://app.boardroom.info/pooltogether"><strong>View in the Portal »</strong></a>
+<br />
+
+  </p>
+</p>
+
+## Governance Token
+
+PoolTogether uses POOL as their governance token.
+
+-   14% of total POOL supply distributed to all POOL depositors across the V1, V2, and V3 protocol up until January 14th 2021 at midnight UTC. This is 17,072 unique addresses.
+-   12.44% of total POOL supply distributed to early core team contributors (locked for one year)
+-   7.52% of total POOL supply distributed to PoolTogether Inc investors (locked for one year)
+-   5% of total POOL supply allocated to an initial 14 week depositor distribution (details below)
+-   2.5% of POOL supply allocated to onboarding and education of new users
+-   1% of total POOL supply distributed to addresses that voted in the first two snapshot governance votes AND held a PoolTogether deposit at the time of voting.
+
+Future distribution is based on governance votes and includes
+
+-   Distributing POOL to those who refer deposits into the protocol
+-   Continuing or adjusting POOL distribution to depositors
+-   Setting up a grants program
+-   Etc.
+
+# Voting Process
+
+## Creation of Proposal
+
+On the PoolTogether forums, a proposal post where the creator is able to explain the scope and purpose of the proposal. The community is able to discuss it before it comes up for vote. To propose a vote, 10k POOL is needed (.1% supply). This can be delegated or personally owned
+
+## Scope of Votes
+
+The areas where the votes can manage are:
+
+-   Distributing the POOL token
+-   Manage the protocol treasuryDetermine parameters of prize pools (i.e. how many winners per week, prize size etc.)
+-   Manage the protocol treasury
+
+## Placing Vote
+
+The current governance model uses both Snapshot(Gasless) and Onchain voting.
+
+-   To participate in Snapshot voting, a voter must deposit their POOL into the POOLpool, gaining a further distribution of POOL. This will allow them to participate in the Snapshot space
+-   For onchain voters, they need to self delegate to themselves on Boardroom
+
+## Quorum
+
+-   For a vote to be considered (pass or fail) for onchain voting, 100k POOL (1%) needs to be submitted cumulatively.
+-   For the Snapshot voting space, the quorum is 20% of the POOL staked into the POOLpool
+
+## Other details
+
+-   After five days, if the majority of votes are in favor AND at least 100,000 votes have been cast in favor, the proposal will pass.
+-   There is a two day “timelock” before the proposal is actually implemented.
+
+<br />
+
+<p align="center">
+  <a href="http://app.boardroom.info/">
+    <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
+  </a>
+</p>
+
+<p align="center">
+	This report was prepared by the Governance Scribes Guild
+  <br />
+  <a href="http://boardroom.info/">Portal</a>
+  ·
+  <a href="https://discord.com/invite/tgrTFg9">Discord</a>
+  ·
+  <a href="https://boardroom.mirror.xyz/JHrN8nVy_J4C7Xzj37zoyPANg0ZnNszhWy9YOZHC0lM">Join the Scribes Program</a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/CEZ8WfuK8s">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/boardroom_info">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
