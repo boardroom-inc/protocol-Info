@@ -13,23 +13,29 @@
 
 ## Summary
 
-Write a brief summary, TL;DR, covering the important governance and DAO events of the week.
+Whether you agree with the proposals or not, it is truly a time of drastic change for the AAVE protocol in terms of management and asset additions. Gauntlet secured its role in the active management of risk parameters for the AAVE V2 market, and the first index product is being proposed as a collateral asset, which follows closely after the addition of the first rebasing asset AMPL.
 
 ## Proposals
 
-Give a quick rundown of live and recently closed proposals.
+All eyes were on Gauntlet last week with their proposal to actively manage risk parameters for all AAVE V2 assets in exchange for a sizable payment in AAVE tokens. The vote proved to be one of the most contentious so far, but passed in the end with a comfortable margin.
+
+Index Coop has pushed forward an AIP to list DPI as a collateral asset on the AAVE V2 market. DPI is an index product of top decentralized finance tokens on the Ethereum chain.
+
+Liquidity mining rewards are set to expire extremely soon. Parafi has put up an AIP to extend liquidity mining rewards for three months with some alterations. The pool of assets receiving rewards are dramatically increased, but the total rewards are diminished out of concerns that the ecosystem reserve is being used too quickly.
 
 ### Live Votes
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Proposal | Category | [Vote](Link to Proposal on Boardroom)
+| Add DPI on AAVE V2 | Product | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI3)
+| Extend Liquidity Incentives for Aave v2 | Treasury | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI4)
+
 
 ### Recent Votes
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Proposal | Category | [View](Link to Proposal on Boardroom)
+| Dynamic Risk Parameters | Operations | [View](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI1)
 
 ## Forum Summary
 
