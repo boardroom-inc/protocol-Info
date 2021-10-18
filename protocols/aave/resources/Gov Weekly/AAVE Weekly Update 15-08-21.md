@@ -28,7 +28,7 @@ Liquidity mining rewards are set to expire extremely soon. Parafi has put up an 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
 | Add DPI on AAVE V2 | Product | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI3)
-| Extend Liquidity Incentives for Aave v2 | Treasury | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI4)
+| Extend Liquidity Incentives for Aave v2 | Treasury/Operations | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI4)
 
 
 ### Recent Votes
@@ -39,33 +39,27 @@ Liquidity mining rewards are set to expire extremely soon. Parafi has put up an 
 
 ## Forum Summary
 
-Give a quick rundown of what's happened in the DAOs governance forum and provide links to join the discussion. 
+Most discussion this week are focused on the AMPL market. The addition of AMPL has revealed an issue with AAVE's reporting of interest rates, and there are also concerns about the implementation of their rebasing token on the AAVE market. For more details, read on in the links below!
 
 ### New Discussions
 
-New discussions are threads that have started the week of the update.
-
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Post | Category | [Discuss](Link to Forum post)
+| Update AMPL interest rate curve to account for over-approximation in compounded interest | Development/Product | [Discuss](https://governance.aave.com/t/arc-update-ampl-interest-rate-curve-to-account-for-over-approximation-in-compounded-interest/5350/5)
 
 ### Ongoing Discussions
 
-Ongoing discussions are threads that started before the week of the update but were substantively added to during the week of the update.
-
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Name of Post | Category | [Discuss](Link to Forum post)
+| Raise AMPL maximum interest rate | Development/Product | [Discuss](https://governance.aave.com/t/arc-raise-ampl-maximum-interest-rate/4996/28)
 
 ## Other Updates
 
-This section of the Weekly Update is for adding anything else members of a DAO need to know. Scribes can format these however they like, but below are some suggestions on the type of things to include:
+AAVE has announced on [Twitter](https://twitter.com/AaveAave/status/1428074768574468099) Avalanche's intent to bring AAVE to Avalanche with sizable liquidity incentives.
 
-- Topics discussed in the Discord, with links.
-- Twitter threads about the DAO are worth highlighting.
-- News mentions of the DAO
-- Etc.
+The weekly protocol performance update can be found [here](https://governance.aave.com/t/aave-weekly-protocol-performance-governance-update/1660/82).
 
+Make sure to follow the AAVE Grants DAO [substack](https://aavenews.substack.com/p/aave-news-governance-rewards-post) for detailed news on all things AAVE!
 
 <p align="center">
   <a href="http://app.boardroom.info/">
