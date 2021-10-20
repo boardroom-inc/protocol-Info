@@ -13,53 +13,55 @@
 
 ## Summary
 
-Whether you agree with the proposals or not, it is truly a time of drastic change for the AAVE protocol in terms of management and asset additions. Gauntlet secured its role in the active management of risk parameters for the AAVE V2 market, and the first index product is being proposed as a collateral asset, which follows closely after the addition of the first rebasing asset AMPL.
+Aave is having a strong start on Avalanche with the highest protocol TVL. Up for vote this week are risk parameter updates by Gauntlet, and a proposal to institute a voting delay period. Be sure to vote for this one, as it has a very large quorom requirement!
 
 ## Proposals
 
-All eyes were on Gauntlet last week with their proposal to actively manage risk parameters for all AAVE V2 assets in exchange for a sizable payment in AAVE tokens. The vote proved to be one of the most contentious so far, but passed in the end with a comfortable margin.
+Last week, a proposal was passed to update 13 risk parameters across eleven AAVE V2 assets, mostly concerning Loan to Value adjustments.
 
-Index Coop has pushed forward an AIP to list DPI as a collateral asset on the AAVE V2 market. DPI is an index product of top decentralized finance tokens on the Ethereum chain.
+This week, a similar proposal is up for vote to update nine risk parameters across eight AAVE V2 assets, including liquidation thresholds, loan to values, and liquidation bonuses.
 
-Liquidity mining rewards are set to expire extremely soon. Parafi has put up an AIP to extend liquidity mining rewards for three months with some alterations. The pool of assets receiving rewards are dramatically increased, but the total rewards are diminished out of concerns that the ecosystem reserve is being used too quickly.
+Also up for vote is a proposal to institute a voting delay period for all on-chain proposals. This proposal by Gauntlet was inspired out of concerns that proposals need more time for a pre-vote analysis. Because this would be a change in governance mechanics, this proposal requires a large 15% quorum. This makes every vote more important than ever, so go out and vote if you want to see this proposal passed!
 
 ### Live Votes
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Add DPI on AAVE V2 | Product | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI3)
-| Extend Liquidity Incentives for Aave v2 | Treasury/Operations | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI4)
+| Risk Parameter Updates 2021-10-14 | Development | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjQy)
+| Institute a Voting Delay Period | Development/Meta | [Vote](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjQx)
 
 
 ### Recent Votes
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Dynamic Risk Parameters | Operations | [View](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjI1)
+| Risk Parameter Updates 2021-10-07 | Development | [View](https://app.boardroom.info/aave/proposal/cHJvcG9zYWw6YWF2ZTpkZWZhdWx0OjQw)
 
 ## Forum Summary
 
-Most discussion this week are focused on the AMPL market. The addition of AMPL has revealed an issue with AAVE's reporting of interest rates, and there are also concerns about the implementation of their rebasing token on the AAVE market. For more details, read on in the links below!
+For new discussions this week, Gauntlet sttarted a thread for the risk parameter updates of the week. Also with significant updates are the threads on Lido, Fireblocks, and the treasury report by Llama DAO. Jump into the conversation if you have any thoughts to contribute!
 
 ### New Discussions
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Update AMPL interest rate curve to account for over-approximation in compounded interest | Development/Product | [Discuss](https://governance.aave.com/t/arc-update-ampl-interest-rate-curve-to-account-for-over-approximation-in-compounded-interest/5350/5)
+| ARC: Risk Parameter Updates 2021-10-14 | Development | [Discuss](https://governance.aave.com/t/arc-risk-parameter-updates-2021-10-14/5888/7)
 
 ### Ongoing Discussions
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| Raise AMPL maximum interest rate | Development/Product | [Discuss](https://governance.aave.com/t/arc-raise-ampl-maximum-interest-rate/4996/28)
+| Add support for stETH (Lido) | Development/Product | [Discuss](https://governance.aave.com/t/arc-add-support-for-steth-lido/5793/9)
+| Add Fireblocks as a whitelister on Aave Arc | Development/Product | [Discuss](https://governance.aave.com/t/add-fireblocks-as-a-whitelister-on-aave-arc/5753/14)
+| Aave - Treasury Report | Treasury | [Discuss](https://governance.aave.com/t/aave-treasury-report/5575/4)
+| ARC: Fix UI bugs in reserve overview for AMPL | Development | [Discuss](https://governance.aave.com/t/arc-fix-ui-bugs-in-reserve-overview-for-ampl/5885/6)
+| Proposal: A decentralized and public AAVE frontend | Development/Product | [Discuss](https://governance.aave.com/t/proposal-a-decentralized-and-public-aave-frontend/5042/13)
+
+
 
 ## Other Updates
 
-AAVE has announced on [Twitter](https://twitter.com/AaveAave/status/1428074768574468099) Avalanche's intent to bring AAVE to Avalanche with sizable liquidity incentives.
-
-The weekly protocol performance update can be found [here](https://governance.aave.com/t/aave-weekly-protocol-performance-governance-update/1660/82).
-
-Make sure to follow the AAVE Grants DAO [substack](https://aavenews.substack.com/p/aave-news-governance-rewards-post) for detailed news on all things AAVE!
+Overall, it's a quiet week from the AAVE team. Perhaps they're busy at [rAAVE](https://twitter.com/letsraave).
 
 <p align="center">
   <a href="http://app.boardroom.info/">
