@@ -39,7 +39,7 @@ Also up for vote is a proposal to institute a voting delay period for all on-cha
 
 ## Forum Summary
 
-For new discussions this week, Gauntlet sttarted a thread for the risk parameter updates of the week. Also with significant updates are the threads on Lido, Fireblocks, and the treasury report by Llama DAO. Jump into the conversation if you have any thoughts to contribute!
+For new discussions this week, Gauntlet started a thread for the risk parameter updates of the week. Also with significant updates are the threads on Lido, Fireblocks, and the treasury report by Llama DAO. Jump into the conversation if you have any thoughts to contribute!
 
 ### New Discussions
 
