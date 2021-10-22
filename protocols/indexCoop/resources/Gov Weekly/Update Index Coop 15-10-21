@@ -1,0 +1,93 @@
+<p align="center">
+  <a href="http://app.boardroom.info/index">
+    <img src="https://gblobscdn.gitbook.com/assets%2F-MJY-enmfAw5ra2s-8QX%2F-MVfvTrtaK5Wt2GUktl-%2F-MVfyANRthB47SoQStOg%2FIndex_Branding_-_Logo_full_black.png?alt=media&token=f0a3d27c-6661-44ad-929e-24eda0da752b" alt="Index Coop" width="400" />
+  </a>
+  <h1 align="center">Index Coop Weekly Update</h1>
+  <p align="center">
+    October 15, 2021
+  <br />
+  <a href="http://app.boardroom.info/index"><strong>View in the Portal »</strong></a>
+  <br />
+  </p>
+</p>
+
+## Summary
+
+With Working Group formation nearly complete, the Funding Council has posted [Grant Request No. 5](https://gov.indexcoop.com/t/funding-council-grant-5/2944) to the forum and it is expected to live on snapshot this week.  Voting on [IIP-92](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW13cWNhZW10M2RqdXlienE0MjY0aHU5Y3RrYW42c2N4YnhxYWtpd3FtdnlmbA==) which updates the MGC election process is set to close shortly and is widely expected to pass with voting currently 100% FOR.  Otherwise IIP-93 will be going live on 18 October, proposing improvements to the product onboarding process and instituting a 5% quorum initial index product proposals.  Ongoing metagovernance voting (voting in Compound, Balancer, Uniswap and Aave with tokens held in DPI in proportion to your INDEX holdings) can be found [here](https://app.boardroom.info/index/proposals).
+
+## Proposals
+
+This past week we saw the passage of IIP-90, effectively rolling up the Funding Council wallet into the Operations Account and deprecating the FC wallet.  Currently live and well above the quorum requirement is IIP-92 which updates the Meta-Governance Committee's (MGC) re-election process.  For context, the MGC votes should any meta-governance proposal fall short of quorum, ensuring that Index Coop is a responsible steward of the outsized governance governance power that is held within the vault of the DPI (DeFi Pulse Index) token.
+
+Otherwise we saw the passage of two DG1 (Decision Gate 1) proposals effectively clearing the path for more resources to be allocated in determining whether JPG and PDI are viable candidates for launch.  Should these proposed products progress favorably a second vote will be held (DG2), with passage indicating that the product will be queued for launch.
+
+### Live Votes
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| IIP-92: Meta Governance Committee 2.0 & Election Process | Live | [Vote](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW13cWNhZW10M2RqdXlienE0MjY0aHU5Y3RrYW42c2N4YnhxYWtpd3FtdnlmbA==)
+
+### Recent Votes
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| IIP-90 Removal of Funding Council wallet and hive up into the Operations account | Passed | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW15cGtoNm95MnllY3R1dHh0bm1zeHVxd3VhenRhZGp1cjh5eXBxbjR2Z3R0cA==)
+| DG1: Launch the NFT Blue-Chip Index (JPG) | Passed | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW14dnFheWhpYWNocWpkdm52YWZjdjh2ZWd4b3ZqanVxaGhhMWtic2RpYm5icw==) 
+| DG1: Launch Polygon Diversified Index (PDI) | Passed | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW1yYm9uNnljcHRxcXdwY25sYnN3dGdtbXllNHZvcW16eGFrbzN4Y2sybXdycw==)
+
+## Forum Summary
+
+With voting live on a proposal that updates the Meta-Governance Committee's re-election process underway we look to the votes that are queued for the coming week.  On 18 October voting will go live for IIP-93 which seeks to formalize the template used for proposing new index products and institutes a 5% quorum requirement for future DG1 votes (there is currently no quorum on DG1 votes with 50% voting FOR), effectively raising the bar for those proposing new products to Index Coop.
+
+### New Discussions
+
+
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Funding Council Grant No. 5 | Proposed | [Discuss](https://gov.indexcoop.com/t/funding-council-grant-5/2944)
+| Draft: IIP-93 - Product Onboarding Process Improvements | Proposed | [Discuss](https://gov.indexcoop.com/t/draft-iip-93-product-onboarding-process-improvements/2923)
+
+
+### Ongoing Discussions
+
+
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Launch the NFT Blue-Chip Index (JPG) | Proposed | [Discuss](https://gov.indexcoop.com/t/iip-091-launch-the-nft-blue-chip-index-jpg/2767)
+| Update Community Treasury Multi-sig | Proposed | [Discuss](https://gov.indexcoop.com/t/iip-xy-update-community-treasury-multisig/2850)
+
+## Other Updates
+
+[The sCoop](https://twitter.com/HOWweDAO), the Index Coop daily contributor newsletter, runs Monday through Thursday, recent issues can be found here:
+- [The sCoop - Contributor Newsletter - 2021.10.11 Monday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-10-11-monday/2921)
+- [The sCoop - Contributor Newsletter - 2021.10.12 Tuesday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-10-12-tuesday/2937)
+- [The sCoop - Contributor Newsletter - 2021.10.13 Wednesday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-10-13-wednesday/2943)
+- [The sCoop - Contributor Newsletter - 2021.10.14 Thursday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-10-14-thursday/2954)
+
+
+<p align="center">
+  <a href="http://app.boardroom.info/">
+    <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
+  </a>
+</p>
+
+<p align="center">
+	This report was prepared by the Governance Scribes Guild
+  <br />
+  <a href="http://boardroom.info/">Portal</a>
+  ·
+  <a href="https://discord.com/invite/tgrTFg9">Discord</a>
+  ·
+  <a href="https://boardroom.mirror.xyz/JHrN8nVy_J4C7Xzj37zoyPANg0ZnNszhWy9YOZHC0lM">Join the Scribes Program</a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/CEZ8WfuK8s">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/boardroom_info">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
