@@ -382,5 +382,59 @@
     "url": "https://discord.gg/shapeshift",
     "date": "2021-10-20T13:00:00-06:00",
     "type": "call"
+  },
+  {
+    "title": "ShapeShift DAO weekly Ops Sprint",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-25T10:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Engineering Product Weekly",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-25T11:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Marketing + Growth Public Call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-25T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Rari Capital/ShapeShift DAO community call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-26T11:30:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Unsolved User Problems",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-26T13:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "ShapeShift x 3LAU community call",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-26T15:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Tokenomics Office Hours",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-26T16:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Weekly Community Lunch AMA",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-27T12:00:00-06:00",
+    "type": "call"
+  },
+  {
+    "title": "Weekly Governance Meeting",
+    "url": "https://discord.gg/shapeshift",
+    "date": "2021-10-28T15:00:00-06:00",
+    "type": "call"
   }
 ]
