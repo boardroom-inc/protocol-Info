@@ -1,5 +1,5 @@
 {
-  "cname": "B.Protocol",
+  "cname": "bprotocol",
   "description": "B.Protocol is DeFi's backstop liquidity protocol. A new DeFi lego primitive, bringing Tradfi systems best practices (a backstop) into DeFi, aiming to stabilize the ever-growing market of DeFi assets which are crucially dependent on adequate liquidation processes - which were missing till now in the ecosystem.",
   "path": "bprotocol",
   "isEnabled": true,
