@@ -16,10 +16,11 @@ MTA has a total supply of 100,000,000 tokens.
 
 A brief overview of mStable 4-steps voting process
 
-1) MIP draft
-2) ProtocolDAO vote, optimistically a couple of days
-3) Forum MIP post, roughly a week
-4) Snapshot vote, roughly a week
+1. MIP draft
+2. ProtocolDAO vote, optimistically a couple of days
+3. Forum MIP post, roughly a week
+4. Snapshot vote, roughly a week
+
 
 ![image](https://user-images.githubusercontent.com/91188998/139437897-94d17b9c-023b-4965-981f-5fbb5eb256c3.png)
 
