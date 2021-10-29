@@ -4,7 +4,7 @@
   </a>
   <h1 align="center">AAVE Weekly Update</h1>
   <p align="center">
-    August 15, 2021
+    October 29, 2021
   <br />
   <a href="http://app.boardroom.info/aave"><strong>View in the Portal »</strong></a>
   <br />
