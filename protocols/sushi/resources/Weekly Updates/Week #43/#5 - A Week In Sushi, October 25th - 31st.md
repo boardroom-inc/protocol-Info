@@ -4,7 +4,7 @@ Created: October 31, 2020
 
 ## The Sushi Forum #52
 
-![Forum.png](./images/Forum.png)
+![Forum.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/Forum.png)
 
 ## Quick Bites
 
@@ -65,7 +65,7 @@ Sushi has received 25,000 MOVR tokens, which will be rewarded to liquidity provi
 
 When the XCMP is live, this will also allow for Kusama-native tokens such as KSM and KAR to be supported as well.
 
-![moonriver farms.png](./images/moonriver_farms.png)
+![moonriver farms.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/moonriver_farms.png)
 
 ### What is XCMP?
 
@@ -89,7 +89,7 @@ Shōyu’s initial launch, v0, can be thought of as a 10-week period of curated 
 
 The concept behind this rollout is that community usage should decide the future of the protocol. Utilities like social tokens, fractionalizing, and support for NFTs not minted on Shōyu will arrive in later versions.
 
-![Shoyu infographic.png](./images/Shoyu_infographic.png)
+![Shoyu infographic.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/Shoyu_infographic.png)
 
 ## Shōyu: A Closer Look
 
@@ -134,8 +134,8 @@ The Shōyu metaverse has been expertly crafted to give you the ultimate NFT expe
 The Shōyu experience will soon be available on your **desktop**, **notebook** or **smartphone**.
 
 <div>
-    <img src="./images/shoyu_dark.jpg" width="350">
-    <img src="./images/shoyu_light.jpg" width="350">
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/shoyu_dark.jpg" width="350">
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/shoyu_light.jpg" width="350">
 </div>
 
 The Shōyu experience is tailored for everyone, whether you are an early bird or a night owl. You'll have the option to see the Shōyu metaverse in either dark mode or light mode. 
@@ -152,15 +152,15 @@ The Sushi Community strikes again. This time in the form of a [$SUSHI dune analy
 
 Check out Dobby's [full thread](https://twitter.com/dobbythereum/status/1453355259846344711?s=20) on how he went about this.
 
-![dune.jpg](./images/dune.jpg)
+![dune.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/dune.jpg)
 
 $SUSHI's price and volume (split between buy and sell volume) - shown on SUSHI/WETH pair.
 
-![dune2.jpg](./images/dune2.jpg)
+![dune2.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/dune2.jpg)
 
 Circulating supply of $xSUSHI - The token's issuance has been slowing down over time. 94.5% of the total supply of [$SUSHI](https://twitter.com/search?q=%24SUSHI&src=cashtag_click) is now circulating with a current supply issuance of ~10.8% (based on the past 30 days' average issuance).
 
-![dune3.jpg](./images/dune3.jpg)
+![dune3.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/dune3.jpg)
 
 Dobby carefully picked all known exchanges addresses to show exchanges liquidity over time (and between one another).
 
@@ -185,13 +185,13 @@ Read Trident's Documentations [here](https://docs.google.com/document/d/11JoBg-O
 ### Looking for a detailed recap of Trident? (Videos)
 <div align="center">
   <a href="https://youtu.be/op56VX90lZo">
-  <img src="./images/maxresdefault.jpg" alt="Joseph Delong : Sushi Next Generation AMM" />
+  <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/maxresdefault.jpg" alt="Joseph Delong : Sushi Next Generation AMM" />
   </a>
 </div>
 
 <div align="center" style="padding-top: 10px;">
   <a href="https://youtu.be/VERRkK59kAc">
-  <img src="./images/maxresdefault_sushi.jpg" alt="Trident AMA - Twitter Spaces" />
+  <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/maxresdefault_sushi.jpg" alt="Trident AMA - Twitter Spaces" />
   </a>
 </div>
 
@@ -201,7 +201,7 @@ Q4 will include a very important upgrade to the MISO UI, which will see it being
 
 There will also be a major overhaul to MISO's vetting process. It will allow the community to take control of which new projects are given the opportunity to launch on MISO, in a completely decentralized and autonomous way. Stay tuned for more updates on this.
 
-![miso.jpeg](./images/miso.jpeg)
+![miso.jpeg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/miso.jpeg)
 
 Sneak Peak of MISO's new UI
 
@@ -209,7 +209,7 @@ Check out the [full article here](https://medium.com/sushiswap-org/sushi-third-c
 
 ---
 
-![Untitled](./images/Untitled.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/Untitled.png)
 
 # Move over Chainlink, Meet DotOracle: Your New Favourite Oracle Provider
 
@@ -239,7 +239,7 @@ Full AMA summary found [here](https://twitter.com/Trudahamzik/status/14530680225
 
 # Ethernaal Leading Tattoo Revolution: $NAAL MISO IDO LIVE
 
-![Untitled](./images/Untitled%201.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/Untitled%201.png)
 
 The [Ethernaal Crowd Sale](https://miso.sushi.com/auctions/0xdcfD9b5d560898682F1aa523016987C6fC901CDF) is currently taking place on MISO. **20 million** $NAAL tokens are up for grabs at a fixed price of 1 $NAAL = 0.0002 ETH.
 
@@ -268,7 +268,7 @@ XDEFI is a cross-chain wallet with the vision of being everyone's go-to wallet i
 - **Automation** - adds new chains automatically, no need to manually configure your networks. You will also be automatically informed of any hacks instantly
 - **Built for NFTs** - showcase your NFT collection in a customizable grid - all NFTs are automatically detected
 
-![xdefi.png](./images/xdefi.png)
+![xdefi.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/xdefi.png)
 
 You must be **whitelisted** in order to participate in the MISO auction. Here are the 3 ways to do it:
 
@@ -302,7 +302,7 @@ More tokenomic details can be found [her](https://xdefi-io.medium.com/xdefi-wall
 
 # Top VC Firm Sequoia Bullish on Sushi
 
-![54545445454.jpg](./images/54545445454.jpg)
+![54545445454.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/54545445454.jpg)
 
 Sushi’s community and quick pace of innovation has caught the eye of [Sequoia](https://twitter.com/sequoia), a traditional VC capital firm which was founded 50 years ago. This has even led to them market buying and staking $SUSHI. To give some context, this is very much a firm that chooses its investments extremely carefully and 2 years ago, would not have even considered investing in crypto. However they are now undergoing a structural shift which allows them to be more open in their investment activity. They have doubled their annual invested projects, which has included 3-5 crypto investments a year since 2019. Everyone in the company is extremely excited about the future that crypto will bring; which certainly wasn’t the sentiment a few years ago.
 
@@ -320,7 +320,7 @@ Full AMA summary found [here](https://twitter.com/Trudahamzik/status/14543820801
 
 ## Weekly SushiBar Recap
 
-![Untitled](./images/Untitled%202.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/Untitled%202.png)
 
 Another week, another buy back. This week, around 96,906 $SUSHI were served directly to $xSUSHI holders!
 
@@ -345,6 +345,6 @@ Take a look at the NFTs, designed by [@lightenbee](https://twitter.com/lightenbe
 Please be prepared for cuteness-overload.
 
 <div align="center">
-    <img src="./images/555555.jpg" width="250" height="250">
-    <img src="./images/FC0hgDQXsAYBKyA.jpg" width="250" height="250">
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/555555.jpg" width="250" height="250">
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2343/images/FC0hgDQXsAYBKyA.jpg" width="250" height="250">
 </div>
