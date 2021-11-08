@@ -4,7 +4,7 @@ Created: November 7, 2021
 
 ## Sushi Forum #53
 
-![Forum.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Forum.png)
+![Forum.png](./images/Forum.png)
 
 ## Quick Bites
 
@@ -27,7 +27,7 @@ The Tokemak Reactor would strengthen $SUSHI liquidity by enabling $SUSHI holders
 
 The passing of this proposal would mean that more liquidity could be directed to SushiSwap and therefore adding market depth; enabling larger trades to take place. In turn, this will generate more trading fees and benefit $xSUSHI holders as well. 
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled.png)
 
 The [proposal](https://forum.sushi.com/t/collateralize-sushi-reactor-on-tokemak/5919) will run for a week on the forum to gauge sentiment before moving to Snapshot which will also last a week. 
 
@@ -35,7 +35,7 @@ The [proposal](https://forum.sushi.com/t/collateralize-sushi-reactor-on-tokemak/
 
 Although this proposal received hugely positive sentiments from the community, it didn't reach the quorum of 5M Sushi votes - largely due to bad timing since everyone was focused on Trident and Shōyu, thus this proposal is being looked at again. Omakase also feels that this could work well with the Kanpai proposal.
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%201.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%201.png)
 
 **Proposal Recap:**
 
@@ -59,7 +59,7 @@ A lot of progress has been made since the snapshot - [Flipside](https://twitter.
 The Sushi Community thanks MagicTurtle for taking and growing the Sushi Forum to where it is today. All your efforts are recognized by the community! The torch will be passed onto [0xTangle](https://twitter.com/0xTangle), who will take the lead. 
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%202.png" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%202.png" />
 </div>
 
 Please send love by tagging [@0xMagicTurtle](https://twitter.com/0xMagicturtle) with 🎙🍣 on Twitter. 
@@ -75,14 +75,14 @@ Grab a pair of headphones and get ready to immerse yourself in the [Shōyu exper
 P.S. Did you find the secret room?
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/ezgif.com-gif-maker.gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/ezgif.com-gif-maker.gif" />
     <figcaption>Shōyu Metaverse Sneak Peak</figcaption>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/3333.gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/3333.gif" />
     <figcaption>'Circular Release' by Jason Seife - found in the Shōyu Metaverse</figcaption>
 </div>
 
@@ -92,7 +92,7 @@ P.S. Did you find the secret room?
 NYC had the pleasure of hosting the biggest names in crypto last week for its [NFT.NYC](https://www.nft.nyc/) annual event. Sushi even had its time to shine in Times Square! 
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/ezgif.com-gif-maker_(1).gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/ezgif.com-gif-maker_(1).gif" />
 </div>
 <br />
 
@@ -101,21 +101,21 @@ NYC had the pleasure of hosting the biggest names in crypto last week for its [N
 Members of the Sushi Team were in attendance at this year's biggest NFT event, with [Amanda](https://twitter.com/AyokiRoll) giving an exclusive Shōyu presentation. Check out snippets from Amanda's beautifully-designed presentation:
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/1.gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/1.gif" />
     <figcaption>Creative experiences with overwhelming impact: The Shōyu Metaverse</figcaption>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/111.gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/111.gif" />
     <figcaption>Immersive Mode Gallery - an interactive slideshow of your 2D gallery</figcaption>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/666666.gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/666666.gif" />
     <figcaption>Sushi's Social Token Experiment</figcaption>
 </div>
 
@@ -128,7 +128,7 @@ The Shōyu Vision has been brought to life in 12 slides. For a full rundown of t
 Shōyu has dropped their official [Instagram](https://www.instagram.com/) filter.
 Show your friends how much you're worth as a jpeg!
 
-![Shoyu.gif](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Shoyu.gif)
+![Shoyu.gif](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Shoyu.gif)
 
 **How to access:**
 
@@ -155,7 +155,7 @@ It has been great to see everyone having such an amazing time in the Shōyu meta
 
 The [Samurais](https://twitter.com/asksamurais) have served up yet another new dish for the Sushi community - this time in the form of a digital newspaper featuring all things Sushi and DeFi. Sushi Times will be your one-stop shop for everything Sushi. No need to dig through Twitter to find announcements or partnerships, all of Sushi's content will be exclusively curated under one roof so you can sit back, relax and catch up with your favourite DeFi protocol; with the option to level up your reading experience with a chilled playlist.
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%203.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%203.png)
 
 Sushi Times plans to feature content from the community as well. If you want to get involved in a future issue and cook up an exquisite piece, please say hello in the Sushi [discord](https://discord.com/invite/uTBZPpWdrT)! 
 
@@ -167,7 +167,7 @@ Since its inception, Sushi has always pushed the boundaries on innovation. Its g
 
 <br />
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/ezgif.com-gif-maker%201.gif" />
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/ezgif.com-gif-maker%201.gif" />
 </div>
 <br />
 
@@ -183,7 +183,7 @@ Users will need to use [Meter](https://passport.meter.io/transfer#/) to bridge o
 
 ## New Beginnings for Kanpeki
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%204.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%204.png)
 
 'Kanpeki' is Japanese for 'Perfection'. 
 
@@ -199,7 +199,7 @@ Full AMA Summary found [here](https://twitter.com/Trudahamzik/status/14569622556
 
 Fixed rate protocols may sound intimidating and overly complex to many users. However, [Tempus](https://twitter.com/TempusFinance) has built a product that simplifies the concept of fixed-rate yields. The team have also taken innovation to the next level by allowing users to provide liquidity to earn even more yield on their yield-bearing token.
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%205.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%205.png)
 
 ### What does this mean?
 
@@ -231,7 +231,7 @@ XDEFI is a wallet extension built to handle all your transactions, assets and NF
 
 Every inconvenience which we've had to get used to has been taken into consideration by the team. Future integrations include support for hardware wallets such as Ledger and Trezor, the ability to revoke unlimited contract allowances from within the wallet interface as well as a full-blown mobile and web app. 
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%206.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%206.png)
 
 XDEFI wallet will also be launching its own governance token which users will be able to stake to earn a portion of swap fees and also get rebates on all of their transactions. $XDEFI will be coming to MISO on November 10th - due to its popularity, whitelisted spots are filling fast!
 
@@ -245,7 +245,7 @@ Full AMA Summary found [here](https://twitter.com/Trudahamzik/status/14561604645
 
 With low gas fees, users can now trade $IDLE on Polygon. Furthermore, IDLE/WETH liquidity providers can join Idle's LP Staking Program to earn even more $IDLE! 
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%207.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%207.png)
 
 **20k $IDLE tokens** will be distributed over 3 months. 
 
@@ -266,15 +266,15 @@ Full guide to walk you through the above steps found [here](https://docs.idle.fi
 
 This week, 221,452 $SUSHI were served directly to $xSUSHI holders! That's around a 2.7 Million Dollars buyback at current prices. Yummy!
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%208.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%208.png)
 
 ## Sushi Hits ATH in October with 146K Users
 
 Sushi is just getting warmed up. Check out the charts for monthly active users for Uniswap vs. Sushi, brought to you by [BΞN](https://twitter.com/__DeFi__).
 
-![month uni.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/month_uni.jpg)
+![month uni.jpg](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/month_uni.jpg)
 
-![month sushi.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/month_sushi.jpg)
+![month sushi.jpg](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/month_sushi.jpg)
 
 ## Calculating the Fair Value of $SUSHI
 
@@ -320,7 +320,7 @@ All these indicate a healthy protocol with a flourishing user base.
 
 Sushi vs Competitors (at the time of writing):
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%209.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%209.png)
 
 Other metrics to consider as well:
 
@@ -344,10 +344,10 @@ All you need to do is hold $xSUSHI in your wallet and you will be eligible for f
 
 Follow [Sushib](https://twitter.com/Sushibtoken) on Twitter to stay up-to-date and for more potential airdrops... BARK! BARK!
 
-![Untitled](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%2010.png)
+![Untitled](https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/Untitled%2010.png)
 
 <br />
 <div align="center">
-    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/sushi_neon.png" width="100"/>
+    <img src="https://github.com/helloitsm3/protocol-Info/blob/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2344/images/sushi_neon.png" width="100"/>
 </div>
 <br />
