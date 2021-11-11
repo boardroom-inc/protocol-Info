@@ -1,6 +1,7 @@
 {
-  "cname": "example",
-  "description": "A concise description of the protocol",
+  "cname": "fwb",
+  "description": "Friends with Benefits is the ultimate cultural membership community",
   "path": "example",
+  "category": ["Social"],
   "isEnabled": true
 }
