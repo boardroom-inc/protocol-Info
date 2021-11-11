@@ -1,0 +1,6 @@
+{
+  "cname": "example",
+  "description": "A concise description of the protocol",
+  "path": "example",
+  "isEnabled": true
+}
