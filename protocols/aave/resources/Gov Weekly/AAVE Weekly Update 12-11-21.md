@@ -39,7 +39,7 @@ Gauntlet is requesting a renewal of their relationship with AAVE to help manage 
 
 | Name          | Category      | Link   |
 | ------------- |:-------------:| :-----:|
-| ARC: Risk Parameter Updates 2021-10-21 | Development | [Discuss](https://governance.aave.com/t/arc-q2-dynamic-risk-parameters/5955)
+| Quarterly Market Risk Review (November 2021) | Development | [Discuss](https://governance.aave.com/t/quarterly-market-risk-review-november-2021/6163)
 
 ### Ongoing Discussions
 
