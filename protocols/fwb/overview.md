@@ -26,4 +26,4 @@ By unifying our community through a social token - $FWB - members can be confide
 [Discord](https://discord.com/invite/qUDNuMR)
 [Twitter](https://twitter.com/FWBtweets)
 [Website](https://www.fwb.help/)
-[DAO Proposals](https://snapshot.org/#/city.fwb.eth)
+[DAO Proposals](https://snapshot.org/#/friendswithbenefits.eth)

@@ -1,7 +1,7 @@
 {
   "cname": "fwb",
   "description": "Friends with Benefits is the ultimate cultural membership community",
-  "path": "example",
+  "path": "https://snapshot.org/#/friendswithbenefits.eth",
   "category": ["Social"],
   "isEnabled": true
 }
