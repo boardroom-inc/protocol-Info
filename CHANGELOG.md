@@ -2,6 +2,104 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.5](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.4...v2.10.5) (2021-11-11)
+
+### [2.10.4](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.3...v2.10.4) (2021-10-28)
+
+### [2.10.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.1...v2.10.2) (2021-10-27)
+
+## [2.10.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.4.1...v2.10.0) (2021-10-21)
+
+
+### Features
+
+* add Ampleforth protocol info ([650e579](https://github.com/boardroom-inc/protocol-Info/commit/650e579ce26b46445e79711d78084ad9a6bfce77))
+* add Clean City Guild project ([0b459e1](https://github.com/boardroom-inc/protocol-Info/commit/0b459e1c982768ecb848b00070ab498b66c3b690))
+* add Credmark protocol ([#268](https://github.com/boardroom-inc/protocol-Info/issues/268)) ([c41169a](https://github.com/boardroom-inc/protocol-Info/commit/c41169a1e0f815c2a7ee68e26a6948b39aad4ec3))
+* add idlefinance ([#258](https://github.com/boardroom-inc/protocol-Info/issues/258)) ([f90e06a](https://github.com/boardroom-inc/protocol-Info/commit/f90e06aed401af5f5ada341d3a6df8d90c5d5732))
+* add lexpunk project ([c268a0f](https://github.com/boardroom-inc/protocol-Info/commit/c268a0fad33288d7b4da23f18e3e837bd911de34))
+* add PrimeDAO project ([8646acf](https://github.com/boardroom-inc/protocol-Info/commit/8646acf4699b7b7f20bee1a7583a89a9d3144458))
+* add REtokenDAO.eth project ([1a33d6b](https://github.com/boardroom-inc/protocol-Info/commit/1a33d6bbc0077f1fb091c3c7bdcedefe73942fcf))
+* add Sushi project and BadgerDAO events ([25e9423](https://github.com/boardroom-inc/protocol-Info/commit/25e94238982421607cf277bdfeaaeca3832595a2))
+* add Token Engineering Commons project ([3186a91](https://github.com/boardroom-inc/protocol-Info/commit/3186a912663a8d90246d7ec920ea0d237005a2f4))
+* add Tornado Cash project ([6b5164a](https://github.com/boardroom-inc/protocol-Info/commit/6b5164a4b8bc28e9aca24562a07d8d54fb624f50))
+* enable all api protocols ([#201](https://github.com/boardroom-inc/protocol-Info/issues/201)) ([91b5ebf](https://github.com/boardroom-inc/protocol-Info/commit/91b5ebf0205896b7469da1a52417c4498679655c))
+
+
+### Bug Fixes
+
+* clean up protocol info ([#239](https://github.com/boardroom-inc/protocol-Info/issues/239)) ([15acbd2](https://github.com/boardroom-inc/protocol-Info/commit/15acbd2507fccfcfadc9d4b25b18e319fcaad324))
+* cname and date formate ([dd134ae](https://github.com/boardroom-inc/protocol-Info/commit/dd134aeec4ecfda2f384a2db0d03ced8071a7b72))
+* disable aave and instadapp treasury nav ([#219](https://github.com/boardroom-inc/protocol-Info/issues/219)) ([8200883](https://github.com/boardroom-inc/protocol-Info/commit/8200883ce10f2ffd9a20b1be2287abe66b75a53e))
+* disable credmark events ([442cd63](https://github.com/boardroom-inc/protocol-Info/commit/442cd63dbe8dc3f067c86937375664ca1aa94209))
+* dont need protocol field ([1a250a6](https://github.com/boardroom-inc/protocol-Info/commit/1a250a6233249c86e5f393907c96650a0e46ab68))
+* instadapp overview typo ([71cfe67](https://github.com/boardroom-inc/protocol-Info/commit/71cfe67bad3d69189496b1ca302bfb622ee6590c))
+* iso string and unix time both ok for date ([898841c](https://github.com/boardroom-inc/protocol-Info/commit/898841cf522a6e92d34332cfe83df46b38cbea83))
+* keep as array and transform on build step\ ([754cfea](https://github.com/boardroom-inc/protocol-Info/commit/754cfea66cef2faf1605c84479924f04f32f1c76))
+* mstable info ([3057ac1](https://github.com/boardroom-inc/protocol-Info/commit/3057ac19a1e968edb7f016d366d4dbdfe6adb5bf))
+* named exports ([6086f3d](https://github.com/boardroom-inc/protocol-Info/commit/6086f3d1ed42612aa1c398db88dbe06b567a763b))
+* project formatting issues ([cca8c82](https://github.com/boardroom-inc/protocol-Info/commit/cca8c824c820d5741d925e5763ad40387d131550))
+* radicle protocol info ([#212](https://github.com/boardroom-inc/protocol-Info/issues/212)) ([f9d9bbc](https://github.com/boardroom-inc/protocol-Info/commit/f9d9bbc7b73b39a644d8ad0f88d70856248063cf))
+* reduce how much transformation is requried ([1501b68](https://github.com/boardroom-inc/protocol-Info/commit/1501b6898b469050be5051db1b232ddb8ab9b16d))
+* udpate eents ([72168c1](https://github.com/boardroom-inc/protocol-Info/commit/72168c1c568a91251f81a879d8387c7c73a185a7))
+* update aave and instadapp token addresses ([#220](https://github.com/boardroom-inc/protocol-Info/issues/220)) ([64b36d6](https://github.com/boardroom-inc/protocol-Info/commit/64b36d6baaeda7e707b32fa5cfe6eb6477c37d7a))
+* update aave token abi ([#214](https://github.com/boardroom-inc/protocol-Info/issues/214)) ([fa2ea9b](https://github.com/boardroom-inc/protocol-Info/commit/fa2ea9bd701124a2b19647dd9ebf09159f1ab372))
+* update aave token contract address ([#213](https://github.com/boardroom-inc/protocol-Info/issues/213)) ([aac43c6](https://github.com/boardroom-inc/protocol-Info/commit/aac43c634d09a34741366054cf3113893ea7f458))
+* update credmark info ([10b4adc](https://github.com/boardroom-inc/protocol-Info/commit/10b4adc667a589b9342cc2c2f8a1f6af8d130313))
+* update drc treasury addresses field ([580e4a1](https://github.com/boardroom-inc/protocol-Info/commit/580e4a1bb522206b4f0613bbcc79c88499589d4c))
+* update fei gov token contract address ([#227](https://github.com/boardroom-inc/protocol-Info/issues/227)) ([917a528](https://github.com/boardroom-inc/protocol-Info/commit/917a528aab5fc2b4c56658197078cf67d11e91a9))
+* update instadapp ([#218](https://github.com/boardroom-inc/protocol-Info/issues/218)) ([6920d2a](https://github.com/boardroom-inc/protocol-Info/commit/6920d2ae0fce6af822dbb26ea570469d4b253e4e))
+* update kleros description ([733d0df](https://github.com/boardroom-inc/protocol-Info/commit/733d0dfcb1cbaf1e39c18644989a3ade7b382c11))
+* update prime dao info ([6694966](https://github.com/boardroom-inc/protocol-Info/commit/6694966f772d4ee46eabb51e4dc35c735ecd5aab))
+* update project cnames ([5f735c5](https://github.com/boardroom-inc/protocol-Info/commit/5f735c5bc88d5fc7907e27baf4299a7f1d93e55c))
+* update retoken info ([6d9d2f3](https://github.com/boardroom-inc/protocol-Info/commit/6d9d2f3d1e4f039292e905bcabef0973b8fede99))
+* update tecommons event format ([4917bd9](https://github.com/boardroom-inc/protocol-Info/commit/4917bd9b3028d9d30aa691b35f88cf3f74062da5))
+* validation script ([1e39a7e](https://github.com/boardroom-inc/protocol-Info/commit/1e39a7e0e46add08ff6506aab16f6fd0b9e24dd5))
+* validatoin enforce calnedar event interface ([db68df0](https://github.com/boardroom-inc/protocol-Info/commit/db68df03239204815c3f3cc4cd4975a4cd79c765))
+
+### [2.9.3](https://github.com/boardroom-inc/protocol-Info/compare/v2.9.2...v2.9.3) (2021-10-14)
+
+### [2.9.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.9.1...v2.9.2) (2021-10-14)
+
+### [2.9.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.8.1...v2.9.1) (2021-10-12)
+
+### [2.8.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.8.0...v2.8.1) (2021-10-12)
+
+## [2.8.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.2...v2.8.0) (2021-10-08)
+
+
+### Features
+
+* add Ampleforth protocol info ([650e579](https://github.com/boardroom-inc/protocol-Info/commit/650e579ce26b46445e79711d78084ad9a6bfce77))
+* add lexpunk project ([c268a0f](https://github.com/boardroom-inc/protocol-Info/commit/c268a0fad33288d7b4da23f18e3e837bd911de34))
+* add Tornado Cash project ([6b5164a](https://github.com/boardroom-inc/protocol-Info/commit/6b5164a4b8bc28e9aca24562a07d8d54fb624f50))
+
+### [2.7.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.1...v2.7.2) (2021-09-13)
+
+
+### Bug Fixes
+
+* disable credmark events ([442cd63](https://github.com/boardroom-inc/protocol-Info/commit/442cd63dbe8dc3f067c86937375664ca1aa94209))
+
+### [2.7.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.0...v2.7.1) (2021-09-09)
+
+## [2.7.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.2...v2.7.0) (2021-09-09)
+
+
+### Features
+
+* add Credmark protocol ([#268](https://github.com/boardroom-inc/protocol-Info/issues/268)) ([c41169a](https://github.com/boardroom-inc/protocol-Info/commit/c41169a1e0f815c2a7ee68e26a6948b39aad4ec3))
+* add PrimeDAO project ([8646acf](https://github.com/boardroom-inc/protocol-Info/commit/8646acf4699b7b7f20bee1a7583a89a9d3144458))
+* add REtokenDAO.eth project ([1a33d6b](https://github.com/boardroom-inc/protocol-Info/commit/1a33d6bbc0077f1fb091c3c7bdcedefe73942fcf))
+
+
+### Bug Fixes
+
+* update credmark info ([10b4adc](https://github.com/boardroom-inc/protocol-Info/commit/10b4adc667a589b9342cc2c2f8a1f6af8d130313))
+* update prime dao info ([6694966](https://github.com/boardroom-inc/protocol-Info/commit/6694966f772d4ee46eabb51e4dc35c735ecd5aab))
+* update project cnames ([5f735c5](https://github.com/boardroom-inc/protocol-Info/commit/5f735c5bc88d5fc7907e27baf4299a7f1d93e55c))
+* update retoken info ([6d9d2f3](https://github.com/boardroom-inc/protocol-Info/commit/6d9d2f3d1e4f039292e905bcabef0973b8fede99))
+
 ### [2.6.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.1...v2.6.2) (2021-08-31)
 
 ### [2.6.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.0...v2.6.1) (2021-08-31)

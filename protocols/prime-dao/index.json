@@ -1,0 +1,11 @@
+{
+  "cname": "primedao",
+  "description": "PrimeDAO is a collective of leading DeFi builders, token engineers, and governance specialist building tools for DeFi projects that enhance and encourage decentralized control and coordination.",
+  "path": "primedao",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.prime.xyz/",
+    "categoryId": "12"
+  },
+  "safeAddress": "0x567d220B0169836cBF351DF70A9c517096ec9De7"
+}
