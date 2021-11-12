@@ -1,5 +1,3 @@
-Buffer
-======
 
 <p align="center">
   <a href="http://app.boardroom.info/piedao">
@@ -7,7 +5,7 @@ Buffer
   </a>
   <h1 align="center">PieDAO Weekly Update</h1>
   <p align="center">
-    November 5th, 2021
+    November 11, 2021
   <br />
   <a href="http://app.boardroom.info/piedao"><strong>View in the Portal »</strong></a>
   <br />
