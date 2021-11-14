@@ -2,9 +2,9 @@
 
 Created: October 24, 2020
 
-![Sushi banner.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Sushi_banner.jpg)
+![Sushi banner.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Sushi_banner.jpg)
 
-![Sushi HEADLINES.png](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Sushi_HEADLINES.png)
+![Sushi HEADLINES.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Sushi_HEADLINES.png)
 
 ## 🎙️Sushi Forum #51🎙️
 
@@ -66,7 +66,7 @@ Created: October 24, 2020
 
 If this sounds like a role for you, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSf0DbNelb6h8Fina7myYSzvmYLXmoTJNWXrEUyo9P00EifFww/viewform).
 
-![sushijob.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/sushijob.jpg)
+![sushijob.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/sushijob.jpg)
 
 ## MISO under maintenance 🏗️
 
@@ -74,7 +74,7 @@ If this sounds like a role for you, please fill in this [form](https://docs.goog
 
 ## Some MISO Stats 🤯
 
-![Miso IDO Stats.png](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Miso_IDO_Stats.png)
+![Miso IDO Stats.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Miso_IDO_Stats.png)
 
 ## Sushi Celebrates 50K Discord Members! 🥳
 
@@ -94,13 +94,13 @@ To access stickers:
 6. Search SushiSwap
 7. Use stickers to your heart's content 💜
 
-![sushistickers.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/sushistickers.jpg)
+![sushistickers.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/sushistickers.jpg)
 
 Artwork by [@byburnttoast](https://twitter.com/byburnttoast) from [@doodles](https://twitter.com/doodles)
 
 ## Kashi - What's on the Menu? 🥢
 
-![Kashi Menu.png](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Kashi_Menu.png)
+![Kashi Menu.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Kashi_Menu.png)
 
 ## $SUSHI Vesting has Officially Ended
 
@@ -133,11 +133,11 @@ From September 29, 2020 all rewards were to be **vested for 6 months.**
 
 12 days since the last buyback, the [Samurais](https://twitter.com/asksamurais) have served up another 246,500 $SUSHI (currently ~$2.6M) directly to xSUSHI holders!
 
-![buyback.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/buyback.jpg)
+![buyback.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/buyback.jpg)
 
 ## Shoyu - A Closer Look
 
-![Shoyu infographic.png](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Shoyu_infographic.png)
+![Shoyu infographic.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Shoyu_infographic.png)
 
 [Shoyu](https://twitter.com/SHOYU_NFT) is built to empower artists whilst bringing value to the Sushi Community - it is the NFT platform we have all been waiting for and is a place for both digital and traditional artists. With the launch approaching, let's dive into some of the highlights the platform will be bringing.
 
@@ -180,18 +180,18 @@ The Shoyu metaverse has been expertly crafted to give you the ultimate NFT exper
 The Shoyu experience will soon be available on your **desktop**, **notebook** or **smartphone**.
 
 <div>
-    <img src="https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/shoyu_metaverse4.jpg" width="350" height="350" />
-    <img src="https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/shoyu_metaverse2.jpg" width="350" height="350" />
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/shoyu_metaverse4.jpg" width="350" height="350" />
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/shoyu_metaverse2.jpg" width="350" height="350" />
 </div>
 
 <div>
-    <img src="https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/shoyu_metaverse3.jpg" width="350" height="350" />
-    <img src="https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/shoyu_metaverse1.jpg" width="350" height="350" />
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/shoyu_metaverse3.jpg" width="350" height="350" />
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/shoyu_metaverse1.jpg" width="350" height="350" />
 </div>
 
-![black divier.png](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/black_divier.png)
+![black divier.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/black_divier.png)
 
-![AMA Highlights.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/AMA_Highlights.jpg)
+![AMA Highlights.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/AMA_Highlights.jpg)
 
 ## Bridge Mutual - DeFi Protection 🛡️
 
@@ -234,9 +234,9 @@ Team: 10% with a 4 year linear vesting schedule
 
 🎙️ AMA Summary found [here](https://twitter.com/Trudahamzik/status/1451794341194698752).
 
-![black divier.png](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/black_divier.png)
+![black divier.png](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/black_divier.png)
 
-![Alpha Leaks.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Alpha_Leaks.jpg)
+![Alpha Leaks.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Alpha_Leaks.jpg)
 
 ## $X airdrop for active users? 🪂
 
@@ -244,11 +244,11 @@ Minting, listing, buying and selling art on the [x.xyz](http://x.xyz) platform w
 
 It seems that users of [x.xyz](http://x.xyz) on Fantom may qualify for an airdrop based on their activity...
 
-![Screenshot 2021-10-23 121318.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/Screenshot_2021-10-23_121318.jpg)
+![Screenshot 2021-10-23 121318.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/Screenshot_2021-10-23_121318.jpg)
 
 ## Also, is [0xMaki](https://twitter.com/0xMaki) working on something new..? 🧐
 
-![FCNYZ8GXMAUcNrn.jpg](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/images/FCNYZ8GXMAUcNrn.jpg)
+![FCNYZ8GXMAUcNrn.jpg](https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/FCNYZ8GXMAUcNrn.jpg)
 
 <div align="center">
     <img src="./images//sushi_neon.png" width="100" height="100"/>
