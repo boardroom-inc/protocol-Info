@@ -11,7 +11,7 @@ Sushi does **NOT** have an app at this moment! Stay vigilant and don't hand over
 🚫/safewalletoperation.org
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/FD--amgXICIF_UH.jpg" />
+    <img src="https://i.ibb.co/yXDmSks/FD-amg-XICIF-UH.jpg" />
 </div>
 
 <br />
@@ -24,7 +24,7 @@ If you haven't been in the loop, here's a recap of the proposal:
 
 The Tokemak Reactor would strengthen $SUSHI liquidity by enabling $SUSHI holders to become liquidity providers. All holders will have to do is stake their $SUSHI, which will then be paired with another asset (eg. ETH) from other stakers - these funds will then be deployed as LP Tokens. In return, stakers earn $TOKE - **700 $TOKE/day** have been allocated as staking rewards to the Sushi Reactor. Users will also be able to stake their rewarded $TOKE into different reactors and vote where that liquidity gets deployed - it doesn't have to be a $SUSHI pair. 
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled.png)
+<img src="https://i.ibb.co/yQGcJVw/Untitled.png" width="100%" />
 
 The passing of this proposal would mean that more liquidity could be directed to SushiSwap and therefore adding market depth; enabling larger trades to take place. In turn, this will generate more trading fees and benefit $xSUSHI holders as well. 
 
@@ -34,7 +34,7 @@ Voting is **OPEN** until **November 15th**. Cast your votes **NOW** and claim a 
 
 ## **Babylon - The Prophets Are Coming**
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%201.png)
+<img src="https://i.ibb.co/rfmPGpX/Untitled-1.png" width="100%" />
 
 A Protocol named after the book “The Richest Man in Babylon” - [Babylon](https://twitter.com/BabylonFinance) is a community-led asset management protocol built on the Ethereum network which enables users to invest in DeFi together. It is non-custodial, transparent, permission-less, and governed by the community.
 
@@ -49,7 +49,7 @@ Babylon has a two-layer governance system:
 
 Prophets are a limited collection of 10,000 unique randomly generated NFTs that come with $BABL tokens. 
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%202.png)
+<img src="https://i.ibb.co/j9NWcb6/Untitled-2.png" width="100%" />
 
 Currently only the first **9,000 Prophets** will be sold:
 
@@ -64,7 +64,7 @@ Full AMA Summary found [here](https://twitter.com/Trudahamzik/status/14587268917
 
 ## Trident Leading the Way - What to Expect
 
-!['Bad Trip' NFT](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/trident.jpg)
+<img src="https://i.ibb.co/FVL3ps3/trident.jpg" width="100%" />
 
 'Bad Trip' NFT
 
@@ -95,7 +95,7 @@ The third main feature of Trident is its new routing engine called **Tines**. Ti
 
 [XDEFI](https://twitter.com/xdefi_wallet) Wallet has been designed to bring you the most enjoyable DeFi experience.  We have all gotten used to the clunky UX of Metamask and the various bugs that come with it - isn't it about time we had a wallet that matches the innovation of the DeFi space? If we are to achieve mass adoption, it's clear that we need the perfect wallet to help make participating in DeFi a breeze. XDEFI certainly looks like it is in the running to be the one wallet to rule them all.
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%203.png)
+<img src="https://i.ibb.co/7vMLmx1/Untitled-3.png" width="100%" />
 
 XDEFI is a wallet extension built to handle all your transactions, assets and NFTs, regardless of which chain they're on. Hence the reason for the XDEFI Octopus logo! The chains supported so far are BTC, ETH, Polygon, BSC, THOR, LTC, BCH and LUNA, with plans to integrate AVAX. Users currently have to use an encyclopaedia of bridges to get from one network to another but the XDEFI team's main goal is to simplify the bridging process and allow all networks to interact seamlessly. It will also act as a fiat on-ramp, where users can purchase crypto using all major payment providers - including credit cards, Paypal and Apple Pay.
 
@@ -103,7 +103,7 @@ XDEFI is a wallet extension built to handle all your transactions, assets and NF
 
 Every inconvenience which we've had to get used to has been taken into consideration by the team. Future integrations include support for hardware wallets such as Ledger and Trezor, the ability to revoke unlimited contract allowances from within the wallet interface as well as a full-blown mobile and web app. 
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%204.png)
+<img src="https://i.ibb.co/m8PgCyg/Untitled-4.png" width="100%" />
 
 XDEFI will also be launching its own governance token which users will be able to stake to earn a portion of swap fees and also get rebates on all of their transactions. $XDEFI will be coming to MISO on November 15th.
 
@@ -119,7 +119,7 @@ Full AMA Summary found [here](https://twitter.com/Trudahamzik/status/14561604645
 
 Self-custody of one's information and financial assets is what sparked this DeFi revolution. It's now time to take control of a valuable asset that stores your most important personal information. Your DNA. 
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%205.png)
+<img src="https://i.ibb.co/8bkSq0S/Untitled-5.png" width="100%" />
 
 **How does it work?**
 
@@ -135,7 +135,7 @@ Here are 3 ways to earn passive income using Genomes.io:
 - Earn trading fees from pools when you provide liquidity for the ETH/GENE or ETH/GNOME pair
 - Stake $GNOME - Governance token. This token will amplify the APRs of your liquidity pools and your earnings from queries. $GNOME allows users to become a member of the Genomes DAO and own part of the healthcare company!
 
-![11111111111.png](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/11111111111.png)
+<img src="https://i.ibb.co/hX3RcxL/11111111111.png" width="100%" />
 
 Set your alarm everyone, 30% of the GENE supply is being offered to the public in a [MISO IDO](https://miso.sushi.com/) for 999 ETH on Tuesday, November 16th. 
 
@@ -151,7 +151,7 @@ Check out Genome's [blog post](https://genomes.io/blog/post/gene-token-details-a
 
 Immutable X is also tackling the issue regarding environmental concerns by making every NFT that is created or traded on the platform, 100% carbon neutral. This is an important topic due to the fact that NFTs will be the gateway to crypto for many people. 
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%206.png)
+<img src="https://i.ibb.co/Qv2Fz9B/Untitled-6.png" width="100%" />
 
 With its recent successful token launch, $IMX fans can now put the token to work and earn even more rewards! Just by providing liquidity to the WETH/IMX pool, users can earn dual rewards in the form of $SUSHI and $IMX tokens. 
 
@@ -168,7 +168,7 @@ A basic guide for Adding Liquidity can be found [here](https://www.notion.so/12-
 
 The Ethereum Naming Service is a decentralized solution allowing users to register a unique domain name to replace long wallet addresses. This hugely simplifies the process of sending funds and minimizes the possibility of sending funds to the wrong address; an irreversible mistake which can happen to even the most experienced DeFi users. 
 
-![ENS (1).png](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/ENS_(1).png)
+<img src="https://i.ibb.co/m0R8tCr/ENS-1.png" width="100%" />
 
 ENS has been 5 years in the making and was founded by [Nick Johnson](https://twitter.com/nicksdjohnson). Those who owned an ENS domain on or before October 31st are now eligible to claim their $ENS airdrop; with the airdrop amount based on certain factors, including the address expiry date and whether users have set it as their Primary ENS.
 
@@ -192,13 +192,13 @@ You can also take a look at Dune's very insightful [thread](https://twitter.com/
 
 Sushi has you covered. A special [farm](https://app.sushi.com/farm) has been prepared for all new $ENS holders to earn some $SUSHI.
 
-![Screenshot 2021-11-13 010437.jpg](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Screenshot_2021-11-13_010437.jpg)
+<img src="https://i.ibb.co/gZct44M/Screenshot-2021-11-13-010437.jpg" width="100%" />
 
 <br />
 
 ## Buckle-up Your Seat Belts - POAPathon Kickoff!
 
-![Screenshot 2021-11-13 114439.jpg](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Screenshot_2021-11-13_114439.jpg)
+<img src="https://i.ibb.co/zr6dHfZ/Screenshot-2021-11-13-114439.jpg" width="100%" />
 
 The biggest POAP event of the year is here! Running from **November 12th-24th**, the [POAPathon](https://twitter.com/poapathon) goal is to bring artists, DAOs and DeFi protocols together. It's basically a hackathon for the design-based community! 
 
@@ -220,7 +220,7 @@ We will soon be seeing the launch of Shōyu's NFT marketplace, exclusive only to
 
 Twist and turns into the mind at its breaking point, Chewy's unique subject matter and eye-catching 3D models are no wonder why he is a Sushi community favourite!
 
-![chewy.jpg](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/chewy.jpg)
+<img src="https://i.ibb.co/LC53HgX/chewy.jpg" width="100%" />
 
 ### Vini Naso [@NasoVini](https://twitter.com/NasoVini)
 
@@ -229,7 +229,7 @@ Vini's work has been featured in Vogue Italia and his commercial portfolio inclu
 Vini is a seasoned digital artist exploring how notions of beauty and visual identity are expanding into the digital age. He mixes influences from past mythology, folk art and sci-fi to create something time-agnostic and perhaps a little uncomfortable. 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/vini1.jpg" />
+    <img src="https://i.ibb.co/Tbrgf8b/vini1.jpg" />
 </div>
 
 ### Nicolas Sassoon [@Nicolas_Sassoon](https://twitter.com/Nicolas_Sassoon)
@@ -240,13 +240,13 @@ Nicolas' work has long been concerned with the tensions between the pixel and th
 
 "After" is a mesmerizing 4 minute video journey, a new direction for this renowned digital artist, through the lens of digital animation with [sound design by LNS](https://soundcloud.com/lauransparrow).
 
-![nicolas 1.jpg](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/nicolas_1.jpg)
+<img src="https://i.ibb.co/WBfdKGy/nicolas-1.jpg" width="100%" />
 
 ### Hayne Park [@gloryholelight](https://twitter.com/gloryholelight)
 
 An emerging talent in glassware, the "Glory hole" refers to the light that radiates from the kiln used to melt the glass. Hayne is known for her otherworldly glass exhibitions and intricately handmade sake glasses. Hayne brings a fresh use case to the NFT space & we have a feeling that the Sushi community will go wild for her special [#Sak3](https://twitter.com/hashtag/Sak3?src=hashtag_click) glasses at launch
 
-![hayne1.jpg](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/hayne1.jpg)
+<img src="https://i.ibb.co/cx5YcNP/hayne1.jpg" width="100%" />
 
 ### Thom Mayne
 
@@ -256,7 +256,7 @@ Thom will be minting his first ever NFT collection on Shōyu. It is a continuati
 
 <br />
 <div align="center">
-    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/thom11.jpg" />
+    <img src="https://i.ibb.co/y0RQxM7/thom11.jpg" />
 </div>
 <br />
 
@@ -266,17 +266,17 @@ Thom will be minting his first ever NFT collection on Shōyu. It is a continuati
 
 The [Samurais](https://twitter.com/asksamurais) are back at it again! This week, 167,252 $SUSHI were served directly to $xSUSHI holders! Can't wait for more yummy Sushi next week.
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%207.png)
+<img src="https://i.ibb.co/fHHYCcT/Untitled-7.png" width="100%" />
 
 ## 📢Calling All Sushi Swap Users - Come Help Us With The Next Research Project
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%208.png)
+<img src="https://i.ibb.co/FnLCdqn/Untitled-8.png" width="100%" />
 
 Sushi's very own UX practitioner [Ivy](https://twitter.com/0xivyquinn) is on the lookout for new interviewees for her next research project. If you are a regular user of Sushi Swap but have very little experience with other Sushi products, you might just be the right fit! Sign up [here](https://vkoeougvy39.typeform.com/to/Gy72aPub?typeform-source=t.co) now, Ivy doesn't bite.
 
 ## Track Your Sushi (Moonriver) Portfolio With DeBank
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%209.png)
+<img src="https://i.ibb.co/7kvZWPn/Untitled-9.png" width="100%" />
 
 The Moonriver chain is **NOW** integrated into [DeBank](https://debank.com/)! Track your entire wallet portfolio seamlessly across 12 chains.
 
@@ -284,7 +284,7 @@ The Moonriver chain is **NOW** integrated into [DeBank](https://debank.com/)! Tr
 
 Sushi is currently looking for a Growth Engineer (Contract/Hourly/Part Time/ Full Time).
 
-![Untitled](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Untitled%2010.png)
+<img src="https://i.ibb.co/dM43M7y/Untitled-10.png" width="100%" />
 
 Responsibilities:
 ----------------------------------------
@@ -308,10 +308,11 @@ During the Sushi Forum, Sam Bacha from [Manifold Finance](https://twitter.com/fo
 
 All you need to do is visit [web3kbar.vercel.app](http://web3kbar.vercel.app) and follow the instructions. The app itself will make the magic happen!
 
-![Screenshot 2021-11-13 124804.jpg](https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/Screenshot_2021-11-13_124804.jpg)
+
+<img src="https://i.ibb.co/JFvwT66/Screenshot-2021-11-13-124804.jpg" width="100%" />
 
 <br />
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-Info/main/protocols/sushi/resources/Weekly%20Updates/Week%20%2345/images/sushi_neon.png" width="100"/>
+    <img src="https://github.com/helloitsm3/protocol-Info/raw/sushi-week-43/protocols/sushi/resources/Weekly%20Updates/Week%20%2342/images/sushi_neon.png" width="100"/>
 </div>
