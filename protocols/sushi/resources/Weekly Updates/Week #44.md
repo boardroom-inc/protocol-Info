@@ -75,7 +75,8 @@ Grab a pair of headphones and get ready to immerse yourself in the [Shōyu exper
 P.S. Did you find the secret room?
 
 <div align="center">
-    <img src="https://i.ibb.co/tzJDbbd/ezgif-com-gif-maker.gif" />
+    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-resources/master/sushi/images/Week_44/ezgif.com-gif-maker.gif" />
+    <br />
     <figcaption>Shōyu Metaverse Sneak Peak</figcaption>
 </div>
 
@@ -83,6 +84,7 @@ P.S. Did you find the secret room?
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/helloitsm3/protocol-resources/master/sushi/images/Week_44/3333.gif" />
+    <br />
     <figcaption>'Circular Release' by Jason Seife - found in the Shōyu Metaverse</figcaption>
 </div>
 
@@ -102,13 +104,15 @@ Members of the Sushi Team were in attendance at this year's biggest NFT event, w
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/helloitsm3/protocol-resources/master/sushi/images/Week_44/1.gif" />
+    <br />
     <figcaption>Creative experiences with overwhelming impact: The Shōyu Metaverse</figcaption>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-resources/master/sushi/images/Week_44/111.gif" />
+    <img src="https://raw.githubusercontent.com/helloitsm3/protocol-resources/master/sushi/images/Week_44/111.gif"/>
+    <br />
     <figcaption>Immersive Mode Gallery - an interactive slideshow of your 2D gallery</figcaption>
 </div>
 
@@ -116,6 +120,7 @@ Members of the Sushi Team were in attendance at this year's biggest NFT event, w
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/helloitsm3/protocol-resources/master/sushi/images/Week_44/666666.gif" />
+    <br />
     <figcaption>Sushi's Social Token Experiment</figcaption>
 </div>
 
