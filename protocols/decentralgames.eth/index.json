@@ -2,5 +2,6 @@
 	"cname": "decentralgames",
 	"description": "",
 	"path": "decentralgames.eth",
-	"isEnabled": true
+	"isEnabled": true,
+	"treasuryAddresses": ["0x7A61A0Ed364E599Ae4748D1EbE74bf236Dd27B09"]
 }
