@@ -3,7 +3,7 @@
   "description": "We build decentralized projects. All yield we produce is owned by the 5000+ Blockzero Citizens that make it possible.",
   "path": "blockzerolabs",
   "type": "snapshot",
-  "isEnabled": true,
+  "isEnabled": false,
   "discourseForum": {
     "url": "https://forum.blockzerolabs.io/",
     "categoryId": "40"
