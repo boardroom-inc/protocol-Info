@@ -2,5 +2,6 @@
 	"cname": "balancer",
 	"description": "",
 	"path": "balancer",
-	"isEnabled": true
+	"isEnabled": true,
+	"treasuryAddresses": ["0xb618F903ad1d00d6F7b92f5b0954DcdC056fC533", "0xce88686553686DA562CE7Cea497CE749DA109f9F"]
 }
