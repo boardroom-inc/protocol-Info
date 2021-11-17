@@ -2,5 +2,6 @@
 	"cname": "rari",
 	"description": "",
 	"path": "rari",
-	"isEnabled": true
+	"isEnabled": true,
+  "treasuryAddresses": ["0x8ace03fc45139fddba944c6a4082b604041d19fc","0x5eA4A9a7592683bF0Bc187d6Da706c6c4770976F","0xBF2F341Ea21AaD9f1935636258E67F06C72353dd"]
 }

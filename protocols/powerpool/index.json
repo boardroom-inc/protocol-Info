@@ -2,5 +2,6 @@
 	"cname": "powerpool",
 	"description": "PowerPool is a decentralized protocol for automatically managed token portfolios, and smart indices. The protocol uses capital stored in portfolios/indices for generating additional yield from staking, vaults, and meta-governance.",
 	"path": "powerpool",
-	"isEnabled": false
+	"isEnabled": false,
+	"treasuryAddresses": ["0xB258302C3f209491d604165549079680708581Cc"]
 }

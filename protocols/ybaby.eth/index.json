@@ -2,5 +2,6 @@
 	"cname": "ybaby",
 	"description": "",
 	"path": "ybaby.eth",
-	"isEnabled": true
+	"isEnabled": true,
+	"treasuryAddresses": ["0xfeb4acf3df3cdea7399794d0869ef76a6efaff52","0x93A62dA5a14C80f265DAbC077fCEE437B1a0Efde","0xd42e1cb8b98382df7db43e0f09dfe57365659d16"]
 }
