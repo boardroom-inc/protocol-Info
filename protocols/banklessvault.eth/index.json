@@ -2,7 +2,7 @@
 	"cname": "banklessvault",
 	"description": "A decentralized community focused on one mission: help the world go bankless",
 	"path": "banklessvault.eth",
-	"isEnabled": true,
+	"isEnabled": false,
 	"discourseForum": {
 		"url": "https://forum.bankless.community/",
 		"categoryId": "7"

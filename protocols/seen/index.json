@@ -2,5 +2,5 @@
 	"cname": "seen",
 	"description": "",
 	"path": "seen",
-	"isEnabled": true
+	"isEnabled": false
 }

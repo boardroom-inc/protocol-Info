@@ -2,7 +2,7 @@
   "cname": "piedao",
   "description": "Pie DAO makes diversified asset allocation and rebalancing as easy as pie.",
   "path": "piedao",
-  "isEnabled": true,
+  "isEnabled": false,
   "type": "snapshot",
   "discourseForum": {
     "url": "https://forum.piedao.org",

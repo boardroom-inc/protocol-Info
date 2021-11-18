@@ -3,7 +3,7 @@
   "description": "A decentralised naming and identity service for web3",
   "path": "ens",
   "type": "compoundish",
-  "isEnabled": true,
+  "isEnabled": false,
   "discourseForum": {
     "url": "https://discuss.ens.domains/",
     "categoryId": "28"

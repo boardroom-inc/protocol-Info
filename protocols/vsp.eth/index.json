@@ -2,5 +2,5 @@
 	"cname": "vsp",
 	"description": "",
 	"path": "vsp.eth",
-	"isEnabled": true
+	"isEnabled": false
 }

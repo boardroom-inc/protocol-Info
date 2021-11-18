@@ -2,6 +2,6 @@
 	"cname": "indexed",
 	"description": "",
 	"path": "indexed",
-	"isEnabled": true,
+	"isEnabled": false,
 	"disableTreasuryNav": true
 }

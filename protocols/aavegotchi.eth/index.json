@@ -2,7 +2,7 @@
 	"cname": "aavegotchi",
 	"description": "",
 	"path": "aavegotchi.eth",
-	"isEnabled": true,
+	"isEnabled": false,
 	"discourseForum": {
 		"url": "https://dao.aavegotchi.com",
 		"categoryId": "6"

@@ -2,5 +2,5 @@
 	"cname": "graphprotocol",
 	"description": "",
 	"path": "graphprotocol.eth",
-	"isEnabled": true
+	"isEnabled": false
 }

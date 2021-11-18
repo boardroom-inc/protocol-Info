@@ -2,6 +2,6 @@
 	"cname": "gitcoin",
 	"description": "Gitcoin is a blockchain-based incentivization layer for open source software.",
 	"path": "gitcoin",
-	"isEnabled": true,
+	"isEnabled": false,
   	"disableTreasuryNav": true
 }

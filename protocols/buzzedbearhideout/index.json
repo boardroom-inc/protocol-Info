@@ -2,7 +2,7 @@
   "cname": "buzzedbearhideout",
   "description": "DeFi meets NFTs. Interest BEARing NFT.",
   "path": "buzzed",
-  "isEnabled": true,
+  "isEnabled": false,
   "discourseForum": {
     "url": "https://gov.buzzedbearhideout.com/",
     "categoryId": "5"
