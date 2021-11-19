@@ -3,6 +3,7 @@
 	"description": "A decentralized community focused on one mission: help the world go bankless",
 	"path": "banklessvault.eth",
 	"isEnabled": true,
+	"treasuryAddresses": ["0xf26d1Bb347a59F6C283C53156519cC1B1ABacA51"],
 	"discourseForum": {
 		"url": "https://forum.bankless.community/",
 		"categoryId": "7"

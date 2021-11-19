@@ -2,5 +2,6 @@
 	"cname": "indexed",
 	"description": "",
 	"path": "indexed",
-	"isEnabled": true
+	"isEnabled": true,
+	"treasuryAddresses": ["0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA"]
 }
