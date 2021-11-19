@@ -2,5 +2,6 @@
     "cname": "Credmark",
     "description": "High integrity DeFi data and a risk modeling platform",
     "path": "credmark",
-    "isEnabled": false
+    "isEnabled": false,
+    "treasuryAddresses": ["0x414709Bd112d006cBB85Be21A9E19bF9bCe8657E"]
 }
