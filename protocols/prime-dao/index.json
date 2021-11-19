@@ -8,6 +8,5 @@
     "url": "https://forum.prime.xyz/",
     "categoryId": "12"
   },
-  "safeAddress": "0x567d220B0169836cBF351DF70A9c517096ec9De7",
-  "treasuryAddresses": ["0x567d220B0169836cBF351DF70A9c517096ec9De7"]
+  "safeAddress": "0x567d220B0169836cBF351DF70A9c517096ec9De7"
 }

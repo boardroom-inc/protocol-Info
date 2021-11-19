@@ -5,6 +5,5 @@
   "isEnabled": true,
   "treasuryAddresses": ["0x63D7642F14f012063764BAc5aaB1CAF6c0771164"],
   "type": "snapshot",
-  "safeAddress": "0x63D7642F14f012063764BAc5aaB1CAF6c0771164",
-  "treasuryAddresses": ["0x63D7642F14f012063764BAc5aaB1CAF6c0771164"]
+  "safeAddress": "0x63D7642F14f012063764BAc5aaB1CAF6c0771164"
 }

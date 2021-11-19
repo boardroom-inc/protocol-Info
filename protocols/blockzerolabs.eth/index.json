@@ -9,6 +9,5 @@
     "url": "https://forum.blockzerolabs.io/",
     "categoryId": "40"
   },
-  "safeAddress": "0x5089722613C2cCEe071C39C59e9889641f435F15",
-  "treasuryAddresses": ["0x5089722613C2cCEe071C39C59e9889641f435F15"]
+  "safeAddress": "0x5089722613C2cCEe071C39C59e9889641f435F15"
 }
