@@ -16,7 +16,6 @@ export const ProtocolIo = t.type({
   ]),
   safeAddress: t.union([t.string, t.undefined]),
   treasuryAddresses: t.union([t.array(t.string), t.undefined]),
-  disableTreasuryNav: t.union([t.boolean, t.undefined]),
 });
 
 export const ProtocolEvents = t.type({
