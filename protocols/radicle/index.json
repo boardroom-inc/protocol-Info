@@ -2,6 +2,5 @@
 	"cname": "radicle",
 	"description": "",
 	"path": "radicle",
-	"isEnabled": true,
-	"disableTreasuryNav": true
+	"isEnabled": true
 }

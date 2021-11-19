@@ -8,5 +8,6 @@
     "url": "https://gov.perp.fi",
     "categoryId": "11"
   },
-  "safeAddress": "0xD374225abB84DCA94e121F0B8A06B93E39aD7a99"
+  "safeAddress": "0xD374225abB84DCA94e121F0B8A06B93E39aD7a99",
+  "treasuryAddresses": ["0xD374225abB84DCA94e121F0B8A06B93E39aD7a99"]
 }

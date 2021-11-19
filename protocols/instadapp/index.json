@@ -7,6 +7,5 @@
     "url": "https://gov.instadapp.io",
     "categoryId": "5"
   },
-  "treasuryAddress": "0x28849D2b63fA8D361e5fc15cB8aBB13019884d09",
-  "disableTreasuryNav": true
+  "treasuryAddresses": ["0x28849D2b63fA8D361e5fc15cB8aBB13019884d09"]
 }
