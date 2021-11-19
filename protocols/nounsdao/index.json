@@ -3,6 +3,7 @@
   "description": "32x32 pixel generative art project",
   "path": "nounsdao",
   "isEnabled": true,
+  "treasuryAddresses": ["0x0BC3807Ec262cB779b38D65b38158acC3bfedE10"],
   "type": "compoundish",
   "discourseForum": {
     "url": "https://discourse.nouns.wtf/",

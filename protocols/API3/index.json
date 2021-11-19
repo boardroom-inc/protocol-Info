@@ -2,5 +2,6 @@
 	"cname": "api3",
 	"description": "",
 	"path": "api3",
-	"isEnabled": false
+	"isEnabled": false,
+	"treasuryAddresses": ["0xe7aF7c5982e073aC6525a34821fe1B3e8E432099"]
 }
