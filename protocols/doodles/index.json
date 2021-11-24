@@ -4,5 +4,5 @@
   "path": "doodles",
   "isEnabled": true,
   "type": "snapshot",
-  "treasuryAddress": "0xDcd382bE6cC4f1971C667ffDa85C7a287605afe4"
+  "treasuryAddress": ["0xDcd382bE6cC4f1971C667ffDa85C7a287605afe4"]
 }
