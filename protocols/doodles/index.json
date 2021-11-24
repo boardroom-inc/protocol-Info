@@ -1,0 +1,8 @@
+{
+  "cname": "doodles",
+  "description": "Doodles is a community-driven collectibles NFT project. Doodle NFTs are made up with over a hundred exciting traits of faces, hair, hats, body and backgrounds. Each Doodle is a unique, non-fungible token (NFT) on the Ethereum blockchain.",
+  "path": "doodles",
+  "isEnabled": true,
+  "type": "snapshot",
+  "treasuryAddress": "0xDcd382bE6cC4f1971C667ffDa85C7a287605afe4"
+}
