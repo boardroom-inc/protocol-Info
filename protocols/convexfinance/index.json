@@ -3,5 +3,5 @@
   "description": "Boosted Curve Staking",
   "path": "convexfinance",
   "type": "snapshot",
-  "isEnabled": false
+  "isEnabled": true
 }
