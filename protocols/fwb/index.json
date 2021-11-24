@@ -1,7 +1,7 @@
 {
   "cname": "friendswithbenefits",
   "description": "Friends with Benefits is the ultimate cultural membership community",
-  "path": "https://snapshot.org/#/friendswithbenefits.eth",
+  "path": "friendswithbenefits.eth",
   "type": "snapshot",
   "isEnabled": true
 }
