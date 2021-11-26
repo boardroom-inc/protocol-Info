@@ -20,3 +20,4 @@ After a decision has been made, if an upgrade/change is required to the protocol
 [Twitter](https://twitter.com/OlympusDAO)
 [Medium](https://olympusdao.medium.com/)
 [Github](https://github.com/OlympusDAO)
+[Snapshot](https://snapshot.org/#/olympusdao.eth)
