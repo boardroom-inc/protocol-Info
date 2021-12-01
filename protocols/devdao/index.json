@@ -2,7 +2,7 @@
 	"cname": "devdao",
 	"description": "A community of builders who believe in collective ownership of the internet.",
 	"path": "devdao",
-	"isEnabled": false,
+	"isEnabled": true,
 	"treasuryAddresses": ["0x7128f5ff32eD07Ce12E6a9deBE32BB40F9884b3C"],
 	"discourseForum": {
 		"url": "https://forum.developerdao.com/",
