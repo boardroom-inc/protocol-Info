@@ -1,7 +1,7 @@
 {
-  "cname": "0x",
+  "cname": "0xgov",
   "description": "A decentralized exchange that is creating a tokenized world where all value can flow freely.",
-  "path": "0x",
+  "path": "0xgov",
   "isEnabled": true,
   "treasuryAddress": ["0x0bB1810061C2f5b2088054eE184E6C79e159110"]
 }
