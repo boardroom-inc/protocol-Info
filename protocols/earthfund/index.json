@@ -1,6 +1,9 @@
 {
-  "cname": "example",
-  "description": "A concise description of the protocol",
-  "path": "example",
-  "isEnabled": true
+	"cname": "earthfund",
+	"description": "",
+	"path": "earthfund",
+	"isEnabled": true,
+  "discourseForum": {
+    "url": "https://community.earthfund.io/"
+  }
 }
