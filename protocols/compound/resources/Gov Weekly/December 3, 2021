@@ -1,0 +1,98 @@
+<p align="center">
+  <a href="http://app.boardroom.info/compound">
+    <img src="https://lever-client-logos.s3-us-west-2.amazonaws.com/0c731c59-c243-4fba-96fe-35cac794f158-1583450111151.png" alt="compound" width="400" />
+  </a>
+  <h1 align="center">Compound Weekly Update</h1>
+  <p align="center">
+    December 3, 2021
+  <br />
+  <a href="http://app.boardroom.info/compound"><strong>View in the Portal »</strong></a>
+  <br />
+  </p>
+</p>
+
+## Summary
+
+The Compound community is discussing various options for continuous auditing of the protocol, including proposals from OpenZeppelin, Trail of Bits, and ChainSecurity.
+
+## Proposals
+
+### Live Votes
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Risk Parameter Updates for WBTC, UNI, and COMP | Development | [Vote](https://compound.finance/governance/proposals/72)
+
+### Recent Votes
+
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Risk Parameter Updates for DAI, BAT, ZRX, and ETH | Development | [Vote](https://compound.finance/governance/proposals/71)
+
+## Forum Summary
+
+### New Discussions
+
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Cadence of Gauntlet Risk Parameter Updates | Development | [Discuss](https://www.comp.xyz/t/cadence-of-gauntlet-risk-parameter-updates/2701)
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| [RFP12 Implementation] cToken Cleanup | Development | [Discuss](https://www.comp.xyz/t/rfp12-implementation-ctoken-cleanup/2694)
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Enable transfer ETH from Timelock | Development | [Discuss](https://www.comp.xyz/t/enable-transfer-eth-from-timelock/2689)
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Migrate Contributor COMP Stream to Sablier | Development | [Discuss](https://www.comp.xyz/t/migrate-contributor-comp-stream-to-sablier/2679)
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Compound Developer Community Call – December 1, 9:30am PT | Development | [Discuss](https://www.comp.xyz/t/compound-developer-community-call-december-1-9-30am-pt/2684/2)
+
+### Ongoing Discussions
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Auditing Compound Protocol | Development | [Discuss](https://www.comp.xyz/t/auditing-compound-protocol/2543/30)
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| FRAX Listing Proposal | Development | [Discuss](https://www.comp.xyz/t/frax-listing-proposal/1540/8)
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Add Market: FEI | Development | [Discuss](https://www.comp.xyz/t/add-market-fei/2241/10)
+
+
+## Other Updates
+
+<p align="center">
+  <a href="http://app.boardroom.info/">
+    <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
+  </a>
+</p>
+
+<p align="center">
+	This report was prepared by the Governance Scribes Guild
+  <br />
+  <a href="http://boardroom.info/">Portal</a>
+  ·
+  <a href="https://discord.com/invite/tgrTFg9">Discord</a>
+  ·
+  <a href="https://boardroom.mirror.xyz/JHrN8nVy_J4C7Xzj37zoyPANg0ZnNszhWy9YOZHC0lM">Join the Scribes Program</a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/CEZ8WfuK8s">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/boardroom_info">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
