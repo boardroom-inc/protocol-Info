@@ -1,0 +1,7 @@
+{
+  "cname": "armorfi",
+  "description": "Armor is a smart cover aggregator for DeFi which provides Pay as You Go coverage for user funds across various protocols. ",
+  "path": "armorfi",
+  "type": "compoundish",
+  "isEnabled": true
+}
