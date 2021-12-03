@@ -3,6 +3,7 @@
 	"description": "",
 	"path": "earthfund",
 	"isEnabled": true,
+  "type": "snapshot",
   "discourseForum": {
     "url": "https://community.earthfund.io/"
   }
