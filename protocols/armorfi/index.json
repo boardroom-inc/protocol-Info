@@ -4,7 +4,7 @@
   "path": "armorfi",
   "type": "compoundish",
   "discourseForum.url" : "https://forum.armor.fi/",
-  "discouseForum.categoryId" : "6"
+  "discourseForum.categoryId" : "6",
 
   "isEnabled": true
 }
