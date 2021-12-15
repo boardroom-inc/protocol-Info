@@ -15,5 +15,5 @@ The creation of the 1inch Network DAO marked the move towards full-fledged DAO f
 * [Github](https://github.com/1inch)
 * [Documentation](https://docs.1inch.io/)
 * [Blog](https://blog.1inch.io)
-* [Twitter](https://twitter.com/1inchNetwork)
+* [Twitter](https://twitter.com/1inc)
 * [Token Info](https://www.coingecko.com/en/coins/1inch)
