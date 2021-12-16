@@ -3,8 +3,9 @@
   "description": "Armor is a smart cover aggregator for DeFi which provides Pay as You Go coverage for user funds across various protocols. ",
   "path": "armorfi",
   "type": "compoundish",
-  "discourseForum.url" : "https://forum.armor.fi/",
-  "discourseForum.categoryId" : "6",
-
+  "discourseForum": {
+    "url": "https://forum.armor.fi/",
+    "categoryId" : "6"
+  },
   "isEnabled": true
 }
