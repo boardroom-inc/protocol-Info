@@ -1,0 +1,12 @@
+{
+  "cname": "forefront",
+  "description": "Forefront is an insight aggregator across the social token landscape.",
+  "path": "forefront",
+  "type": "snapshot",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.forefront.news/",
+    "categoryId": "" 
+  },
+  "treasuryAddress": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd"
+}
