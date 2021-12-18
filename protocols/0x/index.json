@@ -4,7 +4,9 @@
   "path": "0xgov",
   "type": "snapshot",
   "isEnabled": true,
-  "discourseForum.url": "https://gov.0x.org/",
-  "discourseForum.categoryId": "13",
+  "discourseForum": {
+    "url": "https://gov.0x.org/",
+    "categoryId": "13"
+  },
   "treasuryAddress": ["0x0bB1810061C2f5b2088054eE184E6C79e159110"]
 }
