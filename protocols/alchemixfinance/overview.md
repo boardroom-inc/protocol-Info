@@ -36,7 +36,7 @@ In the community Discord, there will be a governance channel where people can di
 
 ## Additional resources: 
 
-* [0x](https://alchemix.fi/)
+* [Alchemix](https://alchemix.fi/)
 * [Snapshot](https://snapshot.org/#/alchemixstakers.eth)
 * [Medium](https://alchemixfi.medium.com/)
 * [Forum](https://forum.alchemix.fi/public/)
