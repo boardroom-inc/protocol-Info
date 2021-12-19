@@ -35,6 +35,6 @@ When submitting a proposal draft on the governance forum, please follow the foll
 * [Forefront](https://www.forefront.club/)
 * [Discord](https://forefront.community)
 * [Twitter](https://twitter.com/forefront__)
-* [Discourse](https://forum.forefront.news/)
+* [Forum](https://forum.forefront.news/)
 * [Snapshot](https://snapshot.org/#/ffdao.eth)
 * [GitHub](https://github.com/ffdao)

@@ -4,9 +4,5 @@
   "path": "forefront",
   "type": "snapshot",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://forum.forefront.news/",
-    "categoryId": "" 
-  },
-  "treasuryAddress": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd"
+  "treasuryAddress": "0x2Fb9F0ef424b24a8D293999298F392a33Fe6A8b5"
 }
