@@ -1,0 +1,8 @@
+{
+  "cname": "forefront",
+  "description": "Forefront is an insight aggregator across the social token landscape.",
+  "path": "forefront",
+  "type": "snapshot",
+  "isEnabled": true,
+  "treasuryAddress": ["0x2Fb9F0ef424b24a8D293999298F392a33Fe6A8b5"]
+}
