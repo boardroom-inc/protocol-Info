@@ -1,8 +1,7 @@
-
-$SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem. Special thanks go to OpenSea for its leadership in promoting NFT trading. To pay tribute, we have chosen OpenSea collectors to conduct our airdrop.
+SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem. Special thanks go to OpenSea for its leadership in promoting NFT trading. To pay tribute, we have chosen OpenSea collectors to conduct our airdrop.
 
 ## $SOS Token Distribution
-There will be 100 trillion total $SOS tokens, and the distribution is as follows
+There will be 100 trillion total SOS tokens, and the distribution is as follows
 - 50% airdrop to OpenSea users
 - 20% Staking Incentive
 - 20% Open DAO
