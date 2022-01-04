@@ -1,0 +1,5 @@
+BarnBridge is a risk tokenizing protocol. It aims to reduce the risks associated with DeFi, such as inflation risk, market price risk, and cash-flow volatility risk. By letting users select a risk profile, BarnBridge can redistribute risk via tokenized, liquid tranches. BarnBridge does this with its SMART Yield, SMART Exposure, and SMART Alpha products, all of which address a specific DeFi risk category.
+
+The protocol is governed by a Decentralised Autonomous Organization (DAO) with its formalised decision-making conducted through a series of smart contracts on the Ethereum blockchain that allows users to deposit BarnBridge's governance token (BOND) to gain voting power. This voting power then allows users to decide on how to introduce new, or maintain existing, applications, as well as how to allocate collective resources in the shared treasury. With its DAO, BarnBridge becomes accessible to anyone with an internet connection and an Ethereum wallet.
+
+To learn more, please read our [Beginners Guide to Governance](https://docs.barnbridge.com/governance/beginners-guide-to-governance)

@@ -1,0 +1,7 @@
+{
+	"cname": "aragon",
+	"description": "",
+	"path": "aragon",
+	"isEnabled": true,
+	"treasuryAddresses": ["0xfb633F47A84a1450EE0413f2C32dC1772CcAea3e"]
+}

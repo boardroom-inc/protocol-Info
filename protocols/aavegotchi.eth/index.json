@@ -1,0 +1,11 @@
+{
+	"cname": "aavegotchi",
+	"description": "",
+	"path": "aavegotchi.eth",
+	"isEnabled": true,
+	"discourseForum": {
+		"url": "https://dao.aavegotchi.com",
+		"categoryId": "6"
+	},
+	"treasuryAddresses": ["0xffe6280ae4e864d9af836b562359fd828ece8020"]
+}

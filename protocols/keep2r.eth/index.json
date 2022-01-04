@@ -1,0 +1,7 @@
+{
+	"cname": "keep2r",
+	"description": "",
+	"path": "keep2r.eth",
+	"isEnabled": true,
+	"treasuryAddresses": ["0x49e7D50f6354357bB064305CE0BDC1695373B665"]
+}

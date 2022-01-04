@@ -1,0 +1,7 @@
+{
+	"cname": "radicle",
+	"description": "",
+	"path": "radicle",
+	"isEnabled": true,
+	"treasuryAddresses": ["0x8dA8f82d2BbDd896822de723F55D6EdF416130ba"]
+}

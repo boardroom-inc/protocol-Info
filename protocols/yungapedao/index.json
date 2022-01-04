@@ -1,0 +1,8 @@
+{
+  "cname": "YungApeDao",
+  "description": "Yung Ape DAO is the governing body of the Yung Apes Squad that works in harmony with the project team and the community. The main responsibilities of the DAO are to track and approve expenditures, decide on project activations, fund growth on multiple verticals.",
+  "path": "yungapedao",
+  "type": "snapshot",
+  "isEnabled": true,
+  "treasuryAddress": ["0x76Dc0C73Dc211423bB15dAee3232eDDD52D0b725"]
+}

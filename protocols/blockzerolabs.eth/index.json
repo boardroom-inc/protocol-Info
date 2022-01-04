@@ -1,0 +1,13 @@
+{
+  "cname": "blockzerolabs",
+  "description": "We build decentralized projects. All yield we produce is owned by the 5000+ Blockzero Citizens that make it possible.",
+  "path": "blockzerolabs",
+  "type": "snapshot",
+  "isEnabled": false,
+  "treasuryAddresses": ["0x5089722613C2cCEe071C39C59e9889641f435F15"],
+  "discourseForum": {
+    "url": "https://forum.blockzerolabs.io/",
+    "categoryId": "54"
+  },
+  "safeAddress": "0x5089722613C2cCEe071C39C59e9889641f435F15"
+}

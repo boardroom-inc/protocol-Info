@@ -1,0 +1,11 @@
+{
+  "cname": "instadapp",
+  "description": "The open source middleware platform for decentralized finance applications",
+  "path": "instadapp",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.instadapp.io",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0x28849D2b63fA8D361e5fc15cB8aBB13019884d09"]
+}

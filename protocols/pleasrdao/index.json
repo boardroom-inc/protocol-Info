@@ -1,0 +1,7 @@
+{
+  "cname": "pleasrdao",
+  "description": "a cartel of $PEEPS that aim to plz",
+  "path": "pleasrdao.eth",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xF5c27c6fE782cbB5c85989ea3e75754748153459"]
+}

@@ -1,0 +1,11 @@
+index.js
+types.js
+types.d.ts
+.DS_Store
+node_modules
+dist
+
+# Remove some common IDE working directories
+.idea
+.vscode
+.env

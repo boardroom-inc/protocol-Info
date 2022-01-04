@@ -1,0 +1,12 @@
+{
+  "cname": "ens",
+  "description": "A decentralised naming and identity service for web3",
+  "path": "ens",
+  "type": "compoundish",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5","0xCF60916b6CB4753f58533808fA610FcbD4098Ec0","0xFe89cc7aBB2C4183683ab71653C4cdc9B02D44b7","0xd7A029Db2585553978190dB5E85eC724Aa4dF23f"],
+  "discourseForum": {
+    "url": "https://discuss.ens.domains/",
+    "categoryId": "28"
+  }
+}

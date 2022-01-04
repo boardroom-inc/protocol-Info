@@ -1,0 +1,113 @@
+<p align="center">
+  <a href="http://app.boardroom.info/[Project CNAME]">
+    <img src="https://gblobscdn.gitbook.com/assets%2F-MJY-enmfAw5ra2s-8QX%2F-MVfvTrtaK5Wt2GUktl-%2F-MVfyANRthB47SoQStOg%2FIndex_Branding_-_Logo_full_black.png?alt=media&token=f0a3d27c-6661-44ad-929e-24eda0da752b" alt="Index Coop" width="400" />
+  </a>
+  <h1 align="center">Index Coop Weekly Update</h1>
+  <p align="center">
+    November 5, 2021
+  <br />
+  <a href="http://app.boardroom.info/index"><strong>View in the Portal »</strong></a>
+  <br />
+  </p>
+</p>
+
+## Summary
+
+This week we saw the passage of operations [IIP-98](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6MHhiZjY1NmRhOWM2NjA3MDE1ZTQ0NzE5NzQ4MzVhYWY5NTQ0MzMwNjk1ODdiMDc4ZjkyNzYzYTg0N2IzYzE0MWFj) funding the *Finance Nest* and *Talent, Operations, and Change* Working Groups.  [IIP-99](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6MHg2MjVjYzU4MWE2YjdlYzM5NDU2NGU0MzZhZGExMzVmZWExZjM4ZGQ5ODVlY2FhZjZhNjk1YjZmNTE4YzAxNjJl) passed, updating the general Operations Account multi-sig.
+
+Coming up for vote this week are at least two potential new product IIPs noted as *DG1* and effectively the first step to dedicating substantial Index Coop resources to diligence on a subsequent decision-gate (DG2) vote; *DG2* passage would then indicate a [decision to launch](https://docs.indexcoop.com/our-products/product-launch-process) the product to market.  IIP-100 is expected to have a POAP claimable upon voting.
+
+## Proposals
+
+### Pending and Live  Votes
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| IIP-100 DG1: Launch LINK 2x Flexible Leverage Index (LINK2X-FLI) | Product | [Vote](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6MHhlM2U2Zjc0YTNjZTRmMDYyMTNiMGU0YWM4MGZhNDc1MDkxN2Y1YjlkNjdiYjU3YjY0MjA4ZTdlOWIwMjU0ZGQ5)
+| IIP-101: Authorize the Operations Account for Rari Capital Strategies | Operations | [View](https://gov.indexcoop.com/t/iip-101-authorize-the-operations-account-for-rari-capital-strategies/3076)
+| IIP-102 DG1: Launch the Bankless DeFi Growth Index ($GMI) | Product | [Vote](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6MHhmN2JmNDZkYzAwMDkxODRlMzk0NzA0NTg1ZGFhY2U4ZjFkZDQzYjYyY2I2NGI2MGFlYTcxMmQwMGY1OGVkZGRk)
+
+### Recent Votes
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| IIP-98: Finance Nest and Talent, Ops and Change Working Group | PASSED | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6MHhiZjY1NmRhOWM2NjA3MDE1ZTQ0NzE5NzQ4MzVhYWY5NTQ0MzMwNjk1ODdiMDc4ZjkyNzYzYTg0N2IzYzE0MWFj)
+| IIP-99: Update Operations Account Multi-sig #2 | PASSED | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6MHg2MjVjYzU4MWE2YjdlYzM5NDU2NGU0MzZhZGExMzVmZWExZjM4ZGQ5ODVlY2FhZjZhNjk1YjZmNTE4YzAxNjJl)
+
+## Meta-Governance
+Index Coop is unique in that voting rights for some underlying assets in their largest index product, [DeFi Pulse Index (DPI)](https://docs.indexcoop.com/our-products/defi-pulse-index), are conferred to [INDEX](https://docs.indexcoop.com/community/governance/the-index-token) token holders, allowing [meta-governance](https://docs.indexcoop.com/community/governance/meta-governance) voting via snapshot for INDEX token holders.  If quorum is not met on meta-governance votes, [a committee of five](https://gov.indexcoop.com/t/iip-92-meta-governance-committee-2-0/2825) steps in to vote on Index Coop's behalf.
+
+### Recent Meta-Governance Votes 
+
+| Name          | Result      | Link   |
+| ------------- |:-------------:| :-----:|
+| [BADGERDAO] BIP 72: Sett Vaults and ibBTC Fee Restructuring | PASS | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW1mZHNsNDVhbjJtZGRuaHZuYWNtamc3enN3eHo5ZmY1dnNrcThvdjh4ZGRhZA==)
+| [AAVE-41] Institute a Voting Delay Period | FAILED (quorum)  | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW13YjQ5NDNuZ3J6eXN5eWpzdm0xdm05OHJzdG1vaHFhMWJyNzhwa2FuY3R4YQ==)
+| [BALANCER] End the BAL for Gas Program | PASS | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW12czE5OGZwdHB4ZW0zN2pianhieGZvOGg5cmhkc2NrYXhjcTF4aGM2YWtpcg==)
+| [AAVE-44] Disable borrow for xSUSHI and DPI. Freeze reserves for UNI and BAL AMM Markets |  PASS | [View](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW1iYnBja3lwbXh5emJiZjY1bjlzeW9hd3NlaHh6cG80cWdzaGFwemRjNmh6YQ==)
+| [BALANCER] Balancer Grants DAO Wave 2 | PASS | [View](https://snapshot.org/#/balancer.eth/proposal/QmQzX6rbE2SJb7ebTdAxdACnwb2UAJqqw1hKzwnZr8SoEL)
+
+
+### Live Meta-Governance Votes 
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| [COMPOUND-66] Risk Parameter Updates for AAVE, LINK, MKR, SUSHI, USDC, and YFI | meta-gov | [Vote](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW1jeHFpcmt4cnhwMXBzZGczNnl0d2hjMXdoY3NnazF6c3Z4aDd5aWRtdnJhcg==)
+| [COMPOUND-67] [Temp. Check] Should Compound retroactively distribute COMP tokens to early users? | meta-gov | [Vote](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW1jbG1mdnBjaG51eXVuOHJ4a3FnbXRhdzRteG91Y2o0ZWNmeHRta2xvYmJ2ZA==)
+| [COMPOUND-68] End cCOMP Borrow Rewards | meta-gov | [Vote](https://app.boardroom.info/index/proposal/cHJvcG9zYWw6aW5kZXhjb29wOmRlZmF1bHQ6cW1hZjhoa2hmN2M2dTg2c3ZkaXozYm5icnJycDNxenFyaGFzbzNxd2VtNnBxdA==)
+
+## Forum Summary
+
+
+
+### New Discussions
+
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Metaverse Index - October Rebalance | Product | [Discuss](https://gov.indexcoop.com/t/metaverse-index-october-rebalance/3086)
+
+### Ongoing Discussions
+
+
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| IIP-103-Final : Launching the Robot Index (iRobot) | Product | [Discuss](https://gov.indexcoop.com/t/iip-103-final-launching-the-robot-index-irobot/2739)
+| Compensation & Community Ownership - Next Steps | Organization | [Discuss](https://gov.indexcoop.com/t/compensation-community-ownership-next-steps/3000) 
+
+## Other Updates
+
+[The sCoop](https://twitter.com/HOWweDAO) is the daily contributor newsletter for Index Coop and provides further insight into governance and DAO operations.
+
+| Recent Issues
+| -------------
+| [The sCoop - Contributor Newsletter - 2021.11.01 Monday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-11-01-monday/3090)
+| [The sCoop - Contributor Newsletter - 2021.11.02 Tuesday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-11-02-tuesday/3102)
+| [The sCoop - Contributor Newsletter - 2021.11.03 Wednesday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-11-03-wednesday/3113)
+| [The sCoop - Contributor Newsletter - 2021.11.04 Thursday](https://gov.indexcoop.com/t/the-scoop-contributor-newsletter-2021-11-04-thursday/3118)
+
+<p align="center">
+  <a href="http://app.boardroom.info/">
+    <img src="https://i.ibb.co/PFcchnQ/boardroom.png" alt="Boardroom Logo" width="450" />
+  </a>
+</p>
+
+<p align="center">
+	This report was prepared by the Governance Scribes Guild
+  <br />
+  <a href="http://boardroom.info/">Portal</a>
+  ·
+  <a href="https://discord.com/invite/tgrTFg9">Discord</a>
+  ·
+  <a href="https://boardroom.mirror.xyz/JHrN8nVy_J4C7Xzj37zoyPANg0ZnNszhWy9YOZHC0lM">Join the Scribes Program</a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/CEZ8WfuK8s">
+    <img src="https://img.shields.io/badge/Discord-Join-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/boardroom_info">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
