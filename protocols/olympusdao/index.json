@@ -1,7 +1,0 @@
-{
-  "cname": "olympusdao",
-  "description": "Olympus is a non-pegged-stablecoin that attempts to be less volatile than traditional cryptocurrencies while not being pegged to any fiat currencies.",
-  "path": "olympusdao",
-  "isEnabled": true,
-  "type": "snapshot"
-}

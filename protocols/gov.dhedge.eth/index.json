@@ -1,7 +1,0 @@
-{
-	"cname": "dhedge",
-	"description": "dHEDGE DAO Governance",
-	"path": "gov.dhedge.eth",
-	"isEnabled": true,
-	"treasuryAddresses": ["0xB76E40277B79B78dFa954CBEc863D0e4Fd0656ca"]
-}

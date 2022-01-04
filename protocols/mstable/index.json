@@ -1,7 +1,0 @@
-{
-	"cname": "mstable",
-	"description": "mStable is building decentralised stable-value asset infrastructure for DeFi.",
-	"path": "mstable",
-	"isEnabled": true,
-	"treasuryAddresses": ["0x3dd46846eed8D147841AE162C8425c08BD8E1b41","0xfcf455d6eb48b3289a712c0b3bc3c7ee0b0ee4c6","0x67905d3e4fec0c85dce68195f66dc8eb32f59179"]
-}

@@ -1,9 +1,0 @@
-{
-  "cname": "friendswithbenefits",
-  "description": "Friends with Benefits is the ultimate cultural membership community",
-  "path": "friendswithbenefits.eth",
-  "type": "snapshot",
-  "isEnabled": true,
-  "treasuryAddresses" : ["0x660F6D6c9BCD08b86B50e8e53B537F2B40f243Bd"]
-}
-

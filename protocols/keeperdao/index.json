@@ -1,9 +1,0 @@
-{
-  "cname": "keeperdao",
-  "description": "KeeperDAO develops a self-iterating liquidity engine for decentralized finance.  ",
-  "path": "keeperdao",
-  "isEnabled": true,
-  "type": "snapshot",
-	"treasuryAddresses": ["0x9a67F1940164d0318612b497E8e6038f902a00a4"]
-
-}
