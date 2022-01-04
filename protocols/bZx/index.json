@@ -1,0 +1,12 @@
+{
+  "cname": "bZx",
+  "description": "bZx is a protocol for tokenized margin trading and lending that empowers decentralized, efficient blockchain applications.",
+  "path": "bZx",
+  "type": "snapshot",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.bzx.network/c/bzx-improvement-proposals/",
+    "categoryId": "8"
+  },
+  "treasuryAddress": ["0xfedC4dD5247B93feb41e899A09C44cFaBec29Cbc"]
+}
