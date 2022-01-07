@@ -1,0 +1,8 @@
+{
+  "cname": "krausehouse",
+  "description": "Krause House is a DAO empowering fans to purchase and operate an NBA team.",
+  "path": "krausehouse",
+  "type": "snapshot",
+  "isEnabled": true,
+  "treasuryAddress": ["0xE4762eAcEbDb7585D32079fdcbA5Bb94eb5d76F2"]
+}
