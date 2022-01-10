@@ -1,0 +1,8 @@
+{
+  "cname": "alchemixfinance",
+  "description": "Alchemix Finance is a future-yield-backed synthetic asset platform and community DAO.",
+  "path": "alchemixfinance",
+  "type": "snapshot",
+  "isEnabled": true,
+  "treasuryAddress": ["0x8392F6669292fA56123F71949B52d883aE57e225"]
+}
