@@ -1,0 +1,11 @@
+{
+  "cname": "bancor",
+  "description": "Bancor is the first decentralized trading protocol, empowering traders, liquidity providers and developers to participate in an open financial marketplace with no barriers to entry. No one needs permission to use the open-source Bancor Protocol.",
+  "path": "bancor",
+  "type": "snapshot",
+  "discourseForum": {
+    "url": "https://gov.bancor.network/",
+    "categoryId": "14"
+  },
+  "isEnabled": true
+}
