@@ -1,0 +1,12 @@
+{
+  "cname": "citydao",
+  "description": "CityDAO is building the city of the future on the ethereum blockchain by tokenizing land, rights, and governance.",
+  "path": "citydao",
+  "type": "snapshot",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.citydao.io/",
+    "categoryId": "5"
+  },
+  "treasuryAddress": ["0x60e7343205C9C88788a22C40030d35f9370d302D"]
+}
