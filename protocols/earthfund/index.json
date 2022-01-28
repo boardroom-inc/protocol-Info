@@ -1,6 +1,6 @@
 {
   "cname": "earthfund",
-  "description": "The decentralized earthfund for better tommorow",
+  "description": "A DAO focused on solving problems like carbon removal, green tech, inequality, conversation, public health etc",
   "path": "earthfund",
   "isEnabled": true,
   "type": "snapshot",
