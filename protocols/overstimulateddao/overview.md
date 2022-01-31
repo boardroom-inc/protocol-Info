@@ -37,3 +37,6 @@ The project (available on Discord) is a 6 track journey through my head.
 
 ## Additional Links
 
+[Website](https://danielallan.xyz/)
+[Twitter](https://twitter.com/imdanielallan)
+[Discord](https://discord.gg/mXQQfFT4Qt)
