@@ -1,7 +1,7 @@
 ## Overstimulate DAO by Daniel Allan
 
 
-Overstimulated comments on the overwhelming nature of my personal journey. When life gets hectic, my coping mechanism is music. Sometimes I don`t know how to communicate, so I suppose this is my way of sharing that experience with the world.
+Overstimulated comments on the overwhelming nature of my personal journey. When life gets hectic, my coping mechanism is music. Sometimes I dont know how to communicate, so I suppose this is my way of sharing that experience with the world.
 
 ## Motivation
 
