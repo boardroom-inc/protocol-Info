@@ -3,5 +3,6 @@
   "description": "Overstimulate DAO by Daniel Allan",
   "path": "oversmdao",
   "type":"snapshot",
-  "isEnabled": true
+  "isEnabled": true,
+  "treasuryAddresses":["0x800b7EDD31E46FA3a2900DaCBDa7f7067aF3d917"]
 }
