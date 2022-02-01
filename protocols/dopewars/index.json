@@ -1,0 +1,8 @@
+{
+  "cname": "dopewars",
+  "description": "Dope Wars is DAO-governed gaming based on the DOPE NFT and $PAPER, the ecosystem currency.",
+  "path": "dopewars",
+  "type": "snapshot",
+  "isEnabled": true,
+  "treasuryAddress": ["0xb57ab8767cae33be61ff15167134861865f7d22c"]
+}
