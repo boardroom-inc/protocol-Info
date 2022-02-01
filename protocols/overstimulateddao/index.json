@@ -1,6 +1,7 @@
 {
-  "cname": "example",
-  "description": "A concise description of the protocol",
-  "path": "example",
+  "cname": "oversmdao",
+  "description": "Overstimulate DAO by Daniel Allan",
+  "path": "oversmdao",
+  "type":"snapshot",
   "isEnabled": true
 }
