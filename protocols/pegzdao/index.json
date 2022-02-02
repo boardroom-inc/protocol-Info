@@ -1,0 +1,8 @@
+{
+  "cname": "pegzdao",
+  "description": "PEGZ is a series of 100 unique collectables, each one of a kind and drawn digitally by Matt Furie.",
+  "path": "pegzdao",
+  "isEnabled": true,
+  "type":"moloch",
+  "treasuryAddresses":["0x36fab4ac1d36e5f1015236261e42365cb4feac52"]
+}
