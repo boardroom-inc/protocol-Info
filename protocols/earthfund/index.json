@@ -1,0 +1,12 @@
+{
+  "cname": "earthfund",
+  "description": "A DAO focused on solving problems like carbon removal, green tech, inequality, conversation, public health etc",
+  "path": "earthfund",
+  "isEnabled": true,
+  "type": "snapshot",
+  "discourseForum": {
+    "url": "https://community.earthfund.io/",
+    "categoryId": "1"
+  },
+  "treasuryAddress":["0xB59d20eEB15F814AD5e995E9B0F2522AF819203c"]
+}
