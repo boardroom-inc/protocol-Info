@@ -1,6 +1,6 @@
 # EarthFund Boardroom Overview
  
- ![]()
+ ![](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/earthfund/earthfund_banner.png)
 
 EarthFund is a DAO-controlled crowdfunding platform for projects and ideas that can build a better tomorrow. It was built to give everybody a meaningful voice in the shape of their future.
 
@@ -12,7 +12,7 @@ Once live, Earthlings will be able to join communities for causes they’re pass
 
 Our governance is broken into 5 workstreams overseeing the development of the platform and the growth of the project. Within a year of launch, the advisors will be replaced by the community, ensuring EarthFund is fully autonomous.
 
-![](https://media.discordapp.net/attachments/935944873343873045/938516694975012904/earthfund_decentralization.png?width=2520&height=1077)
+![](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/earthfund/earthfund_decentralization.png)
 
 ## Governance
 
@@ -38,7 +38,7 @@ While we’re throwing the idea of hierarchy out of the window, we still need so
 
 So we’ve introduced workstreams.
 
-![](https://media.discordapp.net/attachments/935944873343873045/938516695243423754/earthfund_workstreams.png?width=1566&height=1153)
+![](https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/earthfund/earthfund_workstreams.png)
 
 Each workstream has complete autonomy over its work and approach. They’re close-knit teams that work together for the success of a specific area of focus. 
 
