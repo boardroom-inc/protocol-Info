@@ -1,23 +1,25 @@
-## What is bZx?
+# OOKI (Previously bZx)
 
-bZx is a financial primitive for shorting, leverage, borrowing, and lending that empowers decentralized, efficient, and rent-free blockchain applications. bZx allows anyone to build applications that enable lenders, borrowers, and traders to interact with the most flexible decentralized finance protocol on Ethereum. bZx is a community-run project, governed by the community vote for all major changes to the protocol.
-There are a few core products that make up the bZx ecosystem and each of these products serves a different purpose within the ecosystem: Fulcrum, Torque, and bZx protocol.
+## What is OOKI?
 
-* Fulcrum, originally launched in June 2019, is a DeFi platform for lending and margin trading built using bZx. Fulcrum enables users to collect interest by lending assets, and to enter into tokenized long or short positions at up to 5x leverage. Fulcrum 2.0 was launched in 2020 and is twice as gas efficient as its predecessor. 
+OOKI is a financial primitive for shorting, leverage, borrowing, and lending that empowers decentralized, efficient, and rent-free blockchain applications. OOKI allows anyone to build applications that enable lenders, borrowers, and traders to interact with the most flexible decentralized finance protocol on Ethereum. OOKI is a community-run project, governed by the community vote for all major changes to the protocol.
+There are a few core products that make up the OOKI ecosystem and each of these products serves a different purpose within the ecosystem: Fulcrum, Torque, and OOKI protocol.
 
-* Also built with bZx, Torque is a DeFi platform for borrowing assets instantly, with indefinite-term loans and fixed interest rates.
+* Fulcrum, originally launched in June 2019, is a DeFi platform for lending and margin trading built using OOKI. Fulcrum enables users to collect interest by lending assets, and to enter into tokenized long or short positions at up to 5x leverage. Fulcrum 2.0 was launched in 2020 and is twice as gas efficient as its predecessor. 
 
-* bZx protocol: The most important thing that sets the bZx Protocol apart from other decentralized lending protocols is its commitment to developing the most decentralized solution possible. The bZx Protocol is currently the only lending protocol to make use of decentralized price feeds for calculating interest rates and its unique architecture makes it so the gas fee associated with using bZx does not increase along with the number of assets supported by the platform.
+* Also built with OOKI, Torque is a DeFi platform for borrowing assets instantly, with indefinite-term loans and fixed interest rates.
+
+* OOKI protocol: The most important thing that sets the OOKI Protocol apart from other decentralized lending protocols is its commitment to developing the most decentralized solution possible. The OOKI Protocol is currently the only lending protocol to make use of decentralized price feeds for calculating interest rates and its unique architecture makes it so the gas fee associated with using OOKI does not increase along with the number of assets supported by the platform.
 
 ## Governance
 
-BZRX is the governance token of the bZx protocol. BZRX token holders can vote to upgrade the bZx protocol as well as  stake their token to begin earning a share of bZx protocol fees.
+BZRX is the governance token of the OOKI protocol. BZRX token holders can vote to upgrade the OOKI protocol as well as  stake their token to begin earning a share of OOKI protocol fees.
 
-bZx will be breaking it’s governance process down into three primary stages: Forum Discussion, Snapshot Vote, and Ratification. This process will combine both on-chain and off-chain governance mechanics. Holders of any amount of bZx can vote, and in the future delegate votes to other people. The governance process will be as follows:
+OOKI will be breaking it’s governance process down into three primary stages: Forum Discussion, Snapshot Vote, and Ratification. This process will combine both on-chain and off-chain governance mechanics. Holders of any amount of OOKI can vote, and in the future delegate votes to other people. The governance process will be as follows:
 
 1. **Stage 1: Forum Discussion**
 
-Proposals will be initiated in the bZx forum for community discussion, input and buy-in. During this stage new suggestions and changes will be discussed and debated by anyone in the community. Proposals can range from changing fees, adjusting ecosystem parameters, to new marketing initiatives, or new integrations with DeFi apps. Proposals should be outlined and discussed at this stage until community consensus and buy-in is reached.
+Proposals will be initiated in the OOKI forum for community discussion, input and buy-in. During this stage new suggestions and changes will be discussed and debated by anyone in the community. Proposals can range from changing fees, adjusting ecosystem parameters, to new marketing initiatives, or new integrations with DeFi apps. Proposals should be outlined and discussed at this stage until community consensus and buy-in is reached.
 
 To create a BIP, follow the template on the Forum and simply post it. Once the proposal has been discussed for three days. It will reach community consensus and proceed to the next step of community snapshot proposal vote.
 
@@ -48,7 +50,7 @@ This phase requires the following:
 4% quorum needed
 Greater than 50% of votes in favor to pass a proposal
 
-The front end UI the bZx DAO that will be utilized in order to interact with the DAO governance system will be tally.com or boardroom.info.
+The front end UI the OOKI DAO that will be utilized in order to interact with the DAO governance system will be tally.com or boardroom.info.
 
 ## Additional resources: 
 
@@ -59,4 +61,4 @@ The front end UI the bZx DAO that will be utilized in order to interact with the
 * [Discord](https://discord.com/invite/5HYyUJb)
 * [Telegram](https://t.me/b0xnet)
 * [Twitter](https://twitter.com/bzxhq?lang=en)
-* [Github](https://github.com/bZxNetwork)
+* [Github](https://github.com/OOKINetwork)
