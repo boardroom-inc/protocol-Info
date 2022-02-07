@@ -1,0 +1,8 @@
+{
+  "cname": "gameminealliance",
+  "description": "Game Mine Alliance is a VC fund focusing on the incubation and investment of blockchain games.",
+  "path": "gameminealliance",
+  "type": "moloch",
+  "isEnabled": true,
+  "treasuryAddress": ["0x26edf55480c50a2fab52d0d7bdf1dbbf2f4bb14f"]
+}
