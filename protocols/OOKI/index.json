@@ -1,7 +1,7 @@
 {
-  "cname": "bzx",
-  "description": "bZx is a protocol for tokenized margin trading and lending that empowers decentralized, efficient blockchain applications.",
-  "path": "bzx",
+  "cname": "ooki",
+  "description": "OOKI is a protocol for tokenized margin trading and lending that empowers decentralized, efficient blockchain applications.",
+  "path": "ooki",
   "type": "snapshot",
   "isEnabled": true,
   "discourseForum": {
