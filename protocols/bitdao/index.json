@@ -1,0 +1,12 @@
+{
+  "cname": "bitdao",
+  "description": "Supporting open finance and a decentralized tokenized economy",
+  "path": "bitdao",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://discourse.bitdao.io/",
+    "categoryId": "13"
+  },
+  "treasuryAddresses": ["0x78605Df79524164911C144801f41e9811B7DB73D"],
+  "type": "snapshot"
+}
