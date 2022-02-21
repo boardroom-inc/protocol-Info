@@ -29,13 +29,16 @@ This makes the governance of the platform directly responsive to our most active
 
 In order to submit a proposal on Snapshot, one must have 100k xDG. Proposals pass/fail via simple majority, but 10M xDG voting in favor is required to reach a quorum.
 
+# Join our DAO
+
+Please reach us via our [Discord](https://discord.com/invite/cvbSNzY) or our [Telegram](https://t.me/decentralgames)
+
 # Additional resources: 
 
 * [Decentral Games](https://decentral.games/)
 * [Snapshot](https://snapshot.org/#/decentralgames.eth)
 * [Ice White Paper](https://ice.decentral.games/)
 * [Docs](https://docs.decentral.games/)
-* [Discord](https://discord.com/invite/cvbSNzY)
 * [Twitter](https://twitter.com/DecentralGames)
 * [Github](https://github.com/decentralgames)
 * [xDG](https://www.coingecko.com/en/coins/decentral-games-new
