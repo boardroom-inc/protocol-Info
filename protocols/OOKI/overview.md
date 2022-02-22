@@ -55,7 +55,7 @@ The front end UI the OOKI DAO that will be utilized in order to interact with th
 * [OOKI](https://ooki.com/dashboard/lobby)
 * [FAQ](https://docs.ooki.com/)
 * [Snapshot](https://snapshot.org/#/ooki.eth)
-* [Forum](https://forum.bzx.network/)
+* [Forum](https://forum.ooki.com/)
 * [Discord](https://discord.gg/4wPVA6a)
 * [Telegram](https://t.me/OokiTrade)
 * [Twitter](https://twitter.com/OokiTrade)
