@@ -5,8 +5,8 @@
   "type": "snapshot",
   "isEnabled": true,
   "discourseForum": {
-    "url": "https://forum.bzx.network/",
-    "categoryId": "8"
+    "url": "https://forum.ooki.com/",
+    "categoryId": "5"
   },
   "treasuryAddress": ["0xfedC4dD5247B93feb41e899A09C44cFaBec29Cbc"]
 }

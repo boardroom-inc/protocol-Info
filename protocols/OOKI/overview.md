@@ -13,8 +13,6 @@ There are a few core products that make up the OOKI ecosystem and each of these 
 
 ## Governance
 
-BZRX is the governance token of the OOKI protocol. BZRX token holders can vote to upgrade the OOKI protocol as well as  stake their token to begin earning a share of OOKI protocol fees.
-
 OOKI will be breaking it’s governance process down into three primary stages: Forum Discussion, Snapshot Vote, and Ratification. This process will combine both on-chain and off-chain governance mechanics. Holders of any amount of OOKI can vote, and in the future delegate votes to other people. The governance process will be as follows:
 
 1. **Stage 1: Forum Discussion**
