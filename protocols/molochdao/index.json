@@ -1,7 +1,7 @@
 {
-  "cname": "molochrises",
+  "cname": "molochdao",
   "description": "MolochDAO funds and furthers the development of public infrastructure related to Eth 2.0",
-  "path": "molochrises",
+  "path": "molochdao",
   "type": "moloch",
   "isEnabled": true,
   "discourseForum": {

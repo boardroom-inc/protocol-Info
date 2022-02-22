@@ -1,0 +1,12 @@
+{
+  "cname": "angle",
+  "description": "Angle is the first decentralized, capital efficient and over-collateralized stablecoin protocol.",
+  "path": "angle",
+  "type": "snapshot",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.angle.money/",
+    "categoryId": "8"
+  },
+  "treasuryAddress": ["0xdC4e6DFe07EFCa50a197DF15D9200883eF4Eb1c8"]
+}
