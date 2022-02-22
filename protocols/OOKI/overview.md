@@ -54,11 +54,11 @@ The front end UI the OOKI DAO that will be utilized in order to interact with th
 
 ## Additional resources: 
 
-* [bZx](https://bzx.network/)
-* [Voting](https://bzx.network/blog/bzx-dao-vote)
-* [Snapshot](https://snapshot.org/#/bzx.eth)
+* [OOKI](https://ooki.com/dashboard/lobby)
+* [FAQ](https://docs.ooki.com/)
+* [Snapshot](https://snapshot.org/#/ooki.eth)
 * [Forum](https://forum.bzx.network/)
-* [Discord](https://discord.com/invite/5HYyUJb)
-* [Telegram](https://t.me/b0xnet)
-* [Twitter](https://twitter.com/bzxhq?lang=en)
+* [Discord](https://discord.gg/4wPVA6a)
+* [Telegram](https://t.me/OokiTrade)
+* [Twitter](https://twitter.com/OokiTrade)
 * [Github](https://github.com/OOKINetwork)
