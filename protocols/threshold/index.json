@@ -1,0 +1,12 @@
+{
+  "cname": "threshold",
+  "description": "Threshold Network powers user sovereignty on the blockchain. Threshold Network is the home of tBTC v2, proxy re-encryption, and all threshold cryptography.",
+  "path": "threshold",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.threshold.network/",
+    "categoryId": "7"
+  },
+  "treasuryAddresses": ["0x9F6e831c8F8939DC0C830C6e492e7cEf4f9C2F5f", "0x87F005317692D05BAA4193AB0c961c69e175f45f"],
+  "type": "compoundish"
+}
