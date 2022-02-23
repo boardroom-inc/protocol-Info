@@ -1,17 +1,25 @@
+**[BitDAO](https://www.bitdao.io/) believes DAO can do more for industries like Art, Entertainment, Finance, Technology, Entertainment, and Media. With billions in existing assets and billions in forecasted contributions BitDAO aims to support builders of the decentralized economy.**
 
-**BitDAO is one of the world's largest DAOs (Decentralized Autonomous Organization). Our vision is open finance and a decentralized tokenized economy. ‌BitDAO is a protocol governed by BIT token holders. We welcome all individuals and communities to join us and contribute.**
+BitDAO is an open platform for proposals that are voted upon by BIT token holders. Through the governance process BIT token holders will determine the actions and direction of BitDAO. Beceause BitDAO is chain and project agnostic it allows for a great degree of flexibility for how its treasury is allocated.
 
-[BitDAO](https://www.bitdao.io/) is a DAO with billions in existing assets and billions in forecasted contributions.
-BitDAO aims to support builders of the decentralized economy. It is an open platform for proposals that are voted upon by BIT token holders. It is agnostic to chains and projects.
-Possible proposals include 1) direct partnerships or swaps with projects, and 2) expansion via specialized autonomous entities such as: ecosystem funds, artist guilds, farming cooperatives, R&D Labs, etc.
-BitDAO is supported by Peter Thiel, Founders Fund, Pantera, Dragonfly, Spartan, Bybit, and [more](https://docs.bitdao.io/partners/early-partners).
+## Autonomous Entities
+Autonomous Entities (AEs) are independent organizations that are funded from successful proposals to the BitDAO treasury and are focused on a particular product, usecase, or industry. Examples of previously approved Autonomous Entities are [Game7](https://game7.io/), [zkDAO](https://zkdao.io/), or [EduDAO](https://edudao.io/).
 
-# Links
+# **Governance Process**
+BitDAO is owned and governed by BIT token holders. To reduce spam 200k BIT is required to put forth a proposal and 100M BIT is required to approve it.
 
-[**Website**](https://bitdao.io)**:** The home of BitDAO.\
-[**Twitter**](https://twitter.com/BitDAO_Official)**:** Official BitDAO Twitter account\
-[**Discord Chat**](https://discord.gg/bitdao)**:** Where the users can get support and the community can hang out. \
-[**Discourse Forum**](https://discourse.bitdao.io/)**:** Proposals and general discussions. \
-[**Telegram**](https://t.me/BitDAO_Official)**:** General chat.\
-[**Documentation**](https://docs.bitdao.io/)**:** General documentation.\
-[**Github**](https://github.com/bitdao-io)**:** BitDAO main repository.
+## Phase 1: Soft Proposal
+The Soft Proposal phase is to receive open feedback from stakeholders about any given proposal in an open and informal way. This allows the proposer to make changes if necessary before an official proposal is made. The Soft Proposal phase occures on [BitDAO's Discourse](https://discourse.bitdao.io/).
+
+## Phase 2: Snapshot Vote
+The Snapshot Vote is the final step in the governance process. Once community feedback has been incorporated, the proposer may put the proposal up for a vote on [BitDAO Snapshot](https://snapshot.org/#/bitdao.eth).
+
+# **Additional Resources**
+* [**Website**](https://bitdao.io)
+* [**Recently Approved Proposals**](https://snapshot.org/#/bitdao.eth)
+* [**Official BitDAO Twitter**](https://twitter.com/BitDAO_Official)
+* [**Discord Chat**](https://discord.gg/bitdao)
+* [**Discourse Forum**](https://discourse.bitdao.io/)
+* [**Telegram**](https://t.me/BitDAO_Official)
+* [**General Documentation**](https://docs.bitdao.io/)
+* [**Github**](https://github.com/bitdao-io)
