@@ -1,7 +1,8 @@
 { 
 	"cname": "decentralgames",
-	"description": "",
+	"description": "Decentral Games builds games that reward players to play",
 	"path": "decentralgames.eth",
+	"type": "snapshot",
 	"isEnabled": true,
 	"treasuryAddresses": ["0x7A61A0Ed364E599Ae4748D1EbE74bf236Dd27B09"]
 }
