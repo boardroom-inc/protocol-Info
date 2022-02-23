@@ -2,5 +2,9 @@
 	"cname": "daosquare",
 	"description": "",
 	"path": "daosquare",
+	"discourseForum": {
+		"url": "https://forum.daosquare.io/",
+		"categoryId": "12"
+	  },
 	"isEnabled": true
 }

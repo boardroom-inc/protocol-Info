@@ -3,5 +3,9 @@
 	"description": "",
 	"path": "indexed",
 	"isEnabled": true,
+	"discourseForum": {
+		"url": "https://forum.indexed.finance/",
+		"categoryId": "7"
+	  },
 	"treasuryAddresses": ["0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA"]
 }
