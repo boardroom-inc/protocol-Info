@@ -6,5 +6,6 @@
   "discourseForum": {
     "url": "https://forum.lexpunk.army/",
     "categoryId": "7"
-  }
+  },
+  "treasuryAddresses":["0x316dAa88D931C7221e2E4039F6B793ba2b724180"]
 }
