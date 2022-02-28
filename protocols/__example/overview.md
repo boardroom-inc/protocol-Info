@@ -1,4 +1,6 @@
-Use this template as a guideline for populating the overview info. 
+Delete: Use this template as a guideline for populating the overview info. 
+        Try to break down sections into sub-sections with smaller sub-headings
+        as needed. 
 # Your-dao-protocol-name
 
 ## Edit
