@@ -1,6 +1,6 @@
 {
 	"cname": "keep2r",
-	"description": "",
+	"description": "Keep2r is an advanced & incentive enabled decentralized financial system.",
 	"path": "keep2r.eth",
 	"isEnabled": true,
 	"treasuryAddresses": ["0x49e7D50f6354357bB064305CE0BDC1695373B665"]
