@@ -63,5 +63,5 @@ Please reach out via our [Discord](https://forum.indexed.finance/) for details o
 * [Twitter](https://twitter.com/ndxfi)
 * [Github](https://github.com/indexed-finance)
 * [Reddit](https://www.reddit.com/r/IndexedFinance/)
-* [Youtube](https://www.youtube.com/channel/UCdbua6FtaiD0emvvBerKRMw
+* [Youtube](https://www.youtube.com/channel/UCdbua6FtaiD0emvvBerKRMw)
 * [Documentation](https://docs.indexed.finance/)
