@@ -47,7 +47,7 @@ As a last resort, governance has certain rights over managing Keepers, these inc
 
 Please reach out via our [Telegram](https://t.me/kp2rnetwork) to get in touch.
 
-# Additional Resources
+# Additional Links
 
 * [Keep2r](https://kp2r.network/#/)
 * [Snapshot](https://gov.kp2r.network/#/)
