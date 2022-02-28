@@ -1,7 +1,11 @@
 {
 	"cname": "indexed",
-	"description": "",
+	"description": "Indexed Finance gives its users exposure to passively-managed crypto index portfolios represented by a single token.",
 	"path": "indexed",
 	"isEnabled": true,
+	"discourseForum": {
+		"url": "https://forum.indexed.finance/",
+		"categoryId": "7"
+	  },
 	"treasuryAddresses": ["0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA"]
 }
