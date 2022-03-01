@@ -1,11 +1,12 @@
 {
 	"cname": "dhedge",
-	"description": "dHEDGE DAO Governance",
+	"description": "dHedge is a non-custodial, decentralized, social asset management DAO.",
 	"path": "gov.dhedge.eth",
+	"type": "snapshot",
 	"isEnabled": true,
 	"discourseForum": {
 		"url": "https://forum.dhedge.org/",
-		"categoryId": "5"
+		"categoryId": "10"
 	  },
 	"treasuryAddresses": ["0xB76E40277B79B78dFa954CBEc863D0e4Fd0656ca"]
 }
