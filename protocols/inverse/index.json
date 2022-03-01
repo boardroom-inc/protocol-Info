@@ -1,7 +1,8 @@
 {
 	"cname": "inverse",
-	"description": "",
+	"description": "Inverse Finance is a decentralized platform that is focused on borrowing, lending as well as creating synthetic assets.",
 	"path": "inverse",
+	"type": "compoundish",
 	"isEnabled": true,
 	"treasuryAddresses": ["0x926dF14a23BE491164dCF93f4c468A50ef659D5B"]
 }
