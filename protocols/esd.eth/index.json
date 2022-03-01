@@ -1,6 +1,12 @@
 {
 	"cname": "esd",
-	"description": "",
+	"description": "Empty Set Dollar is a fully-backed, trust-minimized & community-owned stablecoin for web3.",
 	"path": "esd.eth",
-	"isEnabled": true
+	"type": "compoundish",
+	"isEnabled": true,
+	"discourseForum": {
+		"url": "https://www.emptyset.xyz/",
+		"categoryId": "7"
+	  },
+	"treasuryAddress": ["0x460661bd4A5364A3ABCc9cfc4a8cE7038d05Ea22"]
 }

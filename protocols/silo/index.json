@@ -1,0 +1,12 @@
+{
+  "cname": "silo",
+  "description": "Silo is a non-custodial lending protocol to borrow any crypto asset with another.",
+  "path": "silo",
+  "type": "snapshot",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.silo.finance/",
+    "categoryId": "7"
+  },
+  "treasuryAddress": ["0xcFEedb0219A99bE73dFE04B2A9905a109Cf87823"]
+}
