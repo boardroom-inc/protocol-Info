@@ -36,3 +36,13 @@ If you're applying for a rapid grant (<$125k), we recommend going through the [p
 If you're applying for a community grant ($125k+), we recommend going through the public application process by posting your application in the [grants category](https://www.comp.xyz/c/grants/10) of Compound's forum. 
 
 Still not sure? Email us at support@compoundgrants.org and we'll help you figure out the process that's right for you.
+
+# Join our DAO
+
+Please reach out via our [Discord](https://discord.com/invite/RbstTQRQwN)
+
+# Additional Link
+
+* [CompoundGrants](https://compoundgrants.org/)
+* [Twitter](https://twitter.com/compoundgrants)
+* [Discord](https://discord.com/invite/RbstTQRQwN)
