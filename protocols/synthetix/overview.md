@@ -2,7 +2,7 @@
 
 **Synthetix is a decentralised synthetic asset issuance protocol built on Ethereum. These synthetic assets are collateralized by the Synthetix Network Token (SNX) which when locked in the contract enables the issuance of synthetic assets (Synths). This pooled collateral model enables users to perform conversions between Synths directly with the smart contract, avoiding the need for counterparties.**
 
-# Overview
+## Overview
 
 There are two major components of the governance system:
 
@@ -13,7 +13,7 @@ There are two major components of the governance system:
 
 -   Synthetix Proposals - Changes in the protocol (initially SCCPs, but eventually SIPs) that are submitted to the [SIPs Github repository](https://github.com/Synthetixio/SIPs) will be posted on the Synthetix Proposal space. Proposals must reach an supermajority agreement on a option for it to be enacted.
 
-# Governance Process
+## Governance Process
 ------------------
 
 1.  A new Snapshot instance is created
@@ -33,11 +33,11 @@ The seven council members will then vote directly on SCCPs under these condition
 5.  The pDAO can require a revote at its discretion
 6.  The number of seats can be modified via SCCP
 
-# Join our DAO
+## Join our DAO
 
 Please reach out via our [Discord](https://discord.com/invite/AEdUHzt)
 
-# Additional Links
+## Additional Links
 
 * [Synthetix](https://synthetix.io/)
 * [Blog](https://blog.synthetix.io/)

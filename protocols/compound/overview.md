@@ -2,7 +2,7 @@
 
 Compound is a protocol for creating and managing money markets for lending crypto assets. Holders of the COMP token can make changes to the protocol by voting on and passing proposals.
 
-# Governance Process
+## Governance Process
 ------------------
 
 *From [COMP Governance Explained](https://soliditydeveloper.com/comp-governance) by Markus Waas*
@@ -17,18 +17,18 @@ The mechanism of governance follows a strict timeline of creating proposals, vot
 
 ![Governance Diagram](https://cdn0.scrvt.com/b095ee27d37b3d7b6b150adba9ac6ec8/5a6bfe46945abfde/a662a71f9611/v/9565b3203398/gov_diagram.png)
 
-## Compound Autonomous Proposals (CAPs)
+### Compound Autonomous Proposals (CAPs)
 ------------------
 
 Since the requirement of 100,000 COMP tokens to create a proposal is a very high barrier, after all that's over 10 million USD at the current COMP prices, a new mechanism called Compound Autonomous Proposals (CAPs) was introduced. This will allow anyone with 100 COMP or more to propose a proposal. Any CAP that gets 100,000 votes can be added as regular proposal.
 
 You can see and vote for CAPs under <https://app.compound.finance/vote>.
 
-# Join our DAO
+## Join our DAO
 
 Please reach out via our [Discord](https://discord.com/invite/fq6JSPkpJn)
 
-# Additional Links
+## Additional Links
 
 * [Compund](https://compound.finance/)
 * [Discord](https://discord.com/invite/fq6JSPkpJn)

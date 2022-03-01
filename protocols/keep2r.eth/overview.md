@@ -8,9 +8,9 @@ Keep2r Network is doing just that, making developments live beforehand and then 
 
 Keep2r Network is a decentralized keeper network inspired by the DeFi Guru ‘Andre Cronje’ needing external develops and for external teams to find keeper jobs. It’s basically can be described as a ‘Job Matching’ site.
 
-# Overview
+## Overview
 
-## How to use KP2R.Network
+### How to use KP2R.Network
 
 1. Register the Bond
 Connect a wallet (KP2R Holding Wallet). Register the bond with your KP2R Token.
@@ -27,27 +27,27 @@ KP2R jobs implement a function called work.
 As a simple keeper, you only need to call work and you will receive KP2R.
 For details on registering a job or additional information please visit [the documentation](https://docs.kp2r.network/).
 
-# Governance
+## Governance
 
 KP2R governance by design has a low overhead, it is not meant to be protocol intensive. The focus is simply on reviewing and approving jobs, and if absolutely required mitigate disputes or blacklist keepers.
 
-## Participants
+### Participants
 
 Only bonded Keepers may participate in governance. To participate in governance a keeper must first bond KPR, once bonded they can delegate voting rights to either themselves or another party.
 
-## Managing Jobs
+### Managing Jobs
 
 The core function of governance is to approve and include jobs, when liquidity is provided for a job, a proposal is automatically created to include them for review. Bonded keepers will review the contracts and decide if they should be included. It is important that jobs code defensively, assume keepers will only include your job to maximize their returns, as such maximum payment thresholds have been implemented.
 
-## Managing Keepers
+### Managing Keepers
 
 As a last resort, governance has certain rights over managing Keepers, these include lodging disputes, slashing, revoking access, and resolving disputes.
 
-# Join our DAO
+## Join our DAO
 
 Please reach out via our [Telegram](https://t.me/kp2rnetwork) to get in touch.
 
-# Additional Links
+## Additional Links
 
 * [Keep2r](https://kp2r.network/#/)
 * [Snapshot](https://gov.kp2r.network/#/)

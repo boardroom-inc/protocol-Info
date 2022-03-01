@@ -4,13 +4,13 @@
 
 To provide grants to projects, ideas, and events that benefit Compound and its ecosystem.
 
-# Governance
+## Governance
 
-## 🔭 Program details
+### 🔭 Program details
 
 The community has allocated 5,000 COMP for funding grants. The program will run from March 12 to September 12. The grants program was created after a community discussion. which can be found on Compound's governance forum [here](https://www.comp.xyz/t/compound-grants-program).
 
-### ⚖️ What's eligible for grant funding?
+### What's eligible for grant funding?
 
 #### Protocol and parameter development
 
@@ -54,11 +54,11 @@ If you're applying for a community grant ($125k+), we recommend going through th
 
 Still not sure? Email us at support@compoundgrants.org and we'll help you figure out the process that's right for you.
 
-# Join our DAO
+## Join our DAO
 
 Please reach out via our [Discord](https://discord.com/invite/RbstTQRQwN)
 
-# Additional Link
+## Additional links
 
 * [CompoundGrants](https://compoundgrants.org/)
 * [Twitter](https://twitter.com/compoundgrants)

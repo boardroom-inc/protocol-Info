@@ -2,7 +2,7 @@
 
 Non-custodial, decentralized, social asset management on EVM chains.
 
-# Overview
+## Overview
 
 ​dHEDGE is a one-stop location for managing investment activities on-chain where you can put your capital to work in different strategies based on a transparent track record.
 
@@ -10,16 +10,16 @@ Non-custodial, decentralized, social asset management on EVM chains.
 * Decentralized: dHEDGE aims to create a permissionless, unstoppable protocol for asset management.
 * Social: Managers have a direct line of communication with their investors, so investors know the reasoning behind their decisions.
 
-# Governance
+## Governance
 
-## dHedge Token (DHT)
+### dHedge Token (DHT)
 
 The dHEDGE token, DHT, serves multiple functions:
 * Facilitate decentralised governance.
 * Incentivise investors to pool assets with top-performing managers.
 * Incentivise managers to earn greater return.
 
-## Rewards
+### Rewards
 
 Rewards for DHT stakers will be paid in DHT, dTOP, or sUSD. Overall DHT rewards are distributed as follow:
 
@@ -29,7 +29,7 @@ Rewards for DHT stakers will be paid in DHT, dTOP, or sUSD. Overall DHT rewards 
 
 DHT distributed via staking and performance mining is done by increasing the circulating supply of DHT (inflation). Tokens distributed via the Protocol Treasury are done by liquidating a portion of the fees the protocol captures (protocol revenue).
 
-## Staking
+### Staking
 
 Staking dHEDGE Token (DHT) enables certain benefits, including receiving voting power to participate in dHEDGE governance and being eligible to receive capital rewarded on a weekly and quarterly basis.
 
@@ -39,7 +39,7 @@ To participate, enter an amount of DHT to stake as well as a lockup period. The 
 
 DHT stakers will be able to make other governance decisions regarding the dHEDGE protocol by voting on the Snapshot page: gov.dhedge.org.
 
-### How vDHT Works
+#### How vDHT Works
 
 * vDHT is based on staked DHT * lock-up time.
 * vDHT decays linearly over time.
@@ -48,7 +48,7 @@ DHT stakers will be able to make other governance decisions regarding the dHEDGE
 
 vDHT declines linearly as lockup time goes to zero. Your governance and earnings power is calculated as vDHT/(Total vDHT).
 
-### Staking Rewards
+#### Staking Rewards
 
 Staking rewards (earnings power) are based on vDHT. APY shown in the staking modal is the APY from your starting vDHT balance. As your vDHT balance declines, so will your staking rewards, and your true APY.
 
@@ -56,11 +56,11 @@ Longer lockup periods will have a higher initial APY, as vDHT will be higher, an
 
 Additionally, APY is calculated assuming a full year, so it extrapolates to the full year. If your staking length is set to under a year, expect a return lower than the stated APY.
 
-# Join our DAO
+## Join our DAO
 
 Please reach out via our [Discord](https://discord.com/invite/BAWTbRA) or [Telegram](https://t.me/dhedge).
 
-# Additional Resources
+## Additional Resources
 
 * [dHedge](https://www.dhedge.org/)
 * [Snapshot](https://gov.dhedge.org/#/)
