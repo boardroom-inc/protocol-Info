@@ -2,5 +2,10 @@
 	"cname": "pickle",
 	"description": "",
 	"path": "pickle",
+	"discourseForum": {
+		"url": "https://forum.pickle.finance/",
+		"categoryId": "5"
+	  },
 	"isEnabled": true
 }
+

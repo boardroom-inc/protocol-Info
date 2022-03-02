@@ -1,4 +1,4 @@
-#Lido DAO
+# Lido DAO
 The Lido DAO governs Lido’s liquid staking protocols.
 
 Lido is a liquid staking solution for Etheruem and other proof of stake chains. This allows users to stake their tokens without having to lock assets or maintain staking infrastructure. Users who stake via Lido receive daily rewards in the form of staking derivative tokens which are pegged 1:1 to the underlying staked assets.

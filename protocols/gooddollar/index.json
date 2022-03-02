@@ -4,7 +4,9 @@
   "path": "gooddollar",
   "isEnabled": true,
   "type": "compoundish",
-  "discourseForum.url": "https://discourse.gooddollar.org",
-  "discourseForum.categoryId": "5",
+  "discourseForum" : {
+		"url":"https://discourse.gooddollar.org",
+		"categoryId": "5"
+	},
   "treasuryAddresses": ["0x5C16960F2Eeba27b7de4F1F6e84E616C1977e070","0x1ecFD1afb601C406fF0e13c3485f2d75699b6817"]
 }

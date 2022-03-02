@@ -113,4 +113,5 @@ At any point in a DIP lifecycle, the proposer can cancel the DIP. A proposal can
 [Github] (https://github.com/dydxfoundation)
 [Foundation Website] (https://dydx.foundation/)
 [Blog] (https://dydx.foundation/blog)
-[Twitter] (https://twitter.com/dydxfoundation)
+[Twitter](https://twitter.com/dYdX)
+[dYdX foundation Twitter] (https://twitter.com/dydxfoundation)
