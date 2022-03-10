@@ -5,7 +5,7 @@ Anyone can make a proposal to BitDAO and, through the governance process, BIT to
 ## An Accelerator for Autonomous Entities
 Autonomous Entities (AEs) are independent organizations that are funded from successful proposals to the BitDAO treasury and are focused on a particular product, use case, or industry. Examples of previously approved Autonomous Entities include [Game7](https://game7.io/), [zkDAO](https://zkdao.io/), and [EduDAO](https://edudao.io/).
 
-# **Governance Process**
+## **Governance Process**
 BitDAO is owned and governed by $BIT token holders. To reduce spam, 200k BIT is required to make a proposal and 100M BIT is required to approve it.
 
 ## Phase 1: Soft Proposal
