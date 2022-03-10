@@ -1,4 +1,4 @@
-**GnosisDAO is the prediction market-driven collective. The mission of GnosisDAO is to successfully steward the Gnosis ecosystem through futarchy: governance by prediction markets.**
+**GnosisDAO builds decentralized infrastructure for the Ethereum ecosystem. In November 2021, the xDAI and GnosisDAO communities voted to combine their vibrant ecosystems to create the Gnosis Chain: An Ethereum forerunner-companion that addresses scaling issues through solid engineering. Gnosis Chain is the associated execution-layer EVM chain for stable transactions. It uses the xDai token and includes a wide-ranging group of projects and users.**
 
 GnosisDAO is a living entity that will evolve over time. This post provides an overview of the current GnosisDAO governance process.
 
