@@ -1,0 +1,7 @@
+{
+  "cname": "candle",
+  "description": "Candle is the first spiritual, human-focused and inter-connected metaverse protocol.",
+  "path": "candle",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xb80be29667021ae0b617ac9efe0a3a1a58033681"]
+}
