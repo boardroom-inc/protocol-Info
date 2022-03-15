@@ -1,0 +1,8 @@
+{
+  "cname": "dreamchain",
+  "description": "Dream Chain is an integrated utility solution for mental health and well being.",
+  "path": "dreamchain",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x3c91ef887c2958D2eD76275c8f4089a0FD7d4Ff3"],
+  "type": "snapshot"
+}
