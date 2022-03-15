@@ -1,0 +1,12 @@
+{
+  "cname": "epns",
+  "description": "Protocol for blockchain based notifications that are chain agnostic, platform independent and incentivized.",
+  "path": "epns",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.epns.io/",
+    "categoryId": "8"
+  },
+  "treasuryAddresses": ["0x68A9832153fd7f95f1a3FA24fcCC3D63a6486E66"],
+  "type": "snapshot"
+}

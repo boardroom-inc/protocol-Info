@@ -1,0 +1,12 @@
+{
+  "cname": "example",
+  "description": "A short description of dao/protocol",
+  "path": "example",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "",
+    "categoryId": ""
+  },
+  "treasuryAddresses": [""],
+  "type": ""
+}
