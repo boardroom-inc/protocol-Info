@@ -1,12 +1,7 @@
 {
-  "cname": "example",
-  "description": "A short description of dao/protocol",
-  "path": "example",
+  "cname": "goodkarma",
+  "description": "A music label dao supporting groundbreaking artists in web3",
+  "path": "goodkarma",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "",
-    "categoryId": ""
-  },
-  "treasuryAddresses": [""],
-  "type": ""
+  "type": "snapshot"
 }
