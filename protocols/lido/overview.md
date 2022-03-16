@@ -3,6 +3,8 @@ The Lido DAO governs Lido’s liquid staking protocols.
 
 Lido is a liquid staking solution for Etheruem and other proof of stake chains. This allows users to stake their tokens without having to lock assets or maintain staking infrastructure. Users who stake via Lido receive daily rewards in the form of staking derivative tokens which are pegged 1:1 to the underlying staked assets.
 
+## Overview
+
 ### History
 
 History
@@ -29,24 +31,29 @@ Upon launch in December 2020 1 billion LDO tokens were minted. The token allocat
 
 With the exception of the DAO Treasury, the tokens have a one-year lock up which is followed by a one-year vesting period
 
-### Governance
+## Governance
 
 Users can submit proposals for discussion to the governance platform for the Lido DAO, including Lido Improvement Proposals (LIPs) for core protocol updates: https://research.lido.fi/. A proposal must meet documentation and format requirements before submission and will be manually reviewed by an editor. The community then has the chance to discuss the LIP on forum.lido.com. Once deemed sufficiently mature, the proposal will be added to a governance call where it can be discussed for inclusion in a future platform upgrade.
 
 Lido also uses a Snapshot forum for off-chain voting which is intended as a signalling platform to determine proposal sentiment prior to launching on-chain votes​
 https://snapshot.org/#/lido-snapshot.eth
 
-#### On-Chain Governance Details
+### On-Chain Governance Details
+
 [Decisions in the Lido DAO are made by voting. Amongst others, DAO members manage protocol parameters, lists of node operators and oracle members, and can vote on app upgrades. The voting power of each member is proportional to the share of Lido DAO tokens they hold. In addition to a 50% approval, a minimum approval of 5% of the total token supply is required for an approval to pass. Any DAO member can make a proposal for the DAO to vote on.
 
 Lido uses Aragon for on-chain voting where members can submit proposals.](https://mainnet.lido.fi/#/lido-dao/)
 
-### Additional Resources
+## Join our DAO
 
-[Website](https://lido.fi/)
-[Twitter](https://twitter.com/lidofinance)
-[Discord](https://discord.gg/vgdPfhZ)
-[Telegram](https://t.me/lidofinance)
-[Reddit](https://www.reddit.com/r/LidoFinance)
-[Blog](https://blog.lido.fi/)
-[Forum](https://research.lido.fi/)
+Please reach out via our [Discord](https://discord.gg/vgdPfhZ) or [Telegram](https://t.me/lidofinance).
+
+## Additional Resources
+
+* [Website](https://lido.fi/)
+* [Twitter](https://twitter.com/lidofinance)
+* [Discord](https://discord.gg/vgdPfhZ)
+* [Telegram](https://t.me/lidofinance)
+* [Reddit](https://www.reddit.com/r/LidoFinance)
+* [Blog](https://blog.lido.fi/)
+* [Forum](https://research.lido.fi/)
