@@ -3,5 +3,9 @@
 	"description": "",
 	"path": "aave",
 	"isEnabled": true,
+	"discourseForum": {
+		"url":"https://governance.aave.com/",
+		"categoryId": "4"
+	},
 	"treasuryAddresses": ["0x25F2226B597E8F9514B3F68F00f494cF4f286491"]
 }
