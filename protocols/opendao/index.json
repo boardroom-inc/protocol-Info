@@ -3,5 +3,6 @@
   "description": "The token to pay tribute, to protect, to promote all NFT creators, collectors and markets in NFT community",
   "path": "opendao",
   "type": "snapshot",
-  "isEnabled": true
+  "isEnabled": true,
+  "treasuryAddresses":["0xd08d0e994EeEf4001C63C72991Cf05918aDF191b"]
 }
