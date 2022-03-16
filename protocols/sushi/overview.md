@@ -1,5 +1,6 @@
-# What is Sushi?
+# SushiSwap
 
+## Overview
 Sushi is a community-driven organization built to solve what might be called the “liquidity problem.” One could define this problem as the inability of disparate forms of liquidity to connect with markets in a decentralized way, and vice versa. While other solutions provide incrementally progressive advances toward solving the problem of liquidity, Sushi’s progress is intended to create a broader range of network effects. Rather than limiting itself to a single solution, Sushi intertwines many decentralized markets and instruments. Thus far, the core products include a decentralized exchange, a decentralized lending market, yield instruments, and staking derivatives. Sushi’s products are configured in a way that allows the entire platform to maintain decentralized governance of SUSHI token holders, while continuing to innovate on the collective foundations by design. Whereas major structural changes are voted on by the community, the day-to-day operations, rebalancing of pools and ratios, business strategy, and overall development is ultimately decided on by our Sushi Chef 0xMaki and the core team.
 
 To interact with our products, please explore the links below:
@@ -9,7 +10,7 @@ To interact with our products, please explore the links below:
 * Sushi Yield Farms: https://app.sushi.com/farm
 * SushiBar Staking (xSUSHI): https://app.sushi.com/stake
 
-# Current Governance Model
+## Current Governance Model
 
 SushiSwap is ultimately governed by its community, via forum discussions and, when pertinent, voting on proposals held on the [SushiSwap Snapshot](https://snapshot.page/#/sushi). At this time, only proposals posted to the Snapshot voting system by the CORE can be considered binding if passed with a quorum.
 
@@ -28,3 +29,10 @@ The **Ops Multisig** members are: @0xMaki, @LevxApp, @OmakaseBar, @0xJiro, @0xKe
 (twitter handles)
 
 Our goal is to establish a DAO, with working trustless governance. This is not an easy task by any measure, and is not something that will be rushed. There are at this time no time estimates for when this can be accomplished, but it will surely take well into 2021. All are welcome to discuss how the future DAO should work, as well as how the current governance model works, by participating on our [forums](https://forum.sushiswapclassic.org/) and in the #governance channel on our [Discord](https://discord.gg/NVPXN4e) server.
+
+
+## Additional links
+[Website](https://sushi.com)
+[Twiiter](https://twitter.com/sushiswap)
+[Medium](https://sushichef.medium.com/)
+[Github](https://github.com/sushiswap)

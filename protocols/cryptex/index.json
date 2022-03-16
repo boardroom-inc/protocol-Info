@@ -1,0 +1,12 @@
+{
+  "cname": "cryptex",
+  "description": "Cryptex is the world's first total crypto market cap token.",
+  "path": "cryptex",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.cryptex.finance/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0xa54074b2cc0e96a43048d4a68472F7F046aC0DA8"],
+  "type": "compoundish"
+}

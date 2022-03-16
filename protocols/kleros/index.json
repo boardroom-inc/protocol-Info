@@ -3,5 +3,9 @@
 	"description": "",
 	"path": "kleros",
 	"isEnabled": true,
+	"discourseForum":{
+		"url":"https://forum.kleros.io/",
+		"categoryId":"14"
+	},
 	"treasuryAddresses": ["0x67a57535b11445506a9e340662CD0c9755E5b1b4"]
 }

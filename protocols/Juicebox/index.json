@@ -1,0 +1,8 @@
+{
+  "cname": "juicebox",
+  "description": "A programmable treasury for community-owned Ethereum projects",
+  "path": "juicebox",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xaf28bcb48c40dbc86f52d459a6562f658fc94b1e"],
+  "type": "snapshot"
+}
