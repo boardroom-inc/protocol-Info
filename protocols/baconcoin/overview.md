@@ -64,3 +64,10 @@ broader data for large holders and the ability to propose the creation of new Pa
 
 Contact us on [Telegram](https://t.me/joinchat/sdfymEO4QbZmMWZh) or [Discord](https://discord.gg/4kaKKvb25f)
 
+## Additional links
+
+[Website](https://www.baconcoin.com/)
+[Mirror](https://mirror.xyz/baconcoin.eth)
+[Reddit](https://www.reddit.com/r/BaconProtocol/)
+[Instagram](https://www.instagram.com/baconprotocol/)
+[Giphy](https://giphy.com/channel/BaconCoin)
