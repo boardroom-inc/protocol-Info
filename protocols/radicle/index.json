@@ -3,5 +3,9 @@
 	"description": "",
 	"path": "radicle",
 	"isEnabled": true,
+	"discourseForum" : {
+		"url":"https://radicle.community/",
+		"categoryID":"14"
+	},
 	"treasuryAddresses": ["0x8dA8f82d2BbDd896822de723F55D6EdF416130ba"]
 }

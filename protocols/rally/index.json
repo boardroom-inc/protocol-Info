@@ -4,5 +4,9 @@
   "path": "rallygov.eth",
   "previousPaths": ["rally"],
   "isEnabled": true,
+  "discourseForum" : {
+    "url":"https://forum.rally.io/",
+    "categoryID":"15"
+  },
   "treasuryAddresses": ["0x3b66890289366175c360c1f0e1bafae06276ba03","0xAb9C84ad7f8B1356A370d367234fe215DF979Ec2"]
 }
