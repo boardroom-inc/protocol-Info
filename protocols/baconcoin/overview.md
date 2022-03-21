@@ -71,3 +71,4 @@ Contact us on [Telegram](https://t.me/joinchat/sdfymEO4QbZmMWZh) or [Discord](ht
 [Reddit](https://www.reddit.com/r/BaconProtocol/)
 [Instagram](https://www.instagram.com/baconprotocol/)
 [Giphy](https://giphy.com/channel/BaconCoin)
+[Whitepaper](https://files.baconcoin.finance/bacon-protocol-whitepaper.pdf)
