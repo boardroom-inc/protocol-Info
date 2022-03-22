@@ -2,5 +2,6 @@
 	"cname": "vsp",
 	"description": "Vesper is a platform for easy-to-use #DeFi products.",
 	"path": "vsp.eth",
-	"isEnabled": true
+	"isEnabled": true,
+	"treasuryAddresses":["0x9520b477Aa81180E6DdC006Fc09Fb6d3eb4e807A"]
 }
