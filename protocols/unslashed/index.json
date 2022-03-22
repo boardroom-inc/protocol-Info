@@ -1,0 +1,11 @@
+{
+  "cname": "unslashed",
+  "description": "Unslashed is a decentralized insurance protocol covering all common risks for crypto assets.",
+  "path": "unslashed",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.unslashed.finance/",
+    "categoryId": "6"
+  },
+  "type": "compoundish"
+}
