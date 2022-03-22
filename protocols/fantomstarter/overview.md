@@ -39,6 +39,8 @@ given.
 FantomStarter will empower the community by letting them vote on future IDO listings. Powered by Snapshot; a decentralized voting system that provides flexible governance across most blockchains, the FantomStarter community will now act as an additional crowd-sourced layer of assurance making sure the projects listed are not only internally audited by an experienced; dedicated team, but also reflective of variables outside of our control.
 Whilst we utilize our expertise on the business, legal and compliance side, the FantomStarter community will use their collective expertise of market demand to determine if a project has what it takes to succeed beyond our initial recommendations.
 
+Every Smart subscriber can vote based on how much tokens he used for the Smart subscription. Governance is fully on chain and to create a proposal you need to be Tier 5 or above. Both users subscribed with FS tokens but also FS Key NFT holders ca vote and propose projects. Every proposal has a 24hr cooldown and a 3 days duration.
+
 ## Join Us
 Contact us on [Telegram](https://t.me/fantomstarter) or [Discord](https://discord.com/invite/nsMxVcNwy6)
 
