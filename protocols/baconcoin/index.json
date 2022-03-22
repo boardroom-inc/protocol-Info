@@ -1,7 +1,7 @@
 {
-  "cname": "baconchain",
+  "cname": "baconcoin",
   "description": "The Bacon Protocol introduces a new way for crypto wallet holders to hold a coin backed by the same types of mortgages that banks, insurance companies and governments use. The BaconCoin DAO manages the treasury of the protocol.",
-  "path": "baconchain",
+  "path": "bacon",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://discourse.baconcoin.com/",
