@@ -1,0 +1,8 @@
+{
+  "cname": "wagumi",
+  "description": "Wagumi is a Japanese Web3 Community where we talk and discuss about latest information in the world of web3.",
+  "path": "wagumi",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xDCE4694e268bD83EA41B335320Ed11A684a1d7dB"],
+  "type": "snapshot"
+}
