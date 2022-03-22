@@ -1,8 +1,9 @@
 # FantomStarter
+Meet the platform that enables everyone to participate first in the most promising projects and products with solid business plans to win top blockchain opportunities
 
 ## Overview
-
 FantomStarter DAO empowers the token and NFT holders to decide about the next projects to be launched on the platform.
+We are a team of professionals working in crypto for more than 5 years. Every sale decision of the protocol gets added to vote before being published on the dApp. FantomStarter Smart subcribers are the members of the DAO.
 
 ### Why FantomChain ?
 Time and time again, we evaluate and advise start-ups. The biggest challenge projects
@@ -42,7 +43,7 @@ Whilst we utilize our expertise on the business, legal and compliance side, the 
 Every Smart subscriber can vote based on how much tokens he used for the Smart subscription. Governance is fully on chain and to create a proposal you need to be Tier 5 or above. Both users subscribed with FS tokens but also FS Key NFT holders ca vote and propose projects. Every proposal has a 24hr cooldown and a 3 days duration.
 
 ## Join Us
-Contact us on [Telegram](https://t.me/fantomstarter) or [Discord](https://discord.com/invite/nsMxVcNwy6)
+Join the DAO by subscribing to FantomStarter Smart, while having an active subscription you can always be an active part on the decisions the protocol puts up for voting.
 
 ## Additional links
 [Website](https://fantomstarter.io/)
@@ -52,3 +53,5 @@ Contact us on [Telegram](https://t.me/fantomstarter) or [Discord](https://discor
 [FAQ](https://fantomstarter.medium.com/fantomstarter-best-practices-52b9dba3c5f4)
 [Careers](https://angel.co/company/fantomstarter/jobs)
 [Litepaper](https://fantomstarterio.github.io/docs/English_Litepaper_v3.0.pdf)
+[Telegram](https://t.me/fantomstarter)
+[Discord](https://discord.com/invite/nsMxVcNwy6)
