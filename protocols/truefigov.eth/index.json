@@ -2,5 +2,10 @@
 	"cname": "truefigov",
 	"description": "",
 	"path": "truefigov.eth",
-	"isEnabled": true
+	"isEnabled": true,
+	"treasuryAddresses" : ["0xE74B87233A43E73bdb002816a2290DC899eB73F3"],
+	"discourseForum": {
+		"url":"https://forum.truefi.io/",
+		"categoryID":"7"
+	}
 }

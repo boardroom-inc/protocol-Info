@@ -14,7 +14,7 @@ this is a taco noun
 
 this is an airplane noun
 
-# Noun Auctions
+## Noun Auctions
 
 One noun is auctioned every 24 hours, forever. One interface for participating in noun auctions is [nouns.wtf](http://nouns.wtf), which is a website built and maintained by the project founders ('Nounders'):
 
@@ -25,11 +25,11 @@ In the auction above, Noun 8, which is the 9th Noun (Noun IDs start at 0) is for
 You can see all the Noun ERC-721 tokens here: [https://opensea.io/collection/nouns](https://opensea.io/collection/nouns)
 
 
-# Noun Auction Settlement
+## Noun Auction Settlement
 
 Because of the way Ethereum works, Noun auctions must be settled after they are completed. The auction settlement transaction does three things: 1. it sends the current NOUN ERC-721 token to the winner of the auction, 2. generates the next Noun, and 3. begins the next 24 hour Noun auction.
 
-# Nouns DAO
+## Nouns DAO
 
 The Nouns DAO treasury receives 100% of ETH proceeds from daily noun auctions. As of this writing, the Nouns DAO treasury contains 3,455.6022 ETH, the equivalent of $12,273,677.01 USD. 
 
@@ -41,3 +41,15 @@ Nouns use their voting abilities (remember, 1 Noun = 1 vote) to direct the treas
 
 ---
 
+## Join our DAO
+
+Please reach out to us via our [Discord](https://discord.com/invite/nouns).
+
+## Additional Links
+
+* [Nouns](https://nouns.wtf/)
+* [Discord](https://discord.com/invite/nouns)
+* [Documentation](https://nouns.notion.site/Explore-Nouns-a2a9dceeb1d54e10b9cbf3f931c2266f)
+* [Twitter](https://twitter.com/nounsdao)
+* [Discourse](https://discourse.nouns.wtf/)
+* [Github](https://github.com/nounsDAO/)
