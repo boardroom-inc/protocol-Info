@@ -3,5 +3,6 @@
   "description": "Olympus is a non-pegged-stablecoin that attempts to be less volatile than traditional cryptocurrencies while not being pegged to any fiat currencies.",
   "path": "olympusdao",
   "isEnabled": true,
-  "type": "snapshot"
+  "type": "snapshot",
+  "treasuryAddresses": ["0x9A315BdF513367C0377FB36545857d12e85813Ef"]
 }
