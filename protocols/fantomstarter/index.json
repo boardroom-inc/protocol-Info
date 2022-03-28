@@ -2,7 +2,7 @@
   "cname": "fantomstarter",
   "description": "FantomStarter DAO empowers the token and NFT holders to decide about the next projects to be launched on the platform.",
   "path": "fantomstarter",
-  "isEnabled": true,
+  "isEnabled": false,
   "treasuryAddresses": ["0x6E2A0A942Eaa01B7EB2639B8B65D1D2768a87BAc"],
   "type": "snapshot"
 }
