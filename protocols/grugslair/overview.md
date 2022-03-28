@@ -23,7 +23,7 @@ Each Grug NFT will represent a membership token for the Grug’s Lair and will g
 
 You can join and connect with us on [Discord](http://discord.gg/RqhmnxCVkJ)
 
-### Additional Resources
+## Additional Resources
 
 * [Discord Chat](http://discord.gg/RqhmnxCVkJ)
 * [Discourse Forum](https://grugslair.trydiscourse.com/)
