@@ -1,0 +1,8 @@
+{
+  "cname": "bifi",
+  "description": "A short description of dao/protocol",
+  "path": "bifi",
+  "isEnabled": true,
+  "treasuryAddresses": [""],
+  "type": "compoundish"
+}
