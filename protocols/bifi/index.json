@@ -1,6 +1,6 @@
 {
   "cname": "bifi",
-  "description": "A short description of dao/protocol",
+  "description": "BiFi aims to create a decentralized financial infrastructure that connects all the capital markets currently isolated on each blockchain and creates new products and services that interoperate across multiple blockchains. ",
   "path": "bifi",
   "isEnabled": true,
   "treasuryAddresses": [""],
