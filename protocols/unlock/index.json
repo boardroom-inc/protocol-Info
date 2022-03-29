@@ -1,0 +1,12 @@
+{
+  "cname": "unlock",
+  "description": "Unlock connects humans through NFT-based memberships.",
+  "path": "unlock",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://unlock.community/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": [""],
+  "type": "compoundish"
+}
