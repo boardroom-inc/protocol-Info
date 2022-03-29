@@ -12,7 +12,7 @@ Below we outline a preliminary draft explaining how the dYdX governance process 
 
 The following flow chart is the initial proposed stages to pass a proposal:
 
-![Stages of a DIP](<https://github.com/dydxfoundation/governance-documentation/tree/en/.gitbook/assets/image (81).png>)
+![Stages of a DIP](images/dydxDIP.png)
 
 ## 0. Forum Discussion
 
