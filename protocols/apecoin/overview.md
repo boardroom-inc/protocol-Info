@@ -1,4 +1,3 @@
-Overview of protocol and governance process.
 # ApeCoin
 
 ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.
