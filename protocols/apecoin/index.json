@@ -1,12 +1,11 @@
 {
-  "cname": "example",
-  "description": "A short description of dao/protocol",
-  "path": "example",
+  "cname": "apecoin",
+  "description": "ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.",
+  "path": "apecoin",
   "isEnabled": true,
   "discourseForum": {
-    "url": "",
-    "categoryId": ""
+    "url": "https://forum.apecoin.com/",
+    "categoryId": "13"
   },
-  "treasuryAddresses": [""],
-  "type": ""
+  "type": "snapshot"
 }
