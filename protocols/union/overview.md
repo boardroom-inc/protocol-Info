@@ -1,4 +1,3 @@
-Overview of protocol and governance process.
 # Union
 
 ## Overview
