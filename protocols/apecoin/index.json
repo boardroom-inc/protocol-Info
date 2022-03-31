@@ -1,0 +1,11 @@
+{
+  "cname": "apecoin",
+  "description": "ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.",
+  "path": "apecoin",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.apecoin.com/",
+    "categoryId": "13"
+  },
+  "type": "snapshot"
+}
