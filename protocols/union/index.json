@@ -2,6 +2,5 @@
   "cname": "union",
   "description": "Union is a permissionless, composable credit protocol.",
   "path": "union",
-  "isEnabled": true,
-  "type": "compoundish"
+  "isEnabled": true
 }
