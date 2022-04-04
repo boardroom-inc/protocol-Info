@@ -1,0 +1,7 @@
+{
+  "cname": "algodao",
+  "description": "Algodao is a dao-governed incubator for Algorand.",
+  "path": "algodao",
+  "isEnabled": true,
+  "type": "compoundish"
+}
