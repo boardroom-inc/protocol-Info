@@ -8,5 +8,5 @@
     "categoryId": "204"
   },
   "treasuryAddresses": ["0xFfe8A8ec2477390c6b97074f44326fac24D7f6DD"],
-  "type": "compoundish"
+  "type": "moloch"
 }
