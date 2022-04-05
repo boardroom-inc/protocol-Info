@@ -12,7 +12,7 @@ Below we outline a preliminary draft explaining how the dYdX governance process 
 
 The following flow chart is the initial proposed stages to pass a proposal:
 
-![Stages of a DIP](<https://github.com/dydxfoundation/governance-documentation/tree/en/.gitbook/assets/image (81).png>)
+![Stages of a DIP](images/dydxDIP.png)
 
 ## 0. Forum Discussion
 
@@ -66,7 +66,7 @@ After the Voting Delay, the Voting Period is activated. The voting period length
 
 The following chart shows a DIP state flowchart:
 
-![Lifecycle of a DIP](<https://github.com/dydxfoundation/governance-documentation/tree/en/.gitbook/assets/image (63).png>)
+![Lifecycle of DIP](https://i.imgur.com/gRcRz7F.png)
 
 After a DIP is created on-chain it is subject to a **Voting Delay**, **Voting Period**, **Minimum Quorum**, and a minimum **Vote Differential**. The initial parameters are as follows:
 

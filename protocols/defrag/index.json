@@ -1,0 +1,8 @@
+{
+  "cname": "defrag",
+  "description": "DeFrag is a decentralized liquidity market protocol where borrowers can use NFT assets as collateral to get a loan.",
+  "path": "defrag",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x6200831Ff20a4537b0B48aF1653B59c243E20443"],
+  "type": "compoundish"
+}

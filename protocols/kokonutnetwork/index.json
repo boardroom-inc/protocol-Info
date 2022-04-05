@@ -1,0 +1,12 @@
+{
+  "cname": "kokonutnetwork",
+  "description": "Kokonut Network is connecting Web3, social, and agriculture.",
+  "path": "kokonutnetwork",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.daohaus.club/c/kokonut-network/",
+    "categoryId": "204"
+  },
+  "treasuryAddresses": ["0xFfe8A8ec2477390c6b97074f44326fac24D7f6DD"],
+  "type": "moloch"
+}
