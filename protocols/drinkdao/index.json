@@ -1,0 +1,12 @@
+{
+  "cname": "drinkdao",
+  "description": "Drink DAO lets everyone drink",
+  "path": "drinkdao",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "",
+    "categoryId": ""
+  },
+  "treasuryAddresses": ["0x391985Fdf0F28De092027D52763621221684caDf"],
+  "type": ""
+}
