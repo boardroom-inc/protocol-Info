@@ -1,0 +1,8 @@
+{
+  "cname": "grugslair",
+  "description": "Grug's Lair DAO is a community owned Playfi Guild and trading DAO that will allow both P2E and crypto trading enthusiasts to take part in the activities that we will offer in the Discord group.",
+  "path": "grugslair",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xB6Fc241c67C214D36fc4De65CA69F81b4302e7F4"],
+  "type": "snapshot"
+}
