@@ -1,8 +1,11 @@
+# Aave
+
+## Overview
 Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.
 
 AAVE (token) is used as the centre of gravity of Aave Protocol governance. AAVE is used to vote and decide on the outcome of Aave Improvement Proposals (AIPs). Apart from this, AAVE can be staked within the protocol [Safety Module](https://etherscan.io/token/0x4da27a545c0c5b758a6ba100e3a049001de870f5) to provide security/insurance to the protocol/depositors. Stakers earn staking rewards and fees from the protocol.
 
-### 🧭 Aave Governance
+## 🧭 Aave Governance
 Aave Governance V2 is an exciting new evolution of on-chain governance, allowing unique features, rapid protocol upgrades via short time lock executors, and governance upgrades via long time lock executors. This ensures the protocol can rapidly adjust to changing market conditions, as well as upgrade core parts of the protocol as time goes on.
 
 ### 📈 Governance Power
@@ -27,3 +30,22 @@ The steps for a successful governance proposal are:
 If successful, the AIP's payload will be automatically executed and implemented.
 
 For a detailed overview of the proposal life-cycle, see [the Developer Docs](https://docs.aave.com/developers/protocol-governance/governance#proposal-life-cycle).
+
+## Join us
+
+Reach out to us on Twitter or Discord
+
+## Additional links
+
+[Website](https://aave.com/)
+[Github](https://github.com/aave)
+[Governance](https://aave.com/#governance)
+[Docs](https://docs.aave.com/portal/)
+[Security Audits](https://docs.aave.com/developers/security-and-audits)
+[FAQ](https://docs.aave.com/faq/)
+[Technical Paper](https://github.com/aave/aave-v3-core/blob/master/techpaper/Aave_V3_Technical_Paper.pdf)
+
+#### Socials
+[Twitter](https://twitter.com/aaveaave)
+[Discord](https://discord.gg/CvKUrqM)
+[Telegram](https://t.me/Aavesome)
