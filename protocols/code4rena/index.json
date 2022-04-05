@@ -2,7 +2,7 @@
   "cname": "code4rena",
   "description": "Code4rena provides community-driven contests for smart contract audits",
   "path": "code4rena",
-  "isEnabled": true,
+  "isEnabled": false,
   "treasuryAddresses": ["0xC2bc2F890067C511215f9463a064221577a53E10"],
   "type": "compoundish"
 }
