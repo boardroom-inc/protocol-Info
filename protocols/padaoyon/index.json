@@ -1,0 +1,12 @@
+{
+  "cname": "padaoyon",
+  "description": "A private venture DAO & gaming guild built for the Filipino community!",
+  "path": "padaoyon",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "",
+    "categoryId": ""
+  },
+  "treasuryAddresses": ["0x6dAAD986c07338508FF522F8fF7B8678735aDd78"],
+  "type": ""
+}
