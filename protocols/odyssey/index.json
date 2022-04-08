@@ -1,0 +1,12 @@
+{
+  "cname": "odyssey",
+  "description": "Odyssey DAO is creating quality web3 education.",
+  "path": "odyssey",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "",
+    "categoryId": ""
+  },
+  "treasuryAddresses": [""],
+  "type": ""
+}
