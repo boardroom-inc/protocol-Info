@@ -5,7 +5,7 @@
   "isEnabled": true,
   "discourseForum": {
     "url": "https://wall.grugslair.xyz/",
-    "categoryId":"5"
+    "categoryId": "5"
   },
   "treasuryAddresses": ["0xB6Fc241c67C214D36fc4De65CA69F81b4302e7F4"],
   "type": "snapshot"
