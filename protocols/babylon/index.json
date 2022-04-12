@@ -2,7 +2,7 @@
   "cname": "babylon",
   "description": "Babylon is a community-led asset management protocol that enables users to invest in DeFi together.",
   "path": "babylon",
-  "isEnabled": true,
+  "isEnabled": false,
   "treasuryAddresses": ["0xD7AAf4676F0F52993cb33aD36784BF970f0E1259"],
   "type": "compoundish"
 }
