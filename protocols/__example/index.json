@@ -8,5 +8,6 @@
     "categoryId": ""
   },
   "treasuryAddresses": [""],
-  "type": ""
+  "type": "",
+  "frameworksUsed": [""]
 }
