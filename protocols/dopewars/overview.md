@@ -58,7 +58,7 @@ DOPE DAO will check the following before considering any and all proposals.
 
 Including how to purchase your first DOPE NFT, how to get involved with the project, or what "the game" will be like
 
-👉 [Please see our Wiki and Players Guide](http://wiki.dopedao.org/)
+[Please see our Wiki and Players Guide](http://wiki.dopedao.org/)
 
 ## Additional resources: 
 
