@@ -54,6 +54,12 @@ DOPE DAO will check the following before considering any and all proposals.
 - If no consensus, then proposal fails
 - Sponsor is responsible for evaluating the milestone along with a community appointed witness, also a DOPE NFT holder
 
+## Join us
+
+Including how to purchase your first DOPE NFT, how to get involved with the project, or what "the game" will be like
+
+👉 [Please see our Wiki and Players Guide](http://wiki.dopedao.org/)
+
 ## Additional resources: 
 
 * [Dopewars](https://dopewars.gg/)
@@ -62,3 +68,4 @@ DOPE DAO will check the following before considering any and all proposals.
 * [Twitter](https://twitter.com/thedopewars?lang=en)
 * [Github](https://github.com/dopedao)
 * [Telegram](https://t.me/DopeWarsPaper)
+* [Wiki](http://wiki.dopedao.org/)
