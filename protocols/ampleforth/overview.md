@@ -56,6 +56,10 @@ Learn About FORTH Governance : https://docs.ampleforth.org/learn/about-forth-gov
 Visit the FORTH governance forum : https://forum.ampleforth.org/
 Join the Ampleforth Discord Community : https://discord.gg/mptQ49m
 
+## Join us
+
+Reach out to us on [Twitter](https://twitter.com/ampleforthorg) or [Discord](https://discord.gg/6Amxhs4)
+
 ### Additional Resources
 
 * [Website](https://ampleforth.org)
@@ -68,3 +72,4 @@ Join the Ampleforth Discord Community : https://discord.gg/mptQ49m
 * [AMPL Token Info](https://www.coingecko.com/en/coins/ampleforth)
 * [FORTH Token Info](https://www.coingecko.com/en/coins/ampleforth-governance-token)
 * [Documentation](https://docs.ampleforth.org/)
+[More links](https://docs.ampleforth.org/ecosystem/explore-the-ecosystem)
