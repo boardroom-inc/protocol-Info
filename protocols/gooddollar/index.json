@@ -2,7 +2,7 @@
   "cname": "gooddollar",
   "description": "GoodDollar - Universal basic income protocol, for the people by the people",
   "path": "gooddollar",
-  "isEnabled": true,
+  "isEnabled": false,
   "type": "compoundish",
   "discourseForum" : {
 		"url":"https://discourse.gooddollar.org",
