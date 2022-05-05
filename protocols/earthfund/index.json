@@ -1,7 +1,7 @@
 {
   "cname": "earthfund",
   "description": "A DAO focused on solving problems like carbon removal, green tech, inequality, conversation, public health etc",
-  "path": "earthfund",
+  "path": "earthfund.eth",
   "isEnabled": true,
   "type": "snapshot",
   "discourseForum": {
