@@ -1,0 +1,12 @@
+{
+  "cname": "evmavericks",
+  "description": "Ethereum Virtual Mavericks",
+  "path": "evmavericks",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.evmavericks.xyz/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0x7dDAA898D33D7aB252Ea5F89f96717c47B2fEE6e"],
+  "type": "Snapshot"
+}
