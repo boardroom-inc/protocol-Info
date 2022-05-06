@@ -1,0 +1,11 @@
+{
+  "cname": "babydogearmy",
+  "description": "The most glorious art on the face on the planet. 10,000 unique adoptable baby doges on the Ethereum blockchain. They have been developed over many months by our artists and developers making a total of over 200+ unique traits.",
+  "path": "babydogearmy",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.babydoge.com/",
+    "categoryId": "7"
+  },
+  "type": "snapshot"
+}
