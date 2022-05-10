@@ -43,7 +43,7 @@ Being a LinksDAO member comes with an array of exclusive partner benefits beyond
 
 
 ## Additional links
-
+* [Website](https://linksdao.io/)
 * [Discord](https://discord.gg/LinksDAO)
 * [Twitter](https://twitter.com/LinksDAO)
 * [Instagram](https://www.instagram.com/linksdao/)
