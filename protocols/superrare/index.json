@@ -1,0 +1,8 @@
+{
+  "cname": "superrare",
+  "description": "SuperRare is a marketplace to collect and trade unique, single-edition digital artworks.",
+  "path": "superrare",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x860a80d33E85e97888F1f0C75c6e5BBD60b48DA9"],
+  "type": "snapshot"
+}
