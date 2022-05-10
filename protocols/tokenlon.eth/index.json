@@ -1,6 +1,10 @@
 {
-	"cname": "tokenlon",
-	"description": "",
-	"path": "tokenlon.eth",
-	"isEnabled": true
+  "cname": "tokenlon",
+  "description": "",
+  "path": "tokenlon.eth",
+  "discourseForum": {
+    "url": "https://forum.tokenlon.im/",
+    "categoryId": "5"
+  },
+  "isEnabled": true
 }
