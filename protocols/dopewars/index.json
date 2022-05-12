@@ -4,5 +4,5 @@
   "path": "dopewars",
   "type": "snapshot",
   "isEnabled": true,
-  "treasuryAddress": ["0xb57ab8767cae33be61ff15167134861865f7d22c"]
+  "treasuryAddress": ["0xb57ab8767cae33be61ff15167134861865f7d22c", "0xB429Bee46B7DF01D759D04D57DaBe814ECf0341b"]
 }
