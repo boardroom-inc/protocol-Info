@@ -1,0 +1,12 @@
+{
+  "cname": "curvefi",
+  "description": "Curve Finance is an automated market maker protocol designed for swapping between stablecoins with low fees and slippage.",
+  "path": "curvefi",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.curve.fi/",
+    "categoryId": "8"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
