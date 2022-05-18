@@ -7,6 +7,6 @@
     "url": "https://unlock.community/",
     "categoryId": "5"
   },
-  "treasuryAddresses": [""],
+  "treasuryAddresses": ["0x17EEDFb0a6E6e06E95B3A1F928dc4024240BC76B"],
   "type": "compoundish"
 }
