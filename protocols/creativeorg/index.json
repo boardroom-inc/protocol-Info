@@ -2,7 +2,7 @@
   "cname": "creativeorg",
   "description": "Creative is the first decentralized ecosystem for independent creators and brands to collaborate, build communities, and earn rewards together.To ensure a trusted environment for all users of Creative, we’ve developed an open-source platform with built-in gamification tools designed to encourage collaboration, engagement and content creation. Our blockchain technology uses P2E DeFi incentives (Pioneers Earnings) on top of existing smart contracts to provide instant payouts when content is created or discovered within the community.",
   "path": "creativeorg",
-  "isEnabled": true,
+  "isEnabled": false,
   "discourseForum": {
     "url": "https://forum.daohaus.club/",
     "categoryId": "91"
