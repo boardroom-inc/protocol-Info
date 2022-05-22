@@ -1,7 +1,8 @@
 {
   "cname": "gasdao",
-  "description": "Providing strategic insights and a voice for the network’s most active users",
+  "description": "Providing strategic insights and a voice for the networks most active users",
   "path": "gasdao",
   "isEnabled": true,
-  "type": "compoundish"
+  "type": "compoundish",
+  "treasuryAddresses":["0xC9A7D537F17194c68455D75e3d742BF2c3cE3c74"]
 }
