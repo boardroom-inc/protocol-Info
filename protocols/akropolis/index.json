@@ -1,0 +1,12 @@
+{
+  "cname": "akropolis",
+  "description": "DeFi yield on autopilot",
+  "path": "akropolis",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.akropolis.io/",
+    "categoryId": "16"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
