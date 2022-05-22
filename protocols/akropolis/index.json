@@ -7,6 +7,6 @@
     "url": "https://gov.akropolis.io/",
     "categoryId": "16"
   },
-  "treasuryAddresses": [""],
+  "treasuryAddresses": ["0x1d44b41A742D2b008A8faF655451aa015a59f248"],
   "type": "snapshot"
 }
