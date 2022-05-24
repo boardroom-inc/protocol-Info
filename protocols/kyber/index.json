@@ -1,0 +1,11 @@
+{
+  "cname": "kyber",
+  "description": "Kyber Network is a multi-chain crypto trading and liquidity hub that connects liquidity from different sources to enable trades at the best rates .",
+  "path": "kyber",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.kyber.org/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0x3EB01B3391EA15CE752d01Cf3D3F09deC596F650"]
+}
