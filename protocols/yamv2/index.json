@@ -2,7 +2,7 @@
   "cname": "yamv2",
   "description": "",
   "path": "yamv2",
-  "isEnabled": false,
+  "isEnabled": true,
   "DiscourseForum": {
     "url": "https://forum.yam.finance/",
     "CategoryId": "9"
