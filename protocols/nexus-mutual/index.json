@@ -1,0 +1,12 @@
+{
+  "cname": "nexusmutual",
+  "description": "A people-powered alternative to insurance",
+  "path": "nexusmutual",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.nexusmutual.io/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0x586b9b2F8010b284A0197f392156f1A7Eb5e86e9"],
+  "type": "snapshot"
+}
