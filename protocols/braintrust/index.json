@@ -3,5 +3,6 @@
   "description": "Braintrust is the first decentralized talent network that connects skilled, vetted knowledge workers with the world’s most reputable brands.",
   "path": "braintrust",
   "isEnabled": true,
+  "treasuryAddresses":["0xb6f1F016175588a049fDA12491cF3686De33990B"],
   "type": "compoundish"
 }
