@@ -1,7 +1,7 @@
 {
-  "cname": "yamv2",
+  "cname": "yam",
   "description": "",
-  "path": "yamv2",
+  "path": "yam",
   "isEnabled": true,
   "DiscourseForum": {
     "url": "https://forum.yam.finance/",
