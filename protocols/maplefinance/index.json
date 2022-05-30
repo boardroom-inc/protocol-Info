@@ -1,0 +1,11 @@
+{
+  "cname": "maplefinance",
+  "description": "A short description of dao/protocol",
+  "path": "maplefinance",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://community.maple.finance/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19"]
+}
