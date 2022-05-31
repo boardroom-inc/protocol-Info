@@ -1,0 +1,12 @@
+{
+  "cname": "proofofhumanity",
+  "description": "Proof of Humanity, a system combining webs of trust, with reverse Turing tests, and dispute resolution to create a sybil-proof list of humans.",
+  "path": "proofofhumanity",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.kleros.io/",
+    "categoryId": "15"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
