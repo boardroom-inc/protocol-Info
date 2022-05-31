@@ -1,0 +1,12 @@
+{
+  "cname": "decentraland",
+  "description": "Create, explore and trade in the first-ever virtual world owned by its users",
+  "path": "decentraland",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.decentraland.org/",
+    "categoryId": "13"
+  },
+  "treasuryAddresses": ["0x89214c8Ca9A49E60a3bfa8e00544F384C93719b1", "0x9A6ebE7E2a7722F8200d0ffB63a1F6406A0d7dce", "0xB08E3e7cc815213304d884C88cA476ebC50EaAB2"],
+  "type": "snapshot"
+}
