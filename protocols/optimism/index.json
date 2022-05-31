@@ -1,0 +1,10 @@
+{
+  "cname": "optimism",
+  "description": "Optimism is an scaling solution for the Ethereum blockchain. It uses optimistic rollups to process transactions in batches, reducing gas fees.",
+  "path": "optimism",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.optimism.io/",
+    "categoryId": "38"
+  }
+}
