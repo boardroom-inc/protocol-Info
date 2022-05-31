@@ -1,0 +1,10 @@
+{
+  "cname": "hopprotocol",
+  "description": "A transfer root object represents a bundle of transfers. A transfer root is composed of a merkle root of the transfer IDs and list of total amounts for each destination rollup chain.",
+  "path": "hopprotocol",
+  "discourseForum" : {
+    "url": "https://forum.hop.exchange/",
+    "categoryId" : "6" 
+  },
+  "isEnabled": true
+}
