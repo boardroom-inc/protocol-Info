@@ -1,0 +1,8 @@
+{
+  "cname": "harvestfinance",
+  "description": "Harvest Finance is a yield farming protocol that lets users put their assets to work in high-producing farming opportunities.",
+  "path": "harvestfinance",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x843002b1D545ef7abB71C716e6179570582faA40"],
+  "type": "snapshot"
+}
