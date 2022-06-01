@@ -1,0 +1,8 @@
+{
+  "cname": "pancakeswap",
+  "description": "PancakeSwap helps you make the most out of your crypto in three ways: Trade, Earn, and Win.",
+  "path": "pancakeswap",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xe2086f890e7bd20e07fc0036a437dc4813e88b09"],
+  "type": "snapshot"
+}
