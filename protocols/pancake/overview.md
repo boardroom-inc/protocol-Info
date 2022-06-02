@@ -1,10 +1,11 @@
 # PancakeSwap
 
-PancakeSwap helps you make the most out of your crypto in three ways:
-Trade, Earn, and Win.
 PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market
 
 ## Overview
+
+PancakeSwap helps you make the most out of your crypto in three ways:
+Trade, Earn, and Win.
 
 ### ↔️ Trade
 
@@ -68,6 +69,10 @@ Check out [PancakeSwap's native voting portal](https://voting.pancakeswap.financ
 **Core** - proposals posted by the PancakeSwap team. The results will be actioned.
 
 **Community** - proposals posted by the PancakeSwap community. These are used to propose ideas and show the communities point of view. The PancakeSwap team reviews every community vote and will often move any with strong community support up to the CORE proposal level.
+
+## Join us
+
+Reach out to us on [Discord](https://discord.gg/pancakeswap) or [Telegram](https://t.me/pancakeswap)
 
 ## Additional links
 
