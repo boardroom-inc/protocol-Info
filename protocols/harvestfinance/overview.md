@@ -39,6 +39,10 @@ ampliFARM is a token that is rewarded in some BSC pools, it can be claimed immed
 - voting with FARM token balance: https://snapshot.page/#/farm/
 - informal polls and discussion happen in [Discord](https://discord.gg/R5SeTVR)
 
+## Join us
+
+Reach out to us on [Discord](https://discord.gg/R5SeTVR) or [Twitter](https://twitter.com/harvest_finance)
+
 ## Additional links
 
 [Website](https://harvest.finance/)
