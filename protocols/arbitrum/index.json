@@ -1,0 +1,8 @@
+{
+  "cname": "arbitrum",
+  "description": "Arbitrum is a type of technology known as an optimistic rollup",
+  "path": "arbitrum",
+  "isEnabled": true,
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
