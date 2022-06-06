@@ -1,0 +1,12 @@
+{
+  "cname": "lootdao",
+  "description": "Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret. Feel free to use Loot in any way you want.",
+  "path": "lootdao",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://loot-talk.com/",
+    "categoryId": "13"
+  },
+  "treasuryAddresses": ["0x8cFDF9E9f7EA8c0871025318407A6f1Fbc5d5a18"],
+  "type": "snapshot"
+}
