@@ -1,0 +1,10 @@
+{
+  "cname": "easeorg",
+  "description": "A DeFi Coverage Protocol",
+  "path": "easeorg",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.ease.org/",
+    "categoryId": "6"
+  }
+}
