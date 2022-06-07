@@ -1,0 +1,7 @@
+{
+  "cname": "0xplasma",
+  "description": "Plasma Finance",
+  "path": "0xplasma",
+  "isEnabled": true,
+  "type": "snapshot"
+}
