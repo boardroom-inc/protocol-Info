@@ -7,5 +7,5 @@
     "url": "https://forum.ease.org/",
     "categoryId": "6"
   },
-  "treasuryAddresses": "0x1f28ed9d4792a567dad779235c2b766ab84d8e33"
+  "treasuryAddresses":["0x1f28ed9d4792a567dad779235c2b766ab84d8e33"] 
 }
