@@ -1,7 +1,7 @@
 {
-  "cname": "easeorg",
+  "cname": "ease",
   "description": "A DeFi Coverage Protocol",
-  "path": "easeorg",
+  "path": "ease",
   "isEnabled": true,
   "discourseForum": {
     "url": "https://forum.ease.org/",
