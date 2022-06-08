@@ -13,7 +13,7 @@ Angle is a scalable, efficient, over-collateralized and liquid decentralized sta
 * [Angle](https://www.angle.money/)
 * [Forum](https://gov.angle.money/)
 * [Snapshot](https://snapshot.org/#/anglegovernance.eth)
-* [White Paper](https://docs.angle.money/whitepaper)
+* [Whitepapers](https://docs.angle.money/overview/whitepapers)
 * [Discord](https://discord.com/invite/67WSSZqBG6)
 * [Twitter](https://twitter.com/AngleProtocol)
 * [Github](https://github.com/AngleProtocol)
