@@ -3,5 +3,6 @@
   "description": "The very first sounds of the EVM",
   "path": "bleepsdao",
   "isEnabled": true,
+  "treasuryAddresses": ["0xf850cEB782707df66A49b861fF74436Be271611e"],
   "type": "compundish"
 }
