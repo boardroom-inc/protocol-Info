@@ -43,7 +43,7 @@ THE CREATIVE Protocol brings independent creatives, node operators, and Brands t
 * Lender nodes: A mechanism for granting advances to independent creators, which in return THE CREATIVE token holders (hodlers) gain interest.
 * Governance: A system for modifications and improvements to THE CREATIVE Project; these shares control those who have created and create value on an ongoing basis.
 ‌
-THE CREATIVES Platform creates a protocol where the platform's shared success focuses directly on the independent creators and the Brands responsible for its success. The protocol will also require end-user facing clients; this enables creatives to upload content, Brands to discover and stream content, and collaborate with other creatives within the network. The project team has produced a reference client implementation at g2entgroup.com.
+THE CREATIVE Platform creates a protocol where the platform's shared success focuses directly on the independent creators and the Brands responsible for its success. The protocol will also require end-user facing clients; this enables creatives to upload content, Brands to discover and stream content, and collaborate with other creatives within the network. The project team has produced a reference client implementation at g2entgroup.com.
 
 
 ## Join us
@@ -52,7 +52,7 @@ Contact us on [Discord](https://discord.gg/8B4p7ztWTp) or [Twitter](https://twit
 
 ## Additional links
 
-* [Website](https://creativeplatform.xyz/)
+* [Website](https://hidden-math-8943.on.fleek.co/)
 * [Blog](https://blog.creativeplatform.xyz/)
 * [Events](https://events.creativeplatform.xyz/)
 * [Documentation](https://docs.creativeplatform.xyz/creative/)
