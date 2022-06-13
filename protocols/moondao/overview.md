@@ -1,4 +1,3 @@
-Overview of protocol and governance process.
 # Moon DAO
 
 MoonDAO is going to the moon.
