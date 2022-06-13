@@ -1,0 +1,8 @@
+{
+  "cname": "ribbonfi",
+  "description": "A decentralized finance protocol designed to generate yield by combining options, futures, and fixed income to improve a portfolio's risk-return profile.",
+  "path": "ribbonfi",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xDAEada3d210D2f45874724BeEa03C7d4BBD41674"],
+  "type": "snapshot"
+}
