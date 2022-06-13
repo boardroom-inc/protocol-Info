@@ -1,0 +1,11 @@
+{
+  "cname": "moondao",
+  "description": "MoonDAO is going to the moon.",
+  "path": "moondao",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.moondao.com/",
+    "categoryId": "6"
+  },
+  "type": "snapshot"
+}
