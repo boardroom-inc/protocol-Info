@@ -1,0 +1,12 @@
+{
+  "cname": "pangolin",
+  "description": "Scale Your DeFi Trading with Pangolin",
+  "path": "pangolin",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.pangolin.exchange/",
+    "categoryId": "21"
+  },
+  "treasuryAddresses": ["0x6747AC215dAFfeE03a42F49FebB6ab448E12acEe", "0x650f5865541f6D68BdDFE977dB933C293EA72358"],
+  "type": "snapshot"
+}
