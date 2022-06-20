@@ -1,0 +1,8 @@
+{
+  "cname": "alchemist",
+  "description": "Alchemist is a community-built hub & incubator, building a fair & transparent crypto ecosystem. Powered by $MIST",
+  "path": "alchemist",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x1c428A75181Bc25509aF3A5B7FAEE97b4B6d3562"],
+  "type": "snapshot"
+}
