@@ -1,0 +1,12 @@
+{
+  "cname": "fraxfi",
+  "description": "Fractional-Algorithmic Stablecoin Protocol",
+  "path": "fraxfi",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.frax.finance/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0x9AA7Db8E488eE3ffCC9CdFD4f2EaECC8ABeDCB48"],
+  "type": "snapshot"
+}
