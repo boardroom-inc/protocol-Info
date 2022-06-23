@@ -2,6 +2,6 @@
   "cname": "originprotocol",
   "description": "The platform for hosting record-breaking #NFT sales. Earn high yields with our stablecoin $OUSD and by staking $OGN.",
   "path": "originprotocol",
-  "isEnabled": true,
+  "isEnabled": false,
   "type": "snapshot"
 }
