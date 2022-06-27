@@ -1,0 +1,12 @@
+{
+  "cname": "paladin",
+  "description": "Paladin is a decentralized, non-custodial governance lending protocol where users can either loan the voting power in their governance token, or borrow some voting power.",
+  "path": "paladin",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.paladin.vote/",
+    "categoryId": "7"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
