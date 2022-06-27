@@ -1,0 +1,8 @@
+{
+  "cname": "greennation",
+  "description": "A short description of dao/protocol",
+  "path": "greennation",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xBe407eb54D00fF0564f0CD656268e37C1047e5ca"],
+  "type": "snapshot"
+}
