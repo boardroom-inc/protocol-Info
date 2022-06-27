@@ -1,0 +1,12 @@
+{
+  "cname": "metefactory",
+  "description": "Meta-factory is a community-owned culture studio and marketplace focused on the creation and sale of digi-physical goods that celebrate crypto.",
+  "path": "metafactory",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.metafactory.ai/",
+    "categoryId": "6"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
