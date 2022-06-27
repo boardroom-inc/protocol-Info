@@ -1,6 +1,6 @@
 {
   "cname": "streetbased",
-  "description": "A short description of dao/protocol",
+  "description": "Acting as a vessel for securing, diversifying and mitigating risks for our tokenholders, financial contributors, partners and other stakeholders.",
   "path": "streetbased",
   "isEnabled": true,
   "treasuryAddresses": ["0xd6a12905F96955FA5da0cA7C9F23FAC3b1935B6C"],
