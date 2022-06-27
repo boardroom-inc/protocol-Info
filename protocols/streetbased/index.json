@@ -1,0 +1,8 @@
+{
+  "cname": "streetbased",
+  "description": "A short description of dao/protocol",
+  "path": "streetbased",
+  "isEnabled": true,
+  "treasuryAddresses": ["0xd6a12905F96955FA5da0cA7C9F23FAC3b1935B6C"],
+  "type": "snapshot"
+}
