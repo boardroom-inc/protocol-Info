@@ -5,7 +5,7 @@
   "isEnabled": true,
   "treasuryAddresses": ["0x223592a191ECfC7FDC38a9256c3BD96E771539A9"],
   "discourseForum": {
-    "url": "https://https://forum.ampleforth.org",
+    "url": "https://forum.ampleforth.org",
     "categoryId": "6"
   }
 }
