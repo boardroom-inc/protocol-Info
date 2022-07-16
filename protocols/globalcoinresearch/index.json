@@ -1,0 +1,19 @@
+{
+  "cname": "gcr",
+  "description": "Global Coin Research (GCR) is a community-first research and investment DAO focused on Web3.",
+  "path": "gcr",
+  "isEnabled": true,
+  "treasuryAddresses": [
+    "0x26cb53c8e913Ed77977436c352D3a885baCe682c",
+    "0x2cD50e33fa0E4523FAFe00C236ea8d1D241Ff1c4",
+    "0xf787415cbc19E9F7f29d05342Eded87a38A8aB15",
+    "0xE98c2Cf558B36310bd6a6E095109F6e5d11a015C",
+    "0x3dCfaC500Cd642fe5C583d2E1C6dfE8437d1D69a",
+    "0xC4dDC2F471a476da1b906727072669F95d37C622",
+    "0xc01B3424b81da02A3aB626a44Cfe67c2eb15d9dA",
+    "0xE09C9902682554B4743CB4b02bC0cdB538c2bEE6",
+    "0xe601A52AF89f720d3970a2508737aB7E37AdD28e",
+    "0xc01B3424b81da02A3aB626a44Cfe67c2eb15d9dA"
+  ],
+  "type": "snapshot"
+}
