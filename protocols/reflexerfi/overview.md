@@ -23,7 +23,7 @@ Join our [discord](https://discord.gg/AXwXHGsTaJ)
 
 ## Additional links
 
-* [Website](https://reflexer.finance/faq)
+* [Website](https://reflexer.finance)
 * [Github](https://github.com/reflexer-labs)
 * [Docs](https://docs.reflexer.finance/)
 * [RAI Explainer](https://medium.com/reflexer-labs/stability-without-pegs-8c6a1cbc7fbd)
