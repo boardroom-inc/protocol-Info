@@ -1,0 +1,12 @@
+{
+  "cname": "phonon",
+  "description": "The phonon protocol",
+  "path": "phonon",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://gov.phonon.network/",
+    "categoryId": "9"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
