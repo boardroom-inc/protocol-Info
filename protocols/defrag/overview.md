@@ -41,11 +41,11 @@ Each Metamatician NFT is entitled to 1 vote within DeFrag's governance and is us
 * Steward the development of the protocol & get community feedback on important parameters such as which NFTs the protocol should accept as collateral and how to price option premiums as insurance for those assets.
 * Unite all current and future DeFrag products.
 
-![Governance](images/defragDAOdetails.png)
+![Governance](https://i.imgur.com/uQJa4mX.png)
 
 ## Join Us
 
-Please reach out to us via our [Discord](https://discord.com/invite/XCWXtU3pdt) or [Twitter](https://twitter.com/DefragFinance).
+Please reach out to us via our [Discord](https://discord.com/invite/XCWXtU3pdt) or [Twitter](https://twitter.com/DefragFinance)
 
 ## Additional links
 
