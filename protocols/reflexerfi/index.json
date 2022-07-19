@@ -1,0 +1,12 @@
+{
+  "cname": "reflexerfi",
+  "description": "Reflexer Finance",
+  "path": "reflexerfi",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://community.reflexer.finance/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": [""],
+  "type": "compoundish"
+}
