@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.55](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.54...v2.10.55) (2022-07-19)
+
+
+### Bug Fixes
+
+* defrag governance structure image ([#642](https://github.com/boardroom-inc/protocol-Info/issues/642)) ([3ed6bff](https://github.com/boardroom-inc/protocol-Info/commit/3ed6bff3121d51647bd9df263fc47033e15c6de4))
+
 ### [2.10.54](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.53...v2.10.54) (2022-07-12)
 
 ### [2.10.53](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.52...v2.10.53) (2022-06-29)
