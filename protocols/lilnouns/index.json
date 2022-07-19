@@ -1,0 +1,12 @@
+{
+  "cname": "lilnouns",
+  "description": "Lilnouns NFT Project",
+  "path": "lilnouns",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://discourse.lilnouns.wtf/",
+    "categoryId": "5"
+  },
+  "treasuryAddresses": ["0xd5f279ff9EB21c6D40C8f345a66f2751C4eeA1fB"],
+  "type": "nouns"
+}
