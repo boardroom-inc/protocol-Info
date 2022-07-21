@@ -3,7 +3,7 @@
   "description": "A decentralized exchange that is creating a tokenized world where all value can flow freely.",
   "path": "0xgov",
   "type": "snapshot",
-  "isEnabled": false,
+  "isEnabled": true,
   "discourseForum": {
     "url": "https://gov.0x.org/",
     "categoryId": "13"
