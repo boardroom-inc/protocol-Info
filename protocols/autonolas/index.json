@@ -1,0 +1,8 @@
+{
+  "cname": "autonolas",
+  "description": "Create, run and own autonomous services that power next-gen apps for crypto users and DAOsl",
+  "path": "autonolas",
+  "isEnabled": true,
+  "treasuryAddresses": ["0x3C1fF68f5aa342D296d4DEe4Bb1cACCA912D95fE"],
+  "type": ""
+}
