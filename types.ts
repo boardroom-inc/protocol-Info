@@ -11,6 +11,7 @@ export const ProtocolIo = t.type({
     t.partial({
       url: t.string,
       categoryId: t.string,
+      useCategoryId: t.boolean
     }),
     t.undefined,
   ]),
