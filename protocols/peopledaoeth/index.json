@@ -3,6 +3,6 @@
     "cname": "peopledaoeth",
     "description": "",
     "path": "peopledaoeth",
-    "isEnabled": true,
+    "isEnabled": false,
     "type": "snapshot"
 }
