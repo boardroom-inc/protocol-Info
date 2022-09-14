@@ -1,0 +1,7 @@
+{
+  "cname": "rocketpool",
+  "description": "Rocket Pool is Ethereum’s most decentralised liquid staking protocol. ",
+  "path": "rocketpool",
+  "isEnabled": true,
+  "type": "snapshot"
+}
