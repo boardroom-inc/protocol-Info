@@ -1,0 +1,8 @@
+{
+  "cname": "loopring",
+  "description": "Loopring is a Layer 2 zkRollup scaling solution on Ethereum",
+  "path": "loopring",
+  "isEnabled": true,
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
