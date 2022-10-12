@@ -1,0 +1,8 @@
+{
+    "cname": "spells",
+    "description": "Spells are on-chain magic. An experimental attempt to conjure the first NFT with true on-chain utility, and improve the zero-sum dynamics of NFTs and on-chain games.",
+    "path": "spells",
+    "isEnabled": true,
+    "type": "nouns",
+    "treasuryAddresses": ["0x7ffaDE939718122c400435F86621bEA949591c48"]
+  }
