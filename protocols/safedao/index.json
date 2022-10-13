@@ -1,0 +1,11 @@
+{
+  "cname": "safedao",
+  "description": "",
+  "path": "safedao",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.gnosis-safe.io/"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
