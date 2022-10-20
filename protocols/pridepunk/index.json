@@ -2,7 +2,7 @@
   "cname": "pridepunk",
   "description": "The first CryptoPunk derivative. A celebration of CryptoPunks, Pride month and a statement on the lack of inclusivity of Web3.",
   "path": "pridepunk",
-  "isEnabled": false,
+  "isEnabled": true,
   "treasuryAddresses": [""],
   "type": "compoundish"
 }
