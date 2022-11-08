@@ -1,33 +1,35 @@
-# EPNS 
+# Push Protocol (Previously EPNS) 
 ## Overview
-Ethereum Push Notification Service (EPNS) is a platform-agnostic, decentralized notification protocol for Web 3.0 applications. It enables users to receive notifications for on-chain or off-chain activity. EPNS allows Web3 actors (users, dapps, service providers) to create notifications that are triggered if and when a smart contract reaches certain conditions. Other Web3 participants can search, browse, and subscribe to specific notifications and more confidently interact with dapps. In doing so, EPNS combines the seamless user experience of Web 2.0 apps with the security and power of Web 3.0.
+Push Protocol is the communication protocol of web3. Push protocol enables cross-chain notifications and messaging for dapps, wallets, and services tied to wallet addresses in an open, gasless, and platform agnostic fashion. The open communication layer allows any crypto wallet/frontend to tap into the network and get the communication across.
 
 ## Governance
-Our progressive governance model aims to hand over the various levers of control to the EPNS governing community. We want to establish a system for the community where ideas and proposals are considered, respected, and incentivized. With EPNS Governance we aim to offer individuals clear paths to participate in our protocol and bolster innovation to the EPNS ecosystem.
+Our progressive governance model aims to hand over the various control levers to the Push governing the community. We want to establish a system for the community where ideas and proposals are considered, respected, and incentivized. With Push Governance, we aim to offer individuals clear paths to participate in our protocol and bolster innovation in the Push ecosystem.
 
 ### Governance Process:
 
-*Proposal:* This is the very start of the entire governance journey. For any proposal to be accepted and executed for EPNS Governance, the initial proposer needs to submit their proposal on the Governance Proposal Forum.
-*Discussion:* The next step in the governance journey is discussion. Draft proposals from the Proposal phase that meet the promotion criteria are promoted to the Governance Discussions Forum . At this phase, users express their support for proposals by liking, commenting, and move on to a formal vote before moving on to the next stage: Snapshot voting (final phase).
-*Snapshot:* Once the proposal on the Governance Discussion section meets the promotion criteria, It’s considered a formal proposal and requires formal voting which takes place on Snapshot. This is initiated by any of our PUSH Delegatees and voting will be open to all PUSH holders & stakers. Votes are open for at least 7 days and require 4% of PUSH circulating supply voting in support to pass.
+*Proposal:* This is the very start of the entire governance journey. For any proposal to be accepted and executed for Push Governance, the initial proposer must submit their proposal to the Governance Proposal Forum.
+
+*Discussion:* The next step in the governance journey is discussion. Draft proposals from the Proposal phase that meet the promotion criteria are promoted to the Governance Discussions Forum. At this phase, users express their support for proposals by liking, commenting, and moving on to a formal vote before moving on to the next stage: Snapshot voting (final phase).
+
+*Snapshot:* Once the proposal on the Governance Discussion section meets the promotion criteria, It’s considered a formal proposal and requires formal voting on Snapshot. Any of our PUSH Delegatees initiates this, and voting will be open to all PUSH holders & stakers. Votes are open for at least seven days and require 4% of PUSH circulating supply voting in support to pass.
 #### Governance Roles:
 
-##### Push Nominee: PUSH holders can vote and submit proposals on snapshot and PUSH holders can delegate votes to them.
-##### Push Champions: Community leaders.
-##### Push Holders: Can delegate votes (to themselves or Push Delegatees).
-##### Push Delegatee: Hold at least 75k delegated $PUSH. Push holders can delegate votes to them. They can vote and submit proposals on snapshot.
+Push Nominee: PUSH holders can vote and submit proposals on the snapshot, and PUSH holders can delegate votes.
+Push Champions: Community leaders.
+Push Holders: Can delegate votes (to themselves or Push Delegatees).
+Push Delegatee: Hold at least 75k delegated $PUSH. Push holders can delegate votes to them. They can vote and submit proposals on the snapshot.
 
-## Join EPNS 
-Contact us on [Twitter](https://twitter.com/epnsproject) or [Discord](https://discord.com/invite/YVPB99F9W5)
+## Join Push Protocol 
+Contact us on [Twitter](https://twitter.com/pushprotocol) or [Discord](https://discord.com/invite/pushprotocol)
 
 ## Additional Links:
 
-Discourse: https://gov.epns.io/
+Website: https://push.org/
 
-Discord: https://discord.com/invite/YVPB99F9W5
+Discourse: https://gov.push.org/
 
-Snapshot: https://snapshot.org/#/epns.eth
+Discord: https://discord.gg/pushprotocol
 
-Twitter: https://twitter.com/epnsproject
+Snapshot: https://snapshot.org/#/pushdao.eth
 
-Website: https://epns.io/
+Twitter: https://twitter.com/pushprotocol
