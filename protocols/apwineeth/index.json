@@ -3,6 +3,6 @@
     "cname": "apwineeth",
     "description": "",
     "path": "apwineeth",
-    "isEnabled": false,
+    "isEnabled": true,
     "type": "snapshot"
 }
