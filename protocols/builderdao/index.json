@@ -1,0 +1,7 @@
+{
+  "cname": "builderdao",
+  "description": "Create your DAO.",
+  "path": "builderdao",
+  "isEnabled": true,
+  "type": "compoundish"
+}
