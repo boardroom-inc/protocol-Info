@@ -1,8 +1,8 @@
 
 {
-    "cname": "peopledaoeth",
+    "cname": "notionaleth",
     "description": "",
-    "path": "peopledaoeth",
+    "path": "notionaleth",
     "isEnabled": true,
     "type": "snapshot"
 }

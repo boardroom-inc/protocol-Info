@@ -1,8 +1,8 @@
 
 {
-    "cname": "peopledaoeth",
+    "cname": "leaguedaoeth",
     "description": "",
-    "path": "peopledaoeth",
+    "path": "leaguedaoeth",
     "isEnabled": true,
     "type": "snapshot"
 }

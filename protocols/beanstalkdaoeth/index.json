@@ -1,8 +1,8 @@
 
 {
-    "cname": "peopledaoeth",
+    "cname": "beanstalkdaoeth",
     "description": "",
-    "path": "peopledaoeth",
+    "path": "beanstalkdaoeth",
     "isEnabled": true,
     "type": "snapshot"
 }

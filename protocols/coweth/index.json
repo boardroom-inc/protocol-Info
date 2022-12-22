@@ -3,6 +3,6 @@
     "cname": "coweth",
     "description": "",
     "path": "coweth",
-    "isEnabled": false,
+    "isEnabled": true,
     "type": "snapshot"
 }
