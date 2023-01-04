@@ -1,0 +1,8 @@
+
+{
+    "cname": "starkneteth",
+    "description": "",
+    "path": "starkneteth",
+    "isEnabled": false,
+    "type": "snapshot"
+}
