@@ -1,0 +1,8 @@
+
+{
+    "cname": "mferbuilderDAO",
+    "description": "to support mferish builders working on mferish public goods",
+    "path": "mferbuilderDAO",
+    "isEnabled": true,
+    "type": "compoundish"
+}

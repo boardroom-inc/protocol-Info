@@ -1,0 +1,8 @@
+
+{
+    "cname": "nym",
+    "description": "The Nym dao is a collective of creators, artists, writers and engineers and builders focused on building the first user-owned platform for digital content",
+    "path": "nym",
+    "isEnabled": true,
+    "type": "compoundish"
+}

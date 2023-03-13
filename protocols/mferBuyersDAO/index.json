@@ -1,0 +1,8 @@
+
+{
+    "cname": "mferBuyersDAO",
+    "description": "DAO for buying Mfers",
+    "path": "mferBuyersDAO",
+    "isEnabled": true,
+    "type": "compoundish"
+}

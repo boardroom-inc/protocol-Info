@@ -1,0 +1,8 @@
+
+{
+    "cname": "collectivetest",
+    "description": "test test",
+    "path": "collectivetest",
+    "isEnabled": true,
+    "type": "compoundish"
+}

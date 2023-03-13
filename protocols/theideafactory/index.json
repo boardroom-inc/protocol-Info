@@ -1,0 +1,8 @@
+
+{
+    "cname": "theideafactory",
+    "description": "The Idea Factory: a DAO for idea lovers to support Imagineers",
+    "path": "theideafactory",
+    "isEnabled": true,
+    "type": "compoundish"
+}

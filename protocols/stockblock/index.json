@@ -1,0 +1,8 @@
+
+{
+    "cname": "stockblock",
+    "description": "Stock Blocks is an experiment to create a DAO with moderately cool art and limited knowledge. Built in Columbus, OH USA.",
+    "path": "stockblock",
+    "isEnabled": true,
+    "type": "compoundish"
+}

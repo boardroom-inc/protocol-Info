@@ -1,0 +1,8 @@
+
+{
+    "cname": "blockeddAO",
+    "description": "Blocked DAO is an experiment that combines a preexisting NFT collection (BlockedHeads OnChain) with a new Nouns fork project. BlockedHeads OnChain will receive 5% founders allocation in the new Blocked DAO perpetual auction. This will allow holders of BHOC to gain governance of Blocked DAO overtime, while inviting new members via the auction of the Blocked DAO project. This concept should allow for more distributed governance with a low financial barrier of entry.\n\nBlocked DAO will aim to further proliferate the Nouns DAO ethos by supporting artists, projects, protocols, and any other allocation of treasury funds that the community sees fit. Blocked DAO will emphasize allocating funds in unfavorable market conditions. This can hopefully be achieved by holding a portion of the treasury in community voted stable coins that can be converted back to ether in turbulent market conditions.",
+    "path": "blockeddAO",
+    "isEnabled": true,
+    "type": "compoundish"
+}

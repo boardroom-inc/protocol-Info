@@ -1,0 +1,8 @@
+
+{
+    "cname": "lemon",
+    "description": "Lemon is an experimental DAO for The Nouns Marketplace (https://noun.market)",
+    "path": "lemon",
+    "isEnabled": true,
+    "type": "compoundish"
+}

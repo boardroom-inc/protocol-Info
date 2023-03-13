@@ -1,0 +1,8 @@
+
+{
+    "cname": "namedAO",
+    "description": "Our mission is to make sure every person on earth has a name.\n\nMake a name for yourself. Join Name DAO!\n\nThis DAO is the Proto Name DAO\n\nToday, we launch Proto Name DAO, a DAO for people who want to be founders, contributors, and supporters of the long-term Name DAO project. This is not the final DAO, but we are using it to gather interested people and generate a treasury we can spend on building the real DAO. Information about our long-term vision for Name DAO can be found here.\n\nHistory:\n\nNouns DAO has become a household name, and we propose that Name DAO is a similar idea, but with pre-built teams. If you are an Adam, you are likely to want to be a part of and support the goals of Adam DAO! Same for Joshs, and everyone else! But, right now, these groups are disorganized and disconnected, with no manner to grow. NAMES is the Nouns-ish way to bring Name-based DAOs to the world, while giving them a way to stay connected to one another.\n\nThis Proto Name DAO is:\n - A DAO for people who want to be involved early as founders, \n - contributors, supporters, etc, of the Name DAO project\n - A way for us to raise capital to spend on building the long-term vision\n - A way for us to gather interest while we're at ETHDenver\n - A potential entry into hackathon prizes at ETHDenver\n\nThis Proto Name DAO is not:\n - The main Name DAO that we envision this Proto Name DAO building together, to be the meta DAO under which all the name DAOs (Josh DAO, Adam DAO, etc) will live.",
+    "path": "namedAO",
+    "isEnabled": true,
+    "type": "compoundish"
+}
