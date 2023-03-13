@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "familyDAO",
     "description": "",
-    "path": "publicassembly",
+    "path": "familyDAO",
     "isEnabled": true,
     "type": "compoundish"
 }

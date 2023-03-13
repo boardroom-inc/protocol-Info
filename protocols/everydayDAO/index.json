@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "everydayDAO",
     "description": "",
-    "path": "publicassembly",
+    "path": "everydayDAO",
     "isEnabled": true,
     "type": "compoundish"
 }

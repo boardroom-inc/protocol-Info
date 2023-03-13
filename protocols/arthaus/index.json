@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "arthaus",
     "description": "",
-    "path": "publicassembly",
+    "path": "arthaus",
     "isEnabled": true,
     "type": "compoundish"
 }

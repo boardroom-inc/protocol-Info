@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "entropy",
     "description": "",
-    "path": "publicassembly",
+    "path": "entropy",
     "isEnabled": true,
     "type": "compoundish"
 }

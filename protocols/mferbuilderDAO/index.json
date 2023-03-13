@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "mferbuilderDAO",
     "description": "",
-    "path": "publicassembly",
+    "path": "mferbuilderDAO",
     "isEnabled": true,
     "type": "compoundish"
 }

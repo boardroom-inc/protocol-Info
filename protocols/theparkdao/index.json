@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "theparkdao",
     "description": "",
-    "path": "publicassembly",
+    "path": "theparkdao",
     "isEnabled": true,
     "type": "compoundish"
 }

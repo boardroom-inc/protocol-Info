@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "stockblock",
     "description": "",
-    "path": "publicassembly",
+    "path": "stockblock",
     "isEnabled": true,
     "type": "compoundish"
 }

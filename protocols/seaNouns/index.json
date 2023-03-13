@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "seaNouns",
     "description": "",
-    "path": "publicassembly",
+    "path": "seaNouns",
     "isEnabled": true,
     "type": "compoundish"
 }

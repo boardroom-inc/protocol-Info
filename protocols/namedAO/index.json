@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "namedAO",
     "description": "",
-    "path": "publicassembly",
+    "path": "namedAO",
     "isEnabled": true,
     "type": "compoundish"
 }

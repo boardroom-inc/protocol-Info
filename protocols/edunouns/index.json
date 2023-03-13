@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "edunouns",
     "description": "",
-    "path": "publicassembly",
+    "path": "edunouns",
     "isEnabled": true,
     "type": "compoundish"
 }

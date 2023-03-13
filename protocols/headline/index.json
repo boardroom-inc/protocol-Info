@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "headline",
     "description": "",
-    "path": "publicassembly",
+    "path": "headline",
     "isEnabled": true,
     "type": "compoundish"
 }

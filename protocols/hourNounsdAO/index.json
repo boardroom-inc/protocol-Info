@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "hourNounsdAO",
     "description": "",
-    "path": "publicassembly",
+    "path": "hourNounsdAO",
     "isEnabled": true,
     "type": "compoundish"
 }

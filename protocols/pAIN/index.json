@@ -1,8 +1,8 @@
 
 {
-    "cname": "publicassembly",
+    "cname": "pAIN",
     "description": "",
-    "path": "publicassembly",
+    "path": "pAIN",
     "isEnabled": true,
     "type": "compoundish"
 }
