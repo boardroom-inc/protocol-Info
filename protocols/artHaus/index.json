@@ -1,0 +1,8 @@
+
+{
+    "cname": "artHaus",
+    "description": "Art Haus is a collective arts patronage. \n\nDaily auction proceeds commission nounish art. \n\nProposals are submitted to deploy these CC0 works as NFT drops, aka droposals. Minting proceeds are split between artist and treasury. \n\nDAO artwork begins as a blank canvas. Traits come later from layers of commissioned works.\n\nCuration is key.",
+    "path": "artHaus",
+    "isEnabled": true,
+    "type": "compoundish"
+}

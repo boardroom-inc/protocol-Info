@@ -1,0 +1,8 @@
+
+{
+    "cname": "moodboardDao",
+    "description": "A DAO that helps you find visual inspiration for your next creative project",
+    "path": "moodboardDao",
+    "isEnabled": true,
+    "type": "compoundish"
+}

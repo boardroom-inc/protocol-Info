@@ -1,0 +1,8 @@
+
+{
+    "cname": "mathDao",
+    "description": "math ",
+    "path": "mathDao",
+    "isEnabled": true,
+    "type": "compoundish"
+}
