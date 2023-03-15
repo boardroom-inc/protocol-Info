@@ -1,0 +1,8 @@
+
+{
+    "cname": "cxyz",
+    "description": "Test",
+    "path": "cxyz",
+    "isEnabled": true,
+    "type": "compoundish"
+}

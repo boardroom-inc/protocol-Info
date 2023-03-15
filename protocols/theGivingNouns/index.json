@@ -1,0 +1,8 @@
+
+{
+    "cname": "theGivingNouns",
+    "description": "The Giving Nouns is a Nouns DAO derivative that donates our treasury to charitable causes through The Giving Block. 90% of the treasury will be donated to these charitable causes. While the remaining 10% will go towards marketing the DAO, finding the best charities for us to donate to, and more.",
+    "path": "theGivingNouns",
+    "isEnabled": true,
+    "type": "compoundish"
+}

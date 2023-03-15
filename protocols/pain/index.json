@@ -1,0 +1,8 @@
+
+{
+    "cname": "pain",
+    "description": "ACQUIRE MAX PAIN",
+    "path": "pain",
+    "isEnabled": true,
+    "type": "compoundish"
+}

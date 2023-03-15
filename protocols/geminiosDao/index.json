@@ -1,0 +1,13 @@
+
+{
+    "cname": "geminiosDao",
+    "description": "Geminios (juh-MIN-ee-ohs) is your DRSP (Degen Retirement Savings Plan):
+- Fair launch, 5% to team and 1% to NOUS DAO
+- Real yield, non-inflationary
+- DAO launch is phase I, holding guarantees you access to yield from the future protocol
+
+",
+    "path": "geminiosDao",
+    "isEnabled": true,
+    "type": "compoundish"
+}

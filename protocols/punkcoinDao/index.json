@@ -1,0 +1,8 @@
+
+{
+    "cname": "punkcoinDao",
+    "description": "DAO of Punkcoin - Decentralized Meme Token\n\nOne Membership NFT, every day, forever.\n\npunkcoin.net",
+    "path": "punkcoinDao",
+    "isEnabled": true,
+    "type": "compoundish"
+}

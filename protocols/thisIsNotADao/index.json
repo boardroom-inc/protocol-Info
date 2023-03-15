@@ -1,0 +1,8 @@
+
+{
+    "cname": "thisIsNotADao",
+    "description": "THIS IS NOT A DAO",
+    "path": "thisIsNotADao",
+    "isEnabled": true,
+    "type": "compoundish"
+}
