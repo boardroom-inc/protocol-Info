@@ -1,8 +1,0 @@
-
-{
-    "cname": "qqlNouns",
-    "description": "A series of Nouns created from QQL renders. The goal is to raise enough money to buy a QQL Mint Pass and then allow the holders to vote on the QQL that the DAO should mint. ",
-    "path": "qqlNouns",
-    "isEnabled": true,
-    "type": "compoundish"
-}
