@@ -1,0 +1,8 @@
+
+{
+    "cname": "hournounsDao",
+    "description": "hOurNouns, one hOurNoun, every hour, forever. \n\nThe goal of hOurNouns is build a community of web developers\nthat will bridge the gap between web2 and web3 using a nounish approach. \nBased on the Nouns protocol, every auction winner automatically becomes a member of the hOurNouns DAO. Members of the DAO can propose and vote on proposals of what can/should be done with the DAO treasury. \n\nSome ideas of what can be done are: Events (in real life or online), hackatons, courses, grants, sponsorships and anything that can leverage the nouns protocol and the hOurNouns DAO. \n\nParticipation in the DAO is not restricted to software developers. It is open to anyone from anywhere. And also activities are not supposed to be executed by the DAO alone. We can partner with other DAOs such as Nouns DAO, Lil Nouns or any other DAOS to create and execute a Prop House or any other project that is considered relevant by the hOurNouns DAO members. ",
+    "path": "hournounsDao",
+    "isEnabled": true,
+    "type": "compoundish"
+}
