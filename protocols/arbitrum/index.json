@@ -1,0 +1,7 @@
+{
+  "cname": "arbitrum",
+  "description": "Arbitrum’s suite of scaling solutions provides faster speeds at a significantly lower cost, with the same level of security as Ethereum.",
+  "path": "arbitrum",
+  "isEnabled": true,
+  "type": "compoundish"
+}
