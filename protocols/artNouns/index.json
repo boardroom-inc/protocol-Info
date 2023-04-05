@@ -1,0 +1,7 @@
+{
+    "cname": "artNouns",
+    "description": "ArtNouns is an experiment to create art, auction art & purchase art.\n\nwe will use the treasury to purchase art, support artists and help fund artists' projects. we will take on any ideas pitched to us by the DAO members.\n\nlet's use art to create change.",
+    "path": "artNouns",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

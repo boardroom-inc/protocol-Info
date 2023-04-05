@@ -1,0 +1,7 @@
+{
+    "cname": "jam",
+    "description": "Jam’s goal is to proliferate and expand the Farcaster protocol, Warpcast app and ecosystem.",
+    "path": "jam",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
