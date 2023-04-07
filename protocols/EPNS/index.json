@@ -4,7 +4,7 @@
   "path": "pushprotocol",
   "isEnabled": true,
   "discourseForum": {
-    "url": "https://gov.epns.io/",
+    "url": "https://gov.push.org/",
     "categoryId": "8"
   },
   "treasuryAddresses": ["0x68A9832153fd7f95f1a3FA24fcCC3D63a6486E66"],
