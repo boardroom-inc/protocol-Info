@@ -1,7 +1,0 @@
-{
-    "cname": "truefi",
-    "description": "TrueFi brings collateral-free lending on-chain, maximizing capital efficiency for borrowers and earning rates for lenders.",
-    "path": "truefi",
-    "isEnabled": true,
-    "type": "compoundish"
-  }
