@@ -1,7 +1,12 @@
 {
-    "cname": "baconcoin",
-    "description": "The Bacon Protocol brings the same power and value that mortgages give banks, financial institutions, and governments to anyone who can buy cryptocurrency. No matter where you live, you can purchase the bHOME coin and enjoy the stability of mortgages backed by real homes and receive benefits from interest payments on those mortgages.",
-    "path": "baconcoin",
-    "isEnabled": true,
-    "type": "compoundish"
-  }
+  "cname": "baconcoin",
+  "description": "The Bacon Protocol introduces a new way for crypto wallet holders to hold a coin backed by the same types of mortgages that banks, insurance companies and governments use. The BaconCoin DAO manages the treasury of the protocol.",
+  "path": "bacon",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://discourse.baconcoin.com/",
+    "categoryId": "1"
+  },
+  "treasuryAddresses": ["0x574703381d4cB4eEB474e43eeE97E3D9986e48a7"],
+  "type": "snapshot"
+}

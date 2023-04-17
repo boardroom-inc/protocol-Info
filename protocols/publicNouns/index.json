@@ -1,7 +1,6 @@
 {
     "cname": "publicNouns",
-    "description": "Public Nouns is an experimental new way to support public goods.
-",
+    "description": "Public Nouns is an experimental new way to support public goods.",
     "path": "publicNouns",
     "isEnabled": true,
     "type": "compoundish"
