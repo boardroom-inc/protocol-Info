@@ -1,0 +1,7 @@
+{
+    "cname": "ondoDao",
+    "description": "DAO which governs Ondo and affiliated products, including Flux Finance",
+    "path": "ondoDao",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

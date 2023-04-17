@@ -1,0 +1,7 @@
+{
+    "cname": "sudoswapDao",
+    "description": "Governance DAO for sudoAMM protocol",
+    "path": "sudoswapDao",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
