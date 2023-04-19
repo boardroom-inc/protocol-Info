@@ -1,6 +1,6 @@
 {
   "name": "@boardroom/protocol-info",
-  "version": "2.10.74",
+  "version": "2.10.75-alpha.0",
   "description": "Project information which will be served to display on the Boardroom Governance Portal.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
