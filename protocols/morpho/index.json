@@ -1,0 +1,7 @@
+{
+  "cname": "morpho",
+  "description": "Morpho is an on-chain peer-to-peer layer on top of lending pools. Rates are seamlessly improved for borrowers and lenders while preserving the same guarantees.",
+  "path": "morpho",
+  "isEnabled": true,
+  "type": "snapshot"
+}
