@@ -1,0 +1,7 @@
+{
+    "cname": "rariFoundation",
+    "description": "This is a Rari DAO that fully controls Rari Foundation and it's on-chain treasury",
+    "path": "rariFoundation",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

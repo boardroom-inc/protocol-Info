@@ -1,0 +1,7 @@
+{
+    "cname": "tribeNopedao",
+    "description": "Veto the Tribe's Tribal Council and optimistic governance pods",
+    "path": "tribeNopedao",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
