@@ -1,0 +1,11 @@
+{
+  "cname": "interest",
+  "description": "Interest Protocol applies fractional reserve banking to decentralized finance.",
+  "path": "interest",
+  "type": "compoundish",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forums.interestprotocol.io/",
+    "categoryId": "13"
+  }
+}
