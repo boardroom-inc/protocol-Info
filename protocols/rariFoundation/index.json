@@ -3,5 +3,9 @@
     "description": "This is a Rari DAO that fully controls Rari Foundation and it's on-chain treasury",
     "path": "rariFoundation",
     "isEnabled": true,
+    "discourseForum": {
+      "url": "https://forum.rari.foundation/",
+      "categoryId": "7"
+    },
     "type": "compoundish"
   }
