@@ -2,9 +2,5 @@
   "cname": "makerdao",
   "description": "MakerDAO enables the generation of Dai, the world's first unbiased currency and leading decentralized stablecoin.",
   "path": "makerdao",
-  "isEnabled": true,
-  "discourseForum": {
-		"url": "https://forum.makerdao.com/",
-		"categoryId": "1"
-	}
+  "isEnabled": true
 }

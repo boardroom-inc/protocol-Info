@@ -4,9 +4,5 @@
   "path": "shapeshift",
   "isEnabled": true,
   "treasuryAddresses": ["0x90a48d5cf7343b08da12e067680b4c6dbfe551be"],
-  "discourseForum": {
-    "url": "https://forum.shapeshift.com",
-    "categoryId": "5"
-  },
   "safeAddress": "0x90A48D5CF7343B08dA12E067680B4C6dbfE551Be"
 }

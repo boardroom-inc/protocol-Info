@@ -3,10 +3,6 @@
   "description": "Conjure allows anyone to create tokenized assets representing any asset you can imagine.",
   "path": "conjure",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://forum.conjure.finance/",
-    "categoryId": "6"
-  },
   "treasuryAddresses": ["0xa7b66b07ec0d63be7e4b544be15e0d3e591718dc"],
   "type": "snapshot"
 }
