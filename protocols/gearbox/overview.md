@@ -11,6 +11,12 @@ The protocol has two sides to it: [passive liquidity providers](https://docs.gea
 
 The core vision is to become a backend composable leverage protocol that all kinds of users can utilize but don’t even need to interact directly with a specific interface. You can envision building your own DeFi protocol and just making a “take leverage with Gearbox” as a button. And bam - your users are now more capital efficient. Or integrate Gearbox into a platform like Zerion or Zapper. Check this page to understand [why composable leverage 2.0 is cool](https://docs.gearbox.finance/leverage-2.0-is-composable)!
 
+May 15, ‘23, Ethereum - Gearbox Protocol, a composable leverage and lending protocol, is excited to implement the early launch of its Pre-V3 version, featuring the security module designed for V3, MiM pools and expansion of its LLSD(Leveraged staking) cohort with cbETH. This release comes as part of Gearbox DAO's belief that “Security doesn’t wait” and to provide a safer user experience amidst increasing DeFi exploits.
+
+Gearbox V3 was presented earlier in March’23. Featuring native leverage for Balancer and Aura, a revamped lending market where users choose the lending risk profile, on-chain automation for leverage accounts and protocol utility related tokenomics.
+
+The new security module update eliminates any low or no traction features that could potentially lead to security complexities, fixes system bugs, upgrades existing code to the best practices and has been audited by Chainsecurity. The enhancement ensures that Gearbox Protocol remains at the forefront of security best practices in the DeFi space, providing a robust and secure environment for users to use leverage on and lend to with confidence.
+
 
 ## Governance
 
@@ -56,6 +62,7 @@ Reach out to us on [Discord](https://discord.com/invite/gearbox) !
 ## Additional links
 
 * Join Discord 👾 https://discord.com/invite/gearbox 
+* Telegram: https://t.me/GearboxProtocol
 * Website: https://gearbox.fi/ 
 * Tech paper: https://docs.gearbox.finance/overview/whitepaper
 * Developer docs: https://dev.gearbox.fi/
