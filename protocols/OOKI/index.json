@@ -4,6 +4,5 @@
   "path": "ooki",
   "type": "snapshot",
   "isEnabled": true,
-  "categoryId": "8",
   "treasuryAddress": ["0xfedC4dD5247B93feb41e899A09C44cFaBec29Cbc"]
 }
