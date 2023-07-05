@@ -3,9 +3,5 @@
   "description": "We help educate newcomers on Community management skills in the web3 space",
   "path": "wgmi",
   "type": "snapshot",
-  "discourseForum": {
-    "url": "https://forum.wgmi.community/",
-    "categoryId": "6"
-  },
   "isEnabled": true
 }
