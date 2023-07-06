@@ -1,0 +1,7 @@
+{
+    "cname": "hop",
+    "description": "Hop is a multichain bridge allowing users to securely and seamlessly send tokens across networks.",
+    "path": "hop",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

@@ -1,11 +1,7 @@
 {
-	"cname": "fei",
-	"description": "",
-	"path": "fei",
-	"isEnabled": true,
-	"discourseForum": {
-		"url": "https://tribe.fei.money/",
-		"categoryId": "6"
-	  },
-	"treasuryAddresses": ["0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9"]
-}
+    "cname": "fei",
+    "description": "A direct incentive stablecoin which is undercollateralized and fully decentralized.",
+    "path": "fei",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
