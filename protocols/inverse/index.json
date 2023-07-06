@@ -1,12 +1,7 @@
 {
-	"cname": "inverse",
-	"description": "Inverse Finance is a decentralized platform that is focused on borrowing, lending as well as creating synthetic assets.",
-	"path": "inverse",
-	"type": "compoundish",
-	"isEnabled": true,
-	"discourseForum": {
-		"url": "https://forum.inverse.finance/",
-		"categoryID": "1"
-	},
-	"treasuryAddresses": ["0x926dF14a23BE491164dCF93f4c468A50ef659D5B"]
-}
+    "cname": "inverse",
+    "description": "Inverse Finance is a protocol that generates yield on stablecoins and continuously invests the yield in a target token e.g. ETH.",
+    "path": "inverse",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

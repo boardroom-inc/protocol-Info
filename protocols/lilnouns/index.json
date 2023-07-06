@@ -1,12 +1,7 @@
 {
-  "cname": "lilnouns",
-  "description": "Lilnouns NFT Project",
-  "path": "lilnouns",
-  "isEnabled": true,
-  "discourseForum": {
-    "url": "https://discourse.lilnouns.wtf/",
-    "categoryId": "5"
-  },
-  "treasuryAddresses": ["0xd5f279ff9EB21c6D40C8f345a66f2751C4eeA1fB"],
-  "type": "nouns"
-}
+    "cname": "lilNouns",
+    "description": "Lil Nouns DAO works to expand the Nouns DAO NFT ecosystem by creating a new layer of child Nouns NFTs, aiming to expose more people to the project. Similarly to its elder, the Lil Nouns Auction Contract will act as a self-sufficient generation and distribution mechanism, auctioning one Lil Noun every 15 minutes, for as long as the chain lives. 100% of auction proceeds (ETH) are automatically deposited in the Lil Nouns DAO treasury, where they are governed by the Lil Noun owners.",
+    "path": "lilNouns",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

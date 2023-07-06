@@ -1,0 +1,7 @@
+{
+    "cname": "idleDao",
+    "description": "Idle Finance is a decentralized protocol dedicated to bringing automatic asset allocation and yield aggregation to the interest-bearing tokens economy.",
+    "path": "idleDao",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

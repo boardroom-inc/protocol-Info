@@ -1,12 +1,7 @@
 {
-  "cname": "unlock",
-  "description": "Unlock connects humans through NFT-based memberships.",
-  "path": "unlock",
-  "isEnabled": true,
-  "discourseForum": {
-    "url": "https://unlock.community/",
-    "categoryId": "5"
-  },
-  "treasuryAddresses": ["0x17EEDFb0a6E6e06E95B3A1F928dc4024240BC76B"],
-  "type": "compoundish"
-}
+    "cname": "unlock",
+    "description": "Unlock ownership of your community, across all your platforms.",
+    "path": "unlock",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
