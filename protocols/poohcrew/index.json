@@ -1,0 +1,7 @@
+{
+    "cname": "poohcrew",
+    "description": "POOH Crew - 1 POOH auctioned per day until 5,000 POOHs are minted.  POOHs are provable rare digital reputation PFP that on-boards new contributors to the POOH ecosystem, rewarding existing builders and empowering DAO coordination and growth.\n",
+    "path": "poohcrew",
+    "isEnabled": true,
+    "type": "compoundish"
+  }

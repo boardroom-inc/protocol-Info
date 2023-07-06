@@ -1,0 +1,7 @@
+{
+    "cname": "tontine",
+    "description": "Til death DAO us part. Tontine is an onchain game of death. Simply win an auction to join. Check in daily or someone else might reap the rewards.",
+    "path": "tontine",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
