@@ -1,10 +1,10 @@
 {
 	"cname": "radicle",
 	"description": "",
-	"path": "radicle",
+	"path": "radworks",
 	"isEnabled": true,
 	"discourseForum" : {
-		"url":"https://radicle.community/",
+		"url":"https://community.radworks.org",
 		"categoryID":"14"
 	},
 	"treasuryAddresses": ["0x8dA8f82d2BbDd896822de723F55D6EdF416130ba"]
