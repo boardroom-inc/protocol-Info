@@ -1,0 +1,8 @@
+
+{
+    "cname": "trustwallet",
+    "description": "",
+    "path": "trustwallet",
+    "isEnabled": true,
+    "type": "snapshot"
+}

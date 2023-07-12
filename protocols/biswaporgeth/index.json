@@ -1,0 +1,8 @@
+
+{
+    "cname": "biswaporgeth",
+    "description": "Biswap - Freedom of exchange",
+    "path": "biswaporgeth",
+    "isEnabled": true,
+    "type": "snapshot"
+}
