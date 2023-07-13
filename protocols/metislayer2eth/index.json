@@ -1,0 +1,8 @@
+
+{
+    "cname": "metislayer2eth",
+    "description": "Layer2 for the PEOPLE!",
+    "path": "metislayer2eth",
+    "isEnabled": true,
+    "type": "snapshot"
+}
