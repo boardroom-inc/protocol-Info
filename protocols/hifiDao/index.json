@@ -1,0 +1,7 @@
+{
+    "cname": "hifidao",
+    "description": "Hifi is a fixed-rate, fixed-term lending protocol.",
+    "path": "hifiDao",
+    "isEnabled": true,
+    "type": "compoundish"
+  }
