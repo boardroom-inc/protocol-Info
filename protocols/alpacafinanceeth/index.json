@@ -1,0 +1,8 @@
+
+{
+    "cname": "alpacafinanceeth",
+    "description": "Alpaca Finance is the largest lending protocol allowing leveraged yield farming on BNB Chain.",
+    "path": "alpacafinanceeth",
+    "isEnabled": true,
+    "type": "snapshot"
+}

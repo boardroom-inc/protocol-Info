@@ -1,0 +1,8 @@
+
+{
+    "cname": "shellprotocoleth",
+    "description": "DeFi platform with better accounting architecture and a breakthrough AMM engine. Shell v1 trading pools out now, v2 coming soon.",
+    "path": "shellprotocoleth",
+    "isEnabled": true,
+    "type": "snapshot"
+}
