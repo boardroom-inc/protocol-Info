@@ -7,7 +7,9 @@
   "files": [
     "dist/index.js",
     "dist/index.d.ts",
-    "protocols/**/*"
+    "protocols/**/*",
+    "dist/types.js",
+    "dist/types.d.ts"
   ],
   "repository": "https://github.com/boardroom-inc/protocol-Info.git",
   "author": "sudheer <sudheer.105@gmail.com>",
