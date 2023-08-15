@@ -1,0 +1,11 @@
+{
+  "cname": "safegrants",
+  "description": "",
+  "path": "safegrants",
+  "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.safe.global/"
+  },
+  "treasuryAddresses": [""],
+  "type": "snapshot"
+}
