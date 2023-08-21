@@ -4,21 +4,9 @@
 ## Overview
 **Gearbox is a generalized leverage protocol:**
 
-It allows anyone to take leverage in a DeFi-native way and then use it across various DeFi protocols in a composable way. You take leverage with Gearbox and then use it on other protocols you already love. 
-For example, you can leverage trade on Uniswap, leverage farm on Yearn, make complex delta-neutral strategies, get Leverage-as-a-Service for your structured product, and more... Thanks to [Credit Accounts](https://docs.gearbox.finance/overview/credit-account) primitive!
+Gearbox Protocol brings you composable leverage, allowing anyone to margin trade on Uniswap, leverage farm on Curve, leverage stake on Lido, and use 10X more capital on many other DeFi protocols you already love. Making decentralized leverage a reality thanks to Credit Account abstraction!
 
-The protocol has two sides to it: [passive liquidity providers](https://docs.gearbox.finance/liquidity-providers/manage-liquidity) who earn higher APY by providing liquidity; - and active traders, farmers, or even other protocols who can borrow those assets to [trade or farm with x4+ leverage](https://docs.gearbox.finance/). See [how it works on this page](https://docs.gearbox.finance/overview/how-it-works).
-
-The core vision is to become a backend composable leverage protocol that all kinds of users can utilize but don’t even need to interact directly with a specific interface. You can envision building your own DeFi protocol and just making a “take leverage with Gearbox” as a button. And bam - your users are now more capital efficient. Or integrate Gearbox into a platform like Zerion or Zapper. Check this page to understand [why composable leverage 2.0 is cool](https://docs.gearbox.finance/leverage-2.0-is-composable)!
-
-**May 15, 2023 Update:**
-
-Gearbox Protocol, a composable leverage and lending protocol, is excited to implement the early launch of its Pre-V3 version, featuring the security module designed for V3, MiM pools and expansion of its LLSD(Leveraged staking) cohort with cbETH. This release comes as part of Gearbox DAO's belief that “Security doesn’t wait” and to provide a safer user experience amidst increasing DeFi exploits.
-
-Gearbox V3 was presented earlier in March’23. Featuring native leverage for Balancer and Aura, a revamped lending market where users choose the lending risk profile, on-chain automation for leverage accounts and protocol utility related tokenomics.
-
-The new security module update eliminates any low or no traction features that could potentially lead to security complexities, fixes system bugs, upgrades existing code to the best practices and has been audited by Chainsecurity. The enhancement ensures that Gearbox Protocol remains at the forefront of security best practices in the DeFi space, providing a robust and secure environment for users to use leverage on and lend to with confidence.
-
+Gearbox Protocol uses Credit Account abstraction to bring together lending and prime brokerage in the same protocol. Lenders deposit assets to earn passive yield, while the composable leverage side users borrow these assets to create spot leverage positions, which can be used across DeFi. That could be margin trading on Uniswap, farming on Curve and Balancer, leverage staking on Lido and Rocketpool, and a lot more. All of that is made possible with Gearbox’s innovative Credit Account abstraction, creating the base layer of DeFi leverage.
 
 ## Governance
 
