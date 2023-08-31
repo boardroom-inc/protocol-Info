@@ -4,10 +4,5 @@
   "path": "keeperdao",
   "isEnabled": true,
   "type": "snapshot",
-  "discourseForum":{
-    "url":"https://forum.keeperdao.com/",
-    "categoryId":"6"
-  },
   "treasuryAddresses": ["0x9a67F1940164d0318612b497E8e6038f902a00a4"]
-
 }
