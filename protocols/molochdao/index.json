@@ -4,9 +4,5 @@
   "path": "molochdao",
   "type": "moloch",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://forum.daohaus.club/c/moloch-rises/",
-    "categoryId": "165"
-  },
   "treasuryAddress": ["0x519f9662798c2e07fbd5b30c1445602320c5cf5b"]
 }
