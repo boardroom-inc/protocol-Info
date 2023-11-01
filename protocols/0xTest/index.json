@@ -7,6 +7,5 @@
   "discourseForum": {
     "url": "https://forum.0xprotocol.org/",
     "categoryId": "13"
-  },
-  "treasuryAddress": ["0x0bB1810061C2f5b2088054eE184E6C79e1591101"]
+  }
 }
