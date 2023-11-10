@@ -3,9 +3,5 @@
 	"description": "C.R.E.A.M. Finance is a decentralized lending protocol for individuals, institutions and protocols to access financial services.",
 	"path": "cream-finance.eth",
 	"isEnabled": true,
-	"discourseForum": {
-		"url": "https://forum.cream.finance/",
-		"categoryId":"5"
-	},
 	"treasuryAddresses": ["0x6D5a7597896A703Fe8c85775B23395a48f971305"]
 }
