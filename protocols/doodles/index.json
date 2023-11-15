@@ -4,9 +4,5 @@
   "path": "doodles",
   "isEnabled": true,
   "type": "snapshot",
-  "discourseForum": {
-		"url": "https://forum.doodles.app/",
-		"categoryId": "1"
-	  },
   "treasuryAddresses": ["0xDcd382bE6cC4f1971C667ffDa85C7a287605afe4"]
 }

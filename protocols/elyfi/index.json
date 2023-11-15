@@ -3,9 +3,5 @@
   "description": "ELYFI is adding real estate to the DEFI concept.",
   "path": "elyfi",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://forum.elyfi.world/",
-    "categoryId": "14"
-  },
   "type": "compundish"
 }
