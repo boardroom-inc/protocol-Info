@@ -3,9 +3,5 @@
   "description": "Euler is a non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.",
   "path": "eulerfi",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://forum.euler.finance/",
-    "categoryId": "5"
-  },
   "treasuryAddresses": ["0xd4Ee8939a537D943a4E46E7Ae04069C9451d724F"]
 }
