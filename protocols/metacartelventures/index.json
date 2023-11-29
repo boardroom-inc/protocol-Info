@@ -3,5 +3,9 @@
   "description": "MetaCartel Ventures is a permissioned, for-profit investment DAO coupled with a legal entity. ",
   "path": "metacartel",
   "isEnabled": true,
+  "discourseForum": {
+    "url": "https://forum.metacartel.org/",
+    "categoryId": "1"
+  },
   "treasuryAddresses": ["0x4570b4fAF71E23942B8B9F934b47ccEdF7540162"]
 }

@@ -3,5 +3,9 @@
   "description": "dYdX is a governance token that allows holders to govern the dYdX perpetuals protocol.",
   "path": "dydx",
   "isEnabled": true,
+  "discourseForum": {
+    "url": "https://dydx.forum/",
+    "categoryId": "1"
+  },
   "treasuryAddress":["0xE710CEd57456D3A16152c32835B5FB4E72D9eA5b", "0x08a90Fe0741B7DeF03fB290cc7B273F1855767D8"]
 }
