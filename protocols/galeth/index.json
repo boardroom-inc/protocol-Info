@@ -1,0 +1,8 @@
+
+{
+    "cname": "galeth",
+    "description": "The DAO Governance Space for Galxe Protocol ($GAL). To join the discussion, go to forum.galxe.org | To see active events, go to https://galxe.com/galxecommunity",
+    "path": "galeth",
+    "isEnabled": true,
+    "type": "snapshot"
+}

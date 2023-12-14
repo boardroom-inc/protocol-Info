@@ -1,0 +1,8 @@
+
+{
+    "cname": "uniswapgovernanceeth",
+    "description": "Only delegated UNI may be used to vote on proposals. You can delegate to yourself or another address here: https://app.uniswap.org/#/vote",
+    "path": "uniswapgovernanceeth",
+    "isEnabled": true,
+    "type": "snapshot"
+}
