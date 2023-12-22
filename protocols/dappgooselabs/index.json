@@ -1,8 +1,0 @@
-{
-  "cname": "dappgooselabs",
-  "description": "Decentralized and commuity-driven R&D studio dedicated to making the Web 3.0 ecosystem more accessible and efficient, and to having a good time in the process.",
-  "path": "dappgooselabs",
-  "isEnabled": true,
-  "treasuryAddresses": ["0xD979f8f203f9583e1fDA21B5Bf68DBd983A8E82A"],
-  "type": "snapshot"
-}
