@@ -1,0 +1,8 @@
+
+{
+    "cname": "gmxeth",
+    "description": "GMX Snapshot Governance",
+    "path": "gmxeth",
+    "isEnabled": true,
+    "type": "snapshot"
+}
