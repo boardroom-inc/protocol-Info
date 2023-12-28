@@ -1,0 +1,6 @@
+{
+	"cname": "derivadex",
+	"description": "DerivaDEX is a decentralized exchange for derivative contracts built on top of Ethereum",
+	"path": "derivadex",
+	"isEnabled": true
+}
