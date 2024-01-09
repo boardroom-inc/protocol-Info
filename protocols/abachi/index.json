@@ -3,10 +3,6 @@
   "description": "Abachi is currently rolling out permissioned lending pools",
   "path": "abachi",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://forum.abachi.io/",
-    "categoryId": "7"
-  },
   "treasuryAddresses": ["0x6FcE4c6CDd8C4e6C7486553D09BdD9aEE61cF095"],
   "type": "snapshot"
 }
