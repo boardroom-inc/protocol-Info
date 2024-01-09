@@ -2,9 +2,5 @@
 	"cname": "daosquare",
 	"description": "Incubator for web3",
 	"path": "daosquare",
-	"discourseForum": {
-		"url": "https://forum.daosquare.io/",
-		"categoryId": "12"
-	  },
 	"isEnabled": true
 }

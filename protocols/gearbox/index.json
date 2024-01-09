@@ -3,10 +3,6 @@
   "description": "Generalized Leverage Protocol. Built with composability in mind.",
   "path": "gearbox",
   "isEnabled": true,
-  "discourseForum": {
-    "url": "https://gov.gearbox.fi/",
-    "categoryId": "6"
-  },
   "treasuryAddresses": ["0x7b065Fcb0760dF0CEA8CFd144e08554F3CeA73D1"],
   "type": "Snapshot"
 }
