@@ -1,8 +1,7 @@
 
 {
-    "cname": "moonwell-governanceeth",
+    "cname": "moonwell",
     "description": "",
-    "path": "moonwell-governanceeth",
-    "isEnabled": true,
-    "type": "snapshot"
+    "path": "moonwell",
+    "isEnabled": true
 }
