@@ -3,6 +3,6 @@
     "cname": "starkneteth",
     "description": "",
     "path": "starkneteth",
-    "isEnabled": false,
+    "isEnabled": true,
     "type": "snapshot"
 }
