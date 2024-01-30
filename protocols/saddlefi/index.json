@@ -2,9 +2,5 @@
   "cname": "saddlefi",
   "description": "Saddle is a decentralized automated market maker on the Ethereum blockchain, optimized for pegged value crypto assets such as stablecoins and wrapped BTC",
   "path": "saddlefi",
-  "isEnabled": true,
-  "discourseForum": {
-    "url": "https://www.saddle.community/",
-    "categoryId": "6"
-  }
+  "isEnabled": true
 }
