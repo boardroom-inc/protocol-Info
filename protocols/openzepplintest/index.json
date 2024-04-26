@@ -1,0 +1,8 @@
+{
+  "cname": "openzeppelinTest",
+  "description": "test protocol for openzeppelin",
+  "path": "openzeppelinTest",
+  "type": "openzeppelin",
+  "isEnabled": true,
+  "treasuryAddresses": []
+}
