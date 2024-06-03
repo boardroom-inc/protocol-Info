@@ -3,5 +3,8 @@
     "cname": "moonwell",
     "description": "",
     "path": "moonwell",
-    "isEnabled": true
+    "isEnabled": true,
+    "discourseForum": {
+        "url": "https://forum.moonwell.fi/"
+    }
 }
