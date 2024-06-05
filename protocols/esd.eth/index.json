@@ -4,9 +4,5 @@
 	"path": "esd.eth",
 	"type": "compoundish",
 	"isEnabled": true,
-	"discourseForum": {
-		"url": "https://www.emptyset.xyz/",
-		"categoryId": "7"
-	  },
 	"treasuryAddress": ["0x460661bd4A5364A3ABCc9cfc4a8cE7038d05Ea22"]
 }
