@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.10.105](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.104...v2.10.105) (2024-07-17)
+
 ### [2.10.103](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.101...v2.10.103) (2024-06-03)
 
 ### [2.10.101](https://github.com/boardroom-inc/protocol-Info/compare/v2.10.100...v2.10.101) (2024-01-16)
