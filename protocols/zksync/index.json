@@ -1,0 +1,11 @@
+
+{
+    "cname": "zksync",
+    "description": "",
+    "path": "zksync",
+    "isEnabled": true,
+    "discourseForum": {
+        "url": "https://endgame.discoursehosting.net/"
+    }
+    
+}
